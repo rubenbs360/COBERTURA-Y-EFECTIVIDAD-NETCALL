@@ -1,0 +1,4154 @@
+[
+  {
+    "usuario": "DIG_NET_GPALACC",
+    "total": 2,
+    "delivered": 0,
+    "anulado": 1,
+    "cancelado": 1,
+    "effectiveness": 0.0
+  },
+  {
+    "usuario": "KON_MBRACAMONTEH",
+    "total": 1,
+    "delivered": 1,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 100.0
+  },
+  {
+    "usuario": "NET_AAPOLAYACAC",
+    "total": 64,
+    "delivered": 43,
+    "anulado": 13,
+    "cancelado": 6,
+    "effectiveness": 69.35
+  },
+  {
+    "usuario": "NET_AARANAS",
+    "total": 43,
+    "delivered": 24,
+    "anulado": 13,
+    "cancelado": 5,
+    "effectiveness": 57.14
+  },
+  {
+    "usuario": "NET_AARNAIZA",
+    "total": 9,
+    "delivered": 3,
+    "anulado": 1,
+    "cancelado": 0,
+    "effectiveness": 75.0
+  },
+  {
+    "usuario": "NET_AASALINAS",
+    "total": 28,
+    "delivered": 22,
+    "anulado": 3,
+    "cancelado": 1,
+    "effectiveness": 84.62
+  },
+  {
+    "usuario": "NET_AATOCHEH",
+    "total": 47,
+    "delivered": 31,
+    "anulado": 15,
+    "cancelado": 0,
+    "effectiveness": 67.39
+  },
+  {
+    "usuario": "NET_AAVENDANOR",
+    "total": 28,
+    "delivered": 22,
+    "anulado": 2,
+    "cancelado": 1,
+    "effectiveness": 88.0
+  },
+  {
+    "usuario": "NET_AAYAURIO",
+    "total": 18,
+    "delivered": 11,
+    "anulado": 4,
+    "cancelado": 2,
+    "effectiveness": 64.71
+  },
+  {
+    "usuario": "NET_AAZCARATED",
+    "total": 37,
+    "delivered": 30,
+    "anulado": 3,
+    "cancelado": 1,
+    "effectiveness": 88.24
+  },
+  {
+    "usuario": "NET_ABARRERAY",
+    "total": 45,
+    "delivered": 33,
+    "anulado": 6,
+    "cancelado": 0,
+    "effectiveness": 84.62
+  },
+  {
+    "usuario": "NET_ABLASA",
+    "total": 39,
+    "delivered": 30,
+    "anulado": 7,
+    "cancelado": 2,
+    "effectiveness": 76.92
+  },
+  {
+    "usuario": "NET_ABZEVALLOSZ",
+    "total": 21,
+    "delivered": 15,
+    "anulado": 4,
+    "cancelado": 0,
+    "effectiveness": 78.95
+  },
+  {
+    "usuario": "NET_ACAMPOSV",
+    "total": 4,
+    "delivered": 2,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 100.0
+  },
+  {
+    "usuario": "NET_ACORDOVAS",
+    "total": 58,
+    "delivered": 30,
+    "anulado": 18,
+    "cancelado": 7,
+    "effectiveness": 54.55
+  },
+  {
+    "usuario": "NET_ACREGALADO",
+    "total": 50,
+    "delivered": 33,
+    "anulado": 10,
+    "cancelado": 2,
+    "effectiveness": 73.33
+  },
+  {
+    "usuario": "NET_ACUEVAC",
+    "total": 14,
+    "delivered": 8,
+    "anulado": 0,
+    "cancelado": 4,
+    "effectiveness": 66.67
+  },
+  {
+    "usuario": "NET_ADIAZCAJO",
+    "total": 32,
+    "delivered": 17,
+    "anulado": 14,
+    "cancelado": 1,
+    "effectiveness": 53.12
+  },
+  {
+    "usuario": "NET_ADOMINGUEZF",
+    "total": 52,
+    "delivered": 39,
+    "anulado": 6,
+    "cancelado": 5,
+    "effectiveness": 78.0
+  },
+  {
+    "usuario": "NET_ADOROTEOSAL",
+    "total": 140,
+    "delivered": 112,
+    "anulado": 12,
+    "cancelado": 8,
+    "effectiveness": 84.85
+  },
+  {
+    "usuario": "NET_AEREYES",
+    "total": 37,
+    "delivered": 18,
+    "anulado": 11,
+    "cancelado": 3,
+    "effectiveness": 56.25
+  },
+  {
+    "usuario": "NET_AFLORESP",
+    "total": 47,
+    "delivered": 26,
+    "anulado": 20,
+    "cancelado": 0,
+    "effectiveness": 56.52
+  },
+  {
+    "usuario": "NET_AGARCIAH",
+    "total": 5,
+    "delivered": 2,
+    "anulado": 3,
+    "cancelado": 0,
+    "effectiveness": 40.0
+  },
+  {
+    "usuario": "NET_AGOMEZR",
+    "total": 29,
+    "delivered": 15,
+    "anulado": 11,
+    "cancelado": 2,
+    "effectiveness": 53.57
+  },
+  {
+    "usuario": "NET_AGUERREROC",
+    "total": 12,
+    "delivered": 7,
+    "anulado": 2,
+    "cancelado": 1,
+    "effectiveness": 70.0
+  },
+  {
+    "usuario": "NET_AJGUTIERREC",
+    "total": 42,
+    "delivered": 23,
+    "anulado": 12,
+    "cancelado": 0,
+    "effectiveness": 65.71
+  },
+  {
+    "usuario": "NET_AJSANCHEZR",
+    "total": 46,
+    "delivered": 20,
+    "anulado": 7,
+    "cancelado": 7,
+    "effectiveness": 58.82
+  },
+  {
+    "usuario": "NET_ALABANP",
+    "total": 26,
+    "delivered": 11,
+    "anulado": 12,
+    "cancelado": 1,
+    "effectiveness": 45.83
+  },
+  {
+    "usuario": "NET_ALLANOSC",
+    "total": 3,
+    "delivered": 0,
+    "anulado": 1,
+    "cancelado": 2,
+    "effectiveness": 0.0
+  },
+  {
+    "usuario": "NET_ALOAYZAG",
+    "total": 4,
+    "delivered": 2,
+    "anulado": 1,
+    "cancelado": 0,
+    "effectiveness": 66.67
+  },
+  {
+    "usuario": "NET_ALUQUER",
+    "total": 8,
+    "delivered": 1,
+    "anulado": 5,
+    "cancelado": 2,
+    "effectiveness": 12.5
+  },
+  {
+    "usuario": "NET_AMANRIQUEL",
+    "total": 14,
+    "delivered": 8,
+    "anulado": 5,
+    "cancelado": 1,
+    "effectiveness": 57.14
+  },
+  {
+    "usuario": "NET_AMILTONL",
+    "total": 4,
+    "delivered": 2,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 100.0
+  },
+  {
+    "usuario": "NET_AMQUISPE",
+    "total": 40,
+    "delivered": 27,
+    "anulado": 13,
+    "cancelado": 0,
+    "effectiveness": 67.5
+  },
+  {
+    "usuario": "NET_ANCASTROR",
+    "total": 59,
+    "delivered": 48,
+    "anulado": 5,
+    "cancelado": 3,
+    "effectiveness": 85.71
+  },
+  {
+    "usuario": "NET_ANEGRONL",
+    "total": 13,
+    "delivered": 8,
+    "anulado": 2,
+    "cancelado": 2,
+    "effectiveness": 66.67
+  },
+  {
+    "usuario": "NET_APACHECO",
+    "total": 52,
+    "delivered": 41,
+    "anulado": 6,
+    "cancelado": 5,
+    "effectiveness": 78.85
+  },
+  {
+    "usuario": "NET_AQUIROZM",
+    "total": 31,
+    "delivered": 31,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 100.0
+  },
+  {
+    "usuario": "NET_ARALVAREZD",
+    "total": 47,
+    "delivered": 27,
+    "anulado": 8,
+    "cancelado": 6,
+    "effectiveness": 65.85
+  },
+  {
+    "usuario": "NET_ARAMOSR",
+    "total": 33,
+    "delivered": 28,
+    "anulado": 3,
+    "cancelado": 2,
+    "effectiveness": 84.85
+  },
+  {
+    "usuario": "NET_ARIOST",
+    "total": 71,
+    "delivered": 57,
+    "anulado": 5,
+    "cancelado": 5,
+    "effectiveness": 85.07
+  },
+  {
+    "usuario": "NET_ARIVERA",
+    "total": 105,
+    "delivered": 75,
+    "anulado": 11,
+    "cancelado": 16,
+    "effectiveness": 73.53
+  },
+  {
+    "usuario": "NET_ARODRIGUEZF",
+    "total": 29,
+    "delivered": 23,
+    "anulado": 3,
+    "cancelado": 3,
+    "effectiveness": 79.31
+  },
+  {
+    "usuario": "NET_AROJASF",
+    "total": 50,
+    "delivered": 34,
+    "anulado": 13,
+    "cancelado": 2,
+    "effectiveness": 69.39
+  },
+  {
+    "usuario": "NET_ASALASF",
+    "total": 2,
+    "delivered": 0,
+    "anulado": 0,
+    "cancelado": 1,
+    "effectiveness": 0.0
+  },
+  {
+    "usuario": "NET_ASARMIENTOS",
+    "total": 9,
+    "delivered": 4,
+    "anulado": 2,
+    "cancelado": 1,
+    "effectiveness": 57.14
+  },
+  {
+    "usuario": "NET_ATELLOY",
+    "total": 43,
+    "delivered": 20,
+    "anulado": 11,
+    "cancelado": 8,
+    "effectiveness": 51.28
+  },
+  {
+    "usuario": "NET_ATENORIOM",
+    "total": 59,
+    "delivered": 42,
+    "anulado": 8,
+    "cancelado": 3,
+    "effectiveness": 79.25
+  },
+  {
+    "usuario": "NET_ATINEDOP",
+    "total": 48,
+    "delivered": 29,
+    "anulado": 15,
+    "cancelado": 2,
+    "effectiveness": 63.04
+  },
+  {
+    "usuario": "NET_ATORRESP",
+    "total": 42,
+    "delivered": 30,
+    "anulado": 9,
+    "cancelado": 1,
+    "effectiveness": 75.0
+  },
+  {
+    "usuario": "NET_ATRIVINOS",
+    "total": 39,
+    "delivered": 25,
+    "anulado": 13,
+    "cancelado": 1,
+    "effectiveness": 64.1
+  },
+  {
+    "usuario": "NET_ATUMEH",
+    "total": 47,
+    "delivered": 30,
+    "anulado": 10,
+    "cancelado": 4,
+    "effectiveness": 68.18
+  },
+  {
+    "usuario": "NET_AUCEDAENEQU",
+    "total": 12,
+    "delivered": 4,
+    "anulado": 3,
+    "cancelado": 5,
+    "effectiveness": 33.33
+  },
+  {
+    "usuario": "NET_AVARGAS",
+    "total": 19,
+    "delivered": 12,
+    "anulado": 2,
+    "cancelado": 2,
+    "effectiveness": 75.0
+  },
+  {
+    "usuario": "NET_AVILELAR",
+    "total": 3,
+    "delivered": 2,
+    "anulado": 0,
+    "cancelado": 1,
+    "effectiveness": 66.67
+  },
+  {
+    "usuario": "NET_AYACILAP",
+    "total": 96,
+    "delivered": 61,
+    "anulado": 16,
+    "cancelado": 17,
+    "effectiveness": 64.89
+  },
+  {
+    "usuario": "NET_AYMORENOA",
+    "total": 35,
+    "delivered": 24,
+    "anulado": 2,
+    "cancelado": 9,
+    "effectiveness": 68.57
+  },
+  {
+    "usuario": "NET_BAPAZAB",
+    "total": 2,
+    "delivered": 2,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 100.0
+  },
+  {
+    "usuario": "NET_BATOP",
+    "total": 94,
+    "delivered": 55,
+    "anulado": 18,
+    "cancelado": 13,
+    "effectiveness": 63.95
+  },
+  {
+    "usuario": "NET_BAYALAR",
+    "total": 20,
+    "delivered": 15,
+    "anulado": 2,
+    "cancelado": 0,
+    "effectiveness": 88.24
+  },
+  {
+    "usuario": "NET_BBELLIDOP",
+    "total": 90,
+    "delivered": 51,
+    "anulado": 28,
+    "cancelado": 8,
+    "effectiveness": 58.62
+  },
+  {
+    "usuario": "NET_BCPAUCAR",
+    "total": 20,
+    "delivered": 12,
+    "anulado": 7,
+    "cancelado": 1,
+    "effectiveness": 60.0
+  },
+  {
+    "usuario": "NET_BCUSQUISIVA",
+    "total": 12,
+    "delivered": 8,
+    "anulado": 1,
+    "cancelado": 3,
+    "effectiveness": 66.67
+  },
+  {
+    "usuario": "NET_BDELGADOC",
+    "total": 44,
+    "delivered": 30,
+    "anulado": 12,
+    "cancelado": 1,
+    "effectiveness": 69.77
+  },
+  {
+    "usuario": "NET_BMIRANDAFE",
+    "total": 28,
+    "delivered": 18,
+    "anulado": 9,
+    "cancelado": 0,
+    "effectiveness": 66.67
+  },
+  {
+    "usuario": "NET_BOLAYAC",
+    "total": 1,
+    "delivered": 0,
+    "anulado": 0,
+    "cancelado": 1,
+    "effectiveness": 0.0
+  },
+  {
+    "usuario": "NET_BRODRIGUEZG",
+    "total": 47,
+    "delivered": 31,
+    "anulado": 7,
+    "cancelado": 4,
+    "effectiveness": 73.81
+  },
+  {
+    "usuario": "NET_BROMANS",
+    "total": 6,
+    "delivered": 3,
+    "anulado": 2,
+    "cancelado": 0,
+    "effectiveness": 60.0
+  },
+  {
+    "usuario": "NET_BYAUYOD",
+    "total": 1,
+    "delivered": 1,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 100.0
+  },
+  {
+    "usuario": "NET_BZUASNABARF",
+    "total": 32,
+    "delivered": 20,
+    "anulado": 9,
+    "cancelado": 0,
+    "effectiveness": 68.97
+  },
+  {
+    "usuario": "NET_CALANYAP",
+    "total": 4,
+    "delivered": 1,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 100.0
+  },
+  {
+    "usuario": "NET_CALCAB",
+    "total": 26,
+    "delivered": 16,
+    "anulado": 2,
+    "cancelado": 8,
+    "effectiveness": 61.54
+  },
+  {
+    "usuario": "NET_CBARRIOSP",
+    "total": 45,
+    "delivered": 33,
+    "anulado": 7,
+    "cancelado": 4,
+    "effectiveness": 75.0
+  },
+  {
+    "usuario": "NET_CBIELICHR",
+    "total": 6,
+    "delivered": 2,
+    "anulado": 3,
+    "cancelado": 1,
+    "effectiveness": 33.33
+  },
+  {
+    "usuario": "NET_CCAVEROA",
+    "total": 31,
+    "delivered": 14,
+    "anulado": 6,
+    "cancelado": 8,
+    "effectiveness": 50.0
+  },
+  {
+    "usuario": "NET_CCONDEM",
+    "total": 8,
+    "delivered": 6,
+    "anulado": 1,
+    "cancelado": 1,
+    "effectiveness": 75.0
+  },
+  {
+    "usuario": "NET_CCURAYG",
+    "total": 29,
+    "delivered": 15,
+    "anulado": 10,
+    "cancelado": 1,
+    "effectiveness": 57.69
+  },
+  {
+    "usuario": "NET_CDIAZG",
+    "total": 41,
+    "delivered": 29,
+    "anulado": 10,
+    "cancelado": 2,
+    "effectiveness": 70.73
+  },
+  {
+    "usuario": "NET_CGARCIAC",
+    "total": 52,
+    "delivered": 42,
+    "anulado": 4,
+    "cancelado": 2,
+    "effectiveness": 87.5
+  },
+  {
+    "usuario": "NET_CMENESESV",
+    "total": 10,
+    "delivered": 4,
+    "anulado": 2,
+    "cancelado": 1,
+    "effectiveness": 57.14
+  },
+  {
+    "usuario": "NET_CMERAA",
+    "total": 19,
+    "delivered": 13,
+    "anulado": 4,
+    "cancelado": 2,
+    "effectiveness": 68.42
+  },
+  {
+    "usuario": "NET_CPALMAG",
+    "total": 15,
+    "delivered": 12,
+    "anulado": 2,
+    "cancelado": 1,
+    "effectiveness": 80.0
+  },
+  {
+    "usuario": "NET_CPINELLAC",
+    "total": 28,
+    "delivered": 17,
+    "anulado": 6,
+    "cancelado": 2,
+    "effectiveness": 68.0
+  },
+  {
+    "usuario": "NET_CRAMOSC",
+    "total": 36,
+    "delivered": 24,
+    "anulado": 9,
+    "cancelado": 2,
+    "effectiveness": 68.57
+  },
+  {
+    "usuario": "NET_CREYESJ",
+    "total": 79,
+    "delivered": 72,
+    "anulado": 3,
+    "cancelado": 1,
+    "effectiveness": 94.74
+  },
+  {
+    "usuario": "NET_CROLAYA",
+    "total": 89,
+    "delivered": 66,
+    "anulado": 10,
+    "cancelado": 10,
+    "effectiveness": 76.74
+  },
+  {
+    "usuario": "NET_CSALAZARP",
+    "total": 48,
+    "delivered": 25,
+    "anulado": 10,
+    "cancelado": 8,
+    "effectiveness": 58.14
+  },
+  {
+    "usuario": "NET_CSANTIAGOQ",
+    "total": 33,
+    "delivered": 26,
+    "anulado": 6,
+    "cancelado": 0,
+    "effectiveness": 81.25
+  },
+  {
+    "usuario": "NET_CTRAVIM",
+    "total": 23,
+    "delivered": 19,
+    "anulado": 3,
+    "cancelado": 0,
+    "effectiveness": 86.36
+  },
+  {
+    "usuario": "NET_CULLOAC",
+    "total": 51,
+    "delivered": 34,
+    "anulado": 9,
+    "cancelado": 6,
+    "effectiveness": 69.39
+  },
+  {
+    "usuario": "NET_DAYLASF",
+    "total": 21,
+    "delivered": 12,
+    "anulado": 4,
+    "cancelado": 5,
+    "effectiveness": 57.14
+  },
+  {
+    "usuario": "NET_DCARDENASD",
+    "total": 25,
+    "delivered": 20,
+    "anulado": 3,
+    "cancelado": 1,
+    "effectiveness": 83.33
+  },
+  {
+    "usuario": "NET_DCHACHAPOLI",
+    "total": 6,
+    "delivered": 3,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 100.0
+  },
+  {
+    "usuario": "NET_DDELAGUILAA",
+    "total": 7,
+    "delivered": 4,
+    "anulado": 1,
+    "cancelado": 0,
+    "effectiveness": 80.0
+  },
+  {
+    "usuario": "NET_DDEPINHOZ",
+    "total": 36,
+    "delivered": 26,
+    "anulado": 6,
+    "cancelado": 1,
+    "effectiveness": 78.79
+  },
+  {
+    "usuario": "NET_DDIAZC",
+    "total": 2,
+    "delivered": 0,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 0.0
+  },
+  {
+    "usuario": "NET_DDMUNOZSANC",
+    "total": 89,
+    "delivered": 62,
+    "anulado": 10,
+    "cancelado": 9,
+    "effectiveness": 76.54
+  },
+  {
+    "usuario": "NET_DFRANCIAH",
+    "total": 44,
+    "delivered": 33,
+    "anulado": 9,
+    "cancelado": 0,
+    "effectiveness": 78.57
+  },
+  {
+    "usuario": "NET_DGALLARDO",
+    "total": 75,
+    "delivered": 47,
+    "anulado": 16,
+    "cancelado": 7,
+    "effectiveness": 67.14
+  },
+  {
+    "usuario": "NET_DGHERRERA",
+    "total": 26,
+    "delivered": 19,
+    "anulado": 4,
+    "cancelado": 2,
+    "effectiveness": 76.0
+  },
+  {
+    "usuario": "NET_DGUTIERREZM",
+    "total": 1,
+    "delivered": 1,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 100.0
+  },
+  {
+    "usuario": "NET_DHUAYACGONZ",
+    "total": 60,
+    "delivered": 39,
+    "anulado": 15,
+    "cancelado": 1,
+    "effectiveness": 70.91
+  },
+  {
+    "usuario": "NET_DLUNAS",
+    "total": 49,
+    "delivered": 31,
+    "anulado": 6,
+    "cancelado": 7,
+    "effectiveness": 70.45
+  },
+  {
+    "usuario": "NET_DMALCAD",
+    "total": 24,
+    "delivered": 5,
+    "anulado": 5,
+    "cancelado": 12,
+    "effectiveness": 22.73
+  },
+  {
+    "usuario": "NET_DMIOVICHH",
+    "total": 12,
+    "delivered": 8,
+    "anulado": 0,
+    "cancelado": 4,
+    "effectiveness": 66.67
+  },
+  {
+    "usuario": "NET_DMORENOL",
+    "total": 58,
+    "delivered": 31,
+    "anulado": 6,
+    "cancelado": 11,
+    "effectiveness": 64.58
+  },
+  {
+    "usuario": "NET_DMUNOZCORNE",
+    "total": 34,
+    "delivered": 21,
+    "anulado": 6,
+    "cancelado": 6,
+    "effectiveness": 63.64
+  },
+  {
+    "usuario": "NET_DNIEVESNIMA",
+    "total": 45,
+    "delivered": 25,
+    "anulado": 8,
+    "cancelado": 9,
+    "effectiveness": 59.52
+  },
+  {
+    "usuario": "NET_DRIVASM",
+    "total": 13,
+    "delivered": 5,
+    "anulado": 8,
+    "cancelado": 0,
+    "effectiveness": 38.46
+  },
+  {
+    "usuario": "NET_DROSASS",
+    "total": 21,
+    "delivered": 11,
+    "anulado": 10,
+    "cancelado": 0,
+    "effectiveness": 52.38
+  },
+  {
+    "usuario": "NET_DSAMILLANS",
+    "total": 2,
+    "delivered": 0,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 0.0
+  },
+  {
+    "usuario": "NET_DSIPIRANR",
+    "total": 4,
+    "delivered": 1,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 100.0
+  },
+  {
+    "usuario": "NET_DVALVERDEM",
+    "total": 27,
+    "delivered": 19,
+    "anulado": 2,
+    "cancelado": 4,
+    "effectiveness": 76.0
+  },
+  {
+    "usuario": "NET_DVILLALOBOS",
+    "total": 48,
+    "delivered": 43,
+    "anulado": 5,
+    "cancelado": 0,
+    "effectiveness": 89.58
+  },
+  {
+    "usuario": "NET_DVILLAVERDM",
+    "total": 5,
+    "delivered": 0,
+    "anulado": 1,
+    "cancelado": 1,
+    "effectiveness": 0.0
+  },
+  {
+    "usuario": "NET_EALBORNOZR",
+    "total": 43,
+    "delivered": 24,
+    "anulado": 15,
+    "cancelado": 2,
+    "effectiveness": 58.54
+  },
+  {
+    "usuario": "NET_EBERNALCHUM",
+    "total": 1,
+    "delivered": 1,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 100.0
+  },
+  {
+    "usuario": "NET_EBOZA",
+    "total": 98,
+    "delivered": 66,
+    "anulado": 14,
+    "cancelado": 11,
+    "effectiveness": 72.53
+  },
+  {
+    "usuario": "NET_ECARRETEROH",
+    "total": 52,
+    "delivered": 46,
+    "anulado": 3,
+    "cancelado": 3,
+    "effectiveness": 88.46
+  },
+  {
+    "usuario": "NET_ECASTILLOH",
+    "total": 12,
+    "delivered": 10,
+    "anulado": 2,
+    "cancelado": 0,
+    "effectiveness": 83.33
+  },
+  {
+    "usuario": "NET_ECUEVA",
+    "total": 39,
+    "delivered": 22,
+    "anulado": 15,
+    "cancelado": 0,
+    "effectiveness": 59.46
+  },
+  {
+    "usuario": "NET_EDIAZE",
+    "total": 26,
+    "delivered": 14,
+    "anulado": 7,
+    "cancelado": 5,
+    "effectiveness": 53.85
+  },
+  {
+    "usuario": "NET_EGOMEZB",
+    "total": 49,
+    "delivered": 40,
+    "anulado": 6,
+    "cancelado": 2,
+    "effectiveness": 83.33
+  },
+  {
+    "usuario": "NET_EIZACUPEC",
+    "total": 34,
+    "delivered": 23,
+    "anulado": 7,
+    "cancelado": 1,
+    "effectiveness": 74.19
+  },
+  {
+    "usuario": "NET_EMACHEROT",
+    "total": 27,
+    "delivered": 15,
+    "anulado": 10,
+    "cancelado": 0,
+    "effectiveness": 60.0
+  },
+  {
+    "usuario": "NET_EMONZONP",
+    "total": 39,
+    "delivered": 25,
+    "anulado": 5,
+    "cancelado": 4,
+    "effectiveness": 73.53
+  },
+  {
+    "usuario": "NET_EPARDOG",
+    "total": 47,
+    "delivered": 30,
+    "anulado": 7,
+    "cancelado": 9,
+    "effectiveness": 65.22
+  },
+  {
+    "usuario": "NET_ETORRE",
+    "total": 30,
+    "delivered": 17,
+    "anulado": 3,
+    "cancelado": 7,
+    "effectiveness": 62.96
+  },
+  {
+    "usuario": "NET_ETUEROSA",
+    "total": 5,
+    "delivered": 0,
+    "anulado": 3,
+    "cancelado": 0,
+    "effectiveness": 0.0
+  },
+  {
+    "usuario": "NET_EVALDIVIEZO",
+    "total": 38,
+    "delivered": 34,
+    "anulado": 1,
+    "cancelado": 0,
+    "effectiveness": 97.14
+  },
+  {
+    "usuario": "NET_EVIZCARRAY",
+    "total": 8,
+    "delivered": 4,
+    "anulado": 4,
+    "cancelado": 0,
+    "effectiveness": 50.0
+  },
+  {
+    "usuario": "NET_EZAPATAC",
+    "total": 52,
+    "delivered": 33,
+    "anulado": 13,
+    "cancelado": 3,
+    "effectiveness": 67.35
+  },
+  {
+    "usuario": "NET_EZEVALLOSZ",
+    "total": 17,
+    "delivered": 8,
+    "anulado": 3,
+    "cancelado": 0,
+    "effectiveness": 72.73
+  },
+  {
+    "usuario": "NET_FBARTET",
+    "total": 44,
+    "delivered": 35,
+    "anulado": 6,
+    "cancelado": 1,
+    "effectiveness": 83.33
+  },
+  {
+    "usuario": "NET_FBUSTAMANTI",
+    "total": 21,
+    "delivered": 10,
+    "anulado": 6,
+    "cancelado": 4,
+    "effectiveness": 50.0
+  },
+  {
+    "usuario": "NET_FCARRIONM",
+    "total": 36,
+    "delivered": 28,
+    "anulado": 6,
+    "cancelado": 0,
+    "effectiveness": 82.35
+  },
+  {
+    "usuario": "NET_FCASTILLOG",
+    "total": 54,
+    "delivered": 28,
+    "anulado": 8,
+    "cancelado": 5,
+    "effectiveness": 68.29
+  },
+  {
+    "usuario": "NET_FDELGADOB",
+    "total": 19,
+    "delivered": 11,
+    "anulado": 5,
+    "cancelado": 3,
+    "effectiveness": 57.89
+  },
+  {
+    "usuario": "NET_FGRANDEZV",
+    "total": 35,
+    "delivered": 22,
+    "anulado": 10,
+    "cancelado": 2,
+    "effectiveness": 64.71
+  },
+  {
+    "usuario": "NET_FGRIMALDOS",
+    "total": 26,
+    "delivered": 9,
+    "anulado": 4,
+    "cancelado": 11,
+    "effectiveness": 37.5
+  },
+  {
+    "usuario": "NET_FLABANM",
+    "total": 42,
+    "delivered": 28,
+    "anulado": 4,
+    "cancelado": 8,
+    "effectiveness": 70.0
+  },
+  {
+    "usuario": "NET_FQUISPEP",
+    "total": 98,
+    "delivered": 57,
+    "anulado": 24,
+    "cancelado": 13,
+    "effectiveness": 60.64
+  },
+  {
+    "usuario": "NET_FRIVERAO",
+    "total": 30,
+    "delivered": 26,
+    "anulado": 3,
+    "cancelado": 1,
+    "effectiveness": 86.67
+  },
+  {
+    "usuario": "NET_FYRIGOINP",
+    "total": 36,
+    "delivered": 24,
+    "anulado": 7,
+    "cancelado": 4,
+    "effectiveness": 68.57
+  },
+  {
+    "usuario": "NET_GARMAZAG",
+    "total": 33,
+    "delivered": 16,
+    "anulado": 10,
+    "cancelado": 6,
+    "effectiveness": 50.0
+  },
+  {
+    "usuario": "NET_GCABALLEROB",
+    "total": 73,
+    "delivered": 39,
+    "anulado": 23,
+    "cancelado": 7,
+    "effectiveness": 56.52
+  },
+  {
+    "usuario": "NET_GCABALLEROC",
+    "total": 41,
+    "delivered": 20,
+    "anulado": 18,
+    "cancelado": 2,
+    "effectiveness": 50.0
+  },
+  {
+    "usuario": "NET_GCHAVEZH",
+    "total": 8,
+    "delivered": 4,
+    "anulado": 1,
+    "cancelado": 1,
+    "effectiveness": 66.67
+  },
+  {
+    "usuario": "NET_GDELGADO",
+    "total": 35,
+    "delivered": 25,
+    "anulado": 3,
+    "cancelado": 5,
+    "effectiveness": 75.76
+  },
+  {
+    "usuario": "NET_GDJULCAT",
+    "total": 33,
+    "delivered": 16,
+    "anulado": 7,
+    "cancelado": 9,
+    "effectiveness": 50.0
+  },
+  {
+    "usuario": "NET_GFLORESS",
+    "total": 89,
+    "delivered": 53,
+    "anulado": 18,
+    "cancelado": 9,
+    "effectiveness": 66.25
+  },
+  {
+    "usuario": "NET_GGALLARDAYA",
+    "total": 51,
+    "delivered": 36,
+    "anulado": 8,
+    "cancelado": 3,
+    "effectiveness": 76.6
+  },
+  {
+    "usuario": "NET_GGARCIAS",
+    "total": 26,
+    "delivered": 21,
+    "anulado": 3,
+    "cancelado": 1,
+    "effectiveness": 84.0
+  },
+  {
+    "usuario": "NET_GGUTIERREZM",
+    "total": 41,
+    "delivered": 32,
+    "anulado": 3,
+    "cancelado": 1,
+    "effectiveness": 88.89
+  },
+  {
+    "usuario": "NET_GHERRERAG",
+    "total": 91,
+    "delivered": 59,
+    "anulado": 22,
+    "cancelado": 6,
+    "effectiveness": 67.82
+  },
+  {
+    "usuario": "NET_GHUAMANT",
+    "total": 23,
+    "delivered": 16,
+    "anulado": 3,
+    "cancelado": 0,
+    "effectiveness": 84.21
+  },
+  {
+    "usuario": "NET_GLOPEZF",
+    "total": 45,
+    "delivered": 32,
+    "anulado": 6,
+    "cancelado": 7,
+    "effectiveness": 71.11
+  },
+  {
+    "usuario": "NET_GMENDIGUETE",
+    "total": 214,
+    "delivered": 129,
+    "anulado": 61,
+    "cancelado": 9,
+    "effectiveness": 64.82
+  },
+  {
+    "usuario": "NET_GSANCHEZO",
+    "total": 46,
+    "delivered": 30,
+    "anulado": 12,
+    "cancelado": 1,
+    "effectiveness": 69.77
+  },
+  {
+    "usuario": "NET_GSANTOSC",
+    "total": 37,
+    "delivered": 27,
+    "anulado": 4,
+    "cancelado": 6,
+    "effectiveness": 72.97
+  },
+  {
+    "usuario": "NET_GSILVAJ",
+    "total": 23,
+    "delivered": 13,
+    "anulado": 6,
+    "cancelado": 0,
+    "effectiveness": 68.42
+  },
+  {
+    "usuario": "NET_GVELASQUEZA",
+    "total": 60,
+    "delivered": 45,
+    "anulado": 9,
+    "cancelado": 4,
+    "effectiveness": 77.59
+  },
+  {
+    "usuario": "NET_GVILELAR",
+    "total": 51,
+    "delivered": 39,
+    "anulado": 10,
+    "cancelado": 2,
+    "effectiveness": 76.47
+  },
+  {
+    "usuario": "NET_HCASTILLOV",
+    "total": 4,
+    "delivered": 1,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 100.0
+  },
+  {
+    "usuario": "NET_HCIEZAR",
+    "total": 47,
+    "delivered": 24,
+    "anulado": 13,
+    "cancelado": 6,
+    "effectiveness": 55.81
+  },
+  {
+    "usuario": "NET_HEULOGIO",
+    "total": 124,
+    "delivered": 99,
+    "anulado": 8,
+    "cancelado": 12,
+    "effectiveness": 83.19
+  },
+  {
+    "usuario": "NET_HJUNCOT",
+    "total": 29,
+    "delivered": 16,
+    "anulado": 5,
+    "cancelado": 5,
+    "effectiveness": 61.54
+  },
+  {
+    "usuario": "NET_HTAMAYD",
+    "total": 11,
+    "delivered": 2,
+    "anulado": 0,
+    "cancelado": 6,
+    "effectiveness": 25.0
+  },
+  {
+    "usuario": "NET_IASTOCONDOP",
+    "total": 24,
+    "delivered": 16,
+    "anulado": 2,
+    "cancelado": 2,
+    "effectiveness": 80.0
+  },
+  {
+    "usuario": "NET_IGSANCHEZL",
+    "total": 19,
+    "delivered": 15,
+    "anulado": 3,
+    "cancelado": 1,
+    "effectiveness": 78.95
+  },
+  {
+    "usuario": "NET_IMESARINAR",
+    "total": 75,
+    "delivered": 48,
+    "anulado": 23,
+    "cancelado": 2,
+    "effectiveness": 65.75
+  },
+  {
+    "usuario": "NET_IQUEREVALUL",
+    "total": 30,
+    "delivered": 25,
+    "anulado": 1,
+    "cancelado": 1,
+    "effectiveness": 92.59
+  },
+  {
+    "usuario": "NET_IRODRIGUEZS",
+    "total": 72,
+    "delivered": 47,
+    "anulado": 7,
+    "cancelado": 11,
+    "effectiveness": 72.31
+  },
+  {
+    "usuario": "NET_IVARGASI",
+    "total": 11,
+    "delivered": 4,
+    "anulado": 5,
+    "cancelado": 1,
+    "effectiveness": 40.0
+  },
+  {
+    "usuario": "NET_JAGUIRREP",
+    "total": 31,
+    "delivered": 28,
+    "anulado": 1,
+    "cancelado": 1,
+    "effectiveness": 93.33
+  },
+  {
+    "usuario": "NET_JAREVALOC",
+    "total": 43,
+    "delivered": 37,
+    "anulado": 4,
+    "cancelado": 1,
+    "effectiveness": 88.1
+  },
+  {
+    "usuario": "NET_JASTETES",
+    "total": 6,
+    "delivered": 1,
+    "anulado": 0,
+    "cancelado": 2,
+    "effectiveness": 33.33
+  },
+  {
+    "usuario": "NET_JATANACIOC",
+    "total": 38,
+    "delivered": 30,
+    "anulado": 6,
+    "cancelado": 1,
+    "effectiveness": 81.08
+  },
+  {
+    "usuario": "NET_JATORRESC",
+    "total": 3,
+    "delivered": 1,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 100.0
+  },
+  {
+    "usuario": "NET_JAVILLEGASR",
+    "total": 6,
+    "delivered": 4,
+    "anulado": 1,
+    "cancelado": 1,
+    "effectiveness": 66.67
+  },
+  {
+    "usuario": "NET_JCALDASB",
+    "total": 44,
+    "delivered": 31,
+    "anulado": 6,
+    "cancelado": 4,
+    "effectiveness": 75.61
+  },
+  {
+    "usuario": "NET_JCALDERONR",
+    "total": 1,
+    "delivered": 0,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 0.0
+  },
+  {
+    "usuario": "NET_JCAMPOS",
+    "total": 62,
+    "delivered": 32,
+    "anulado": 12,
+    "cancelado": 14,
+    "effectiveness": 55.17
+  },
+  {
+    "usuario": "NET_JCASTILLOC",
+    "total": 59,
+    "delivered": 30,
+    "anulado": 26,
+    "cancelado": 2,
+    "effectiveness": 51.72
+  },
+  {
+    "usuario": "NET_JCAVEROC",
+    "total": 5,
+    "delivered": 1,
+    "anulado": 1,
+    "cancelado": 2,
+    "effectiveness": 25.0
+  },
+  {
+    "usuario": "NET_JCHAVEZC",
+    "total": 54,
+    "delivered": 39,
+    "anulado": 5,
+    "cancelado": 3,
+    "effectiveness": 82.98
+  },
+  {
+    "usuario": "NET_JCHAVEZPINT",
+    "total": 15,
+    "delivered": 10,
+    "anulado": 2,
+    "cancelado": 2,
+    "effectiveness": 71.43
+  },
+  {
+    "usuario": "NET_JCHEROO",
+    "total": 67,
+    "delivered": 43,
+    "anulado": 12,
+    "cancelado": 6,
+    "effectiveness": 70.49
+  },
+  {
+    "usuario": "NET_JCHINGAA",
+    "total": 33,
+    "delivered": 27,
+    "anulado": 4,
+    "cancelado": 1,
+    "effectiveness": 84.38
+  },
+  {
+    "usuario": "NET_JCHUQUILINL",
+    "total": 29,
+    "delivered": 15,
+    "anulado": 5,
+    "cancelado": 5,
+    "effectiveness": 60.0
+  },
+  {
+    "usuario": "NET_JCOLOMAA",
+    "total": 53,
+    "delivered": 39,
+    "anulado": 8,
+    "cancelado": 2,
+    "effectiveness": 79.59
+  },
+  {
+    "usuario": "NET_JCORONADOC",
+    "total": 4,
+    "delivered": 3,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 100.0
+  },
+  {
+    "usuario": "NET_JDAVALOSM",
+    "total": 3,
+    "delivered": 0,
+    "anulado": 0,
+    "cancelado": 3,
+    "effectiveness": 0.0
+  },
+  {
+    "usuario": "NET_JFONSECAR",
+    "total": 24,
+    "delivered": 19,
+    "anulado": 2,
+    "cancelado": 1,
+    "effectiveness": 86.36
+  },
+  {
+    "usuario": "NET_JGARCIAJ",
+    "total": 1,
+    "delivered": 1,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 100.0
+  },
+  {
+    "usuario": "NET_JGUIOP",
+    "total": 38,
+    "delivered": 27,
+    "anulado": 4,
+    "cancelado": 6,
+    "effectiveness": 72.97
+  },
+  {
+    "usuario": "NET_JHUARACHEC",
+    "total": 17,
+    "delivered": 12,
+    "anulado": 3,
+    "cancelado": 0,
+    "effectiveness": 80.0
+  },
+  {
+    "usuario": "NET_JIYASHAMAR",
+    "total": 11,
+    "delivered": 5,
+    "anulado": 1,
+    "cancelado": 2,
+    "effectiveness": 62.5
+  },
+  {
+    "usuario": "NET_JLAZAROA",
+    "total": 20,
+    "delivered": 13,
+    "anulado": 4,
+    "cancelado": 1,
+    "effectiveness": 72.22
+  },
+  {
+    "usuario": "NET_JLCASTILLOU",
+    "total": 87,
+    "delivered": 54,
+    "anulado": 18,
+    "cancelado": 6,
+    "effectiveness": 69.23
+  },
+  {
+    "usuario": "NET_JLUCIANOT",
+    "total": 38,
+    "delivered": 17,
+    "anulado": 14,
+    "cancelado": 2,
+    "effectiveness": 51.52
+  },
+  {
+    "usuario": "NET_JMARQUEZG",
+    "total": 46,
+    "delivered": 29,
+    "anulado": 9,
+    "cancelado": 1,
+    "effectiveness": 74.36
+  },
+  {
+    "usuario": "NET_JMAYTAHUARM",
+    "total": 20,
+    "delivered": 9,
+    "anulado": 2,
+    "cancelado": 7,
+    "effectiveness": 50.0
+  },
+  {
+    "usuario": "NET_JMENDOZAN",
+    "total": 28,
+    "delivered": 21,
+    "anulado": 4,
+    "cancelado": 3,
+    "effectiveness": 75.0
+  },
+  {
+    "usuario": "NET_JNEYRAZ",
+    "total": 12,
+    "delivered": 10,
+    "anulado": 1,
+    "cancelado": 1,
+    "effectiveness": 83.33
+  },
+  {
+    "usuario": "NET_JPALOMINOA",
+    "total": 28,
+    "delivered": 20,
+    "anulado": 1,
+    "cancelado": 5,
+    "effectiveness": 76.92
+  },
+  {
+    "usuario": "NET_JPANTAA",
+    "total": 29,
+    "delivered": 20,
+    "anulado": 4,
+    "cancelado": 4,
+    "effectiveness": 71.43
+  },
+  {
+    "usuario": "NET_JPORTILLAM",
+    "total": 2,
+    "delivered": 0,
+    "anulado": 1,
+    "cancelado": 1,
+    "effectiveness": 0.0
+  },
+  {
+    "usuario": "NET_JPRADOP",
+    "total": 56,
+    "delivered": 40,
+    "anulado": 6,
+    "cancelado": 4,
+    "effectiveness": 80.0
+  },
+  {
+    "usuario": "NET_JQUINECHEB",
+    "total": 114,
+    "delivered": 71,
+    "anulado": 28,
+    "cancelado": 11,
+    "effectiveness": 64.55
+  },
+  {
+    "usuario": "NET_JQUISPELUZA",
+    "total": 38,
+    "delivered": 22,
+    "anulado": 6,
+    "cancelado": 8,
+    "effectiveness": 61.11
+  },
+  {
+    "usuario": "NET_JRAMIREZQ",
+    "total": 58,
+    "delivered": 37,
+    "anulado": 9,
+    "cancelado": 7,
+    "effectiveness": 69.81
+  },
+  {
+    "usuario": "NET_JROMEROC",
+    "total": 71,
+    "delivered": 45,
+    "anulado": 15,
+    "cancelado": 6,
+    "effectiveness": 68.18
+  },
+  {
+    "usuario": "NET_JROMEROF",
+    "total": 23,
+    "delivered": 21,
+    "anulado": 2,
+    "cancelado": 0,
+    "effectiveness": 91.3
+  },
+  {
+    "usuario": "NET_JSANCHEZC",
+    "total": 43,
+    "delivered": 26,
+    "anulado": 11,
+    "cancelado": 3,
+    "effectiveness": 65.0
+  },
+  {
+    "usuario": "NET_JSANGAMA",
+    "total": 98,
+    "delivered": 67,
+    "anulado": 16,
+    "cancelado": 9,
+    "effectiveness": 72.83
+  },
+  {
+    "usuario": "NET_JSANGAMAT",
+    "total": 1,
+    "delivered": 0,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 0.0
+  },
+  {
+    "usuario": "NET_JSEGURAC",
+    "total": 3,
+    "delivered": 1,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 100.0
+  },
+  {
+    "usuario": "NET_JSIADEN",
+    "total": 101,
+    "delivered": 71,
+    "anulado": 18,
+    "cancelado": 11,
+    "effectiveness": 71.0
+  },
+  {
+    "usuario": "NET_JSIANCASR",
+    "total": 3,
+    "delivered": 2,
+    "anulado": 1,
+    "cancelado": 0,
+    "effectiveness": 66.67
+  },
+  {
+    "usuario": "NET_JSORIAF",
+    "total": 12,
+    "delivered": 7,
+    "anulado": 0,
+    "cancelado": 3,
+    "effectiveness": 70.0
+  },
+  {
+    "usuario": "NET_JTITOM",
+    "total": 44,
+    "delivered": 34,
+    "anulado": 4,
+    "cancelado": 2,
+    "effectiveness": 85.0
+  },
+  {
+    "usuario": "NET_JTORRESP",
+    "total": 14,
+    "delivered": 3,
+    "anulado": 3,
+    "cancelado": 6,
+    "effectiveness": 25.0
+  },
+  {
+    "usuario": "NET_JVALDIVIAY",
+    "total": 36,
+    "delivered": 25,
+    "anulado": 3,
+    "cancelado": 4,
+    "effectiveness": 78.12
+  },
+  {
+    "usuario": "NET_JVALVERDEV",
+    "total": 49,
+    "delivered": 38,
+    "anulado": 3,
+    "cancelado": 6,
+    "effectiveness": 80.85
+  },
+  {
+    "usuario": "NET_JVASQUEZMEN",
+    "total": 26,
+    "delivered": 21,
+    "anulado": 0,
+    "cancelado": 1,
+    "effectiveness": 95.45
+  },
+  {
+    "usuario": "NET_JVELASQUEZS",
+    "total": 39,
+    "delivered": 21,
+    "anulado": 5,
+    "cancelado": 7,
+    "effectiveness": 63.64
+  },
+  {
+    "usuario": "NET_JVILLAFANIC",
+    "total": 36,
+    "delivered": 19,
+    "anulado": 12,
+    "cancelado": 3,
+    "effectiveness": 55.88
+  },
+  {
+    "usuario": "NET_JVMORENO",
+    "total": 30,
+    "delivered": 19,
+    "anulado": 7,
+    "cancelado": 2,
+    "effectiveness": 67.86
+  },
+  {
+    "usuario": "NET_KAGRAMONTEM",
+    "total": 73,
+    "delivered": 55,
+    "anulado": 4,
+    "cancelado": 9,
+    "effectiveness": 80.88
+  },
+  {
+    "usuario": "NET_KANGELESS",
+    "total": 59,
+    "delivered": 47,
+    "anulado": 9,
+    "cancelado": 1,
+    "effectiveness": 82.46
+  },
+  {
+    "usuario": "NET_KARAUJOC",
+    "total": 38,
+    "delivered": 20,
+    "anulado": 3,
+    "cancelado": 11,
+    "effectiveness": 58.82
+  },
+  {
+    "usuario": "NET_KBALLADAREE",
+    "total": 6,
+    "delivered": 1,
+    "anulado": 4,
+    "cancelado": 1,
+    "effectiveness": 16.67
+  },
+  {
+    "usuario": "NET_KBENAVIDESO",
+    "total": 11,
+    "delivered": 8,
+    "anulado": 1,
+    "cancelado": 2,
+    "effectiveness": 72.73
+  },
+  {
+    "usuario": "NET_KBERROSPIS",
+    "total": 5,
+    "delivered": 3,
+    "anulado": 1,
+    "cancelado": 0,
+    "effectiveness": 75.0
+  },
+  {
+    "usuario": "NET_KBRACOV",
+    "total": 11,
+    "delivered": 4,
+    "anulado": 0,
+    "cancelado": 3,
+    "effectiveness": 57.14
+  },
+  {
+    "usuario": "NET_KCALLAC",
+    "total": 36,
+    "delivered": 22,
+    "anulado": 11,
+    "cancelado": 0,
+    "effectiveness": 66.67
+  },
+  {
+    "usuario": "NET_KCAMPOSR",
+    "total": 7,
+    "delivered": 3,
+    "anulado": 4,
+    "cancelado": 0,
+    "effectiveness": 42.86
+  },
+  {
+    "usuario": "NET_KCARLOSC",
+    "total": 3,
+    "delivered": 0,
+    "anulado": 2,
+    "cancelado": 0,
+    "effectiveness": 0.0
+  },
+  {
+    "usuario": "NET_KCHUNAP",
+    "total": 16,
+    "delivered": 11,
+    "anulado": 2,
+    "cancelado": 1,
+    "effectiveness": 78.57
+  },
+  {
+    "usuario": "NET_KCHUQUIZUTC",
+    "total": 29,
+    "delivered": 17,
+    "anulado": 9,
+    "cancelado": 1,
+    "effectiveness": 62.96
+  },
+  {
+    "usuario": "NET_KDIAZPISCOY",
+    "total": 95,
+    "delivered": 73,
+    "anulado": 13,
+    "cancelado": 3,
+    "effectiveness": 82.02
+  },
+  {
+    "usuario": "NET_KESCORZAC",
+    "total": 67,
+    "delivered": 39,
+    "anulado": 15,
+    "cancelado": 6,
+    "effectiveness": 65.0
+  },
+  {
+    "usuario": "NET_KLGARCIAA",
+    "total": 4,
+    "delivered": 3,
+    "anulado": 1,
+    "cancelado": 0,
+    "effectiveness": 75.0
+  },
+  {
+    "usuario": "NET_KNIZAMAA",
+    "total": 88,
+    "delivered": 67,
+    "anulado": 15,
+    "cancelado": 3,
+    "effectiveness": 78.82
+  },
+  {
+    "usuario": "NET_KOCMINM",
+    "total": 24,
+    "delivered": 19,
+    "anulado": 4,
+    "cancelado": 0,
+    "effectiveness": 82.61
+  },
+  {
+    "usuario": "NET_KORTIZD",
+    "total": 43,
+    "delivered": 33,
+    "anulado": 4,
+    "cancelado": 1,
+    "effectiveness": 86.84
+  },
+  {
+    "usuario": "NET_KPARRAGUEZG",
+    "total": 14,
+    "delivered": 6,
+    "anulado": 4,
+    "cancelado": 2,
+    "effectiveness": 50.0
+  },
+  {
+    "usuario": "NET_KQUISPEMUNO",
+    "total": 20,
+    "delivered": 11,
+    "anulado": 6,
+    "cancelado": 1,
+    "effectiveness": 61.11
+  },
+  {
+    "usuario": "NET_KROJASNAUPA",
+    "total": 76,
+    "delivered": 66,
+    "anulado": 6,
+    "cancelado": 4,
+    "effectiveness": 86.84
+  },
+  {
+    "usuario": "NET_KSANCHEZ",
+    "total": 18,
+    "delivered": 14,
+    "anulado": 4,
+    "cancelado": 0,
+    "effectiveness": 77.78
+  },
+  {
+    "usuario": "NET_KSILVAT",
+    "total": 3,
+    "delivered": 0,
+    "anulado": 3,
+    "cancelado": 0,
+    "effectiveness": 0.0
+  },
+  {
+    "usuario": "NET_KTAYAB",
+    "total": 5,
+    "delivered": 0,
+    "anulado": 0,
+    "cancelado": 4,
+    "effectiveness": 0.0
+  },
+  {
+    "usuario": "NET_KYUPANQUIC",
+    "total": 35,
+    "delivered": 25,
+    "anulado": 5,
+    "cancelado": 1,
+    "effectiveness": 80.65
+  },
+  {
+    "usuario": "NET_KZAPATAV",
+    "total": 47,
+    "delivered": 43,
+    "anulado": 4,
+    "cancelado": 0,
+    "effectiveness": 91.49
+  },
+  {
+    "usuario": "NET_LALARCONP",
+    "total": 28,
+    "delivered": 18,
+    "anulado": 7,
+    "cancelado": 1,
+    "effectiveness": 69.23
+  },
+  {
+    "usuario": "NET_LALVAREZD",
+    "total": 22,
+    "delivered": 15,
+    "anulado": 5,
+    "cancelado": 0,
+    "effectiveness": 75.0
+  },
+  {
+    "usuario": "NET_LAPOLAYAA",
+    "total": 77,
+    "delivered": 44,
+    "anulado": 13,
+    "cancelado": 13,
+    "effectiveness": 62.86
+  },
+  {
+    "usuario": "NET_LBARRIONUEC",
+    "total": 5,
+    "delivered": 3,
+    "anulado": 1,
+    "cancelado": 0,
+    "effectiveness": 75.0
+  },
+  {
+    "usuario": "NET_LBAUTISTAG",
+    "total": 30,
+    "delivered": 28,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 100.0
+  },
+  {
+    "usuario": "NET_LBLASA",
+    "total": 11,
+    "delivered": 9,
+    "anulado": 0,
+    "cancelado": 1,
+    "effectiveness": 90.0
+  },
+  {
+    "usuario": "NET_LBLASB",
+    "total": 5,
+    "delivered": 0,
+    "anulado": 0,
+    "cancelado": 1,
+    "effectiveness": 0.0
+  },
+  {
+    "usuario": "NET_LCALDERONC",
+    "total": 109,
+    "delivered": 89,
+    "anulado": 9,
+    "cancelado": 6,
+    "effectiveness": 85.58
+  },
+  {
+    "usuario": "NET_LCALDERONCA",
+    "total": 2,
+    "delivered": 0,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 0.0
+  },
+  {
+    "usuario": "NET_LCAMPOSCABR",
+    "total": 118,
+    "delivered": 84,
+    "anulado": 21,
+    "cancelado": 9,
+    "effectiveness": 73.68
+  },
+  {
+    "usuario": "NET_LCASTILLORI",
+    "total": 34,
+    "delivered": 24,
+    "anulado": 1,
+    "cancelado": 6,
+    "effectiveness": 77.42
+  },
+  {
+    "usuario": "NET_LCCASTILLO",
+    "total": 33,
+    "delivered": 26,
+    "anulado": 6,
+    "cancelado": 0,
+    "effectiveness": 81.25
+  },
+  {
+    "usuario": "NET_LCEOPAP",
+    "total": 19,
+    "delivered": 13,
+    "anulado": 1,
+    "cancelado": 5,
+    "effectiveness": 68.42
+  },
+  {
+    "usuario": "NET_LDIAZ",
+    "total": 74,
+    "delivered": 49,
+    "anulado": 6,
+    "cancelado": 14,
+    "effectiveness": 71.01
+  },
+  {
+    "usuario": "NET_LDIAZM",
+    "total": 27,
+    "delivered": 14,
+    "anulado": 4,
+    "cancelado": 5,
+    "effectiveness": 60.87
+  },
+  {
+    "usuario": "NET_LDIOSESMEND",
+    "total": 44,
+    "delivered": 25,
+    "anulado": 15,
+    "cancelado": 3,
+    "effectiveness": 58.14
+  },
+  {
+    "usuario": "NET_LFIESTASG",
+    "total": 30,
+    "delivered": 18,
+    "anulado": 5,
+    "cancelado": 2,
+    "effectiveness": 72.0
+  },
+  {
+    "usuario": "NET_LFLORESY",
+    "total": 85,
+    "delivered": 63,
+    "anulado": 9,
+    "cancelado": 7,
+    "effectiveness": 79.75
+  },
+  {
+    "usuario": "NET_LGOMEZA",
+    "total": 83,
+    "delivered": 57,
+    "anulado": 16,
+    "cancelado": 8,
+    "effectiveness": 70.37
+  },
+  {
+    "usuario": "NET_LHUACCHAQ",
+    "total": 28,
+    "delivered": 15,
+    "anulado": 3,
+    "cancelado": 9,
+    "effectiveness": 55.56
+  },
+  {
+    "usuario": "NET_LLEIVAH",
+    "total": 12,
+    "delivered": 6,
+    "anulado": 5,
+    "cancelado": 1,
+    "effectiveness": 50.0
+  },
+  {
+    "usuario": "NET_LLEONAN",
+    "total": 91,
+    "delivered": 45,
+    "anulado": 30,
+    "cancelado": 8,
+    "effectiveness": 54.22
+  },
+  {
+    "usuario": "NET_LLOBATONV",
+    "total": 49,
+    "delivered": 35,
+    "anulado": 12,
+    "cancelado": 1,
+    "effectiveness": 72.92
+  },
+  {
+    "usuario": "NET_LLOPEZM",
+    "total": 37,
+    "delivered": 19,
+    "anulado": 4,
+    "cancelado": 9,
+    "effectiveness": 59.38
+  },
+  {
+    "usuario": "NET_LMALDONADOC",
+    "total": 89,
+    "delivered": 63,
+    "anulado": 9,
+    "cancelado": 8,
+    "effectiveness": 78.75
+  },
+  {
+    "usuario": "NET_LMANRIQUED",
+    "total": 37,
+    "delivered": 28,
+    "anulado": 6,
+    "cancelado": 1,
+    "effectiveness": 80.0
+  },
+  {
+    "usuario": "NET_LMARTINEZAR",
+    "total": 22,
+    "delivered": 17,
+    "anulado": 2,
+    "cancelado": 2,
+    "effectiveness": 80.95
+  },
+  {
+    "usuario": "NET_LMORAO",
+    "total": 45,
+    "delivered": 33,
+    "anulado": 6,
+    "cancelado": 1,
+    "effectiveness": 82.5
+  },
+  {
+    "usuario": "NET_LMUSAYONS",
+    "total": 50,
+    "delivered": 38,
+    "anulado": 8,
+    "cancelado": 2,
+    "effectiveness": 79.17
+  },
+  {
+    "usuario": "NET_LNARVAEZR",
+    "total": 13,
+    "delivered": 6,
+    "anulado": 5,
+    "cancelado": 1,
+    "effectiveness": 50.0
+  },
+  {
+    "usuario": "NET_LNECIOSUPC",
+    "total": 107,
+    "delivered": 66,
+    "anulado": 26,
+    "cancelado": 6,
+    "effectiveness": 67.35
+  },
+  {
+    "usuario": "NET_LOPEZDI",
+    "total": 65,
+    "delivered": 56,
+    "anulado": 7,
+    "cancelado": 0,
+    "effectiveness": 88.89
+  },
+  {
+    "usuario": "NET_LPADILLAC",
+    "total": 25,
+    "delivered": 18,
+    "anulado": 5,
+    "cancelado": 2,
+    "effectiveness": 72.0
+  },
+  {
+    "usuario": "NET_LPASCUALH",
+    "total": 20,
+    "delivered": 12,
+    "anulado": 3,
+    "cancelado": 5,
+    "effectiveness": 60.0
+  },
+  {
+    "usuario": "NET_LPINTOH",
+    "total": 12,
+    "delivered": 4,
+    "anulado": 0,
+    "cancelado": 4,
+    "effectiveness": 50.0
+  },
+  {
+    "usuario": "NET_LRAMIREZV",
+    "total": 35,
+    "delivered": 25,
+    "anulado": 4,
+    "cancelado": 4,
+    "effectiveness": 75.76
+  },
+  {
+    "usuario": "NET_LRODRIGUEZC",
+    "total": 16,
+    "delivered": 10,
+    "anulado": 5,
+    "cancelado": 1,
+    "effectiveness": 62.5
+  },
+  {
+    "usuario": "NET_LROSALESA",
+    "total": 29,
+    "delivered": 20,
+    "anulado": 2,
+    "cancelado": 5,
+    "effectiveness": 74.07
+  },
+  {
+    "usuario": "NET_LRUIZH",
+    "total": 31,
+    "delivered": 27,
+    "anulado": 3,
+    "cancelado": 0,
+    "effectiveness": 90.0
+  },
+  {
+    "usuario": "NET_LRUIZL",
+    "total": 40,
+    "delivered": 33,
+    "anulado": 7,
+    "cancelado": 0,
+    "effectiveness": 82.5
+  },
+  {
+    "usuario": "NET_LTAMAYOD",
+    "total": 46,
+    "delivered": 38,
+    "anulado": 2,
+    "cancelado": 5,
+    "effectiveness": 84.44
+  },
+  {
+    "usuario": "NET_LTORRESPU",
+    "total": 92,
+    "delivered": 70,
+    "anulado": 7,
+    "cancelado": 13,
+    "effectiveness": 77.78
+  },
+  {
+    "usuario": "NET_LTVENTURAG",
+    "total": 3,
+    "delivered": 2,
+    "anulado": 1,
+    "cancelado": 0,
+    "effectiveness": 66.67
+  },
+  {
+    "usuario": "NET_LVASQUEZC",
+    "total": 42,
+    "delivered": 26,
+    "anulado": 10,
+    "cancelado": 3,
+    "effectiveness": 66.67
+  },
+  {
+    "usuario": "NET_LVASQUEZT",
+    "total": 44,
+    "delivered": 32,
+    "anulado": 4,
+    "cancelado": 3,
+    "effectiveness": 82.05
+  },
+  {
+    "usuario": "NET_LVIZCARRARO",
+    "total": 36,
+    "delivered": 25,
+    "anulado": 6,
+    "cancelado": 2,
+    "effectiveness": 75.76
+  },
+  {
+    "usuario": "NET_LYAIPENARRO",
+    "total": 26,
+    "delivered": 19,
+    "anulado": 4,
+    "cancelado": 1,
+    "effectiveness": 79.17
+  },
+  {
+    "usuario": "NET_LYESQUENP",
+    "total": 52,
+    "delivered": 41,
+    "anulado": 6,
+    "cancelado": 5,
+    "effectiveness": 78.85
+  },
+  {
+    "usuario": "NET_MBARTURENO",
+    "total": 49,
+    "delivered": 32,
+    "anulado": 5,
+    "cancelado": 9,
+    "effectiveness": 69.57
+  },
+  {
+    "usuario": "NET_MCASTELLANO",
+    "total": 35,
+    "delivered": 19,
+    "anulado": 11,
+    "cancelado": 4,
+    "effectiveness": 55.88
+  },
+  {
+    "usuario": "NET_MCELISG",
+    "total": 26,
+    "delivered": 14,
+    "anulado": 8,
+    "cancelado": 3,
+    "effectiveness": 56.0
+  },
+  {
+    "usuario": "NET_MCENTURION",
+    "total": 5,
+    "delivered": 3,
+    "anulado": 1,
+    "cancelado": 1,
+    "effectiveness": 60.0
+  },
+  {
+    "usuario": "NET_MCGOMEZS",
+    "total": 16,
+    "delivered": 10,
+    "anulado": 6,
+    "cancelado": 0,
+    "effectiveness": 62.5
+  },
+  {
+    "usuario": "NET_MCHAVEZV",
+    "total": 40,
+    "delivered": 32,
+    "anulado": 8,
+    "cancelado": 0,
+    "effectiveness": 80.0
+  },
+  {
+    "usuario": "NET_MCORDOVACRU",
+    "total": 80,
+    "delivered": 52,
+    "anulado": 13,
+    "cancelado": 8,
+    "effectiveness": 71.23
+  },
+  {
+    "usuario": "NET_MCRUZS",
+    "total": 48,
+    "delivered": 24,
+    "anulado": 6,
+    "cancelado": 12,
+    "effectiveness": 57.14
+  },
+  {
+    "usuario": "NET_MCSANCHEZ",
+    "total": 27,
+    "delivered": 21,
+    "anulado": 1,
+    "cancelado": 5,
+    "effectiveness": 77.78
+  },
+  {
+    "usuario": "NET_MCVASQUEZ",
+    "total": 191,
+    "delivered": 150,
+    "anulado": 26,
+    "cancelado": 11,
+    "effectiveness": 80.21
+  },
+  {
+    "usuario": "NET_MDIAZJ",
+    "total": 29,
+    "delivered": 22,
+    "anulado": 3,
+    "cancelado": 3,
+    "effectiveness": 78.57
+  },
+  {
+    "usuario": "NET_MDIAZPILLPE",
+    "total": 35,
+    "delivered": 26,
+    "anulado": 6,
+    "cancelado": 2,
+    "effectiveness": 76.47
+  },
+  {
+    "usuario": "NET_MDONAYRE",
+    "total": 81,
+    "delivered": 63,
+    "anulado": 9,
+    "cancelado": 5,
+    "effectiveness": 81.82
+  },
+  {
+    "usuario": "NET_MEDIAZ",
+    "total": 18,
+    "delivered": 11,
+    "anulado": 5,
+    "cancelado": 1,
+    "effectiveness": 64.71
+  },
+  {
+    "usuario": "NET_MESPINOZAG",
+    "total": 8,
+    "delivered": 5,
+    "anulado": 1,
+    "cancelado": 2,
+    "effectiveness": 62.5
+  },
+  {
+    "usuario": "NET_MFERNANDEZL",
+    "total": 53,
+    "delivered": 37,
+    "anulado": 7,
+    "cancelado": 7,
+    "effectiveness": 72.55
+  },
+  {
+    "usuario": "NET_MFLORESD",
+    "total": 38,
+    "delivered": 30,
+    "anulado": 3,
+    "cancelado": 3,
+    "effectiveness": 83.33
+  },
+  {
+    "usuario": "NET_MGONZALESPE",
+    "total": 88,
+    "delivered": 59,
+    "anulado": 14,
+    "cancelado": 7,
+    "effectiveness": 73.75
+  },
+  {
+    "usuario": "NET_MGONZALESR",
+    "total": 10,
+    "delivered": 6,
+    "anulado": 1,
+    "cancelado": 2,
+    "effectiveness": 66.67
+  },
+  {
+    "usuario": "NET_MHOYOSV",
+    "total": 27,
+    "delivered": 17,
+    "anulado": 6,
+    "cancelado": 2,
+    "effectiveness": 68.0
+  },
+  {
+    "usuario": "NET_MLAZAROR",
+    "total": 41,
+    "delivered": 34,
+    "anulado": 6,
+    "cancelado": 1,
+    "effectiveness": 82.93
+  },
+  {
+    "usuario": "NET_MLOPEZM",
+    "total": 2,
+    "delivered": 1,
+    "anulado": 1,
+    "cancelado": 0,
+    "effectiveness": 50.0
+  },
+  {
+    "usuario": "NET_MLOPEZP",
+    "total": 46,
+    "delivered": 36,
+    "anulado": 7,
+    "cancelado": 1,
+    "effectiveness": 81.82
+  },
+  {
+    "usuario": "NET_MMATEOH",
+    "total": 21,
+    "delivered": 13,
+    "anulado": 4,
+    "cancelado": 2,
+    "effectiveness": 68.42
+  },
+  {
+    "usuario": "NET_MMENDOZA",
+    "total": 33,
+    "delivered": 21,
+    "anulado": 10,
+    "cancelado": 1,
+    "effectiveness": 65.62
+  },
+  {
+    "usuario": "NET_MMREVILLA",
+    "total": 69,
+    "delivered": 21,
+    "anulado": 34,
+    "cancelado": 11,
+    "effectiveness": 31.82
+  },
+  {
+    "usuario": "NET_MNEGRETE",
+    "total": 65,
+    "delivered": 32,
+    "anulado": 25,
+    "cancelado": 2,
+    "effectiveness": 54.24
+  },
+  {
+    "usuario": "NET_MORIHUELAQ",
+    "total": 84,
+    "delivered": 70,
+    "anulado": 7,
+    "cancelado": 6,
+    "effectiveness": 84.34
+  },
+  {
+    "usuario": "NET_MQUISPITONO",
+    "total": 39,
+    "delivered": 17,
+    "anulado": 6,
+    "cancelado": 14,
+    "effectiveness": 45.95
+  },
+  {
+    "usuario": "NET_MROJASS",
+    "total": 62,
+    "delivered": 40,
+    "anulado": 14,
+    "cancelado": 5,
+    "effectiveness": 67.8
+  },
+  {
+    "usuario": "NET_MRUIZSANCHC",
+    "total": 49,
+    "delivered": 35,
+    "anulado": 6,
+    "cancelado": 6,
+    "effectiveness": 74.47
+  },
+  {
+    "usuario": "NET_MSOLORZANOR",
+    "total": 5,
+    "delivered": 1,
+    "anulado": 1,
+    "cancelado": 2,
+    "effectiveness": 25.0
+  },
+  {
+    "usuario": "NET_MVASQUEZV",
+    "total": 33,
+    "delivered": 17,
+    "anulado": 11,
+    "cancelado": 3,
+    "effectiveness": 54.84
+  },
+  {
+    "usuario": "NET_MZEVALLOSMA",
+    "total": 31,
+    "delivered": 15,
+    "anulado": 7,
+    "cancelado": 6,
+    "effectiveness": 53.57
+  },
+  {
+    "usuario": "NET_NBURGAR",
+    "total": 28,
+    "delivered": 18,
+    "anulado": 7,
+    "cancelado": 1,
+    "effectiveness": 69.23
+  },
+  {
+    "usuario": "NET_NCANCHOP",
+    "total": 42,
+    "delivered": 26,
+    "anulado": 11,
+    "cancelado": 4,
+    "effectiveness": 63.41
+  },
+  {
+    "usuario": "NET_NCASTILLOF",
+    "total": 2,
+    "delivered": 1,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 100.0
+  },
+  {
+    "usuario": "NET_NDCAMPOSH",
+    "total": 10,
+    "delivered": 5,
+    "anulado": 1,
+    "cancelado": 2,
+    "effectiveness": 62.5
+  },
+  {
+    "usuario": "NET_NIMANL",
+    "total": 1,
+    "delivered": 0,
+    "anulado": 0,
+    "cancelado": 1,
+    "effectiveness": 0.0
+  },
+  {
+    "usuario": "NET_NPEREZA",
+    "total": 19,
+    "delivered": 12,
+    "anulado": 3,
+    "cancelado": 3,
+    "effectiveness": 66.67
+  },
+  {
+    "usuario": "NET_NPINAR",
+    "total": 22,
+    "delivered": 14,
+    "anulado": 3,
+    "cancelado": 3,
+    "effectiveness": 70.0
+  },
+  {
+    "usuario": "NET_NRUBIOMARCO",
+    "total": 29,
+    "delivered": 18,
+    "anulado": 6,
+    "cancelado": 4,
+    "effectiveness": 64.29
+  },
+  {
+    "usuario": "NET_NSANTAMARIA",
+    "total": 84,
+    "delivered": 60,
+    "anulado": 10,
+    "cancelado": 10,
+    "effectiveness": 75.0
+  },
+  {
+    "usuario": "NET_NYAMUNAQUEZ",
+    "total": 11,
+    "delivered": 8,
+    "anulado": 1,
+    "cancelado": 1,
+    "effectiveness": 80.0
+  },
+  {
+    "usuario": "NET_NYROJASM",
+    "total": 28,
+    "delivered": 19,
+    "anulado": 5,
+    "cancelado": 1,
+    "effectiveness": 76.0
+  },
+  {
+    "usuario": "NET_OCANAVIG",
+    "total": 20,
+    "delivered": 12,
+    "anulado": 4,
+    "cancelado": 3,
+    "effectiveness": 63.16
+  },
+  {
+    "usuario": "NET_OGUERREROR",
+    "total": 60,
+    "delivered": 36,
+    "anulado": 19,
+    "cancelado": 2,
+    "effectiveness": 63.16
+  },
+  {
+    "usuario": "NET_OLAVADOS",
+    "total": 138,
+    "delivered": 95,
+    "anulado": 18,
+    "cancelado": 14,
+    "effectiveness": 74.8
+  },
+  {
+    "usuario": "NET_PBGOMEZC",
+    "total": 72,
+    "delivered": 36,
+    "anulado": 16,
+    "cancelado": 18,
+    "effectiveness": 51.43
+  },
+  {
+    "usuario": "NET_PCHAVESTAY",
+    "total": 51,
+    "delivered": 27,
+    "anulado": 8,
+    "cancelado": 11,
+    "effectiveness": 58.7
+  },
+  {
+    "usuario": "NET_PIMANC",
+    "total": 34,
+    "delivered": 30,
+    "anulado": 2,
+    "cancelado": 1,
+    "effectiveness": 90.91
+  },
+  {
+    "usuario": "NET_PMEDINA",
+    "total": 10,
+    "delivered": 7,
+    "anulado": 1,
+    "cancelado": 1,
+    "effectiveness": 77.78
+  },
+  {
+    "usuario": "NET_POBANDOL",
+    "total": 35,
+    "delivered": 23,
+    "anulado": 10,
+    "cancelado": 2,
+    "effectiveness": 65.71
+  },
+  {
+    "usuario": "NET_PROMEROR",
+    "total": 20,
+    "delivered": 16,
+    "anulado": 2,
+    "cancelado": 0,
+    "effectiveness": 88.89
+  },
+  {
+    "usuario": "NET_PSANCHEZE",
+    "total": 55,
+    "delivered": 37,
+    "anulado": 11,
+    "cancelado": 4,
+    "effectiveness": 71.15
+  },
+  {
+    "usuario": "NET_PTORRESR",
+    "total": 38,
+    "delivered": 20,
+    "anulado": 15,
+    "cancelado": 2,
+    "effectiveness": 54.05
+  },
+  {
+    "usuario": "NET_PVEGAC",
+    "total": 78,
+    "delivered": 45,
+    "anulado": 10,
+    "cancelado": 21,
+    "effectiveness": 59.21
+  },
+  {
+    "usuario": "NET_PVILCAC",
+    "total": 30,
+    "delivered": 21,
+    "anulado": 2,
+    "cancelado": 5,
+    "effectiveness": 75.0
+  },
+  {
+    "usuario": "NET_RALVAREZV",
+    "total": 19,
+    "delivered": 15,
+    "anulado": 2,
+    "cancelado": 2,
+    "effectiveness": 78.95
+  },
+  {
+    "usuario": "NET_RCAMPUSANOV",
+    "total": 44,
+    "delivered": 27,
+    "anulado": 10,
+    "cancelado": 5,
+    "effectiveness": 64.29
+  },
+  {
+    "usuario": "NET_RCANDIOTTIA",
+    "total": 58,
+    "delivered": 40,
+    "anulado": 13,
+    "cancelado": 5,
+    "effectiveness": 68.97
+  },
+  {
+    "usuario": "NET_RCARDENASH",
+    "total": 65,
+    "delivered": 49,
+    "anulado": 11,
+    "cancelado": 2,
+    "effectiveness": 79.03
+  },
+  {
+    "usuario": "NET_RCASTANEDAR",
+    "total": 6,
+    "delivered": 2,
+    "anulado": 0,
+    "cancelado": 2,
+    "effectiveness": 50.0
+  },
+  {
+    "usuario": "NET_RCEVERINOL",
+    "total": 70,
+    "delivered": 45,
+    "anulado": 15,
+    "cancelado": 5,
+    "effectiveness": 69.23
+  },
+  {
+    "usuario": "NET_RCHIROQUEC",
+    "total": 58,
+    "delivered": 37,
+    "anulado": 7,
+    "cancelado": 11,
+    "effectiveness": 67.27
+  },
+  {
+    "usuario": "NET_RCORDOVAC",
+    "total": 27,
+    "delivered": 16,
+    "anulado": 6,
+    "cancelado": 3,
+    "effectiveness": 64.0
+  },
+  {
+    "usuario": "NET_RDIAZM",
+    "total": 27,
+    "delivered": 18,
+    "anulado": 6,
+    "cancelado": 2,
+    "effectiveness": 69.23
+  },
+  {
+    "usuario": "NET_RDULANTORO",
+    "total": 55,
+    "delivered": 42,
+    "anulado": 5,
+    "cancelado": 4,
+    "effectiveness": 82.35
+  },
+  {
+    "usuario": "NET_RGALVEZC",
+    "total": 31,
+    "delivered": 22,
+    "anulado": 7,
+    "cancelado": 0,
+    "effectiveness": 75.86
+  },
+  {
+    "usuario": "NET_RGUTIERREZS",
+    "total": 71,
+    "delivered": 58,
+    "anulado": 11,
+    "cancelado": 0,
+    "effectiveness": 84.06
+  },
+  {
+    "usuario": "NET_RIZACUPEC",
+    "total": 62,
+    "delivered": 45,
+    "anulado": 8,
+    "cancelado": 6,
+    "effectiveness": 76.27
+  },
+  {
+    "usuario": "NET_RJDONAYREP",
+    "total": 2,
+    "delivered": 2,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 100.0
+  },
+  {
+    "usuario": "NET_RMENDOZAMIL",
+    "total": 54,
+    "delivered": 41,
+    "anulado": 9,
+    "cancelado": 0,
+    "effectiveness": 82.0
+  },
+  {
+    "usuario": "NET_RMRAMIREZ",
+    "total": 86,
+    "delivered": 50,
+    "anulado": 12,
+    "cancelado": 17,
+    "effectiveness": 63.29
+  },
+  {
+    "usuario": "NET_RPOLOD",
+    "total": 38,
+    "delivered": 27,
+    "anulado": 6,
+    "cancelado": 3,
+    "effectiveness": 75.0
+  },
+  {
+    "usuario": "NET_RROJASD",
+    "total": 24,
+    "delivered": 19,
+    "anulado": 5,
+    "cancelado": 0,
+    "effectiveness": 79.17
+  },
+  {
+    "usuario": "NET_RSTORRESP",
+    "total": 20,
+    "delivered": 11,
+    "anulado": 3,
+    "cancelado": 5,
+    "effectiveness": 57.89
+  },
+  {
+    "usuario": "NET_RTORRESB",
+    "total": 64,
+    "delivered": 45,
+    "anulado": 9,
+    "cancelado": 4,
+    "effectiveness": 77.59
+  },
+  {
+    "usuario": "NET_RURBINAG",
+    "total": 49,
+    "delivered": 36,
+    "anulado": 9,
+    "cancelado": 2,
+    "effectiveness": 76.6
+  },
+  {
+    "usuario": "NET_SALARCONS",
+    "total": 10,
+    "delivered": 6,
+    "anulado": 1,
+    "cancelado": 3,
+    "effectiveness": 60.0
+  },
+  {
+    "usuario": "NET_SANTONH",
+    "total": 60,
+    "delivered": 45,
+    "anulado": 7,
+    "cancelado": 5,
+    "effectiveness": 78.95
+  },
+  {
+    "usuario": "NET_SAVILAC",
+    "total": 37,
+    "delivered": 24,
+    "anulado": 8,
+    "cancelado": 2,
+    "effectiveness": 70.59
+  },
+  {
+    "usuario": "NET_SBACAD",
+    "total": 57,
+    "delivered": 37,
+    "anulado": 9,
+    "cancelado": 6,
+    "effectiveness": 71.15
+  },
+  {
+    "usuario": "NET_SBENITESL",
+    "total": 3,
+    "delivered": 2,
+    "anulado": 1,
+    "cancelado": 0,
+    "effectiveness": 66.67
+  },
+  {
+    "usuario": "NET_SBENITOV",
+    "total": 79,
+    "delivered": 70,
+    "anulado": 5,
+    "cancelado": 0,
+    "effectiveness": 93.33
+  },
+  {
+    "usuario": "NET_SCANTOT",
+    "total": 48,
+    "delivered": 37,
+    "anulado": 8,
+    "cancelado": 0,
+    "effectiveness": 82.22
+  },
+  {
+    "usuario": "NET_SCAVEROC",
+    "total": 65,
+    "delivered": 48,
+    "anulado": 11,
+    "cancelado": 4,
+    "effectiveness": 76.19
+  },
+  {
+    "usuario": "NET_SCHUMIOQUEP",
+    "total": 49,
+    "delivered": 30,
+    "anulado": 9,
+    "cancelado": 5,
+    "effectiveness": 68.18
+  },
+  {
+    "usuario": "NET_SCOVENASC",
+    "total": 41,
+    "delivered": 30,
+    "anulado": 6,
+    "cancelado": 4,
+    "effectiveness": 75.0
+  },
+  {
+    "usuario": "NET_SCULQUID",
+    "total": 9,
+    "delivered": 5,
+    "anulado": 1,
+    "cancelado": 1,
+    "effectiveness": 71.43
+  },
+  {
+    "usuario": "NET_SDIAZO",
+    "total": 92,
+    "delivered": 73,
+    "anulado": 14,
+    "cancelado": 5,
+    "effectiveness": 79.35
+  },
+  {
+    "usuario": "NET_SGARCIAA",
+    "total": 52,
+    "delivered": 31,
+    "anulado": 14,
+    "cancelado": 5,
+    "effectiveness": 62.0
+  },
+  {
+    "usuario": "NET_SGONZALESF",
+    "total": 21,
+    "delivered": 11,
+    "anulado": 7,
+    "cancelado": 3,
+    "effectiveness": 52.38
+  },
+  {
+    "usuario": "NET_SGONZALESP",
+    "total": 45,
+    "delivered": 39,
+    "anulado": 5,
+    "cancelado": 1,
+    "effectiveness": 86.67
+  },
+  {
+    "usuario": "NET_SINGAC",
+    "total": 54,
+    "delivered": 35,
+    "anulado": 16,
+    "cancelado": 2,
+    "effectiveness": 66.04
+  },
+  {
+    "usuario": "NET_SLIZARDOPER",
+    "total": 69,
+    "delivered": 53,
+    "anulado": 9,
+    "cancelado": 3,
+    "effectiveness": 81.54
+  },
+  {
+    "usuario": "NET_SLUJANA",
+    "total": 22,
+    "delivered": 8,
+    "anulado": 6,
+    "cancelado": 7,
+    "effectiveness": 38.1
+  },
+  {
+    "usuario": "NET_SMENDOZAV",
+    "total": 58,
+    "delivered": 45,
+    "anulado": 8,
+    "cancelado": 2,
+    "effectiveness": 81.82
+  },
+  {
+    "usuario": "NET_SMILIANF",
+    "total": 17,
+    "delivered": 11,
+    "anulado": 6,
+    "cancelado": 0,
+    "effectiveness": 64.71
+  },
+  {
+    "usuario": "NET_SNIMAG",
+    "total": 23,
+    "delivered": 12,
+    "anulado": 7,
+    "cancelado": 3,
+    "effectiveness": 54.55
+  },
+  {
+    "usuario": "NET_SPALACIOSA",
+    "total": 33,
+    "delivered": 29,
+    "anulado": 3,
+    "cancelado": 1,
+    "effectiveness": 87.88
+  },
+  {
+    "usuario": "NET_SPERALTAV",
+    "total": 85,
+    "delivered": 63,
+    "anulado": 14,
+    "cancelado": 7,
+    "effectiveness": 75.0
+  },
+  {
+    "usuario": "NET_SPEREZR",
+    "total": 98,
+    "delivered": 75,
+    "anulado": 8,
+    "cancelado": 8,
+    "effectiveness": 82.42
+  },
+  {
+    "usuario": "NET_SRAMOSC",
+    "total": 80,
+    "delivered": 58,
+    "anulado": 12,
+    "cancelado": 5,
+    "effectiveness": 77.33
+  },
+  {
+    "usuario": "NET_SRODRIGUEZP",
+    "total": 39,
+    "delivered": 20,
+    "anulado": 9,
+    "cancelado": 2,
+    "effectiveness": 64.52
+  },
+  {
+    "usuario": "NET_SSALAZARV",
+    "total": 106,
+    "delivered": 77,
+    "anulado": 12,
+    "cancelado": 8,
+    "effectiveness": 79.38
+  },
+  {
+    "usuario": "NET_SSANGAYL",
+    "total": 3,
+    "delivered": 2,
+    "anulado": 1,
+    "cancelado": 0,
+    "effectiveness": 66.67
+  },
+  {
+    "usuario": "NET_SSOSAB",
+    "total": 16,
+    "delivered": 7,
+    "anulado": 8,
+    "cancelado": 1,
+    "effectiveness": 43.75
+  },
+  {
+    "usuario": "NET_SSOTOM",
+    "total": 48,
+    "delivered": 34,
+    "anulado": 8,
+    "cancelado": 2,
+    "effectiveness": 77.27
+  },
+  {
+    "usuario": "NET_STANANTAM",
+    "total": 64,
+    "delivered": 48,
+    "anulado": 11,
+    "cancelado": 2,
+    "effectiveness": 78.69
+  },
+  {
+    "usuario": "NET_STAVARALIVI",
+    "total": 18,
+    "delivered": 15,
+    "anulado": 2,
+    "cancelado": 1,
+    "effectiveness": 83.33
+  },
+  {
+    "usuario": "NET_STITOP",
+    "total": 13,
+    "delivered": 9,
+    "anulado": 4,
+    "cancelado": 0,
+    "effectiveness": 69.23
+  },
+  {
+    "usuario": "NET_SVELASQUEZL",
+    "total": 41,
+    "delivered": 28,
+    "anulado": 7,
+    "cancelado": 3,
+    "effectiveness": 73.68
+  },
+  {
+    "usuario": "NET_TANCHANTEG",
+    "total": 37,
+    "delivered": 32,
+    "anulado": 2,
+    "cancelado": 2,
+    "effectiveness": 88.89
+  },
+  {
+    "usuario": "NET_TBECERRAC",
+    "total": 60,
+    "delivered": 41,
+    "anulado": 12,
+    "cancelado": 3,
+    "effectiveness": 73.21
+  },
+  {
+    "usuario": "NET_THUAMANIP",
+    "total": 34,
+    "delivered": 23,
+    "anulado": 8,
+    "cancelado": 2,
+    "effectiveness": 69.7
+  },
+  {
+    "usuario": "NET_TMUNOZCALDE",
+    "total": 65,
+    "delivered": 44,
+    "anulado": 9,
+    "cancelado": 7,
+    "effectiveness": 73.33
+  },
+  {
+    "usuario": "NET_TVASQUEZANG",
+    "total": 68,
+    "delivered": 51,
+    "anulado": 10,
+    "cancelado": 2,
+    "effectiveness": 80.95
+  },
+  {
+    "usuario": "NET_VALEMANR",
+    "total": 1,
+    "delivered": 0,
+    "anulado": 0,
+    "cancelado": 1,
+    "effectiveness": 0.0
+  },
+  {
+    "usuario": "NET_VAOCHOAG",
+    "total": 19,
+    "delivered": 11,
+    "anulado": 3,
+    "cancelado": 3,
+    "effectiveness": 64.71
+  },
+  {
+    "usuario": "NET_VAYALA",
+    "total": 39,
+    "delivered": 23,
+    "anulado": 11,
+    "cancelado": 4,
+    "effectiveness": 60.53
+  },
+  {
+    "usuario": "NET_VCARMENG",
+    "total": 40,
+    "delivered": 32,
+    "anulado": 7,
+    "cancelado": 0,
+    "effectiveness": 82.05
+  },
+  {
+    "usuario": "NET_VCISNEROSG",
+    "total": 16,
+    "delivered": 8,
+    "anulado": 8,
+    "cancelado": 0,
+    "effectiveness": 50.0
+  },
+  {
+    "usuario": "NET_VESALASB",
+    "total": 14,
+    "delivered": 6,
+    "anulado": 8,
+    "cancelado": 0,
+    "effectiveness": 42.86
+  },
+  {
+    "usuario": "NET_VHUAMANQ",
+    "total": 29,
+    "delivered": 22,
+    "anulado": 2,
+    "cancelado": 4,
+    "effectiveness": 78.57
+  },
+  {
+    "usuario": "NET_VJAUREGUIM",
+    "total": 66,
+    "delivered": 42,
+    "anulado": 13,
+    "cancelado": 10,
+    "effectiveness": 64.62
+  },
+  {
+    "usuario": "NET_VMEJIAC",
+    "total": 55,
+    "delivered": 47,
+    "anulado": 6,
+    "cancelado": 0,
+    "effectiveness": 88.68
+  },
+  {
+    "usuario": "NET_VOBESOS",
+    "total": 44,
+    "delivered": 32,
+    "anulado": 6,
+    "cancelado": 1,
+    "effectiveness": 82.05
+  },
+  {
+    "usuario": "NET_VRAMOSC",
+    "total": 47,
+    "delivered": 30,
+    "anulado": 7,
+    "cancelado": 2,
+    "effectiveness": 76.92
+  },
+  {
+    "usuario": "NET_VSANTISTEBV",
+    "total": 4,
+    "delivered": 1,
+    "anulado": 1,
+    "cancelado": 0,
+    "effectiveness": 50.0
+  },
+  {
+    "usuario": "NET_VTURKOWSKYG",
+    "total": 23,
+    "delivered": 17,
+    "anulado": 4,
+    "cancelado": 0,
+    "effectiveness": 80.95
+  },
+  {
+    "usuario": "NET_VZEGARRAAGU",
+    "total": 65,
+    "delivered": 57,
+    "anulado": 4,
+    "cancelado": 3,
+    "effectiveness": 89.06
+  },
+  {
+    "usuario": "NET_WBENITESA",
+    "total": 53,
+    "delivered": 40,
+    "anulado": 4,
+    "cancelado": 4,
+    "effectiveness": 83.33
+  },
+  {
+    "usuario": "NET_WVELASQUEZQ",
+    "total": 34,
+    "delivered": 24,
+    "anulado": 5,
+    "cancelado": 2,
+    "effectiveness": 77.42
+  },
+  {
+    "usuario": "NET_XPAULLOA",
+    "total": 15,
+    "delivered": 10,
+    "anulado": 3,
+    "cancelado": 0,
+    "effectiveness": 76.92
+  },
+  {
+    "usuario": "NET_YACHOM",
+    "total": 6,
+    "delivered": 4,
+    "anulado": 1,
+    "cancelado": 1,
+    "effectiveness": 66.67
+  },
+  {
+    "usuario": "NET_YBSEMINARIO",
+    "total": 65,
+    "delivered": 26,
+    "anulado": 32,
+    "cancelado": 2,
+    "effectiveness": 43.33
+  },
+  {
+    "usuario": "NET_YCASTILLOO",
+    "total": 58,
+    "delivered": 28,
+    "anulado": 14,
+    "cancelado": 10,
+    "effectiveness": 53.85
+  },
+  {
+    "usuario": "NET_YCHAVEZ",
+    "total": 55,
+    "delivered": 39,
+    "anulado": 9,
+    "cancelado": 1,
+    "effectiveness": 79.59
+  },
+  {
+    "usuario": "NET_YCORNEJOA",
+    "total": 11,
+    "delivered": 4,
+    "anulado": 4,
+    "cancelado": 0,
+    "effectiveness": 50.0
+  },
+  {
+    "usuario": "NET_YFALCONP",
+    "total": 45,
+    "delivered": 27,
+    "anulado": 12,
+    "cancelado": 3,
+    "effectiveness": 64.29
+  },
+  {
+    "usuario": "NET_YFLORESR",
+    "total": 70,
+    "delivered": 38,
+    "anulado": 17,
+    "cancelado": 6,
+    "effectiveness": 62.3
+  },
+  {
+    "usuario": "NET_YHUAMAN",
+    "total": 71,
+    "delivered": 57,
+    "anulado": 9,
+    "cancelado": 4,
+    "effectiveness": 81.43
+  },
+  {
+    "usuario": "NET_YMILLA",
+    "total": 115,
+    "delivered": 86,
+    "anulado": 8,
+    "cancelado": 13,
+    "effectiveness": 80.37
+  },
+  {
+    "usuario": "NET_YPAREDESG",
+    "total": 32,
+    "delivered": 20,
+    "anulado": 3,
+    "cancelado": 4,
+    "effectiveness": 74.07
+  },
+  {
+    "usuario": "NET_YPEREZC",
+    "total": 10,
+    "delivered": 3,
+    "anulado": 3,
+    "cancelado": 0,
+    "effectiveness": 50.0
+  },
+  {
+    "usuario": "NET_YRAMOSA",
+    "total": 37,
+    "delivered": 14,
+    "anulado": 10,
+    "cancelado": 8,
+    "effectiveness": 43.75
+  },
+  {
+    "usuario": "NET_YRAYMUNDOTA",
+    "total": 21,
+    "delivered": 15,
+    "anulado": 1,
+    "cancelado": 3,
+    "effectiveness": 78.95
+  },
+  {
+    "usuario": "NET_YRUEDAMONDR",
+    "total": 49,
+    "delivered": 31,
+    "anulado": 13,
+    "cancelado": 4,
+    "effectiveness": 64.58
+  },
+  {
+    "usuario": "NET_YSOLSOLM",
+    "total": 4,
+    "delivered": 1,
+    "anulado": 1,
+    "cancelado": 0,
+    "effectiveness": 50.0
+  },
+  {
+    "usuario": "NET_YUCEDAB",
+    "total": 128,
+    "delivered": 77,
+    "anulado": 24,
+    "cancelado": 20,
+    "effectiveness": 63.64
+  },
+  {
+    "usuario": "NET_YVEGASA",
+    "total": 50,
+    "delivered": 38,
+    "anulado": 8,
+    "cancelado": 2,
+    "effectiveness": 79.17
+  },
+  {
+    "usuario": "NET_ZCHOCCAB",
+    "total": 23,
+    "delivered": 14,
+    "anulado": 3,
+    "cancelado": 4,
+    "effectiveness": 66.67
+  },
+  {
+    "usuario": "NET_ZQUISPET",
+    "total": 3,
+    "delivered": 0,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 0.0
+  },
+  {
+    "usuario": "NET_ZVASQUEZB",
+    "total": 30,
+    "delivered": 15,
+    "anulado": 9,
+    "cancelado": 2,
+    "effectiveness": 57.69
+  },
+  {
+    "usuario": "TLV_NET_AARRASC",
+    "total": 35,
+    "delivered": 20,
+    "anulado": 12,
+    "cancelado": 1,
+    "effectiveness": 60.61
+  },
+  {
+    "usuario": "TLV_NET_ABRICER",
+    "total": 1,
+    "delivered": 1,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 100.0
+  },
+  {
+    "usuario": "TLV_NET_ALANDAS",
+    "total": 12,
+    "delivered": 5,
+    "anulado": 6,
+    "cancelado": 0,
+    "effectiveness": 45.45
+  },
+  {
+    "usuario": "TLV_NET_APINTAD",
+    "total": 43,
+    "delivered": 30,
+    "anulado": 3,
+    "cancelado": 8,
+    "effectiveness": 73.17
+  },
+  {
+    "usuario": "TLV_NET_ARICRAD",
+    "total": 2,
+    "delivered": 0,
+    "anulado": 0,
+    "cancelado": 1,
+    "effectiveness": 0.0
+  },
+  {
+    "usuario": "TLV_NET_BCHAVEZ",
+    "total": 158,
+    "delivered": 131,
+    "anulado": 14,
+    "cancelado": 7,
+    "effectiveness": 86.18
+  },
+  {
+    "usuario": "TLV_NET_BRAMIRE",
+    "total": 23,
+    "delivered": 11,
+    "anulado": 5,
+    "cancelado": 1,
+    "effectiveness": 64.71
+  },
+  {
+    "usuario": "TLV_NET_BREYESR",
+    "total": 39,
+    "delivered": 25,
+    "anulado": 8,
+    "cancelado": 5,
+    "effectiveness": 65.79
+  },
+  {
+    "usuario": "TLV_NET_CACEVED",
+    "total": 67,
+    "delivered": 50,
+    "anulado": 10,
+    "cancelado": 6,
+    "effectiveness": 75.76
+  },
+  {
+    "usuario": "TLV_NET_CSILVAP",
+    "total": 100,
+    "delivered": 72,
+    "anulado": 11,
+    "cancelado": 12,
+    "effectiveness": 75.79
+  },
+  {
+    "usuario": "TLV_NET_CZEGARR",
+    "total": 55,
+    "delivered": 46,
+    "anulado": 8,
+    "cancelado": 0,
+    "effectiveness": 85.19
+  },
+  {
+    "usuario": "TLV_NET_DBARTET",
+    "total": 41,
+    "delivered": 20,
+    "anulado": 9,
+    "cancelado": 7,
+    "effectiveness": 55.56
+  },
+  {
+    "usuario": "TLV_NET_DCABEZU",
+    "total": 77,
+    "delivered": 56,
+    "anulado": 11,
+    "cancelado": 6,
+    "effectiveness": 76.71
+  },
+  {
+    "usuario": "TLV_NET_DCASTIA",
+    "total": 29,
+    "delivered": 27,
+    "anulado": 0,
+    "cancelado": 1,
+    "effectiveness": 96.43
+  },
+  {
+    "usuario": "TLV_NET_DGARCIA",
+    "total": 33,
+    "delivered": 24,
+    "anulado": 6,
+    "cancelado": 0,
+    "effectiveness": 80.0
+  },
+  {
+    "usuario": "TLV_NET_DSANC",
+    "total": 54,
+    "delivered": 38,
+    "anulado": 7,
+    "cancelado": 6,
+    "effectiveness": 74.51
+  },
+  {
+    "usuario": "TLV_NET_DVALOI",
+    "total": 169,
+    "delivered": 119,
+    "anulado": 20,
+    "cancelado": 26,
+    "effectiveness": 72.12
+  },
+  {
+    "usuario": "TLV_NET_EBULNES",
+    "total": 72,
+    "delivered": 48,
+    "anulado": 13,
+    "cancelado": 5,
+    "effectiveness": 72.73
+  },
+  {
+    "usuario": "TLV_NET_ECODARL",
+    "total": 32,
+    "delivered": 18,
+    "anulado": 13,
+    "cancelado": 0,
+    "effectiveness": 58.06
+  },
+  {
+    "usuario": "TLV_NET_ECUROS",
+    "total": 111,
+    "delivered": 89,
+    "anulado": 9,
+    "cancelado": 10,
+    "effectiveness": 82.41
+  },
+  {
+    "usuario": "TLV_NET_FENCINA",
+    "total": 32,
+    "delivered": 24,
+    "anulado": 4,
+    "cancelado": 2,
+    "effectiveness": 80.0
+  },
+  {
+    "usuario": "TLV_NET_FUCANAN",
+    "total": 26,
+    "delivered": 14,
+    "anulado": 3,
+    "cancelado": 4,
+    "effectiveness": 66.67
+  },
+  {
+    "usuario": "TLV_NET_FVALQUI",
+    "total": 52,
+    "delivered": 42,
+    "anulado": 4,
+    "cancelado": 3,
+    "effectiveness": 85.71
+  },
+  {
+    "usuario": "TLV_NET_GANACLE",
+    "total": 12,
+    "delivered": 9,
+    "anulado": 2,
+    "cancelado": 0,
+    "effectiveness": 81.82
+  },
+  {
+    "usuario": "TLV_NET_GCUEVAC",
+    "total": 43,
+    "delivered": 28,
+    "anulado": 10,
+    "cancelado": 4,
+    "effectiveness": 66.67
+  },
+  {
+    "usuario": "TLV_NET_GJQUISP",
+    "total": 92,
+    "delivered": 66,
+    "anulado": 15,
+    "cancelado": 9,
+    "effectiveness": 73.33
+  },
+  {
+    "usuario": "TLV_NET_GQUISP",
+    "total": 4,
+    "delivered": 2,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 100.0
+  },
+  {
+    "usuario": "TLV_NET_JASALDE",
+    "total": 69,
+    "delivered": 53,
+    "anulado": 6,
+    "cancelado": 4,
+    "effectiveness": 84.13
+  },
+  {
+    "usuario": "TLV_NET_JCAMPOS",
+    "total": 1,
+    "delivered": 0,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 0.0
+  },
+  {
+    "usuario": "TLV_NET_JMORO",
+    "total": 4,
+    "delivered": 0,
+    "anulado": 2,
+    "cancelado": 0,
+    "effectiveness": 0.0
+  },
+  {
+    "usuario": "TLV_NET_JPENAM",
+    "total": 70,
+    "delivered": 52,
+    "anulado": 12,
+    "cancelado": 6,
+    "effectiveness": 74.29
+  },
+  {
+    "usuario": "TLV_NET_JSILVAT",
+    "total": 50,
+    "delivered": 39,
+    "anulado": 8,
+    "cancelado": 1,
+    "effectiveness": 81.25
+  },
+  {
+    "usuario": "TLV_NET_KARANDA",
+    "total": 89,
+    "delivered": 69,
+    "anulado": 7,
+    "cancelado": 5,
+    "effectiveness": 85.19
+  },
+  {
+    "usuario": "TLV_NET_KCHAV",
+    "total": 145,
+    "delivered": 106,
+    "anulado": 27,
+    "cancelado": 9,
+    "effectiveness": 74.65
+  },
+  {
+    "usuario": "TLV_NET_KCHAVEZ",
+    "total": 36,
+    "delivered": 30,
+    "anulado": 4,
+    "cancelado": 1,
+    "effectiveness": 85.71
+  },
+  {
+    "usuario": "TLV_NET_LCAICED",
+    "total": 51,
+    "delivered": 31,
+    "anulado": 12,
+    "cancelado": 4,
+    "effectiveness": 65.96
+  },
+  {
+    "usuario": "TLV_NET_LMONTED",
+    "total": 69,
+    "delivered": 58,
+    "anulado": 3,
+    "cancelado": 6,
+    "effectiveness": 86.57
+  },
+  {
+    "usuario": "TLV_NET_LPULIDO",
+    "total": 37,
+    "delivered": 23,
+    "anulado": 10,
+    "cancelado": 1,
+    "effectiveness": 67.65
+  },
+  {
+    "usuario": "TLV_NET_LSANCHA",
+    "total": 46,
+    "delivered": 35,
+    "anulado": 6,
+    "cancelado": 2,
+    "effectiveness": 81.4
+  },
+  {
+    "usuario": "TLV_NET_LVILLLA",
+    "total": 45,
+    "delivered": 32,
+    "anulado": 6,
+    "cancelado": 1,
+    "effectiveness": 82.05
+  },
+  {
+    "usuario": "TLV_NET_MAYALAM",
+    "total": 60,
+    "delivered": 46,
+    "anulado": 5,
+    "cancelado": 8,
+    "effectiveness": 77.97
+  },
+  {
+    "usuario": "TLV_NET_MFARFAN",
+    "total": 103,
+    "delivered": 85,
+    "anulado": 10,
+    "cancelado": 5,
+    "effectiveness": 85.0
+  },
+  {
+    "usuario": "TLV_NET_MFERRER",
+    "total": 139,
+    "delivered": 109,
+    "anulado": 19,
+    "cancelado": 8,
+    "effectiveness": 80.15
+  },
+  {
+    "usuario": "TLV_NET_MLANDAR",
+    "total": 146,
+    "delivered": 108,
+    "anulado": 12,
+    "cancelado": 18,
+    "effectiveness": 78.26
+  },
+  {
+    "usuario": "TLV_NET_MMAURIC",
+    "total": 172,
+    "delivered": 117,
+    "anulado": 22,
+    "cancelado": 18,
+    "effectiveness": 74.52
+  },
+  {
+    "usuario": "TLV_NET_MMURGAF",
+    "total": 51,
+    "delivered": 34,
+    "anulado": 10,
+    "cancelado": 3,
+    "effectiveness": 72.34
+  },
+  {
+    "usuario": "TLV_NET_MRONCAL",
+    "total": 42,
+    "delivered": 25,
+    "anulado": 9,
+    "cancelado": 6,
+    "effectiveness": 62.5
+  },
+  {
+    "usuario": "TLV_NET_MSLLUC",
+    "total": 1,
+    "delivered": 0,
+    "anulado": 0,
+    "cancelado": 1,
+    "effectiveness": 0.0
+  },
+  {
+    "usuario": "TLV_NET_NHUAMAA",
+    "total": 70,
+    "delivered": 42,
+    "anulado": 14,
+    "cancelado": 9,
+    "effectiveness": 64.62
+  },
+  {
+    "usuario": "TLV_NET_OCCONA",
+    "total": 62,
+    "delivered": 41,
+    "anulado": 4,
+    "cancelado": 14,
+    "effectiveness": 69.49
+  },
+  {
+    "usuario": "TLV_NET_PMATIAS",
+    "total": 18,
+    "delivered": 10,
+    "anulado": 5,
+    "cancelado": 1,
+    "effectiveness": 62.5
+  },
+  {
+    "usuario": "TLV_NET_RBARRAZ",
+    "total": 35,
+    "delivered": 19,
+    "anulado": 8,
+    "cancelado": 3,
+    "effectiveness": 63.33
+  },
+  {
+    "usuario": "TLV_NET_RBURGOS",
+    "total": 61,
+    "delivered": 41,
+    "anulado": 7,
+    "cancelado": 10,
+    "effectiveness": 70.69
+  },
+  {
+    "usuario": "TLV_NET_RSORIAH",
+    "total": 48,
+    "delivered": 33,
+    "anulado": 12,
+    "cancelado": 0,
+    "effectiveness": 73.33
+  },
+  {
+    "usuario": "TLV_NET_SFERNAN",
+    "total": 71,
+    "delivered": 47,
+    "anulado": 15,
+    "cancelado": 4,
+    "effectiveness": 71.21
+  },
+  {
+    "usuario": "TLV_NET_SVALDEZ",
+    "total": 49,
+    "delivered": 36,
+    "anulado": 7,
+    "cancelado": 1,
+    "effectiveness": 81.82
+  },
+  {
+    "usuario": "TLV_NET_TCFERNA",
+    "total": 23,
+    "delivered": 10,
+    "anulado": 6,
+    "cancelado": 4,
+    "effectiveness": 50.0
+  },
+  {
+    "usuario": "TLV_NET_VCHNGO",
+    "total": 49,
+    "delivered": 31,
+    "anulado": 6,
+    "cancelado": 6,
+    "effectiveness": 72.09
+  },
+  {
+    "usuario": "TLV_NET_VNAPAH",
+    "total": 12,
+    "delivered": 4,
+    "anulado": 2,
+    "cancelado": 2,
+    "effectiveness": 50.0
+  },
+  {
+    "usuario": "TLV_NET_YAQUINO",
+    "total": 45,
+    "delivered": 34,
+    "anulado": 9,
+    "cancelado": 1,
+    "effectiveness": 77.27
+  },
+  {
+    "usuario": "TLV_NET_YQUITOV",
+    "total": 35,
+    "delivered": 22,
+    "anulado": 11,
+    "cancelado": 0,
+    "effectiveness": 66.67
+  }
+]

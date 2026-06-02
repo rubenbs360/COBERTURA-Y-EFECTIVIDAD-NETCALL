@@ -1,0 +1,22 @@
+{
+  "total_orders": 21051,
+  "delivered": 14263,
+  "anulado": 3627,
+  "cancelado": 1843,
+  "pendiente": 1274,
+  "no_bop": 44,
+  "effectiveness": 72.28,
+  "dispatch_types": {
+    "EXPRESS": 11832,
+    "RETIRO EN TIENDA": 4634,
+    "PROGRAMADO": 4541,
+    "No bop": 43,
+    "EXPRESS PROGRAMADO": 1
+  },
+  "negocios": {
+    "Portabilidad Postpago": 18991,
+    "Portabilidad Prepago": 1352,
+    "Venta Regular / Alta": 706,
+    "Renovación": 2
+  }
+}
