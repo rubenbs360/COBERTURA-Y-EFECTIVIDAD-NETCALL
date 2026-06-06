@@ -173,12 +173,13 @@ function renderPolygons() {
 
   geoJsonLayer = L.geoJSON(coberturaData, {
     style: function (feature) {
+      const isNoColor = feature.properties.no_color === true;
       return {
-        fillColor: feature.properties.color_default || '#00ffff',
+        fillColor: isNoColor ? 'transparent' : (feature.properties.color_default || '#00ffff'),
         weight: 2,
         opacity: 0.8,
         color: feature.properties.color_default || '#00ffff',
-        fillOpacity: 0.35
+        fillOpacity: isNoColor ? 0.0 : 0.35
       };
     },
     onEachFeature: function (feature, layer) {
