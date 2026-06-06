@@ -247,7 +247,8 @@ def merge_adicional():
                     "moyobamba", "huanuco limite", "huanuco limite de amarilis", "huanuco limite pillco marca",
                     "iquitos", "pisco", "moquegua zona entregable", "zona entregable juliaca",
                     "tacna limite de tacna", "tacna limite de gregorio albarraci", "tacna limite de pocollay",
-                    "tacna limite de ciudad nueva", "tacna limite de alto de la alianza", "zona chincha"
+                    "tacna limite de ciudad nueva", "tacna limite de alto de la alianza", "zona chincha",
+                    "huaraz zona a visitar independecia", "huaraz zona a visitar huaraz", "huaraz zona a visitar"
                 ]
                 no_color_flag = False
                 if any(nc_kw in name_clean for nc_kw in no_color_kws):
