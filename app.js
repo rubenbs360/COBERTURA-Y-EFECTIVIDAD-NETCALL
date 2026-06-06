@@ -843,7 +843,7 @@ function setupCoordinateSearch() {
         };
       }
 
-      const isRedZone = coverage.tipo_rango === "ROJO (Sin Acceso)";
+      const isRedZone = coverage.tipo_rango === "ROJO (Sin Acceso)" && coverage.no_color !== true;
       let popupHtml = "";
 
       if (isRedZone) {

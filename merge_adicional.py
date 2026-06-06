@@ -189,7 +189,7 @@ def merge_adicional():
                 name_clean = clean_string(name)
                 to_delete = [
                     "mapa completo", "pasco 1", "pasco 3", "tarma", "jauja", "huancavelica",
-                    "jaen", "rioja", "nauta", "yurimaguas", "pasco 2"
+                    "jaen", "rioja", "nauta", "yurimaguas", "pasco 2", "zona peligrosa iquitos 1"
                 ]
                 if any(del_kw in name_clean for del_kw in to_delete):
                     continue
