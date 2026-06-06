@@ -522,18 +522,6 @@ function selectStore(storeId) {
   document.getElementById("det-sup-name").textContent = store.supervisor.nombre;
   document.getElementById("det-sup-mail").textContent = `📧 ${store.supervisor.correo}`;
   document.getElementById("det-sup-cel").textContent = `📞 ${store.supervisor.celular}`;
-  
-  // WhatsApp Button
-  const waBtn = document.getElementById("det-sup-wa-btn");
-  if (store.supervisor.celular && store.supervisor.celular !== "No especificado") {
-    let cleanPhone = store.supervisor.celular.replace(/\D/g, ""); // Keep digits only
-    if (cleanPhone.length === 9) cleanPhone = "51" + cleanPhone; // Add Peru code
-    
-    waBtn.href = `https://api.whatsapp.com/send?phone=${cleanPhone}&text=Hola%20${encodeURIComponent(store.supervisor.nombre)},%20te%20contacto%20desde%20la%20Plataforma%20de%20Ventas%20Netcall.`;
-    waBtn.style.display = "flex";
-  } else {
-    waBtn.style.display = "none";
-  }
 
   // KAM
   document.getElementById("det-kam-name").textContent = store.kam.nombre;
