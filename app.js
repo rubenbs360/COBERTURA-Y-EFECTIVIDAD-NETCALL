@@ -178,7 +178,7 @@ function renderPolygons() {
         fillColor: isNoColor ? 'transparent' : (feature.properties.color_default || '#00ffff'),
         weight: 2,
         opacity: 0.8,
-        color: feature.properties.color_default || '#00ffff',
+        color: isNoColor ? '#000000' : (feature.properties.color_default || '#00ffff'),
         fillOpacity: isNoColor ? 0.0 : 0.35
       };
     },
