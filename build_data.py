@@ -248,6 +248,16 @@ def process_data():
         if sup_email in ['', '-', 'nan']:
             sup_email = "No especificado"
             
+        # Overrides for specific store IDs requested by user
+        if sid == 3057:
+            sup_name = "James Riega"
+            sup_cel = "+51 947 811 842"
+            sup_email = "james.riega@netcall.pe"
+        elif sid == 3031:
+            sup_name = "Nivar Trejo"
+            sup_cel = "+51 996 245 323"
+            sup_email = "nivar.trejo@netcall.pe"
+            
         kam_name = str(row.get('KAM ENTEL', '')).strip()
         if pd.isna(kam_name) or kam_name in ['', '-', 'nan']:
             kam_name = str(row.get('KAM SN', '')).strip()
