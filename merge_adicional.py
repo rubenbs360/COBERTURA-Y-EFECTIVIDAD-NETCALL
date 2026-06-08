@@ -253,6 +253,9 @@ def merge_adicional():
                 no_color_flag = False
                 if any(nc_kw in name_clean for nc_kw in no_color_kws):
                     no_color_flag = True
+                    tipo_rango = "CELESTE"
+                    horario_cobertura = "24 Horas"
+                    color_hex = "#000000"
                 
                 max_id += 1
                 feature = {
