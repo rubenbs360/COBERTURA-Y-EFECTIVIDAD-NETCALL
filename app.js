@@ -827,65 +827,103 @@ function setupCoordinateSearch() {
         window.shippingMarker = L.marker([lat, lng], { icon: shippingIcon }).addTo(map);
       }
 
-      // Check coverage
-      let coverage = findCoverageForLatLng(lat, lng);
-      
-      // If no polygon matches, we default to standard Celeste coverage
-      if (!coverage) {
-        coverage = {
-          nombre_comercial: "Cobertura Estándar",
-          distrito: "Dirección de Envío",
-          departamento: "Lima - Callao",
-          tipo_rango: "CELESTE",
-          horario_cobertura: "24 Horas",
-          color_default: "#00d2ff"
-        };
-      }
+      // Bind temporary loading popup
+      window.shippingMarker.bindPopup('<div class="loading-spinner" style="font-size:0.8rem;">🔍 Consultando dirección aproximada...</div>').openPopup();
 
-      const isRedZone = coverage.tipo_rango === "ROJO (Sin Acceso)" && coverage.no_color !== true;
-      let popupHtml = "";
-
-      if (isRedZone) {
-        popupHtml = `
-          <div class="map-popup-container">
-            <div class="map-popup-header" style="background:var(--danger); color:white; border-radius:8px 8px 0 0; margin:-0.5rem -0.5rem 0.5rem -0.5rem; padding:0.5rem; font-weight:700;">❌ Fuera de Cobertura</div>
-            <p style="font-size:0.8rem; margin:0.5rem 0; line-height:1.4; color:var(--text-main);">La dirección ingresada (${lat.toFixed(5)}, ${lng.toFixed(5)}) se encuentra en una **zona insegura / sin acceso**.</p>
-          </div>
-        `;
-      } else {
-        const deptName = coverage.departamento || "Lima - Callao";
-        const deptStat = departmentsData.find(d => d.departamento.toLowerCase() === deptName.toLowerCase());
-        const effPercent = deptStat ? `${deptStat.effectiveness}%` : "No disponible";
-        
-        popupHtml = `
-          <div class="map-popup-container">
-            <div class="map-popup-header" style="background:var(--success); color:white; border-radius:8px 8px 0 0; margin:-0.5rem -0.5rem 0.5rem -0.5rem; padding:0.5rem; font-weight:700;">✔️ Dirección Con Cobertura</div>
-            <div class="map-popup-row">
-              <span class="map-popup-lbl">Zona:</span>
-              <span class="map-popup-val">${coverage.nombre_comercial}</span>
-            </div>
-            <div class="map-popup-row">
-              <span class="map-popup-lbl">Distrito:</span>
-              <span class="map-popup-val">${coverage.distrito}</span>
-            </div>
-            <div class="map-popup-row">
-              <span class="map-popup-lbl">Rango:</span>
-              <span class="map-popup-val highlight" style="color:${coverage.color_default || 'var(--accent-cyan)'}; font-weight:700;">${coverage.tipo_rango}</span>
-            </div>
-            <div class="map-popup-row">
-              <span class="map-popup-lbl">Horario:</span>
-              <span class="map-popup-val">${coverage.horario_cobertura}</span>
-            </div>
-            <div class="map-popup-row" style="border-top:1px solid rgba(0,0,0,0.06); padding-top:0.3rem; margin-top:0.25rem;">
-              <span class="map-popup-lbl">Efectividad ${deptName}:</span>
-              <span class="map-popup-val text-success" style="font-weight:700;">${effPercent}</span>
-            </div>
-          </div>
-        `;
-      }
-
-      window.shippingMarker.bindPopup(popupHtml).openPopup();
+      // Fetch reverse geocode address from Nominatim (OpenStreetMap)
+      fetch(`https://nominatim.openstreetmap.org/reverse?format=jsonv2&lat=${lat}&lon=${lng}&zoom=18&addressdetails=1`, {
+        headers: {
+          'Accept-Language': 'es-PE,es;q=0.9',
+          'User-Agent': 'NetcallDeliveryApp/1.0'
+        }
+      })
+      .then(res => res.json())
+      .then(geoData => {
+        const addressText = geoData.display_name || "Dirección no identificada";
+        showFinalPopup(lat, lng, addressText);
+      })
+      .catch(err => {
+        console.error("Nominatim error:", err);
+        showFinalPopup(lat, lng, "Dirección no disponible temporalmente");
+      });
     }
+  };
+
+  const showFinalPopup = (lat, lng, addressText) => {
+    // Check coverage
+    let coverage = findCoverageForLatLng(lat, lng);
+    
+    // If no polygon matches, we default to standard Celeste coverage
+    if (!coverage) {
+      coverage = {
+        nombre_comercial: "Cobertura Estándar",
+        distrito: "Dirección de Envío",
+        departamento: "Lima - Callao",
+        tipo_rango: "CELESTE",
+        horario_cobertura: "24 Horas",
+        color_default: "#00d2ff"
+      };
+    }
+
+    const isRedZone = coverage.tipo_rango === "ROJO (Sin Acceso)" && coverage.no_color !== true;
+    let popupHtml = "";
+
+    // Clean up address to show a more compact version if it is too long
+    let shortAddress = addressText;
+    const parts = addressText.split(',');
+    if (parts.length > 4) {
+      // Keep first 4 details (e.g. Street Name, Number, District, City)
+      shortAddress = parts.slice(0, 4).join(',').trim();
+    }
+
+    if (isRedZone) {
+      popupHtml = `
+        <div class="map-popup-container" style="max-width: 250px;">
+          <div class="map-popup-header" style="background:var(--danger); color:white; border-radius:8px 8px 0 0; margin:-0.5rem -0.5rem 0.5rem -0.5rem; padding:0.5rem; font-weight:700;">❌ Fuera de Cobertura</div>
+          <div class="map-popup-row" style="margin-bottom:0.4rem;">
+            <span class="map-popup-lbl" style="font-weight:700;">Dirección:</span>
+            <span class="map-popup-val" style="font-size:0.75rem; display:block; color:var(--danger); font-weight:700;">${shortAddress}</span>
+          </div>
+          <p style="font-size:0.75rem; margin:0.3rem 0 0 0; line-height:1.3; color:var(--text-muted);">La coordenada ingresada se encuentra en una **zona insegura / sin acceso**.</p>
+        </div>
+      `;
+    } else {
+      const deptName = coverage.departamento || "Lima - Callao";
+      const deptStat = departmentsData.find(d => d.departamento.toLowerCase() === deptName.toLowerCase());
+      const effPercent = deptStat ? `${deptStat.effectiveness}%` : "No disponible";
+      
+      popupHtml = `
+        <div class="map-popup-container" style="max-width: 250px;">
+          <div class="map-popup-header" style="background:var(--success); color:white; border-radius:8px 8px 0 0; margin:-0.5rem -0.5rem 0.5rem -0.5rem; padding:0.5rem; font-weight:700;">✔️ Dirección Con Cobertura</div>
+          <div class="map-popup-row">
+            <span class="map-popup-lbl">Dirección:</span>
+            <span class="map-popup-val" style="font-size:0.75rem; font-weight:600; color:var(--text-main);">${shortAddress}</span>
+          </div>
+          <div class="map-popup-row">
+            <span class="map-popup-lbl">Zona:</span>
+            <span class="map-popup-val">${coverage.nombre_comercial}</span>
+          </div>
+          <div class="map-popup-row">
+            <span class="map-popup-lbl">Distrito:</span>
+            <span class="map-popup-val">${coverage.distrito}</span>
+          </div>
+          <div class="map-popup-row">
+            <span class="map-popup-lbl">Rango:</span>
+            <span class="map-popup-val highlight" style="color:${coverage.color_default || 'var(--accent-cyan)'}; font-weight:700;">${coverage.tipo_rango}</span>
+          </div>
+          <div class="map-popup-row">
+            <span class="map-popup-lbl">Horario:</span>
+            <span class="map-popup-val">${coverage.horario_cobertura}</span>
+          </div>
+          <div class="map-popup-row" style="border-top:1px solid rgba(0,0,0,0.06); padding-top:0.3rem; margin-top:0.25rem;">
+            <span class="map-popup-lbl">Efectividad ${deptName}:</span>
+            <span class="map-popup-val text-success" style="font-weight:700;">${effPercent}</span>
+          </div>
+        </div>
+      `;
+    }
+
+    window.shippingMarker.bindPopup(popupHtml).openPopup();
   };
 
   btnSearch.addEventListener("click", performSearch);
