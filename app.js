@@ -34,6 +34,7 @@ document.addEventListener("DOMContentLoaded", () => {
   setupThemeToggler();
   setupAdminListeners();
   setupCoordinateSearch();
+  setupTemplateButtons();
   loadData();
 });
 
@@ -944,4 +945,61 @@ function findCoverageForLatLng(lat, lng) {
     }
   }
   return null;
+}
+
+// Setup template copy buttons in the store details panel
+function setupTemplateButtons() {
+  const btnAlerta = document.getElementById("btn-tmpl-alerta");
+  const btnHuellas = document.getElementById("btn-tmpl-huellas");
+
+  if (!btnAlerta || !btnHuellas) return;
+
+  btnAlerta.addEventListener("click", () => {
+    if (!selectedStoreId) {
+      alert("Por favor, seleccione una tienda primero.");
+      return;
+    }
+    const store = storesData.find(s => s.id_pdv === selectedStoreId);
+    if (!store) return;
+
+    // Get current date formatted as DD/MM/YYYY
+    const today = new Date();
+    const dd = String(today.getDate()).padStart(2, '0');
+    const mm = String(today.getMonth() + 1).padStart(2, '0');
+    const yyyy = today.getFullYear();
+    const formattedDate = `${dd}/${mm}/${yyyy}`;
+
+    const templateText = `PLANTILLA CASO TIENDA
+
+FECHA DE VENTA : ${formattedDate}
+ASESOR: 
+NOMBRE CLIENTE: 
+DNI: 
+NUMERO DE CONTACTO: 
+TIENDA: ${store.nombre}
+PDV: ${store.id_pdv}
+ORDEN OC: 
+OBSERVACION: DETALLAR MOTIVO NO ATENCIÓN : TIENDA DICE QUE NO LE CARGA DOCUMENTOS`;
+
+    copyToClipboard(templateText);
+  });
+
+  btnHuellas.addEventListener("click", () => {
+    if (!selectedStoreId) {
+      alert("Por favor, seleccione una tienda primero.");
+      return;
+    }
+    const store = storesData.find(s => s.id_pdv === selectedStoreId);
+    if (!store) return;
+
+    const templateText = `DNI CL: 
+NOMBRE CL:
+ORDEN OC: 
+ESTADO OC: PROGRESO
+TIENDA : ${store.nombre}
+PDV: ${store.id_pdv}
+COMENTARIO: CLIENTE CUENTA CON HUELLAS DESGASTADAS`;
+
+    copyToClipboard(templateText);
+  });
 }
