@@ -15,8 +15,7 @@ else:
 XLSX_PATH = r"C:\Users\USUARIO\Downloads\DIRECTORIO TIENDAS JUNIO.xlsx"
 
 OUTPUT_DIRS = [
-    r"c:\Users\USUARIO\OneDrive\Escritorio\RUBEN DOC\NETCALL\data",
-    r"c:\Users\USUARIO\OneDrive\Escritorio\RUBEN DOC\NETCALL\PROYECTO_ COBERTURERO\data"
+    r"c:\Users\USUARIO\OneDrive\Escritorio\RUBEN DOC\NETCALL\data"
 ]
 
 for d in OUTPUT_DIRS:
