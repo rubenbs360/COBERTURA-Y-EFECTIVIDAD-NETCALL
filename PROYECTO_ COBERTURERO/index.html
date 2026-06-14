@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Netcall - Plataforma Logística & Efectividad</title>
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <!-- Leaflet Map CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+     integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+     crossorigin=""/>
+  <!-- Styles -->
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body class="light-theme">
+  
+  <div class="app-container">
+    
+    <!-- Sidebar Navigation -->
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="logo-circle">NC</div>
+        <span class="brand-name">Netcall</span>
+      </div>
+      
+      <nav class="nav-menu">
+        <button class="nav-item active" data-tab="tab-map">
+          <span class="nav-icon">🗺️</span>
+          <span class="nav-text">Mapa Cobertura</span>
+        </button>
+        <button class="nav-item" data-tab="tab-stores">
+          <span class="nav-icon">🏪</span>
+          <span class="nav-text">Directorio Tiendas</span>
+        </button>
+        <button class="nav-item" data-tab="tab-admin">
+          <span class="nav-icon">⚙️</span>
+          <span class="nav-text">Administración</span>
+        </button>
+      </nav>
+      
+      <div class="sidebar-footer">
+        <span class="status-indicator online"></span>
+        <span class="status-text">Base Online</span>
+      </div>
+    </aside>
+    
+    <!-- Main Content Area -->
+    <main class="main-content">
+      
+      <!-- Top Header -->
+      <header class="top-header">
+        <div class="header-title-section">
+          <h1>Plataforma de Ventas y Delivery</h1>
+          <p class="subtitle">Monitoreo de Límites de Cobertura y Efectividad de Entregas</p>
+        </div>
+        
+        <div class="header-actions">
+          <div class="last-update">
+            <span class="update-lbl">Actualización:</span>
+            <span class="update-val" id="header-update-time">Hoy</span>
+          </div>
+        </div>
+      </header>
+      
+      <!-- View Content Wrapper -->
+      <div class="view-wrapper">
+        
+        <!-- ================= MAP TAB ================= -->
+        <section id="tab-map" class="tab-view active-view">
+          <div class="split-layout">
+            
+            <!-- Map Controls Panel -->
+            <div class="controls-panel card">
+              <div class="panel-header">
+                <h2>Filtros de Delivery</h2>
+                <p>Verifique los límites y efectividades por zona</p>
+              </div>
+              
+              <div class="form-group">
+                <label for="map-dept-select">Seleccionar Distrito</label>
+                <select id="map-dept-select" class="form-select">
+                  <option value="todos">Todos los Distritos</option>
+                  <!-- Populated by JS -->
+                </select>
+              </div>
+              
+              <div class="form-group">
+                <label>Tipo de Despacho</label>
+                <div class="segmented-control">
+                  <input type="radio" name="despacho-tipo" id="desp_express" value="EXPRESS" checked>
+                  <label for="desp_express">🟢 EXPRESS</label>
+                  
+                  <input type="radio" name="despacho-tipo" id="desp_prog" value="PROGRAMADO">
+                  <label for="desp_prog">🟡 PROG</label>
+                </div>
+              </div>
+
+              <!-- Ubicar por Coordenadas -->
+              <div class="form-group coordinate-search-box">
+                <label for="coord-input">Ubicar Coordenadas (Lat, Lng)</label>
+                <div class="search-box">
+                  <span class="search-icon">📍</span>
+                  <input type="text" id="coord-input" placeholder="Ej: -12.122, -77.028">
+                </div>
+                <button class="action-btn py-2 mt-2 w-full text-sm" id="btn-search-coords" style="font-size:0.85rem; padding:0.5rem 0;">
+                  📍 Ubicar en el Mapa
+                </button>
+                <div class="error-message hidden" id="coord-error-msg" style="margin-top:0.35rem; font-size:0.75rem; padding:0.4rem; color:var(--danger); background-color:var(--danger-bg); border-radius:6px; border:1px solid rgba(239, 68, 68, 0.25); text-align:center;">
+                  Formato inválido. Use: latitud, longitud (ej. -12.12, -77.03)
+                </div>
+              </div>
+
+              <!-- Regional Performance Card -->
+              <div class="performance-card">
+                <div class="perf-title">Rendimiento en <span id="perf-dept-name">Todo el País</span></div>
+                
+                <div class="perf-metric">
+                  <div class="metric-val" id="perf-eff-val">0.0%</div>
+                  <div class="metric-lbl">Efectividad de Entrega</div>
+                </div>
+                
+                <div class="progress-bar-container">
+                  <div class="progress-bar" id="perf-progress-bar" style="width: 0%"></div>
+                </div>
+                
+                <div class="perf-stats">
+                  <div class="p-stat">
+                    <span class="p-stat-lbl">Entregados:</span>
+                    <span class="p-stat-val text-success" id="perf-delivered">0</span>
+                  </div>
+                  <div class="p-stat">
+                    <span class="p-stat-lbl">Rechazos/Anulados:</span>
+                    <span class="p-stat-val text-danger" id="perf-failed">0</span>
+                  </div>
+                </div>
+              </div>
+              
+              <!-- Map Legend -->
+              <div class="legend-box">
+                <h4>Leyenda de Polígonos Cobertura</h4>
+                <div class="legend-item">
+                  <span class="legend-color" style="background-color: #00FFFF"></span>
+                  <span>Celeste - Rango 24 Horas Sempre Disponible</span>
+                </div>
+                <div class="legend-item">
+                  <span class="legend-color" style="background-color: #FFA500"></span>
+                  <span>Naranja - Rango 12 Horas (8 AM - 8 PM)</span>
+                </div>
+                <div class="legend-item">
+                  <span class="legend-color" style="background-color: #00FF55"></span>
+                  <span>Verde - Cobertura Principal 24 Horas</span>
+                </div>
+                <div class="legend-item">
+                  <span class="legend-color" style="background-color: #FF00FF"></span>
+                  <span>Magenta - Express Miraflores Hub (9 AM - 10 PM)</span>
+                </div>
+              </div>
+            </div>
+            
+            <!-- Map Container -->
+            <div class="map-container-wrapper card">
+              <div id="map" class="map-canvas"></div>
+            </div>
+            
+          </div>
+        </section>
+        
+        <!-- ================= STORES TAB ================= -->
+        <section id="tab-stores" class="tab-view">
+          <div class="split-layout">
+            
+            <!-- Stores List Panel (Left) -->
+            <div class="stores-list-panel card">
+              
+              <!-- Search Bar & Filters -->
+              <div class="search-section">
+                <div class="search-box">
+                  <span class="search-icon">🔍</span>
+                  <input type="text" id="store-search-input" placeholder="Buscar ID, nombre de tienda o provincia...">
+                </div>
+                
+                <div class="filter-row">
+                  <span class="filter-lbl">Subcanal:</span>
+                  <div class="checkbox-group">
+                    <label class="checkbox-container">
+                      <input type="checkbox" value="TPF" checked class="subcanal-filter"> TPF
+                    </label>
+                    <label class="checkbox-container">
+                      <input type="checkbox" value="TEX" checked class="subcanal-filter"> TEX
+                    </label>
+                    <label class="checkbox-container">
+                      <input type="checkbox" value="GGSS" checked class="subcanal-filter"> GGSS
+                    </label>
+                  </div>
+                </div>
+              </div>
+              
+              <!-- Stores List Container -->
+              <div class="stores-scroll-list" id="stores-list-container">
+                <!-- Populated by JS -->
+                <div class="loading-spinner">Cargando base de tiendas...</div>
+              </div>
+            </div>
+            
+            <!-- Store Detail Panel (Right) -->
+            <div class="store-detail-panel card" id="store-detail-panel">
+              <!-- Default state when no store selected -->
+              <div class="no-selection-state">
+                <span class="big-icon">🏪</span>
+                <h3>Selecciona una Tienda</h3>
+                <p>Busca e interactúa con un punto de venta en el panel izquierdo para ver su efectividad, horarios, supervisores y personal a cargo.</p>
+              </div>
+              
+              <!-- Store Detail Content (populated by JS) -->
+              <div class="detail-content hidden" id="store-detail-content">
+                <!-- Header Info -->
+                <div class="detail-header">
+                  <div class="badge-row">
+                    <span class="pdv-badge id-badge" id="det-id">ID: 3162</span>
+                    <span class="pdv-badge canal-badge" id="det-canal-sub">TIENDAS | TPF</span>
+                  </div>
+                  <h2 id="det-name">TPF MALL DEL SUR</h2>
+                  <p class="location" id="det-location">📍 Av. Los Lirios S/N, San Juan de Miraflores, Lima</p>
+                  <button class="btn-view-on-map" id="btn-view-on-map" style="margin-top: 8px; display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; font-size: 0.75rem; background: rgba(0, 242, 254, 0.15); color: var(--accent-cyan); border: 1px solid var(--accent-cyan); border-radius: 6px; cursor: pointer; font-weight: 600; transition: all 0.2s;">
+                    🗺️ Ubicar en Mapa
+                  </button>
+                </div>
+                
+                <!-- Effectiveness Gauge Section -->
+                <div class="detail-metric-card">
+                  <div class="gauge-header">
+                    <h3>📊 EFECTIVIDAD HOY (Outbound Delivery)</h3>
+                    <span class="status-indicator-text status-green" id="det-status-lvl">Óptimo</span>
+                  </div>
+                  <div class="gauge-body">
+                    <div class="gauge-numbers">
+                      <span class="large-eff" id="det-eff-pct">61.87%</span>
+                      <div class="details-stats">
+                        <span id="det-stat-orders">Órdenes: 150</span>
+                        <span class="dot">•</span>
+                        <span id="det-stat-success">Entregados: 93</span>
+                      </div>
+                    </div>
+                    <div class="progress-bar-container large">
+                      <div class="progress-bar" id="det-eff-bar" style="width: 61%"></div>
+                    </div>
+                  </div>
+                </div>
+                
+                <!-- Store Specifications -->
+                <div class="specs-grid">
+                  <div class="spec-item">
+                    <span class="spec-icon">📅</span>
+                    <div class="spec-desc">
+                      <h4>Horario L-V</h4>
+                      <p id="det-hours-lv">09:00 AM - 10:00 PM</p>
+                    </div>
+                  </div>
+                  <div class="spec-item">
+                    <span class="spec-icon">⏰</span>
+                    <div class="spec-desc">
+                      <h4>Horario Sábado</h4>
+                      <p id="det-hours-s">09:00 AM - 10:00 PM</p>
+                    </div>
+                  </div>
+                  <div class="spec-item">
+                    <span class="spec-icon">🌙</span>
+                    <div class="spec-desc">
+                      <h4>Horario Domingo</h4>
+                      <p id="det-hours-d">09:00 AM - 10:00 PM</p>
+                    </div>
+                  </div>
+                  <div class="spec-item">
+                    <span class="spec-icon">📦</span>
+                    <div class="spec-desc">
+                      <h4>Tienda PickUp</h4>
+                      <p id="det-pickup">SI</p>
+                    </div>
+                  </div>
+                </div>
+                
+                <!-- References -->
+                <div class="info-section">
+                  <h3>Detalles de Ubicación</h3>
+                  <p class="ref-text" id="det-reference">Referencia: Frente a la autopista Panamericana Sur</p>
+                </div>
+                
+                <!-- Team Section -->
+                <div class="team-section">
+                  <h3>👥 EQUIPO A CARGO (Nómina)</h3>
+                  
+                  <div class="contacts-grid">
+                    <!-- Jefe de Clúster / Supervisor -->
+                    <div class="contact-card">
+                      <span class="role-badge bg-primary">Jefe de Clúster / Supervisor</span>
+                      <h4 id="det-sup-name">MONICA CABRERA</h4>
+                      <p class="contact-row" id="det-sup-mail">📧 monica.cabrera@netcall.pe</p>
+                      <p class="contact-row" id="det-sup-cel">📞 987654321</p>
+                      <div class="template-btns-container" style="margin-top: 1rem; display: flex; flex-direction: column; gap: 0.5rem;">
+                        <button class="action-btn" id="btn-tmpl-alerta" style="background: var(--accent-purple); color: white; border: none; padding: 0.6rem 1rem; border-radius: 6px; font-weight: 600; cursor: pointer; text-align: center; display: flex; align-items: center; justify-content: center; gap: 0.5rem; width: 100%;">
+                          ⚠️ Plantilla Alerta Tienda
+                        </button>
+                        <button class="action-btn" id="btn-tmpl-huellas" style="background: var(--accent-cyan); color: var(--bg-dark); border: none; padding: 0.6rem 1rem; border-radius: 6px; font-weight: 600; cursor: pointer; text-align: center; display: flex; align-items: center; justify-content: center; gap: 0.5rem; width: 100%;">
+                          👣 Plantilla Huellas desgastadas
+                        </button>
+                      </div>
+                    </div>
+                    
+                    <!-- KAM / Jefe Comercial -->
+                    <div class="contact-card">
+                      <span class="role-badge bg-secondary">KAM & Comercial</span>
+                      <h4 id="det-kam-name">S. COBO</h4>
+                      <p class="contact-row" id="det-kam-mail">📧 s.cobo@netcall.pe</p>
+                      <h5 class="sub-role">Jefe Comercial SN</h5>
+                      <p class="contact-row" id="det-com-name">HEYDY TORRES</p>
+                      <p class="contact-row" id="det-com-mail">📧 htorres@gmail.com</p>
+                    </div>
+                  </div>
+                  
+                  <!-- Advisors List Accordion -->
+                  <div class="advisors-accordion">
+                    <button class="accordion-trigger" id="advisors-toggle-btn">
+                      <span>👤 Asesores Activos en Tienda (<span id="det-adv-count">0</span>)</span>
+                      <span class="arrow">▼</span>
+                    </button>
+                    <div class="accordion-content hidden" id="advisors-list-content">
+                      <div class="table-container">
+                        <table class="advisors-table">
+                          <thead>
+                            <tr>
+                              <th>Nombre del Asesor</th>
+                              <th>Usuario Portal</th>
+                              <th>Puesto</th>
+                              <th>Celular</th>
+                              <th>Correo</th>
+                            </tr>
+                          </thead>
+                          <tbody id="det-advisors-tbody">
+                            <!-- Populated by JS -->
+                          </tbody>
+                        </table>
+                      </div>
+                    </div>
+                  </div>
+                  
+                </div>
+                
+              </div>
+            </div>
+            
+          </div>
+        </section>
+        
+        <!-- ================= ADMINISTRATION TAB ================= -->
+        <section id="tab-admin" class="tab-view">
+          
+          <!-- Login View (shown by default) -->
+          <div class="admin-login-container card" id="admin-login-box">
+            <div class="login-header">
+              <span class="lock-icon">🔒</span>
+              <h2>Acceso Protegido</h2>
+              <p>Ingrese sus credenciales de supervisor para acceder al panel de administración.</p>
+            </div>
+            
+            <form id="admin-login-form" class="login-form">
+              <div class="form-group">
+                <label for="login-username">Usuario</label>
+                <input type="text" id="login-username" class="form-select" placeholder="Ingrese usuario" required autocomplete="username">
+              </div>
+              
+              <div class="form-group">
+                <label for="login-password">Contraseña</label>
+                <input type="password" id="login-password" class="form-select" placeholder="••••••••" required autocomplete="current-password">
+              </div>
+              
+              <div class="error-message hidden" id="login-error-msg">
+                ❌ Credenciales incorrectas. Intente de nuevo.
+              </div>
+              
+              <button type="submit" class="action-btn py-3 w-full mt-4">
+                🔑 Iniciar Sesión
+              </button>
+            </form>
+          </div>
+
+          <!-- Main Admin Panel (hidden by default) -->
+          <div class="admin-panel-container card hidden" id="admin-main-panel">
+            <div class="admin-header-row">
+              <div>
+                <h2>⚙️ Panel de Administración y Carga de Datos</h2>
+                <p class="desc">Suba las bases de datos diarias para recalcular las efectividades del delivery y actualizar los datos de la nómina de tiendas.</p>
+              </div>
+              <button class="theme-btn logout-btn" id="btn-admin-logout">
+                🚪 Cerrar Sesión
+              </button>
+            </div>
+            
+            <div class="admin-grid">
+              
+              <!-- Dropzone Card -->
+              <div class="admin-action-card">
+                <h3>1. Carga de Archivos</h3>
+                <p>Arrastre o seleccione los archivos exportados para la actualización.</p>
+                
+                <div class="drop-zone" id="drop-zone-csv">
+                  <span class="dz-icon">📊</span>
+                  <span class="dz-text">Dashboard Outbound Netcall (CSV)</span>
+                  <span class="dz-sub">Haga clic o arrastre el archivo</span>
+                  <input type="file" id="input-csv-file" class="hidden-input" accept=".csv">
+                </div>
+                <div class="file-loaded-status hidden" id="status-csv-loaded">
+                  <span class="status-ok">✔</span> <span id="name-csv-loaded">archivo.csv</span> cargado
+                </div>
+                
+                <div class="drop-zone mt-4" id="drop-zone-xlsx">
+                  <span class="dz-icon">📁</span>
+                  <span class="dz-text">Directorio Tiendas Mayo (XLSX)</span>
+                  <span class="dz-sub">Haga clic o arrastre el archivo</span>
+                  <input type="file" id="input-xlsx-file" class="hidden-input" accept=".xlsx">
+                </div>
+                <div class="file-loaded-status hidden" id="status-xlsx-loaded">
+                  <span class="status-ok">✔</span> <span id="name-xlsx-loaded">archivo.xlsx</span> cargado
+                </div>
+                
+                <button class="action-btn py-3 mt-6 w-full" id="btn-process-data">
+                  🚀 Procesar Datos del Día
+                </button>
+              </div>
+              
+              <!-- Log / Console Output -->
+              <div class="admin-log-card">
+                <h3>2. Log de Consola</h3>
+                <p>Registro detallado de los procesos de cálculo de efectividad y base de datos.</p>
+                
+                <div class="console-output" id="console-output">
+                  [SISTEMA] Listo. Cargado 24 departamentos y 484 tiendas en caché local.
+                  Esperando nueva base de datos para recalcular...
+                </div>
+              </div>
+              
+            </div>
+          </div>
+        </section>
+        
+      </div>
+      
+    </main>
+    
+  </div>
+
+  <!-- Leaflet Map JS -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+     crossorigin=""></script>
+  <!-- App JS -->
+  <script src="app.js"></script>
+</body>
+</html>
