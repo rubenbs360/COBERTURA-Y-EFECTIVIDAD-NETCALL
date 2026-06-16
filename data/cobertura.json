@@ -4694,10 +4694,10 @@
         "provincia": "",
         "distrito": "CAJAMARQUILLA",
         "nombre_comercial": "CAJAMARQUILLA",
-        "color_default": "#00d2ff",
-        "tipo_rango": "CELESTE",
-        "horario_cobertura": "24 Horas",
-        "description": "EL PARAISO DE CAJAMARQUILLA (CHACLACAYO) / AH VILLA ESPERANZA / 4 DE FEBRERO / AH 4 DE FEBRERO / AH 14 DE FEBRERO"
+        "color_default": "#ef4444",
+        "tipo_rango": "ROJO (Sin Acceso)",
+        "horario_cobertura": "Sin Cobertura / Zona Insegura",
+        "description": "No se cubre zona"
       },
       "geometry": {
         "type": "Polygon",
