@@ -946,7 +946,7 @@ function setupCoordinateSearch() {
       .then(res => res.json())
       .then(geoData => {
         const addressText = geoData.display_name || "Dirección no identificada";
-        showFinalPopup(lat, lng, addressText);
+        showFinalPopup(lat, lng, addressText, geoData);
         
         // Update the district filter automatically
         const matchedDistrict = findDistrictForLatLng(lat, lng, geoData);
@@ -960,7 +960,7 @@ function setupCoordinateSearch() {
       })
       .catch(err => {
         console.error("Nominatim error:", err);
-        showFinalPopup(lat, lng, "Dirección no disponible temporalmente");
+        showFinalPopup(lat, lng, "Dirección no disponible temporalmente", null);
         
         // Fallback district lookup even if nominatim failed
         const matchedDistrict = findDistrictForLatLng(lat, lng, null);
@@ -975,7 +975,7 @@ function setupCoordinateSearch() {
     }
   };
 
-  const showFinalPopup = (lat, lng, addressText) => {
+  const showFinalPopup = (lat, lng, addressText, geoData = null) => {
     // Check coverage
     let coverage = findCoverageForLatLng(lat, lng);
     
@@ -989,6 +989,14 @@ function setupCoordinateSearch() {
         horario_cobertura: "24 Horas",
         color_default: "#00d2ff"
       };
+    }
+    
+    // Override default/missing district with the matched district from reverse geocoding or closest store fallback
+    const matchedDistrict = findDistrictForLatLng(lat, lng, geoData);
+    if (matchedDistrict) {
+      if (coverage.distrito === "Dirección de Envío" || !coverage.distrito) {
+        coverage.distrito = matchedDistrict;
+      }
     }
 
     const isRedZone = coverage.tipo_rango === "ROJO (Sin Acceso)" && coverage.no_color !== true;
