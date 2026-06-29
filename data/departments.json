@@ -1,62 +1,177 @@
 [
   {
     "departamento": "Abancay",
-    "total": 24,
-    "delivered": 21,
-    "anulado": 2,
-    "cancelado": 1,
-    "pendiente": 0,
-    "effectiveness": 87.5,
+    "total": 58,
+    "delivered": 47,
+    "anulado": 4,
+    "cancelado": 5,
+    "pendiente": 2,
+    "effectiveness": 83.93,
     "dispatch": {
       "EXPRESS": {
-        "total": 8,
-        "delivered": 6,
-        "anulado": 2,
+        "total": 26,
+        "delivered": 22,
+        "anulado": 4,
+        "cancelado": 0
+      },
+      "PROGRAMADO": {
+        "total": 3,
+        "delivered": 3,
+        "anulado": 0,
         "cancelado": 0
       },
       "RETIRO EN TIENDA": {
-        "total": 16,
-        "delivered": 15,
+        "total": 29,
+        "delivered": 22,
         "anulado": 0,
-        "cancelado": 1
+        "cancelado": 5
       }
     }
   },
   {
     "departamento": "Alto De La Alianza",
-    "total": 17,
-    "delivered": 15,
-    "anulado": 0,
+    "total": 35,
+    "delivered": 29,
+    "anulado": 4,
     "cancelado": 1,
     "pendiente": 1,
-    "effectiveness": 93.75,
+    "effectiveness": 85.29,
     "dispatch": {
       "EXPRESS": {
-        "total": 12,
-        "delivered": 11,
-        "anulado": 0,
+        "total": 23,
+        "delivered": 19,
+        "anulado": 2,
         "cancelado": 1
       },
       "PROGRAMADO": {
-        "total": 5,
-        "delivered": 4,
-        "anulado": 0,
+        "total": 12,
+        "delivered": 10,
+        "anulado": 2,
         "cancelado": 0
       }
     }
   },
   {
     "departamento": "Alto Laran",
-    "total": 5,
-    "delivered": 2,
+    "total": 8,
+    "delivered": 4,
+    "anulado": 4,
+    "cancelado": 0,
+    "pendiente": 0,
+    "effectiveness": 50.0,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 5,
+        "delivered": 2,
+        "anulado": 3,
+        "cancelado": 0
+      },
+      "PROGRAMADO": {
+        "total": 3,
+        "delivered": 2,
+        "anulado": 1,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Alto Selva Alegre",
+    "total": 73,
+    "delivered": 56,
+    "anulado": 12,
+    "cancelado": 5,
+    "pendiente": 0,
+    "effectiveness": 76.71,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 62,
+        "delivered": 50,
+        "anulado": 8,
+        "cancelado": 4
+      },
+      "PROGRAMADO": {
+        "total": 11,
+        "delivered": 6,
+        "anulado": 4,
+        "cancelado": 1
+      }
+    }
+  },
+  {
+    "departamento": "Amarilis",
+    "total": 102,
+    "delivered": 65,
+    "anulado": 33,
+    "cancelado": 0,
+    "pendiente": 4,
+    "effectiveness": 66.33,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 73,
+        "delivered": 50,
+        "anulado": 22,
+        "cancelado": 0
+      },
+      "PROGRAMADO": {
+        "total": 29,
+        "delivered": 15,
+        "anulado": 11,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Ancon",
+    "total": 32,
+    "delivered": 25,
+    "anulado": 4,
+    "cancelado": 3,
+    "pendiente": 0,
+    "effectiveness": 78.12,
+    "dispatch": {
+      "PROGRAMADO": {
+        "total": 32,
+        "delivered": 25,
+        "anulado": 4,
+        "cancelado": 3
+      }
+    }
+  },
+  {
+    "departamento": "Andahuaylas",
+    "total": 37,
+    "delivered": 30,
+    "anulado": 6,
+    "cancelado": 0,
+    "pendiente": 1,
+    "effectiveness": 83.33,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 35,
+        "delivered": 29,
+        "anulado": 6,
+        "cancelado": 0
+      },
+      "PROGRAMADO": {
+        "total": 2,
+        "delivered": 1,
+        "anulado": 0,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Andres Avelino Caceres Dorregaray",
+    "total": 21,
+    "delivered": 18,
     "anulado": 3,
     "cancelado": 0,
     "pendiente": 0,
-    "effectiveness": 40.0,
+    "effectiveness": 85.71,
     "dispatch": {
       "EXPRESS": {
-        "total": 4,
-        "delivered": 1,
+        "total": 20,
+        "delivered": 17,
         "anulado": 3,
         "cancelado": 0
       },
@@ -69,22 +184,85 @@
     }
   },
   {
-    "departamento": "Alto Selva Alegre",
-    "total": 35,
-    "delivered": 29,
-    "anulado": 4,
-    "cancelado": 0,
-    "pendiente": 2,
-    "effectiveness": 87.88,
+    "departamento": "Apurimac",
+    "total": 61,
+    "delivered": 45,
+    "anulado": 0,
+    "cancelado": 15,
+    "pendiente": 1,
+    "effectiveness": 75.0,
+    "dispatch": {
+      "RETIRO EN TIENDA": {
+        "total": 61,
+        "delivered": 45,
+        "anulado": 0,
+        "cancelado": 15
+      }
+    }
+  },
+  {
+    "departamento": "Arequipa",
+    "total": 355,
+    "delivered": 265,
+    "anulado": 13,
+    "cancelado": 65,
+    "pendiente": 12,
+    "effectiveness": 77.26,
     "dispatch": {
       "EXPRESS": {
-        "total": 31,
-        "delivered": 27,
-        "anulado": 4,
+        "total": 124,
+        "delivered": 117,
+        "anulado": 7,
         "cancelado": 0
       },
       "PROGRAMADO": {
+        "total": 46,
+        "delivered": 36,
+        "anulado": 6,
+        "cancelado": 1
+      },
+      "RETIRO EN TIENDA": {
+        "total": 185,
+        "delivered": 112,
+        "anulado": 0,
+        "cancelado": 64
+      }
+    }
+  },
+  {
+    "departamento": "Ascope",
+    "total": 29,
+    "delivered": 23,
+    "anulado": 0,
+    "cancelado": 4,
+    "pendiente": 2,
+    "effectiveness": 85.19,
+    "dispatch": {
+      "PROGRAMADO": {
         "total": 4,
+        "delivered": 2,
+        "anulado": 0,
+        "cancelado": 0
+      },
+      "RETIRO EN TIENDA": {
+        "total": 25,
+        "delivered": 21,
+        "anulado": 0,
+        "cancelado": 4
+      }
+    }
+  },
+  {
+    "departamento": "Asia",
+    "total": 3,
+    "delivered": 2,
+    "anulado": 0,
+    "cancelado": 0,
+    "pendiente": 1,
+    "effectiveness": 100.0,
+    "dispatch": {
+      "PROGRAMADO": {
+        "total": 3,
         "delivered": 2,
         "anulado": 0,
         "cancelado": 0
@@ -92,238 +270,135 @@
     }
   },
   {
-    "departamento": "Amarilis",
-    "total": 58,
-    "delivered": 33,
-    "anulado": 23,
-    "cancelado": 0,
-    "pendiente": 2,
-    "effectiveness": 58.93,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 53,
-        "delivered": 33,
-        "anulado": 20,
-        "cancelado": 0
-      },
-      "PROGRAMADO": {
-        "total": 5,
-        "delivered": 0,
-        "anulado": 3,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Ancon",
-    "total": 11,
-    "delivered": 8,
-    "anulado": 2,
-    "cancelado": 0,
-    "pendiente": 1,
-    "effectiveness": 80.0,
-    "dispatch": {
-      "PROGRAMADO": {
-        "total": 11,
-        "delivered": 8,
-        "anulado": 2,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Andahuaylas",
-    "total": 14,
-    "delivered": 13,
-    "anulado": 1,
-    "cancelado": 0,
-    "pendiente": 0,
-    "effectiveness": 92.86,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 14,
-        "delivered": 13,
-        "anulado": 1,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Andres Avelino Caceres Dorregaray",
-    "total": 11,
-    "delivered": 8,
-    "anulado": 1,
-    "cancelado": 0,
-    "pendiente": 2,
-    "effectiveness": 88.89,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 11,
-        "delivered": 8,
-        "anulado": 1,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Apurimac",
-    "total": 23,
-    "delivered": 19,
-    "anulado": 0,
-    "cancelado": 2,
-    "pendiente": 2,
-    "effectiveness": 90.48,
-    "dispatch": {
-      "RETIRO EN TIENDA": {
-        "total": 23,
-        "delivered": 19,
-        "anulado": 0,
-        "cancelado": 2
-      }
-    }
-  },
-  {
-    "departamento": "Arequipa",
-    "total": 170,
-    "delivered": 125,
-    "anulado": 6,
-    "cancelado": 32,
-    "pendiente": 7,
-    "effectiveness": 76.69,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 55,
-        "delivered": 50,
-        "anulado": 4,
-        "cancelado": 0
-      },
-      "PROGRAMADO": {
-        "total": 21,
-        "delivered": 17,
-        "anulado": 2,
-        "cancelado": 0
-      },
-      "RETIRO EN TIENDA": {
-        "total": 94,
-        "delivered": 58,
-        "anulado": 0,
-        "cancelado": 32
-      }
-    }
-  },
-  {
-    "departamento": "Ascope",
-    "total": 23,
-    "delivered": 21,
-    "anulado": 0,
-    "cancelado": 2,
-    "pendiente": 0,
-    "effectiveness": 91.3,
-    "dispatch": {
-      "PROGRAMADO": {
-        "total": 1,
-        "delivered": 1,
-        "anulado": 0,
-        "cancelado": 0
-      },
-      "RETIRO EN TIENDA": {
-        "total": 22,
-        "delivered": 20,
-        "anulado": 0,
-        "cancelado": 2
-      }
-    }
-  },
-  {
     "departamento": "Ate",
-    "total": 317,
-    "delivered": 225,
-    "anulado": 73,
-    "cancelado": 0,
-    "pendiente": 19,
-    "effectiveness": 75.5,
+    "total": 610,
+    "delivered": 464,
+    "anulado": 134,
+    "cancelado": 2,
+    "pendiente": 10,
+    "effectiveness": 77.33,
     "dispatch": {
       "EXPRESS": {
-        "total": 264,
-        "delivered": 201,
-        "anulado": 62,
-        "cancelado": 0
+        "total": 504,
+        "delivered": 392,
+        "anulado": 106,
+        "cancelado": 2
       },
       "PROGRAMADO": {
-        "total": 53,
-        "delivered": 24,
-        "anulado": 11,
+        "total": 106,
+        "delivered": 72,
+        "anulado": 28,
         "cancelado": 0
       }
     }
   },
   {
     "departamento": "Ayacucho",
-    "total": 48,
-    "delivered": 33,
-    "anulado": 13,
+    "total": 95,
+    "delivered": 71,
+    "anulado": 20,
     "cancelado": 0,
-    "pendiente": 2,
-    "effectiveness": 71.74,
+    "pendiente": 4,
+    "effectiveness": 78.02,
     "dispatch": {
       "EXPRESS": {
-        "total": 42,
-        "delivered": 29,
-        "anulado": 12,
+        "total": 78,
+        "delivered": 59,
+        "anulado": 16,
         "cancelado": 0
       },
       "PROGRAMADO": {
-        "total": 6,
-        "delivered": 4,
-        "anulado": 1,
+        "total": 17,
+        "delivered": 12,
+        "anulado": 4,
         "cancelado": 0
       }
     }
   },
   {
     "departamento": "Barranca",
-    "total": 55,
-    "delivered": 39,
-    "anulado": 3,
-    "cancelado": 9,
-    "pendiente": 4,
-    "effectiveness": 76.47,
+    "total": 83,
+    "delivered": 53,
+    "anulado": 13,
+    "cancelado": 15,
+    "pendiente": 2,
+    "effectiveness": 65.43,
     "dispatch": {
       "EXPRESS": {
-        "total": 19,
-        "delivered": 16,
-        "anulado": 2,
+        "total": 27,
+        "delivered": 21,
+        "anulado": 5,
         "cancelado": 1
       },
       "PROGRAMADO": {
-        "total": 15,
-        "delivered": 13,
-        "anulado": 1,
+        "total": 26,
+        "delivered": 16,
+        "anulado": 8,
         "cancelado": 0
       },
       "RETIRO EN TIENDA": {
-        "total": 21,
-        "delivered": 10,
+        "total": 30,
+        "delivered": 16,
         "anulado": 0,
-        "cancelado": 8
+        "cancelado": 14
       }
     }
   },
   {
     "departamento": "Barranco",
-    "total": 13,
-    "delivered": 12,
-    "anulado": 0,
+    "total": 32,
+    "delivered": 28,
+    "anulado": 3,
     "cancelado": 1,
     "pendiente": 0,
-    "effectiveness": 92.31,
+    "effectiveness": 87.5,
     "dispatch": {
       "EXPRESS": {
-        "total": 11,
-        "delivered": 10,
-        "anulado": 0,
+        "total": 28,
+        "delivered": 26,
+        "anulado": 1,
         "cancelado": 1
       },
+      "PROGRAMADO": {
+        "total": 4,
+        "delivered": 2,
+        "anulado": 2,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Bellavista",
+    "total": 121,
+    "delivered": 89,
+    "anulado": 29,
+    "cancelado": 1,
+    "pendiente": 2,
+    "effectiveness": 74.79,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 82,
+        "delivered": 63,
+        "anulado": 17,
+        "cancelado": 1
+      },
+      "PROGRAMADO": {
+        "total": 39,
+        "delivered": 26,
+        "anulado": 12,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Bernal",
+    "total": 2,
+    "delivered": 2,
+    "anulado": 0,
+    "cancelado": 0,
+    "pendiente": 0,
+    "effectiveness": 100.0,
+    "dispatch": {
       "PROGRAMADO": {
         "total": 2,
         "delivered": 2,
@@ -333,41 +408,18 @@
     }
   },
   {
-    "departamento": "Bellavista",
-    "total": 57,
-    "delivered": 37,
-    "anulado": 12,
-    "cancelado": 1,
-    "pendiente": 7,
-    "effectiveness": 74.0,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 36,
-        "delivered": 24,
-        "anulado": 7,
-        "cancelado": 1
-      },
-      "PROGRAMADO": {
-        "total": 21,
-        "delivered": 13,
-        "anulado": 5,
-        "cancelado": 0
-      }
-    }
-  },
-  {
     "departamento": "Breña",
-    "total": 5,
-    "delivered": 4,
-    "anulado": 1,
+    "total": 18,
+    "delivered": 16,
+    "anulado": 2,
     "cancelado": 0,
     "pendiente": 0,
-    "effectiveness": 80.0,
+    "effectiveness": 88.89,
     "dispatch": {
       "EXPRESS": {
-        "total": 5,
-        "delivered": 4,
-        "anulado": 1,
+        "total": 18,
+        "delivered": 16,
+        "anulado": 2,
         "cancelado": 0
       }
     }
@@ -391,136 +443,153 @@
   },
   {
     "departamento": "Cajamarca",
-    "total": 197,
-    "delivered": 136,
-    "anulado": 27,
-    "cancelado": 21,
-    "pendiente": 13,
-    "effectiveness": 73.91,
+    "total": 351,
+    "delivered": 245,
+    "anulado": 44,
+    "cancelado": 53,
+    "pendiente": 9,
+    "effectiveness": 71.64,
     "dispatch": {
       "EXPRESS": {
-        "total": 111,
-        "delivered": 93,
-        "anulado": 16,
-        "cancelado": 2
+        "total": 187,
+        "delivered": 162,
+        "anulado": 20,
+        "cancelado": 3
       },
       "PROGRAMADO": {
-        "total": 44,
-        "delivered": 25,
-        "anulado": 11,
-        "cancelado": 2
+        "total": 81,
+        "delivered": 50,
+        "anulado": 24,
+        "cancelado": 4
       },
       "RETIRO EN TIENDA": {
-        "total": 42,
-        "delivered": 18,
+        "total": 83,
+        "delivered": 33,
         "anulado": 0,
-        "cancelado": 17
+        "cancelado": 46
       }
     }
   },
   {
     "departamento": "Calleria",
-    "total": 72,
-    "delivered": 39,
-    "anulado": 23,
+    "total": 126,
+    "delivered": 83,
+    "anulado": 37,
     "cancelado": 4,
-    "pendiente": 6,
-    "effectiveness": 59.09,
+    "pendiente": 2,
+    "effectiveness": 66.94,
     "dispatch": {
       "EXPRESS": {
-        "total": 30,
-        "delivered": 20,
-        "anulado": 9,
+        "total": 53,
+        "delivered": 39,
+        "anulado": 13,
         "cancelado": 1
       },
       "PROGRAMADO": {
-        "total": 42,
-        "delivered": 19,
-        "anulado": 14,
+        "total": 73,
+        "delivered": 44,
+        "anulado": 24,
         "cancelado": 3
       }
     }
   },
   {
     "departamento": "Camana",
-    "total": 23,
-    "delivered": 18,
+    "total": 40,
+    "delivered": 33,
     "anulado": 0,
-    "cancelado": 2,
-    "pendiente": 3,
-    "effectiveness": 90.0,
+    "cancelado": 6,
+    "pendiente": 1,
+    "effectiveness": 84.62,
     "dispatch": {
       "RETIRO EN TIENDA": {
-        "total": 23,
-        "delivered": 18,
+        "total": 40,
+        "delivered": 33,
         "anulado": 0,
-        "cancelado": 2
+        "cancelado": 6
       }
     }
   },
   {
     "departamento": "Carabayllo",
-    "total": 175,
-    "delivered": 126,
-    "anulado": 37,
-    "cancelado": 5,
-    "pendiente": 7,
-    "effectiveness": 75.0,
+    "total": 290,
+    "delivered": 220,
+    "anulado": 60,
+    "cancelado": 6,
+    "pendiente": 4,
+    "effectiveness": 76.92,
     "dispatch": {
       "EXPRESS": {
-        "total": 156,
-        "delivered": 115,
-        "anulado": 33,
+        "total": 259,
+        "delivered": 200,
+        "anulado": 52,
         "cancelado": 5
       },
       "PROGRAMADO": {
-        "total": 19,
-        "delivered": 11,
+        "total": 31,
+        "delivered": 20,
+        "anulado": 8,
+        "cancelado": 1
+      }
+    }
+  },
+  {
+    "departamento": "Carmen Alto",
+    "total": 22,
+    "delivered": 14,
+    "anulado": 6,
+    "cancelado": 0,
+    "pendiente": 2,
+    "effectiveness": 70.0,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 15,
+        "delivered": 12,
+        "anulado": 2,
+        "cancelado": 0
+      },
+      "PROGRAMADO": {
+        "total": 7,
+        "delivered": 2,
         "anulado": 4,
         "cancelado": 0
       }
     }
   },
   {
-    "departamento": "Carmen Alto",
-    "total": 6,
-    "delivered": 3,
+    "departamento": "Carmen De La Legua Reynoso",
+    "total": 30,
+    "delivered": 27,
     "anulado": 3,
     "cancelado": 0,
     "pendiente": 0,
-    "effectiveness": 50.0,
+    "effectiveness": 90.0,
     "dispatch": {
       "EXPRESS": {
-        "total": 2,
-        "delivered": 2,
-        "anulado": 0,
+        "total": 23,
+        "delivered": 21,
+        "anulado": 2,
         "cancelado": 0
       },
       "PROGRAMADO": {
-        "total": 4,
-        "delivered": 1,
-        "anulado": 3,
+        "total": 7,
+        "delivered": 6,
+        "anulado": 1,
         "cancelado": 0
       }
     }
   },
   {
-    "departamento": "Carmen De La Legua Reynoso",
-    "total": 16,
-    "delivered": 15,
-    "anulado": 1,
+    "departamento": "Casa Grande",
+    "total": 8,
+    "delivered": 4,
+    "anulado": 0,
     "cancelado": 0,
-    "pendiente": 0,
-    "effectiveness": 93.75,
+    "pendiente": 4,
+    "effectiveness": 100.0,
     "dispatch": {
-      "EXPRESS": {
-        "total": 12,
-        "delivered": 11,
-        "anulado": 1,
-        "cancelado": 0
-      },
       "PROGRAMADO": {
-        "total": 4,
+        "total": 8,
         "delivered": 4,
         "anulado": 0,
         "cancelado": 0
@@ -528,220 +597,438 @@
     }
   },
   {
-    "departamento": "Casa Grande",
-    "total": 3,
-    "delivered": 2,
-    "anulado": 0,
-    "cancelado": 0,
-    "pendiente": 1,
-    "effectiveness": 100.0,
-    "dispatch": {
-      "PROGRAMADO": {
-        "total": 3,
-        "delivered": 2,
-        "anulado": 0,
-        "cancelado": 0
-      }
-    }
-  },
-  {
     "departamento": "Casma",
-    "total": 2,
-    "delivered": 1,
-    "anulado": 0,
-    "cancelado": 0,
-    "pendiente": 1,
-    "effectiveness": 100.0,
+    "total": 9,
+    "delivered": 5,
+    "anulado": 1,
+    "cancelado": 1,
+    "pendiente": 2,
+    "effectiveness": 71.43,
     "dispatch": {
       "EXPRESS": {
         "total": 1,
         "delivered": 0,
-        "anulado": 0,
+        "anulado": 1,
         "cancelado": 0
       },
       "PROGRAMADO": {
-        "total": 1,
-        "delivered": 1,
+        "total": 8,
+        "delivered": 5,
         "anulado": 0,
-        "cancelado": 0
+        "cancelado": 1
       }
     }
   },
   {
     "departamento": "Castilla",
-    "total": 83,
-    "delivered": 69,
-    "anulado": 6,
+    "total": 125,
+    "delivered": 102,
+    "anulado": 21,
     "cancelado": 1,
-    "pendiente": 7,
-    "effectiveness": 90.79,
+    "pendiente": 1,
+    "effectiveness": 82.26,
     "dispatch": {
       "EXPRESS": {
-        "total": 65,
-        "delivered": 54,
-        "anulado": 6,
+        "total": 100,
+        "delivered": 81,
+        "anulado": 18,
         "cancelado": 1
       },
       "PROGRAMADO": {
-        "total": 18,
-        "delivered": 15,
-        "anulado": 0,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Catacaos",
-    "total": 23,
-    "delivered": 16,
-    "anulado": 2,
-    "cancelado": 2,
-    "pendiente": 3,
-    "effectiveness": 80.0,
-    "dispatch": {
-      "PROGRAMADO": {
-        "total": 23,
-        "delivered": 16,
-        "anulado": 2,
-        "cancelado": 2
-      }
-    }
-  },
-  {
-    "departamento": "Cayalti",
-    "total": 7,
-    "delivered": 3,
-    "anulado": 1,
-    "cancelado": 0,
-    "pendiente": 3,
-    "effectiveness": 75.0,
-    "dispatch": {
-      "PROGRAMADO": {
-        "total": 7,
-        "delivered": 3,
-        "anulado": 1,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Cayma",
-    "total": 53,
-    "delivered": 41,
-    "anulado": 10,
-    "cancelado": 0,
-    "pendiente": 2,
-    "effectiveness": 80.39,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 34,
-        "delivered": 27,
-        "anulado": 7,
-        "cancelado": 0
-      },
-      "PROGRAMADO": {
-        "total": 19,
-        "delivered": 14,
+        "total": 25,
+        "delivered": 21,
         "anulado": 3,
         "cancelado": 0
       }
     }
   },
   {
-    "departamento": "Cañete",
-    "total": 39,
-    "delivered": 18,
-    "anulado": 0,
-    "cancelado": 10,
-    "pendiente": 11,
-    "effectiveness": 64.29,
+    "departamento": "Catacaos",
+    "total": 40,
+    "delivered": 30,
+    "anulado": 6,
+    "cancelado": 2,
+    "pendiente": 2,
+    "effectiveness": 78.95,
     "dispatch": {
-      "RETIRO EN TIENDA": {
-        "total": 39,
-        "delivered": 18,
-        "anulado": 0,
-        "cancelado": 10
-      }
-    }
-  },
-  {
-    "departamento": "Cerro Colorado",
-    "total": 172,
-    "delivered": 122,
-    "anulado": 38,
-    "cancelado": 4,
-    "pendiente": 8,
-    "effectiveness": 74.39,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 131,
-        "delivered": 101,
-        "anulado": 26,
-        "cancelado": 3
-      },
       "PROGRAMADO": {
-        "total": 41,
-        "delivered": 21,
-        "anulado": 12,
-        "cancelado": 1
+        "total": 40,
+        "delivered": 30,
+        "anulado": 6,
+        "cancelado": 2
       }
     }
   },
   {
-    "departamento": "Chachapoyas",
-    "total": 35,
-    "delivered": 26,
-    "anulado": 1,
-    "cancelado": 5,
-    "pendiente": 3,
-    "effectiveness": 81.25,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 11,
-        "delivered": 10,
-        "anulado": 1,
-        "cancelado": 0
-      },
-      "RETIRO EN TIENDA": {
-        "total": 24,
-        "delivered": 16,
-        "anulado": 0,
-        "cancelado": 5
-      }
-    }
-  },
-  {
-    "departamento": "Chaclacayo",
-    "total": 10,
-    "delivered": 7,
+    "departamento": "Cayalti",
+    "total": 8,
+    "delivered": 5,
     "anulado": 2,
     "cancelado": 0,
     "pendiente": 1,
-    "effectiveness": 77.78,
+    "effectiveness": 71.43,
     "dispatch": {
       "PROGRAMADO": {
-        "total": 10,
-        "delivered": 7,
+        "total": 8,
+        "delivered": 5,
         "anulado": 2,
         "cancelado": 0
       }
     }
   },
   {
-    "departamento": "Chancay",
-    "total": 11,
-    "delivered": 9,
-    "anulado": 0,
-    "cancelado": 1,
-    "pendiente": 1,
-    "effectiveness": 90.0,
+    "departamento": "Cayma",
+    "total": 93,
+    "delivered": 67,
+    "anulado": 26,
+    "cancelado": 0,
+    "pendiente": 0,
+    "effectiveness": 72.04,
     "dispatch": {
       "EXPRESS": {
-        "total": 6,
-        "delivered": 6,
+        "total": 70,
+        "delivered": 49,
+        "anulado": 21,
+        "cancelado": 0
+      },
+      "PROGRAMADO": {
+        "total": 23,
+        "delivered": 18,
+        "anulado": 5,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Cañete",
+    "total": 68,
+    "delivered": 39,
+    "anulado": 0,
+    "cancelado": 24,
+    "pendiente": 5,
+    "effectiveness": 61.9,
+    "dispatch": {
+      "RETIRO EN TIENDA": {
+        "total": 68,
+        "delivered": 39,
+        "anulado": 0,
+        "cancelado": 24
+      }
+    }
+  },
+  {
+    "departamento": "Cerro Colorado",
+    "total": 323,
+    "delivered": 237,
+    "anulado": 70,
+    "cancelado": 8,
+    "pendiente": 8,
+    "effectiveness": 75.24,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 251,
+        "delivered": 190,
+        "anulado": 51,
+        "cancelado": 7
+      },
+      "PROGRAMADO": {
+        "total": 72,
+        "delivered": 47,
+        "anulado": 19,
+        "cancelado": 1
+      }
+    }
+  },
+  {
+    "departamento": "Chachapoyas",
+    "total": 68,
+    "delivered": 54,
+    "anulado": 3,
+    "cancelado": 9,
+    "pendiente": 2,
+    "effectiveness": 81.82,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 27,
+        "delivered": 24,
+        "anulado": 3,
+        "cancelado": 0
+      },
+      "PROGRAMADO": {
+        "total": 3,
+        "delivered": 2,
         "anulado": 0,
         "cancelado": 0
       },
+      "RETIRO EN TIENDA": {
+        "total": 38,
+        "delivered": 28,
+        "anulado": 0,
+        "cancelado": 9
+      }
+    }
+  },
+  {
+    "departamento": "Chaclacayo",
+    "total": 33,
+    "delivered": 22,
+    "anulado": 5,
+    "cancelado": 2,
+    "pendiente": 4,
+    "effectiveness": 75.86,
+    "dispatch": {
+      "PROGRAMADO": {
+        "total": 33,
+        "delivered": 22,
+        "anulado": 5,
+        "cancelado": 2
+      }
+    }
+  },
+  {
+    "departamento": "Chancay",
+    "total": 28,
+    "delivered": 24,
+    "anulado": 3,
+    "cancelado": 1,
+    "pendiente": 0,
+    "effectiveness": 85.71,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 12,
+        "delivered": 10,
+        "anulado": 2,
+        "cancelado": 0
+      },
+      "PROGRAMADO": {
+        "total": 16,
+        "delivered": 14,
+        "anulado": 1,
+        "cancelado": 1
+      }
+    }
+  },
+  {
+    "departamento": "Chanchamayo",
+    "total": 78,
+    "delivered": 62,
+    "anulado": 0,
+    "cancelado": 12,
+    "pendiente": 4,
+    "effectiveness": 83.78,
+    "dispatch": {
+      "RETIRO EN TIENDA": {
+        "total": 78,
+        "delivered": 62,
+        "anulado": 0,
+        "cancelado": 12
+      }
+    }
+  },
+  {
+    "departamento": "Chao",
+    "total": 43,
+    "delivered": 34,
+    "anulado": 7,
+    "cancelado": 0,
+    "pendiente": 2,
+    "effectiveness": 82.93,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 21,
+        "delivered": 19,
+        "anulado": 1,
+        "cancelado": 0
+      },
+      "PROGRAMADO": {
+        "total": 22,
+        "delivered": 15,
+        "anulado": 6,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Characato",
+    "total": 10,
+    "delivered": 8,
+    "anulado": 1,
+    "cancelado": 0,
+    "pendiente": 1,
+    "effectiveness": 88.89,
+    "dispatch": {
+      "PROGRAMADO": {
+        "total": 10,
+        "delivered": 8,
+        "anulado": 1,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Chepen",
+    "total": 49,
+    "delivered": 22,
+    "anulado": 2,
+    "cancelado": 22,
+    "pendiente": 3,
+    "effectiveness": 47.83,
+    "dispatch": {
+      "PROGRAMADO": {
+        "total": 14,
+        "delivered": 9,
+        "anulado": 2,
+        "cancelado": 0
+      },
+      "RETIRO EN TIENDA": {
+        "total": 35,
+        "delivered": 13,
+        "anulado": 0,
+        "cancelado": 22
+      }
+    }
+  },
+  {
+    "departamento": "Chicama",
+    "total": 9,
+    "delivered": 7,
+    "anulado": 1,
+    "cancelado": 0,
+    "pendiente": 1,
+    "effectiveness": 87.5,
+    "dispatch": {
+      "PROGRAMADO": {
+        "total": 9,
+        "delivered": 7,
+        "anulado": 1,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Chiclayo",
+    "total": 566,
+    "delivered": 410,
+    "anulado": 92,
+    "cancelado": 52,
+    "pendiente": 12,
+    "effectiveness": 74.01,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 234,
+        "delivered": 191,
+        "anulado": 41,
+        "cancelado": 2
+      },
+      "PROGRAMADO": {
+        "total": 168,
+        "delivered": 113,
+        "anulado": 51,
+        "cancelado": 1
+      },
+      "RETIRO EN TIENDA": {
+        "total": 164,
+        "delivered": 106,
+        "anulado": 0,
+        "cancelado": 49
+      }
+    }
+  },
+  {
+    "departamento": "Chilca",
+    "total": 110,
+    "delivered": 91,
+    "anulado": 16,
+    "cancelado": 1,
+    "pendiente": 2,
+    "effectiveness": 84.26,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 84,
+        "delivered": 72,
+        "anulado": 10,
+        "cancelado": 1
+      },
+      "PROGRAMADO": {
+        "total": 26,
+        "delivered": 19,
+        "anulado": 6,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Chimbote",
+    "total": 260,
+    "delivered": 223,
+    "anulado": 27,
+    "cancelado": 7,
+    "pendiente": 3,
+    "effectiveness": 86.77,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 199,
+        "delivered": 177,
+        "anulado": 19,
+        "cancelado": 3
+      },
+      "PROGRAMADO": {
+        "total": 61,
+        "delivered": 46,
+        "anulado": 8,
+        "cancelado": 4
+      }
+    }
+  },
+  {
+    "departamento": "Chincha",
+    "total": 36,
+    "delivered": 26,
+    "anulado": 0,
+    "cancelado": 7,
+    "pendiente": 3,
+    "effectiveness": 78.79,
+    "dispatch": {
+      "RETIRO EN TIENDA": {
+        "total": 36,
+        "delivered": 26,
+        "anulado": 0,
+        "cancelado": 7
+      }
+    }
+  },
+  {
+    "departamento": "Chincha Alta",
+    "total": 123,
+    "delivered": 62,
+    "anulado": 57,
+    "cancelado": 1,
+    "pendiente": 3,
+    "effectiveness": 51.67,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 93,
+        "delivered": 49,
+        "anulado": 41,
+        "cancelado": 1
+      },
+      "PROGRAMADO": {
+        "total": 30,
+        "delivered": 13,
+        "anulado": 16,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Chocope",
+    "total": 5,
+    "delivered": 3,
+    "anulado": 0,
+    "cancelado": 1,
+    "pendiente": 1,
+    "effectiveness": 75.0,
+    "dispatch": {
       "PROGRAMADO": {
         "total": 5,
         "delivered": 3,
@@ -751,148 +1038,16 @@
     }
   },
   {
-    "departamento": "Chanchamayo",
-    "total": 30,
-    "delivered": 25,
-    "anulado": 0,
-    "cancelado": 4,
-    "pendiente": 1,
-    "effectiveness": 86.21,
-    "dispatch": {
-      "RETIRO EN TIENDA": {
-        "total": 30,
-        "delivered": 25,
-        "anulado": 0,
-        "cancelado": 4
-      }
-    }
-  },
-  {
-    "departamento": "Chao",
-    "total": 21,
-    "delivered": 17,
-    "anulado": 3,
+    "departamento": "Chongoyape",
+    "total": 11,
+    "delivered": 7,
+    "anulado": 2,
     "cancelado": 0,
-    "pendiente": 1,
-    "effectiveness": 85.0,
+    "pendiente": 2,
+    "effectiveness": 77.78,
     "dispatch": {
-      "EXPRESS": {
+      "PROGRAMADO": {
         "total": 11,
-        "delivered": 11,
-        "anulado": 0,
-        "cancelado": 0
-      },
-      "PROGRAMADO": {
-        "total": 10,
-        "delivered": 6,
-        "anulado": 3,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Characato",
-    "total": 2,
-    "delivered": 1,
-    "anulado": 1,
-    "cancelado": 0,
-    "pendiente": 0,
-    "effectiveness": 50.0,
-    "dispatch": {
-      "PROGRAMADO": {
-        "total": 2,
-        "delivered": 1,
-        "anulado": 1,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Chepen",
-    "total": 37,
-    "delivered": 15,
-    "anulado": 1,
-    "cancelado": 17,
-    "pendiente": 4,
-    "effectiveness": 45.45,
-    "dispatch": {
-      "PROGRAMADO": {
-        "total": 7,
-        "delivered": 4,
-        "anulado": 1,
-        "cancelado": 0
-      },
-      "RETIRO EN TIENDA": {
-        "total": 30,
-        "delivered": 11,
-        "anulado": 0,
-        "cancelado": 17
-      }
-    }
-  },
-  {
-    "departamento": "Chicama",
-    "total": 7,
-    "delivered": 6,
-    "anulado": 0,
-    "cancelado": 0,
-    "pendiente": 1,
-    "effectiveness": 100.0,
-    "dispatch": {
-      "PROGRAMADO": {
-        "total": 7,
-        "delivered": 6,
-        "anulado": 0,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Chiclayo",
-    "total": 314,
-    "delivered": 230,
-    "anulado": 51,
-    "cancelado": 19,
-    "pendiente": 14,
-    "effectiveness": 76.67,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 126,
-        "delivered": 103,
-        "anulado": 21,
-        "cancelado": 2
-      },
-      "PROGRAMADO": {
-        "total": 97,
-        "delivered": 55,
-        "anulado": 30,
-        "cancelado": 1
-      },
-      "RETIRO EN TIENDA": {
-        "total": 91,
-        "delivered": 72,
-        "anulado": 0,
-        "cancelado": 16
-      }
-    }
-  },
-  {
-    "departamento": "Chilca",
-    "total": 50,
-    "delivered": 42,
-    "anulado": 6,
-    "cancelado": 1,
-    "pendiente": 1,
-    "effectiveness": 85.71,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 41,
-        "delivered": 35,
-        "anulado": 4,
-        "cancelado": 1
-      },
-      "PROGRAMADO": {
-        "total": 9,
         "delivered": 7,
         "anulado": 2,
         "cancelado": 0
@@ -900,154 +1055,57 @@
     }
   },
   {
-    "departamento": "Chimbote",
-    "total": 131,
-    "delivered": 111,
-    "anulado": 13,
-    "cancelado": 3,
-    "pendiente": 4,
-    "effectiveness": 87.4,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 99,
-        "delivered": 89,
-        "anulado": 10,
-        "cancelado": 0
-      },
-      "PROGRAMADO": {
-        "total": 32,
-        "delivered": 22,
-        "anulado": 3,
-        "cancelado": 3
-      }
-    }
-  },
-  {
-    "departamento": "Chincha",
-    "total": 11,
-    "delivered": 8,
-    "anulado": 0,
-    "cancelado": 1,
-    "pendiente": 2,
-    "effectiveness": 88.89,
-    "dispatch": {
-      "RETIRO EN TIENDA": {
-        "total": 11,
-        "delivered": 8,
-        "anulado": 0,
-        "cancelado": 1
-      }
-    }
-  },
-  {
-    "departamento": "Chincha Alta",
-    "total": 63,
-    "delivered": 24,
-    "anulado": 34,
-    "cancelado": 1,
-    "pendiente": 4,
-    "effectiveness": 40.68,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 47,
-        "delivered": 21,
-        "anulado": 23,
-        "cancelado": 1
-      },
-      "PROGRAMADO": {
-        "total": 16,
-        "delivered": 3,
-        "anulado": 11,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Chocope",
-    "total": 3,
-    "delivered": 1,
-    "anulado": 0,
-    "cancelado": 0,
-    "pendiente": 2,
-    "effectiveness": 100.0,
-    "dispatch": {
-      "PROGRAMADO": {
-        "total": 3,
-        "delivered": 1,
-        "anulado": 0,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Chongoyape",
-    "total": 7,
-    "delivered": 2,
-    "anulado": 0,
-    "cancelado": 0,
-    "pendiente": 5,
-    "effectiveness": 100.0,
-    "dispatch": {
-      "PROGRAMADO": {
-        "total": 7,
-        "delivered": 2,
-        "anulado": 0,
-        "cancelado": 0
-      }
-    }
-  },
-  {
     "departamento": "Chorrillos",
-    "total": 110,
-    "delivered": 94,
-    "anulado": 9,
+    "total": 228,
+    "delivered": 184,
+    "anulado": 34,
     "cancelado": 3,
-    "pendiente": 4,
-    "effectiveness": 88.68,
+    "pendiente": 7,
+    "effectiveness": 83.26,
     "dispatch": {
       "EXPRESS": {
-        "total": 97,
-        "delivered": 85,
-        "anulado": 7,
+        "total": 198,
+        "delivered": 163,
+        "anulado": 30,
         "cancelado": 2
       },
       "PROGRAMADO": {
-        "total": 13,
-        "delivered": 9,
-        "anulado": 2,
+        "total": 30,
+        "delivered": 21,
+        "anulado": 4,
         "cancelado": 1
       }
     }
   },
   {
     "departamento": "Chulucanas",
-    "total": 6,
-    "delivered": 3,
-    "anulado": 0,
+    "total": 11,
+    "delivered": 6,
+    "anulado": 1,
     "cancelado": 0,
-    "pendiente": 3,
-    "effectiveness": 100.0,
+    "pendiente": 4,
+    "effectiveness": 85.71,
     "dispatch": {
       "PROGRAMADO": {
-        "total": 6,
-        "delivered": 3,
-        "anulado": 0,
+        "total": 11,
+        "delivered": 6,
+        "anulado": 1,
         "cancelado": 0
       }
     }
   },
   {
     "departamento": "Cieneguilla",
-    "total": 8,
-    "delivered": 5,
+    "total": 13,
+    "delivered": 8,
     "anulado": 1,
     "cancelado": 1,
-    "pendiente": 1,
-    "effectiveness": 71.43,
+    "pendiente": 3,
+    "effectiveness": 80.0,
     "dispatch": {
       "PROGRAMADO": {
-        "total": 8,
-        "delivered": 5,
+        "total": 13,
+        "delivered": 8,
         "anulado": 1,
         "cancelado": 1
       }
@@ -1055,22 +1113,39 @@
   },
   {
     "departamento": "Ciudad Nueva",
-    "total": 9,
-    "delivered": 7,
-    "anulado": 2,
+    "total": 21,
+    "delivered": 18,
+    "anulado": 3,
     "cancelado": 0,
     "pendiente": 0,
-    "effectiveness": 77.78,
+    "effectiveness": 85.71,
     "dispatch": {
       "EXPRESS": {
-        "total": 8,
-        "delivered": 6,
-        "anulado": 2,
+        "total": 16,
+        "delivered": 13,
+        "anulado": 3,
         "cancelado": 0
       },
       "PROGRAMADO": {
-        "total": 1,
-        "delivered": 1,
+        "total": 5,
+        "delivered": 5,
+        "anulado": 0,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Colan",
+    "total": 5,
+    "delivered": 4,
+    "anulado": 0,
+    "cancelado": 0,
+    "pendiente": 1,
+    "effectiveness": 100.0,
+    "dispatch": {
+      "PROGRAMADO": {
+        "total": 5,
+        "delivered": 4,
         "anulado": 0,
         "cancelado": 0
       }
@@ -1078,288 +1153,145 @@
   },
   {
     "departamento": "Comas",
-    "total": 197,
-    "delivered": 150,
-    "anulado": 38,
-    "cancelado": 5,
-    "pendiente": 4,
-    "effectiveness": 77.72,
+    "total": 400,
+    "delivered": 320,
+    "anulado": 71,
+    "cancelado": 7,
+    "pendiente": 2,
+    "effectiveness": 80.4,
     "dispatch": {
       "EXPRESS": {
-        "total": 164,
-        "delivered": 124,
-        "anulado": 34,
-        "cancelado": 5
+        "total": 339,
+        "delivered": 270,
+        "anulado": 61,
+        "cancelado": 6
       },
       "PROGRAMADO": {
-        "total": 33,
-        "delivered": 26,
-        "anulado": 4,
-        "cancelado": 0
+        "total": 61,
+        "delivered": 50,
+        "anulado": 10,
+        "cancelado": 1
       }
     }
   },
   {
     "departamento": "Coronel Gregorio Albarracin Lanchipa",
-    "total": 66,
-    "delivered": 60,
-    "anulado": 5,
-    "cancelado": 1,
-    "pendiente": 0,
-    "effectiveness": 90.91,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 50,
-        "delivered": 45,
-        "anulado": 4,
-        "cancelado": 1
-      },
-      "PROGRAMADO": {
-        "total": 16,
-        "delivered": 15,
-        "anulado": 1,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Coronel Portillo",
-    "total": 23,
-    "delivered": 12,
-    "anulado": 0,
-    "cancelado": 9,
-    "pendiente": 2,
-    "effectiveness": 57.14,
-    "dispatch": {
-      "RETIRO EN TIENDA": {
-        "total": 23,
-        "delivered": 12,
-        "anulado": 0,
-        "cancelado": 9
-      }
-    }
-  },
-  {
-    "departamento": "Cura Mori",
-    "total": 1,
-    "delivered": 0,
-    "anulado": 0,
-    "cancelado": 0,
-    "pendiente": 1,
-    "effectiveness": 0.0,
-    "dispatch": {
-      "PROGRAMADO": {
-        "total": 1,
-        "delivered": 0,
-        "anulado": 0,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Cusco",
-    "total": 173,
+    "total": 115,
     "delivered": 103,
-    "anulado": 15,
-    "cancelado": 39,
-    "pendiente": 16,
-    "effectiveness": 65.61,
+    "anulado": 8,
+    "cancelado": 1,
+    "pendiente": 3,
+    "effectiveness": 91.96,
     "dispatch": {
       "EXPRESS": {
-        "total": 47,
-        "delivered": 37,
-        "anulado": 8,
-        "cancelado": 0
-      },
-      "PROGRAMADO": {
-        "total": 21,
-        "delivered": 9,
-        "anulado": 7,
-        "cancelado": 1
-      },
-      "RETIRO EN TIENDA": {
-        "total": 105,
-        "delivered": 57,
-        "anulado": 0,
-        "cancelado": 38
-      }
-    }
-  },
-  {
-    "departamento": "El Agustino",
-    "total": 59,
-    "delivered": 39,
-    "anulado": 13,
-    "cancelado": 0,
-    "pendiente": 7,
-    "effectiveness": 75.0,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 44,
-        "delivered": 33,
-        "anulado": 9,
-        "cancelado": 0
-      },
-      "PROGRAMADO": {
-        "total": 15,
-        "delivered": 6,
-        "anulado": 4,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "El Alto",
-    "total": 3,
-    "delivered": 1,
-    "anulado": 1,
-    "cancelado": 0,
-    "pendiente": 1,
-    "effectiveness": 50.0,
-    "dispatch": {
-      "PROGRAMADO": {
-        "total": 3,
-        "delivered": 1,
-        "anulado": 1,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "El Porvenir",
-    "total": 72,
-    "delivered": 58,
-    "anulado": 13,
-    "cancelado": 0,
-    "pendiente": 1,
-    "effectiveness": 81.69,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 62,
-        "delivered": 51,
-        "anulado": 10,
-        "cancelado": 0
-      },
-      "PROGRAMADO": {
-        "total": 10,
-        "delivered": 7,
-        "anulado": 3,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "El Tambo",
-    "total": 113,
-    "delivered": 90,
-    "anulado": 16,
-    "cancelado": 3,
-    "pendiente": 4,
-    "effectiveness": 82.57,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 76,
-        "delivered": 65,
-        "anulado": 10,
-        "cancelado": 1
-      },
-      "PROGRAMADO": {
-        "total": 37,
-        "delivered": 25,
+        "total": 90,
+        "delivered": 83,
         "anulado": 6,
-        "cancelado": 2
-      }
-    }
-  },
-  {
-    "departamento": "Espinar",
-    "total": 25,
-    "delivered": 12,
-    "anulado": 0,
-    "cancelado": 9,
-    "pendiente": 4,
-    "effectiveness": 57.14,
-    "dispatch": {
-      "RETIRO EN TIENDA": {
-        "total": 25,
-        "delivered": 12,
-        "anulado": 0,
-        "cancelado": 9
-      }
-    }
-  },
-  {
-    "departamento": "Eten",
-    "total": 2,
-    "delivered": 1,
-    "anulado": 0,
-    "cancelado": 0,
-    "pendiente": 1,
-    "effectiveness": 100.0,
-    "dispatch": {
-      "PROGRAMADO": {
-        "total": 2,
-        "delivered": 1,
-        "anulado": 0,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Eten Puerto",
-    "total": 2,
-    "delivered": 0,
-    "anulado": 1,
-    "cancelado": 0,
-    "pendiente": 1,
-    "effectiveness": 0.0,
-    "dispatch": {
-      "PROGRAMADO": {
-        "total": 2,
-        "delivered": 0,
-        "anulado": 1,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Florencia De Mora",
-    "total": 39,
-    "delivered": 28,
-    "anulado": 10,
-    "cancelado": 0,
-    "pendiente": 1,
-    "effectiveness": 73.68,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 31,
-        "delivered": 23,
-        "anulado": 8,
-        "cancelado": 0
+        "cancelado": 1
       },
       "PROGRAMADO": {
-        "total": 8,
-        "delivered": 5,
+        "total": 25,
+        "delivered": 20,
         "anulado": 2,
         "cancelado": 0
       }
     }
   },
   {
-    "departamento": "Grocio Prado",
-    "total": 21,
-    "delivered": 7,
-    "anulado": 14,
+    "departamento": "Coronel Portillo",
+    "total": 54,
+    "delivered": 35,
+    "anulado": 0,
+    "cancelado": 17,
+    "pendiente": 2,
+    "effectiveness": 67.31,
+    "dispatch": {
+      "RETIRO EN TIENDA": {
+        "total": 54,
+        "delivered": 35,
+        "anulado": 0,
+        "cancelado": 17
+      }
+    }
+  },
+  {
+    "departamento": "Cura Mori",
+    "total": 4,
+    "delivered": 2,
+    "anulado": 1,
     "cancelado": 0,
-    "pendiente": 0,
-    "effectiveness": 33.33,
+    "pendiente": 1,
+    "effectiveness": 66.67,
+    "dispatch": {
+      "PROGRAMADO": {
+        "total": 4,
+        "delivered": 2,
+        "anulado": 1,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Cusco",
+    "total": 328,
+    "delivered": 202,
+    "anulado": 38,
+    "cancelado": 72,
+    "pendiente": 16,
+    "effectiveness": 64.74,
     "dispatch": {
       "EXPRESS": {
-        "total": 17,
-        "delivered": 5,
-        "anulado": 12,
+        "total": 96,
+        "delivered": 76,
+        "anulado": 20,
         "cancelado": 0
       },
+      "PROGRAMADO": {
+        "total": 48,
+        "delivered": 23,
+        "anulado": 18,
+        "cancelado": 1
+      },
+      "RETIRO EN TIENDA": {
+        "total": 184,
+        "delivered": 103,
+        "anulado": 0,
+        "cancelado": 71
+      }
+    }
+  },
+  {
+    "departamento": "El Agustino",
+    "total": 125,
+    "delivered": 82,
+    "anulado": 38,
+    "cancelado": 0,
+    "pendiente": 5,
+    "effectiveness": 68.33,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 103,
+        "delivered": 69,
+        "anulado": 30,
+        "cancelado": 0
+      },
+      "PROGRAMADO": {
+        "total": 22,
+        "delivered": 13,
+        "anulado": 8,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "El Alto",
+    "total": 4,
+    "delivered": 2,
+    "anulado": 2,
+    "cancelado": 0,
+    "pendiente": 0,
+    "effectiveness": 50.0,
+    "dispatch": {
       "PROGRAMADO": {
         "total": 4,
         "delivered": 2,
@@ -1369,96 +1301,79 @@
     }
   },
   {
-    "departamento": "Guadalupe",
-    "total": 6,
-    "delivered": 3,
+    "departamento": "El Porvenir",
+    "total": 155,
+    "delivered": 126,
+    "anulado": 27,
+    "cancelado": 1,
+    "pendiente": 1,
+    "effectiveness": 81.82,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 130,
+        "delivered": 107,
+        "anulado": 22,
+        "cancelado": 1
+      },
+      "PROGRAMADO": {
+        "total": 25,
+        "delivered": 19,
+        "anulado": 5,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "El Tambo",
+    "total": 226,
+    "delivered": 176,
+    "anulado": 41,
+    "cancelado": 4,
+    "pendiente": 5,
+    "effectiveness": 79.64,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 140,
+        "delivered": 115,
+        "anulado": 23,
+        "cancelado": 1
+      },
+      "PROGRAMADO": {
+        "total": 86,
+        "delivered": 61,
+        "anulado": 18,
+        "cancelado": 3
+      }
+    }
+  },
+  {
+    "departamento": "Espinar",
+    "total": 51,
+    "delivered": 21,
+    "anulado": 0,
+    "cancelado": 23,
+    "pendiente": 7,
+    "effectiveness": 47.73,
+    "dispatch": {
+      "RETIRO EN TIENDA": {
+        "total": 51,
+        "delivered": 21,
+        "anulado": 0,
+        "cancelado": 23
+      }
+    }
+  },
+  {
+    "departamento": "Eten",
+    "total": 5,
+    "delivered": 2,
     "anulado": 0,
     "cancelado": 0,
     "pendiente": 3,
     "effectiveness": 100.0,
     "dispatch": {
       "PROGRAMADO": {
-        "total": 6,
-        "delivered": 3,
-        "anulado": 0,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Huacho",
-    "total": 35,
-    "delivered": 26,
-    "anulado": 8,
-    "cancelado": 0,
-    "pendiente": 1,
-    "effectiveness": 76.47,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 19,
-        "delivered": 15,
-        "anulado": 4,
-        "cancelado": 0
-      },
-      "PROGRAMADO": {
-        "total": 16,
-        "delivered": 11,
-        "anulado": 4,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Hualmay",
-    "total": 8,
-    "delivered": 8,
-    "anulado": 0,
-    "cancelado": 0,
-    "pendiente": 0,
-    "effectiveness": 100.0,
-    "dispatch": {
-      "PROGRAMADO": {
-        "total": 8,
-        "delivered": 8,
-        "anulado": 0,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Huamanga",
-    "total": 16,
-    "delivered": 13,
-    "anulado": 0,
-    "cancelado": 3,
-    "pendiente": 0,
-    "effectiveness": 81.25,
-    "dispatch": {
-      "RETIRO EN TIENDA": {
-        "total": 16,
-        "delivered": 13,
-        "anulado": 0,
-        "cancelado": 3
-      }
-    }
-  },
-  {
-    "departamento": "Huancan",
-    "total": 10,
-    "delivered": 6,
-    "anulado": 3,
-    "cancelado": 0,
-    "pendiente": 1,
-    "effectiveness": 66.67,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 8,
-        "delivered": 4,
-        "anulado": 3,
-        "cancelado": 0
-      },
-      "PROGRAMADO": {
-        "total": 2,
+        "total": 5,
         "delivered": 2,
         "anulado": 0,
         "cancelado": 0
@@ -1466,64 +1381,224 @@
     }
   },
   {
-    "departamento": "Huancavelica",
-    "total": 24,
-    "delivered": 18,
+    "departamento": "Eten Puerto",
+    "total": 2,
+    "delivered": 0,
     "anulado": 0,
-    "cancelado": 4,
+    "cancelado": 0,
     "pendiente": 2,
-    "effectiveness": 81.82,
+    "effectiveness": 0.0,
+    "dispatch": {
+      "PROGRAMADO": {
+        "total": 2,
+        "delivered": 0,
+        "anulado": 0,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Florencia De Mora",
+    "total": 58,
+    "delivered": 44,
+    "anulado": 11,
+    "cancelado": 0,
+    "pendiente": 3,
+    "effectiveness": 80.0,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 47,
+        "delivered": 36,
+        "anulado": 9,
+        "cancelado": 0
+      },
+      "PROGRAMADO": {
+        "total": 11,
+        "delivered": 8,
+        "anulado": 2,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Grocio Prado",
+    "total": 32,
+    "delivered": 12,
+    "anulado": 20,
+    "cancelado": 0,
+    "pendiente": 0,
+    "effectiveness": 37.5,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 25,
+        "delivered": 9,
+        "anulado": 16,
+        "cancelado": 0
+      },
+      "PROGRAMADO": {
+        "total": 7,
+        "delivered": 3,
+        "anulado": 4,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Guadalupe",
+    "total": 13,
+    "delivered": 7,
+    "anulado": 4,
+    "cancelado": 0,
+    "pendiente": 2,
+    "effectiveness": 63.64,
+    "dispatch": {
+      "PROGRAMADO": {
+        "total": 13,
+        "delivered": 7,
+        "anulado": 4,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Huacho",
+    "total": 64,
+    "delivered": 50,
+    "anulado": 9,
+    "cancelado": 0,
+    "pendiente": 5,
+    "effectiveness": 84.75,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 22,
+        "delivered": 17,
+        "anulado": 5,
+        "cancelado": 0
+      },
+      "PROGRAMADO": {
+        "total": 42,
+        "delivered": 33,
+        "anulado": 4,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Hualmay",
+    "total": 11,
+    "delivered": 11,
+    "anulado": 0,
+    "cancelado": 0,
+    "pendiente": 0,
+    "effectiveness": 100.0,
+    "dispatch": {
+      "PROGRAMADO": {
+        "total": 11,
+        "delivered": 11,
+        "anulado": 0,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Huamanga",
+    "total": 35,
+    "delivered": 24,
+    "anulado": 0,
+    "cancelado": 8,
+    "pendiente": 3,
+    "effectiveness": 75.0,
     "dispatch": {
       "RETIRO EN TIENDA": {
-        "total": 24,
-        "delivered": 18,
+        "total": 35,
+        "delivered": 24,
         "anulado": 0,
-        "cancelado": 4
+        "cancelado": 8
+      }
+    }
+  },
+  {
+    "departamento": "Huancan",
+    "total": 19,
+    "delivered": 13,
+    "anulado": 6,
+    "cancelado": 0,
+    "pendiente": 0,
+    "effectiveness": 68.42,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 14,
+        "delivered": 8,
+        "anulado": 6,
+        "cancelado": 0
+      },
+      "PROGRAMADO": {
+        "total": 5,
+        "delivered": 5,
+        "anulado": 0,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Huancavelica",
+    "total": 48,
+    "delivered": 39,
+    "anulado": 0,
+    "cancelado": 8,
+    "pendiente": 1,
+    "effectiveness": 82.98,
+    "dispatch": {
+      "RETIRO EN TIENDA": {
+        "total": 48,
+        "delivered": 39,
+        "anulado": 0,
+        "cancelado": 8
       }
     }
   },
   {
     "departamento": "Huancayo",
-    "total": 146,
-    "delivered": 117,
-    "anulado": 20,
-    "cancelado": 5,
-    "pendiente": 4,
-    "effectiveness": 82.39,
+    "total": 298,
+    "delivered": 234,
+    "anulado": 40,
+    "cancelado": 15,
+    "pendiente": 9,
+    "effectiveness": 80.97,
     "dispatch": {
       "EXPRESS": {
-        "total": 98,
-        "delivered": 83,
-        "anulado": 12,
-        "cancelado": 2
+        "total": 188,
+        "delivered": 158,
+        "anulado": 26,
+        "cancelado": 3
       },
       "PROGRAMADO": {
-        "total": 34,
-        "delivered": 24,
-        "anulado": 8,
-        "cancelado": 0
+        "total": 69,
+        "delivered": 48,
+        "anulado": 14,
+        "cancelado": 1
       },
       "RETIRO EN TIENDA": {
-        "total": 14,
-        "delivered": 10,
+        "total": 41,
+        "delivered": 28,
         "anulado": 0,
-        "cancelado": 3
+        "cancelado": 11
       }
     }
   },
   {
     "departamento": "Huanchaco",
-    "total": 18,
-    "delivered": 13,
-    "anulado": 1,
+    "total": 38,
+    "delivered": 33,
+    "anulado": 3,
     "cancelado": 0,
-    "pendiente": 4,
-    "effectiveness": 92.86,
+    "pendiente": 2,
+    "effectiveness": 91.67,
     "dispatch": {
       "PROGRAMADO": {
-        "total": 18,
-        "delivered": 13,
-        "anulado": 1,
+        "total": 38,
+        "delivered": 33,
+        "anulado": 3,
         "cancelado": 0
       }
     }
@@ -1547,179 +1622,179 @@
   },
   {
     "departamento": "Huanuco",
-    "total": 121,
-    "delivered": 65,
-    "anulado": 34,
-    "cancelado": 18,
-    "pendiente": 4,
-    "effectiveness": 55.56,
+    "total": 226,
+    "delivered": 140,
+    "anulado": 47,
+    "cancelado": 37,
+    "pendiente": 2,
+    "effectiveness": 62.5,
     "dispatch": {
       "EXPRESS": {
-        "total": 62,
-        "delivered": 36,
-        "anulado": 24,
+        "total": 89,
+        "delivered": 58,
+        "anulado": 28,
         "cancelado": 1
       },
       "PROGRAMADO": {
-        "total": 19,
-        "delivered": 8,
-        "anulado": 10,
-        "cancelado": 1
+        "total": 39,
+        "delivered": 17,
+        "anulado": 19,
+        "cancelado": 3
       },
       "RETIRO EN TIENDA": {
-        "total": 40,
-        "delivered": 21,
+        "total": 98,
+        "delivered": 65,
         "anulado": 0,
-        "cancelado": 16
+        "cancelado": 33
       }
     }
   },
   {
     "departamento": "Huaral",
-    "total": 42,
-    "delivered": 31,
-    "anulado": 2,
-    "cancelado": 5,
-    "pendiente": 4,
-    "effectiveness": 81.58,
+    "total": 86,
+    "delivered": 54,
+    "anulado": 13,
+    "cancelado": 13,
+    "pendiente": 6,
+    "effectiveness": 67.5,
     "dispatch": {
       "EXPRESS": {
-        "total": 16,
-        "delivered": 15,
-        "anulado": 1,
+        "total": 24,
+        "delivered": 22,
+        "anulado": 2,
         "cancelado": 0
       },
       "PROGRAMADO": {
-        "total": 14,
-        "delivered": 9,
-        "anulado": 1,
-        "cancelado": 0
+        "total": 35,
+        "delivered": 22,
+        "anulado": 11,
+        "cancelado": 1
       },
       "RETIRO EN TIENDA": {
-        "total": 12,
-        "delivered": 7,
+        "total": 27,
+        "delivered": 10,
         "anulado": 0,
-        "cancelado": 5
+        "cancelado": 12
       }
     }
   },
   {
     "departamento": "Huaraz",
-    "total": 82,
-    "delivered": 52,
-    "anulado": 15,
-    "cancelado": 9,
-    "pendiente": 6,
-    "effectiveness": 68.42,
+    "total": 139,
+    "delivered": 98,
+    "anulado": 21,
+    "cancelado": 19,
+    "pendiente": 1,
+    "effectiveness": 71.01,
     "dispatch": {
       "EXPRESS": {
-        "total": 37,
-        "delivered": 28,
-        "anulado": 8,
+        "total": 59,
+        "delivered": 47,
+        "anulado": 11,
         "cancelado": 1
       },
       "PROGRAMADO": {
-        "total": 18,
-        "delivered": 9,
-        "anulado": 7,
+        "total": 29,
+        "delivered": 18,
+        "anulado": 10,
         "cancelado": 0
       },
       "RETIRO EN TIENDA": {
-        "total": 27,
-        "delivered": 15,
+        "total": 51,
+        "delivered": 33,
         "anulado": 0,
-        "cancelado": 8
+        "cancelado": 18
       }
     }
   },
   {
     "departamento": "Huarmey",
-    "total": 3,
-    "delivered": 2,
-    "anulado": 0,
-    "cancelado": 0,
-    "pendiente": 1,
-    "effectiveness": 100.0,
-    "dispatch": {
-      "RETIRO EN TIENDA": {
-        "total": 3,
-        "delivered": 2,
-        "anulado": 0,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Huaura",
-    "total": 30,
-    "delivered": 23,
-    "anulado": 1,
-    "cancelado": 3,
-    "pendiente": 3,
-    "effectiveness": 85.19,
-    "dispatch": {
-      "PROGRAMADO": {
-        "total": 10,
-        "delivered": 9,
-        "anulado": 1,
-        "cancelado": 0
-      },
-      "RETIRO EN TIENDA": {
-        "total": 20,
-        "delivered": 14,
-        "anulado": 0,
-        "cancelado": 3
-      }
-    }
-  },
-  {
-    "departamento": "Huaylas",
-    "total": 6,
-    "delivered": 4,
+    "total": 10,
+    "delivered": 7,
     "anulado": 0,
     "cancelado": 2,
-    "pendiente": 0,
-    "effectiveness": 66.67,
+    "pendiente": 1,
+    "effectiveness": 77.78,
     "dispatch": {
       "RETIRO EN TIENDA": {
-        "total": 6,
-        "delivered": 4,
+        "total": 10,
+        "delivered": 7,
         "anulado": 0,
         "cancelado": 2
       }
     }
   },
   {
-    "departamento": "Ica",
-    "total": 191,
-    "delivered": 137,
-    "anulado": 19,
-    "cancelado": 24,
-    "pendiente": 11,
-    "effectiveness": 76.11,
+    "departamento": "Huaura",
+    "total": 55,
+    "delivered": 46,
+    "anulado": 1,
+    "cancelado": 7,
+    "pendiente": 1,
+    "effectiveness": 85.19,
     "dispatch": {
-      "EXPRESS": {
-        "total": 77,
-        "delivered": 60,
-        "anulado": 14,
-        "cancelado": 3
-      },
       "PROGRAMADO": {
-        "total": 42,
-        "delivered": 32,
-        "anulado": 5,
+        "total": 19,
+        "delivered": 17,
+        "anulado": 1,
         "cancelado": 0
       },
       "RETIRO EN TIENDA": {
-        "total": 72,
-        "delivered": 45,
+        "total": 36,
+        "delivered": 29,
         "anulado": 0,
-        "cancelado": 21
+        "cancelado": 7
       }
     }
   },
   {
-    "departamento": "Illimo",
+    "departamento": "Huaylas",
+    "total": 15,
+    "delivered": 10,
+    "anulado": 0,
+    "cancelado": 5,
+    "pendiente": 0,
+    "effectiveness": 66.67,
+    "dispatch": {
+      "RETIRO EN TIENDA": {
+        "total": 15,
+        "delivered": 10,
+        "anulado": 0,
+        "cancelado": 5
+      }
+    }
+  },
+  {
+    "departamento": "Ica",
+    "total": 359,
+    "delivered": 259,
+    "anulado": 34,
+    "cancelado": 49,
+    "pendiente": 17,
+    "effectiveness": 75.73,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 135,
+        "delivered": 109,
+        "anulado": 21,
+        "cancelado": 3
+      },
+      "PROGRAMADO": {
+        "total": 72,
+        "delivered": 55,
+        "anulado": 13,
+        "cancelado": 0
+      },
+      "RETIRO EN TIENDA": {
+        "total": 152,
+        "delivered": 95,
+        "anulado": 0,
+        "cancelado": 46
+      }
+    }
+  },
+  {
+    "departamento": "Ignacio Escudero",
     "total": 1,
     "delivered": 1,
     "anulado": 0,
@@ -1730,6 +1805,23 @@
       "PROGRAMADO": {
         "total": 1,
         "delivered": 1,
+        "anulado": 0,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Illimo",
+    "total": 5,
+    "delivered": 4,
+    "anulado": 0,
+    "cancelado": 0,
+    "pendiente": 1,
+    "effectiveness": 100.0,
+    "dispatch": {
+      "PROGRAMADO": {
+        "total": 5,
+        "delivered": 4,
         "anulado": 0,
         "cancelado": 0
       }
@@ -1737,101 +1829,32 @@
   },
   {
     "departamento": "Ilo",
-    "total": 26,
-    "delivered": 21,
+    "total": 49,
+    "delivered": 39,
     "anulado": 0,
-    "cancelado": 2,
-    "pendiente": 3,
-    "effectiveness": 91.3,
+    "cancelado": 10,
+    "pendiente": 0,
+    "effectiveness": 79.59,
     "dispatch": {
       "RETIRO EN TIENDA": {
-        "total": 26,
-        "delivered": 21,
+        "total": 49,
+        "delivered": 39,
         "anulado": 0,
-        "cancelado": 2
+        "cancelado": 10
       }
     }
   },
   {
     "departamento": "Imperial",
-    "total": 1,
-    "delivered": 0,
+    "total": 3,
+    "delivered": 3,
     "anulado": 0,
     "cancelado": 0,
-    "pendiente": 1,
-    "effectiveness": 0.0,
+    "pendiente": 0,
+    "effectiveness": 100.0,
     "dispatch": {
       "PROGRAMADO": {
-        "total": 1,
-        "delivered": 0,
-        "anulado": 0,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Independencia",
-    "total": 106,
-    "delivered": 62,
-    "anulado": 31,
-    "cancelado": 1,
-    "pendiente": 12,
-    "effectiveness": 65.96,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 86,
-        "delivered": 55,
-        "anulado": 26,
-        "cancelado": 1
-      },
-      "PROGRAMADO": {
-        "total": 20,
-        "delivered": 7,
-        "anulado": 5,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Iquitos",
-    "total": 79,
-    "delivered": 58,
-    "anulado": 18,
-    "cancelado": 2,
-    "pendiente": 1,
-    "effectiveness": 74.36,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 65,
-        "delivered": 49,
-        "anulado": 13,
-        "cancelado": 2
-      },
-      "PROGRAMADO": {
-        "total": 14,
-        "delivered": 9,
-        "anulado": 5,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Jacobo Hunter",
-    "total": 32,
-    "delivered": 25,
-    "anulado": 3,
-    "cancelado": 1,
-    "pendiente": 3,
-    "effectiveness": 86.21,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 26,
-        "delivered": 22,
-        "anulado": 3,
-        "cancelado": 1
-      },
-      "PROGRAMADO": {
-        "total": 6,
+        "total": 3,
         "delivered": 3,
         "anulado": 0,
         "cancelado": 0
@@ -1839,217 +1862,286 @@
     }
   },
   {
-    "departamento": "Jaen",
-    "total": 53,
-    "delivered": 38,
-    "anulado": 0,
-    "cancelado": 13,
+    "departamento": "Independencia",
+    "total": 220,
+    "delivered": 153,
+    "anulado": 57,
+    "cancelado": 1,
+    "pendiente": 9,
+    "effectiveness": 72.51,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 176,
+        "delivered": 128,
+        "anulado": 44,
+        "cancelado": 1
+      },
+      "PROGRAMADO": {
+        "total": 44,
+        "delivered": 25,
+        "anulado": 13,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Iquitos",
+    "total": 153,
+    "delivered": 115,
+    "anulado": 29,
+    "cancelado": 4,
+    "pendiente": 5,
+    "effectiveness": 77.7,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 124,
+        "delivered": 98,
+        "anulado": 21,
+        "cancelado": 4
+      },
+      "PROGRAMADO": {
+        "total": 29,
+        "delivered": 17,
+        "anulado": 8,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Jacobo Hunter",
+    "total": 60,
+    "delivered": 50,
+    "anulado": 7,
+    "cancelado": 1,
     "pendiente": 2,
-    "effectiveness": 74.51,
+    "effectiveness": 86.21,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 46,
+        "delivered": 39,
+        "anulado": 6,
+        "cancelado": 1
+      },
+      "PROGRAMADO": {
+        "total": 14,
+        "delivered": 11,
+        "anulado": 1,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Jaen",
+    "total": 84,
+    "delivered": 58,
+    "anulado": 0,
+    "cancelado": 25,
+    "pendiente": 1,
+    "effectiveness": 69.88,
     "dispatch": {
       "RETIRO EN TIENDA": {
-        "total": 53,
-        "delivered": 38,
+        "total": 84,
+        "delivered": 58,
         "anulado": 0,
-        "cancelado": 13
+        "cancelado": 25
       }
     }
   },
   {
     "departamento": "Jauja",
-    "total": 16,
-    "delivered": 11,
+    "total": 40,
+    "delivered": 32,
     "anulado": 0,
-    "cancelado": 4,
-    "pendiente": 1,
-    "effectiveness": 73.33,
+    "cancelado": 6,
+    "pendiente": 2,
+    "effectiveness": 84.21,
     "dispatch": {
       "RETIRO EN TIENDA": {
-        "total": 16,
-        "delivered": 11,
+        "total": 40,
+        "delivered": 32,
         "anulado": 0,
-        "cancelado": 4
+        "cancelado": 6
       }
     }
   },
   {
     "departamento": "Jayanca",
-    "total": 4,
-    "delivered": 0,
-    "anulado": 3,
+    "total": 9,
+    "delivered": 3,
+    "anulado": 6,
     "cancelado": 0,
-    "pendiente": 1,
-    "effectiveness": 0.0,
+    "pendiente": 0,
+    "effectiveness": 33.33,
     "dispatch": {
       "PROGRAMADO": {
-        "total": 4,
-        "delivered": 0,
-        "anulado": 3,
+        "total": 9,
+        "delivered": 3,
+        "anulado": 6,
         "cancelado": 0
       }
     }
   },
   {
     "departamento": "Jesus Maria",
-    "total": 50,
-    "delivered": 41,
-    "anulado": 6,
+    "total": 109,
+    "delivered": 91,
+    "anulado": 15,
     "cancelado": 2,
     "pendiente": 1,
-    "effectiveness": 83.67,
+    "effectiveness": 84.26,
     "dispatch": {
       "EXPRESS": {
-        "total": 38,
-        "delivered": 33,
-        "anulado": 3,
+        "total": 92,
+        "delivered": 79,
+        "anulado": 11,
         "cancelado": 2
       },
       "PROGRAMADO": {
-        "total": 12,
-        "delivered": 8,
-        "anulado": 3,
+        "total": 17,
+        "delivered": 12,
+        "anulado": 4,
         "cancelado": 0
       }
     }
   },
   {
     "departamento": "Jesus Nazareno",
-    "total": 7,
-    "delivered": 5,
-    "anulado": 1,
+    "total": 12,
+    "delivered": 7,
+    "anulado": 2,
     "cancelado": 1,
-    "pendiente": 0,
-    "effectiveness": 71.43,
+    "pendiente": 2,
+    "effectiveness": 70.0,
     "dispatch": {
       "EXPRESS": {
-        "total": 7,
-        "delivered": 5,
-        "anulado": 1,
+        "total": 12,
+        "delivered": 7,
+        "anulado": 2,
         "cancelado": 1
       }
     }
   },
   {
     "departamento": "Jose Leonardo Ortiz",
-    "total": 82,
-    "delivered": 62,
-    "anulado": 16,
+    "total": 181,
+    "delivered": 133,
+    "anulado": 46,
     "cancelado": 1,
-    "pendiente": 3,
-    "effectiveness": 78.48,
+    "pendiente": 1,
+    "effectiveness": 73.89,
     "dispatch": {
       "EXPRESS": {
-        "total": 67,
-        "delivered": 55,
-        "anulado": 10,
+        "total": 147,
+        "delivered": 114,
+        "anulado": 33,
         "cancelado": 0
       },
       "PROGRAMADO": {
-        "total": 15,
-        "delivered": 7,
-        "anulado": 6,
+        "total": 34,
+        "delivered": 19,
+        "anulado": 13,
         "cancelado": 1
       }
     }
   },
   {
     "departamento": "Jose Luis Bustamante Y Rivero",
-    "total": 71,
-    "delivered": 55,
-    "anulado": 13,
+    "total": 150,
+    "delivered": 113,
+    "anulado": 33,
     "cancelado": 0,
-    "pendiente": 3,
-    "effectiveness": 80.88,
+    "pendiente": 4,
+    "effectiveness": 77.4,
     "dispatch": {
       "EXPRESS": {
-        "total": 59,
-        "delivered": 48,
-        "anulado": 11,
+        "total": 120,
+        "delivered": 93,
+        "anulado": 27,
         "cancelado": 0
       },
       "PROGRAMADO": {
-        "total": 12,
-        "delivered": 7,
-        "anulado": 2,
+        "total": 30,
+        "delivered": 20,
+        "anulado": 6,
         "cancelado": 0
       }
     }
   },
   {
     "departamento": "Juliaca",
-    "total": 283,
-    "delivered": 210,
-    "anulado": 48,
-    "cancelado": 4,
-    "pendiente": 21,
-    "effectiveness": 80.15,
+    "total": 489,
+    "delivered": 370,
+    "anulado": 98,
+    "cancelado": 5,
+    "pendiente": 16,
+    "effectiveness": 78.22,
     "dispatch": {
       "EXPRESS": {
-        "total": 210,
-        "delivered": 172,
-        "anulado": 31,
+        "total": 369,
+        "delivered": 301,
+        "anulado": 59,
         "cancelado": 4
       },
       "PROGRAMADO": {
-        "total": 73,
-        "delivered": 38,
-        "anulado": 17,
-        "cancelado": 0
+        "total": 120,
+        "delivered": 69,
+        "anulado": 39,
+        "cancelado": 1
       }
     }
   },
   {
     "departamento": "Junin",
-    "total": 87,
-    "delivered": 52,
+    "total": 153,
+    "delivered": 99,
     "anulado": 0,
-    "cancelado": 29,
-    "pendiente": 6,
-    "effectiveness": 64.2,
+    "cancelado": 50,
+    "pendiente": 4,
+    "effectiveness": 66.44,
     "dispatch": {
       "RETIRO EN TIENDA": {
-        "total": 87,
-        "delivered": 52,
+        "total": 153,
+        "delivered": 99,
         "anulado": 0,
-        "cancelado": 29
+        "cancelado": 50
       }
     }
   },
   {
     "departamento": "La Arena",
-    "total": 5,
-    "delivered": 1,
-    "anulado": 1,
+    "total": 8,
+    "delivered": 5,
+    "anulado": 2,
     "cancelado": 0,
-    "pendiente": 3,
-    "effectiveness": 50.0,
+    "pendiente": 1,
+    "effectiveness": 71.43,
     "dispatch": {
       "PROGRAMADO": {
-        "total": 5,
-        "delivered": 1,
-        "anulado": 1,
+        "total": 8,
+        "delivered": 5,
+        "anulado": 2,
         "cancelado": 0
       }
     }
   },
   {
     "departamento": "La Banda De Shilcayo",
-    "total": 10,
-    "delivered": 8,
-    "anulado": 2,
+    "total": 15,
+    "delivered": 11,
+    "anulado": 3,
     "cancelado": 0,
-    "pendiente": 0,
-    "effectiveness": 80.0,
+    "pendiente": 1,
+    "effectiveness": 78.57,
     "dispatch": {
       "EXPRESS": {
-        "total": 5,
-        "delivered": 4,
-        "anulado": 1,
+        "total": 7,
+        "delivered": 5,
+        "anulado": 2,
         "cancelado": 0
       },
       "PROGRAMADO": {
-        "total": 5,
-        "delivered": 4,
+        "total": 8,
+        "delivered": 6,
         "anulado": 1,
         "cancelado": 0
       }
@@ -2057,57 +2149,57 @@
   },
   {
     "departamento": "La Brea",
-    "total": 5,
-    "delivered": 4,
-    "anulado": 1,
+    "total": 16,
+    "delivered": 12,
+    "anulado": 4,
     "cancelado": 0,
     "pendiente": 0,
-    "effectiveness": 80.0,
+    "effectiveness": 75.0,
     "dispatch": {
       "PROGRAMADO": {
-        "total": 5,
-        "delivered": 4,
-        "anulado": 1,
+        "total": 16,
+        "delivered": 12,
+        "anulado": 4,
         "cancelado": 0
       }
     }
   },
   {
     "departamento": "La Convencion",
-    "total": 25,
-    "delivered": 14,
+    "total": 36,
+    "delivered": 21,
     "anulado": 0,
-    "cancelado": 7,
-    "pendiente": 4,
-    "effectiveness": 66.67,
+    "cancelado": 15,
+    "pendiente": 0,
+    "effectiveness": 58.33,
     "dispatch": {
       "RETIRO EN TIENDA": {
-        "total": 25,
-        "delivered": 14,
+        "total": 36,
+        "delivered": 21,
         "anulado": 0,
-        "cancelado": 7
+        "cancelado": 15
       }
     }
   },
   {
     "departamento": "La Esperanza",
-    "total": 74,
-    "delivered": 63,
-    "anulado": 10,
+    "total": 130,
+    "delivered": 110,
+    "anulado": 16,
     "cancelado": 0,
-    "pendiente": 1,
-    "effectiveness": 86.3,
+    "pendiente": 4,
+    "effectiveness": 87.3,
     "dispatch": {
       "EXPRESS": {
-        "total": 56,
-        "delivered": 50,
-        "anulado": 6,
+        "total": 99,
+        "delivered": 88,
+        "anulado": 11,
         "cancelado": 0
       },
       "PROGRAMADO": {
-        "total": 18,
-        "delivered": 13,
-        "anulado": 4,
+        "total": 31,
+        "delivered": 22,
+        "anulado": 5,
         "cancelado": 0
       }
     }
@@ -2115,15 +2207,15 @@
   {
     "departamento": "La Matanza",
     "total": 2,
-    "delivered": 1,
+    "delivered": 2,
     "anulado": 0,
     "cancelado": 0,
-    "pendiente": 1,
+    "pendiente": 0,
     "effectiveness": 100.0,
     "dispatch": {
       "PROGRAMADO": {
         "total": 2,
-        "delivered": 1,
+        "delivered": 2,
         "anulado": 0,
         "cancelado": 0
       }
@@ -2131,62 +2223,68 @@
   },
   {
     "departamento": "La Molina",
-    "total": 66,
-    "delivered": 58,
-    "anulado": 7,
+    "total": 140,
+    "delivered": 121,
+    "anulado": 15,
     "cancelado": 1,
-    "pendiente": 0,
-    "effectiveness": 87.88,
+    "pendiente": 3,
+    "effectiveness": 88.32,
     "dispatch": {
       "EXPRESS": {
-        "total": 46,
-        "delivered": 40,
-        "anulado": 5,
+        "total": 108,
+        "delivered": 95,
+        "anulado": 12,
         "cancelado": 1
       },
+      "EXPRESS PROGRAMADO": {
+        "total": 1,
+        "delivered": 1,
+        "anulado": 0,
+        "cancelado": 0
+      },
       "PROGRAMADO": {
-        "total": 20,
-        "delivered": 18,
-        "anulado": 2,
+        "total": 31,
+        "delivered": 25,
+        "anulado": 3,
         "cancelado": 0
       }
     }
   },
   {
     "departamento": "La Perla",
-    "total": 19,
-    "delivered": 15,
-    "anulado": 0,
+    "total": 45,
+    "delivered": 29,
+    "anulado": 13,
     "cancelado": 3,
-    "pendiente": 1,
-    "effectiveness": 83.33,
+    "pendiente": 0,
+    "effectiveness": 64.44,
     "dispatch": {
       "EXPRESS": {
-        "total": 18,
-        "delivered": 14,
-        "anulado": 0,
+        "total": 36,
+        "delivered": 27,
+        "anulado": 6,
         "cancelado": 3
       },
       "PROGRAMADO": {
-        "total": 1,
-        "delivered": 1,
-        "anulado": 0,
+        "total": 9,
+        "delivered": 2,
+        "anulado": 7,
         "cancelado": 0
       }
     }
   },
   {
     "departamento": "La Punta",
-    "total": 2,
-    "delivered": 2,
+    "total": 5,
+    "delivered": 5,
     "anulado": 0,
     "cancelado": 0,
     "pendiente": 0,
     "effectiveness": 100.0,
     "dispatch": {
       "EXPRESS": {
-        "total": 2,
-        "delivered": 2,
+        "total": 5,
+        "delivered": 5,
         "anulado": 0,
         "cancelado": 0
       }
@@ -2194,16 +2292,22 @@
   },
   {
     "departamento": "La Tinguiña",
-    "total": 2,
-    "delivered": 2,
+    "total": 4,
+    "delivered": 4,
     "anulado": 0,
     "cancelado": 0,
     "pendiente": 0,
     "effectiveness": 100.0,
     "dispatch": {
+      "EXPRESS": {
+        "total": 1,
+        "delivered": 1,
+        "anulado": 0,
+        "cancelado": 0
+      },
       "PROGRAMADO": {
-        "total": 2,
-        "delivered": 2,
+        "total": 3,
+        "delivered": 3,
         "anulado": 0,
         "cancelado": 0
       }
@@ -2211,40 +2315,40 @@
   },
   {
     "departamento": "La Union",
-    "total": 7,
-    "delivered": 0,
-    "anulado": 2,
+    "total": 17,
+    "delivered": 7,
+    "anulado": 8,
     "cancelado": 0,
-    "pendiente": 5,
-    "effectiveness": 0.0,
+    "pendiente": 2,
+    "effectiveness": 46.67,
     "dispatch": {
       "PROGRAMADO": {
-        "total": 7,
-        "delivered": 0,
-        "anulado": 2,
+        "total": 17,
+        "delivered": 7,
+        "anulado": 8,
         "cancelado": 0
       }
     }
   },
   {
     "departamento": "La Victoria",
-    "total": 225,
-    "delivered": 166,
-    "anulado": 39,
+    "total": 426,
+    "delivered": 305,
+    "anulado": 106,
     "cancelado": 4,
-    "pendiente": 16,
-    "effectiveness": 79.43,
+    "pendiente": 11,
+    "effectiveness": 73.49,
     "dispatch": {
       "EXPRESS": {
-        "total": 165,
-        "delivered": 129,
-        "anulado": 30,
+        "total": 301,
+        "delivered": 230,
+        "anulado": 66,
         "cancelado": 3
       },
       "PROGRAMADO": {
-        "total": 60,
-        "delivered": 37,
-        "anulado": 9,
+        "total": 125,
+        "delivered": 75,
+        "anulado": 40,
         "cancelado": 1
       }
     }
@@ -2268,56 +2372,56 @@
   },
   {
     "departamento": "Lambayeque",
-    "total": 48,
-    "delivered": 32,
-    "anulado": 2,
-    "cancelado": 8,
+    "total": 105,
+    "delivered": 74,
+    "anulado": 8,
+    "cancelado": 17,
     "pendiente": 6,
-    "effectiveness": 76.19,
+    "effectiveness": 74.75,
     "dispatch": {
       "PROGRAMADO": {
-        "total": 17,
-        "delivered": 10,
-        "anulado": 2,
+        "total": 37,
+        "delivered": 27,
+        "anulado": 8,
         "cancelado": 0
       },
       "RETIRO EN TIENDA": {
-        "total": 31,
-        "delivered": 22,
+        "total": 68,
+        "delivered": 47,
         "anulado": 0,
-        "cancelado": 8
+        "cancelado": 17
       }
     }
   },
   {
     "departamento": "Laredo",
-    "total": 4,
-    "delivered": 3,
-    "anulado": 0,
+    "total": 12,
+    "delivered": 9,
+    "anulado": 2,
     "cancelado": 0,
     "pendiente": 1,
-    "effectiveness": 100.0,
+    "effectiveness": 81.82,
     "dispatch": {
       "PROGRAMADO": {
-        "total": 4,
-        "delivered": 3,
-        "anulado": 0,
+        "total": 12,
+        "delivered": 9,
+        "anulado": 2,
         "cancelado": 0
       }
     }
   },
   {
     "departamento": "Las Lomas",
-    "total": 7,
-    "delivered": 2,
+    "total": 8,
+    "delivered": 6,
     "anulado": 0,
     "cancelado": 0,
-    "pendiente": 5,
+    "pendiente": 2,
     "effectiveness": 100.0,
     "dispatch": {
       "PROGRAMADO": {
-        "total": 7,
-        "delivered": 2,
+        "total": 8,
+        "delivered": 6,
         "anulado": 0,
         "cancelado": 0
       }
@@ -2325,18 +2429,18 @@
   },
   {
     "departamento": "Leoncio Prado",
-    "total": 32,
-    "delivered": 16,
+    "total": 56,
+    "delivered": 30,
     "anulado": 0,
-    "cancelado": 13,
-    "pendiente": 3,
-    "effectiveness": 55.17,
+    "cancelado": 22,
+    "pendiente": 4,
+    "effectiveness": 57.69,
     "dispatch": {
       "RETIRO EN TIENDA": {
-        "total": 32,
-        "delivered": 16,
+        "total": 56,
+        "delivered": 30,
         "anulado": 0,
-        "cancelado": 13
+        "cancelado": 22
       }
     }
   },
@@ -2359,18 +2463,18 @@
   },
   {
     "departamento": "Lima - Callao",
-    "total": 779,
-    "delivered": 537,
-    "anulado": 81,
-    "cancelado": 120,
-    "pendiente": 41,
-    "effectiveness": 72.76,
+    "total": 1588,
+    "delivered": 1076,
+    "anulado": 207,
+    "cancelado": 259,
+    "pendiente": 46,
+    "effectiveness": 69.78,
     "dispatch": {
       "EXPRESS": {
-        "total": 314,
-        "delivered": 249,
-        "anulado": 54,
-        "cancelado": 4
+        "total": 652,
+        "delivered": 493,
+        "anulado": 149,
+        "cancelado": 5
       },
       "EXPRESS PROGRAMADO": {
         "total": 1,
@@ -2379,37 +2483,37 @@
         "cancelado": 0
       },
       "PROGRAMADO": {
-        "total": 111,
-        "delivered": 66,
-        "anulado": 27,
-        "cancelado": 3
+        "total": 234,
+        "delivered": 148,
+        "anulado": 58,
+        "cancelado": 7
       },
       "RETIRO EN TIENDA": {
-        "total": 353,
-        "delivered": 221,
+        "total": 701,
+        "delivered": 434,
         "anulado": 0,
-        "cancelado": 113
+        "cancelado": 247
       }
     }
   },
   {
     "departamento": "Lince",
-    "total": 31,
-    "delivered": 30,
-    "anulado": 1,
+    "total": 63,
+    "delivered": 60,
+    "anulado": 3,
     "cancelado": 0,
     "pendiente": 0,
-    "effectiveness": 96.77,
+    "effectiveness": 95.24,
     "dispatch": {
       "EXPRESS": {
-        "total": 26,
-        "delivered": 26,
-        "anulado": 0,
+        "total": 54,
+        "delivered": 52,
+        "anulado": 2,
         "cancelado": 0
       },
       "PROGRAMADO": {
-        "total": 5,
-        "delivered": 4,
+        "total": 9,
+        "delivered": 8,
         "anulado": 1,
         "cancelado": 0
       }
@@ -2417,57 +2521,69 @@
   },
   {
     "departamento": "Loreto",
-    "total": 19,
-    "delivered": 8,
+    "total": 21,
+    "delivered": 9,
     "anulado": 0,
-    "cancelado": 9,
-    "pendiente": 2,
-    "effectiveness": 47.06,
+    "cancelado": 12,
+    "pendiente": 0,
+    "effectiveness": 42.86,
     "dispatch": {
       "RETIRO EN TIENDA": {
-        "total": 19,
-        "delivered": 8,
+        "total": 21,
+        "delivered": 9,
         "anulado": 0,
-        "cancelado": 9
+        "cancelado": 12
       }
     }
   },
   {
     "departamento": "Los Baños Del Inca",
-    "total": 2,
-    "delivered": 1,
-    "anulado": 1,
+    "total": 4,
+    "delivered": 2,
+    "anulado": 2,
     "cancelado": 0,
     "pendiente": 0,
     "effectiveness": 50.0,
     "dispatch": {
-      "PROGRAMADO": {
-        "total": 2,
+      "EXPRESS": {
+        "total": 1,
         "delivered": 1,
-        "anulado": 1,
+        "anulado": 0,
+        "cancelado": 0
+      },
+      "PROGRAMADO": {
+        "total": 3,
+        "delivered": 1,
+        "anulado": 2,
         "cancelado": 0
       }
     }
   },
   {
     "departamento": "Los Olivos",
-    "total": 149,
-    "delivered": 119,
-    "anulado": 27,
+    "total": 285,
+    "delivered": 226,
+    "anulado": 54,
     "cancelado": 1,
-    "pendiente": 2,
-    "effectiveness": 80.95,
+    "pendiente": 4,
+    "effectiveness": 80.43,
     "dispatch": {
       "EXPRESS": {
-        "total": 133,
-        "delivered": 107,
-        "anulado": 25,
+        "total": 244,
+        "delivered": 195,
+        "anulado": 48,
         "cancelado": 1
       },
+      "EXPRESS PROGRAMADO": {
+        "total": 1,
+        "delivered": 0,
+        "anulado": 1,
+        "cancelado": 0
+      },
       "PROGRAMADO": {
-        "total": 16,
-        "delivered": 12,
-        "anulado": 2,
+        "total": 40,
+        "delivered": 31,
+        "anulado": 5,
         "cancelado": 0
       }
     }
@@ -2475,15 +2591,15 @@
   {
     "departamento": "Los Organos",
     "total": 3,
-    "delivered": 1,
+    "delivered": 3,
     "anulado": 0,
     "cancelado": 0,
-    "pendiente": 2,
+    "pendiente": 0,
     "effectiveness": 100.0,
     "dispatch": {
       "PROGRAMADO": {
         "total": 3,
-        "delivered": 1,
+        "delivered": 3,
         "anulado": 0,
         "cancelado": 0
       }
@@ -2491,56 +2607,56 @@
   },
   {
     "departamento": "Lurigancho",
-    "total": 116,
-    "delivered": 70,
-    "anulado": 27,
-    "cancelado": 0,
-    "pendiente": 19,
-    "effectiveness": 72.16,
+    "total": 228,
+    "delivered": 156,
+    "anulado": 53,
+    "cancelado": 5,
+    "pendiente": 14,
+    "effectiveness": 72.9,
     "dispatch": {
       "PROGRAMADO": {
-        "total": 116,
-        "delivered": 70,
-        "anulado": 27,
-        "cancelado": 0
+        "total": 228,
+        "delivered": 156,
+        "anulado": 53,
+        "cancelado": 5
       }
     }
   },
   {
     "departamento": "Lurin",
-    "total": 69,
-    "delivered": 48,
-    "anulado": 13,
+    "total": 117,
+    "delivered": 86,
+    "anulado": 21,
     "cancelado": 2,
-    "pendiente": 6,
-    "effectiveness": 76.19,
+    "pendiente": 8,
+    "effectiveness": 78.9,
     "dispatch": {
       "PROGRAMADO": {
-        "total": 69,
-        "delivered": 48,
-        "anulado": 13,
+        "total": 117,
+        "delivered": 86,
+        "anulado": 21,
         "cancelado": 2
       }
     }
   },
   {
     "departamento": "Magdalena Del Mar",
-    "total": 25,
-    "delivered": 22,
+    "total": 48,
+    "delivered": 45,
     "anulado": 3,
     "cancelado": 0,
     "pendiente": 0,
-    "effectiveness": 88.0,
+    "effectiveness": 93.75,
     "dispatch": {
       "EXPRESS": {
-        "total": 24,
-        "delivered": 21,
+        "total": 45,
+        "delivered": 42,
         "anulado": 3,
         "cancelado": 0
       },
       "PROGRAMADO": {
-        "total": 1,
-        "delivered": 1,
+        "total": 3,
+        "delivered": 3,
         "anulado": 0,
         "cancelado": 0
       }
@@ -2565,153 +2681,187 @@
   },
   {
     "departamento": "Manantay",
-    "total": 29,
-    "delivered": 15,
-    "anulado": 12,
-    "cancelado": 0,
-    "pendiente": 2,
-    "effectiveness": 55.56,
+    "total": 74,
+    "delivered": 44,
+    "anulado": 19,
+    "cancelado": 4,
+    "pendiente": 7,
+    "effectiveness": 65.67,
     "dispatch": {
       "EXPRESS": {
-        "total": 10,
-        "delivered": 7,
-        "anulado": 3,
-        "cancelado": 0
+        "total": 27,
+        "delivered": 22,
+        "anulado": 4,
+        "cancelado": 1
       },
       "PROGRAMADO": {
-        "total": 19,
-        "delivered": 8,
-        "anulado": 9,
-        "cancelado": 0
+        "total": 47,
+        "delivered": 22,
+        "anulado": 15,
+        "cancelado": 3
       }
     }
   },
   {
     "departamento": "Mancora",
-    "total": 7,
-    "delivered": 4,
-    "anulado": 1,
+    "total": 10,
+    "delivered": 7,
+    "anulado": 3,
     "cancelado": 0,
-    "pendiente": 2,
-    "effectiveness": 80.0,
+    "pendiente": 0,
+    "effectiveness": 70.0,
     "dispatch": {
       "PROGRAMADO": {
-        "total": 7,
-        "delivered": 4,
-        "anulado": 1,
+        "total": 10,
+        "delivered": 7,
+        "anulado": 3,
         "cancelado": 0
       }
     }
   },
   {
     "departamento": "Mariano Melgar",
-    "total": 25,
-    "delivered": 15,
-    "anulado": 8,
+    "total": 51,
+    "delivered": 36,
+    "anulado": 14,
     "cancelado": 1,
-    "pendiente": 1,
-    "effectiveness": 62.5,
+    "pendiente": 0,
+    "effectiveness": 70.59,
     "dispatch": {
       "EXPRESS": {
-        "total": 17,
-        "delivered": 9,
-        "anulado": 7,
+        "total": 38,
+        "delivered": 27,
+        "anulado": 10,
         "cancelado": 1
       },
       "PROGRAMADO": {
-        "total": 8,
-        "delivered": 6,
-        "anulado": 1,
+        "total": 13,
+        "delivered": 9,
+        "anulado": 4,
         "cancelado": 0
       }
     }
   },
   {
     "departamento": "Mariscal Nieto",
-    "total": 13,
-    "delivered": 3,
+    "total": 21,
+    "delivered": 5,
     "anulado": 0,
-    "cancelado": 9,
-    "pendiente": 1,
-    "effectiveness": 25.0,
+    "cancelado": 16,
+    "pendiente": 0,
+    "effectiveness": 23.81,
     "dispatch": {
       "RETIRO EN TIENDA": {
-        "total": 13,
-        "delivered": 3,
+        "total": 21,
+        "delivered": 5,
         "anulado": 0,
-        "cancelado": 9
+        "cancelado": 16
       }
     }
   },
   {
     "departamento": "Maynas",
-    "total": 28,
-    "delivered": 20,
+    "total": 42,
+    "delivered": 30,
     "anulado": 0,
-    "cancelado": 5,
-    "pendiente": 3,
-    "effectiveness": 80.0,
+    "cancelado": 11,
+    "pendiente": 1,
+    "effectiveness": 73.17,
     "dispatch": {
       "RETIRO EN TIENDA": {
-        "total": 28,
-        "delivered": 20,
+        "total": 42,
+        "delivered": 30,
         "anulado": 0,
-        "cancelado": 5
+        "cancelado": 11
       }
     }
   },
   {
     "departamento": "Mi Peru",
-    "total": 23,
-    "delivered": 15,
+    "total": 40,
+    "delivered": 25,
     "anulado": 6,
     "cancelado": 1,
-    "pendiente": 1,
-    "effectiveness": 68.18,
+    "pendiente": 8,
+    "effectiveness": 78.12,
     "dispatch": {
       "PROGRAMADO": {
-        "total": 23,
-        "delivered": 15,
+        "total": 40,
+        "delivered": 25,
         "anulado": 6,
         "cancelado": 1
       }
     }
   },
   {
+    "departamento": "Miguel Checa",
+    "total": 1,
+    "delivered": 1,
+    "anulado": 0,
+    "cancelado": 0,
+    "pendiente": 0,
+    "effectiveness": 100.0,
+    "dispatch": {
+      "PROGRAMADO": {
+        "total": 1,
+        "delivered": 1,
+        "anulado": 0,
+        "cancelado": 0
+      }
+    }
+  },
+  {
     "departamento": "Miraflores",
-    "total": 78,
-    "delivered": 71,
-    "anulado": 4,
+    "total": 199,
+    "delivered": 163,
+    "anulado": 31,
     "cancelado": 2,
-    "pendiente": 1,
-    "effectiveness": 92.21,
+    "pendiente": 3,
+    "effectiveness": 83.16,
     "dispatch": {
       "EXPRESS": {
-        "total": 63,
-        "delivered": 58,
-        "anulado": 3,
+        "total": 158,
+        "delivered": 134,
+        "anulado": 21,
         "cancelado": 2
       },
       "PROGRAMADO": {
-        "total": 15,
-        "delivered": 13,
-        "anulado": 1,
+        "total": 41,
+        "delivered": 29,
+        "anulado": 10,
         "cancelado": 0
       }
     }
   },
   {
     "departamento": "Moche",
-    "total": 13,
-    "delivered": 11,
+    "total": 21,
+    "delivered": 15,
+    "anulado": 1,
+    "cancelado": 0,
+    "pendiente": 5,
+    "effectiveness": 93.75,
+    "dispatch": {
+      "PROGRAMADO": {
+        "total": 21,
+        "delivered": 15,
+        "anulado": 1,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Mochumi",
+    "total": 2,
+    "delivered": 0,
     "anulado": 1,
     "cancelado": 0,
     "pendiente": 1,
-    "effectiveness": 91.67,
+    "effectiveness": 0.0,
     "dispatch": {
       "PROGRAMADO": {
-        "total": 13,
-        "delivered": 11,
+        "total": 2,
+        "delivered": 0,
         "anulado": 1,
         "cancelado": 0
       }
@@ -2719,183 +2869,274 @@
   },
   {
     "departamento": "Monsefu",
-    "total": 4,
-    "delivered": 2,
-    "anulado": 1,
+    "total": 15,
+    "delivered": 3,
+    "anulado": 0,
     "cancelado": 0,
-    "pendiente": 1,
-    "effectiveness": 66.67,
+    "pendiente": 12,
+    "effectiveness": 100.0,
     "dispatch": {
       "PROGRAMADO": {
-        "total": 4,
-        "delivered": 2,
-        "anulado": 1,
+        "total": 15,
+        "delivered": 3,
+        "anulado": 0,
         "cancelado": 0
       }
     }
   },
   {
     "departamento": "Moquegua",
-    "total": 54,
-    "delivered": 44,
-    "anulado": 7,
+    "total": 91,
+    "delivered": 80,
+    "anulado": 9,
     "cancelado": 1,
-    "pendiente": 2,
-    "effectiveness": 84.62,
+    "pendiente": 1,
+    "effectiveness": 88.89,
     "dispatch": {
       "EXPRESS": {
-        "total": 39,
-        "delivered": 33,
+        "total": 70,
+        "delivered": 64,
         "anulado": 6,
         "cancelado": 0
       },
       "PROGRAMADO": {
-        "total": 15,
-        "delivered": 11,
-        "anulado": 1,
+        "total": 21,
+        "delivered": 16,
+        "anulado": 3,
         "cancelado": 1
       }
     }
   },
   {
     "departamento": "Morales",
-    "total": 5,
-    "delivered": 5,
-    "anulado": 0,
-    "cancelado": 0,
+    "total": 22,
+    "delivered": 16,
+    "anulado": 5,
+    "cancelado": 1,
     "pendiente": 0,
-    "effectiveness": 100.0,
+    "effectiveness": 72.73,
     "dispatch": {
       "EXPRESS": {
-        "total": 3,
-        "delivered": 3,
-        "anulado": 0,
-        "cancelado": 0
+        "total": 15,
+        "delivered": 12,
+        "anulado": 2,
+        "cancelado": 1
       },
       "PROGRAMADO": {
-        "total": 2,
-        "delivered": 2,
-        "anulado": 0,
+        "total": 7,
+        "delivered": 4,
+        "anulado": 3,
         "cancelado": 0
       }
     }
   },
   {
     "departamento": "Morrope",
-    "total": 9,
-    "delivered": 3,
-    "anulado": 1,
+    "total": 21,
+    "delivered": 10,
+    "anulado": 6,
     "cancelado": 0,
     "pendiente": 5,
-    "effectiveness": 75.0,
+    "effectiveness": 62.5,
     "dispatch": {
       "PROGRAMADO": {
-        "total": 9,
-        "delivered": 3,
-        "anulado": 1,
+        "total": 21,
+        "delivered": 10,
+        "anulado": 6,
         "cancelado": 0
       }
     }
   },
   {
     "departamento": "Morropon",
-    "total": 2,
-    "delivered": 0,
-    "anulado": 0,
-    "cancelado": 0,
-    "pendiente": 2,
-    "effectiveness": 0.0,
-    "dispatch": {
-      "PROGRAMADO": {
-        "total": 2,
-        "delivered": 0,
-        "anulado": 0,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Motupe",
-    "total": 7,
-    "delivered": 1,
+    "total": 3,
+    "delivered": 2,
     "anulado": 1,
     "cancelado": 0,
-    "pendiente": 5,
-    "effectiveness": 50.0,
+    "pendiente": 0,
+    "effectiveness": 66.67,
     "dispatch": {
       "PROGRAMADO": {
-        "total": 7,
-        "delivered": 1,
+        "total": 3,
+        "delivered": 2,
         "anulado": 1,
         "cancelado": 0
       }
     }
   },
   {
-    "departamento": "Moyobamba",
-    "total": 75,
-    "delivered": 65,
-    "anulado": 0,
-    "cancelado": 5,
-    "pendiente": 5,
-    "effectiveness": 92.86,
-    "dispatch": {
-      "RETIRO EN TIENDA": {
-        "total": 75,
-        "delivered": 65,
-        "anulado": 0,
-        "cancelado": 5
-      }
-    }
-  },
-  {
-    "departamento": "No especificado",
-    "total": 119,
-    "delivered": 2,
-    "anulado": 0,
-    "cancelado": 106,
-    "pendiente": 0,
-    "effectiveness": 1.85,
-    "dispatch": {
-      "No bop": {
-        "total": 11,
-        "delivered": 0,
-        "anulado": 0,
-        "cancelado": 0
-      },
-      "RETIRO EN TIENDA": {
-        "total": 108,
-        "delivered": 2,
-        "anulado": 0,
-        "cancelado": 106
-      }
-    }
-  },
-  {
-    "departamento": "Nuevo Chimbote",
-    "total": 140,
-    "delivered": 110,
-    "anulado": 20,
-    "cancelado": 7,
+    "departamento": "Motupe",
+    "total": 13,
+    "delivered": 5,
+    "anulado": 4,
+    "cancelado": 1,
     "pendiente": 3,
-    "effectiveness": 80.29,
+    "effectiveness": 50.0,
     "dispatch": {
-      "EXPRESS": {
-        "total": 114,
-        "delivered": 92,
-        "anulado": 16,
-        "cancelado": 6
-      },
       "PROGRAMADO": {
-        "total": 26,
-        "delivered": 18,
+        "total": 13,
+        "delivered": 5,
         "anulado": 4,
         "cancelado": 1
       }
     }
   },
   {
+    "departamento": "Moyobamba",
+    "total": 118,
+    "delivered": 97,
+    "anulado": 0,
+    "cancelado": 16,
+    "pendiente": 5,
+    "effectiveness": 85.84,
+    "dispatch": {
+      "RETIRO EN TIENDA": {
+        "total": 118,
+        "delivered": 97,
+        "anulado": 0,
+        "cancelado": 16
+      }
+    }
+  },
+  {
+    "departamento": "No especificado",
+    "total": 566,
+    "delivered": 7,
+    "anulado": 0,
+    "cancelado": 224,
+    "pendiente": 152,
+    "effectiveness": 3.03,
+    "dispatch": {
+      "No bop": {
+        "total": 196,
+        "delivered": 1,
+        "anulado": 0,
+        "cancelado": 0
+      },
+      "RETIRO EN TIENDA": {
+        "total": 370,
+        "delivered": 6,
+        "anulado": 0,
+        "cancelado": 224
+      }
+    }
+  },
+  {
+    "departamento": "Nuevo Chimbote",
+    "total": 241,
+    "delivered": 200,
+    "anulado": 31,
+    "cancelado": 7,
+    "pendiente": 3,
+    "effectiveness": 84.03,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 199,
+        "delivered": 170,
+        "anulado": 23,
+        "cancelado": 6
+      },
+      "PROGRAMADO": {
+        "total": 42,
+        "delivered": 30,
+        "anulado": 8,
+        "cancelado": 1
+      }
+    }
+  },
+  {
     "departamento": "Nuevo Imperial",
+    "total": 1,
+    "delivered": 1,
+    "anulado": 0,
+    "cancelado": 0,
+    "pendiente": 0,
+    "effectiveness": 100.0,
+    "dispatch": {
+      "PROGRAMADO": {
+        "total": 1,
+        "delivered": 1,
+        "anulado": 0,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Otuzco",
+    "total": 1,
+    "delivered": 0,
+    "anulado": 0,
+    "cancelado": 1,
+    "pendiente": 0,
+    "effectiveness": 0.0,
+    "dispatch": {
+      "RETIRO EN TIENDA": {
+        "total": 1,
+        "delivered": 0,
+        "anulado": 0,
+        "cancelado": 1
+      }
+    }
+  },
+  {
+    "departamento": "Pacanga",
+    "total": 2,
+    "delivered": 2,
+    "anulado": 0,
+    "cancelado": 0,
+    "pendiente": 0,
+    "effectiveness": 100.0,
+    "dispatch": {
+      "PROGRAMADO": {
+        "total": 2,
+        "delivered": 2,
+        "anulado": 0,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Pacasmayo",
+    "total": 46,
+    "delivered": 29,
+    "anulado": 7,
+    "cancelado": 9,
+    "pendiente": 1,
+    "effectiveness": 64.44,
+    "dispatch": {
+      "PROGRAMADO": {
+        "total": 22,
+        "delivered": 15,
+        "anulado": 7,
+        "cancelado": 0
+      },
+      "RETIRO EN TIENDA": {
+        "total": 24,
+        "delivered": 14,
+        "anulado": 0,
+        "cancelado": 9
+      }
+    }
+  },
+  {
+    "departamento": "Pachacamac",
+    "total": 53,
+    "delivered": 24,
+    "anulado": 9,
+    "cancelado": 4,
+    "pendiente": 16,
+    "effectiveness": 64.86,
+    "dispatch": {
+      "PROGRAMADO": {
+        "total": 53,
+        "delivered": 24,
+        "anulado": 9,
+        "cancelado": 4
+      }
+    }
+  },
+  {
+    "departamento": "Pacora",
     "total": 1,
     "delivered": 0,
     "anulado": 0,
@@ -2912,120 +3153,80 @@
     }
   },
   {
-    "departamento": "Pacasmayo",
-    "total": 25,
-    "delivered": 16,
-    "anulado": 2,
-    "cancelado": 5,
-    "pendiente": 2,
-    "effectiveness": 69.57,
-    "dispatch": {
-      "PROGRAMADO": {
-        "total": 8,
-        "delivered": 5,
-        "anulado": 2,
-        "cancelado": 0
-      },
-      "RETIRO EN TIENDA": {
-        "total": 17,
-        "delivered": 11,
-        "anulado": 0,
-        "cancelado": 5
-      }
-    }
-  },
-  {
-    "departamento": "Pachacamac",
-    "total": 32,
-    "delivered": 13,
-    "anulado": 8,
-    "cancelado": 4,
-    "pendiente": 7,
-    "effectiveness": 52.0,
-    "dispatch": {
-      "PROGRAMADO": {
-        "total": 32,
-        "delivered": 13,
-        "anulado": 8,
-        "cancelado": 4
-      }
-    }
-  },
-  {
     "departamento": "Paijan",
-    "total": 8,
-    "delivered": 3,
-    "anulado": 2,
+    "total": 15,
+    "delivered": 9,
+    "anulado": 4,
     "cancelado": 0,
-    "pendiente": 3,
-    "effectiveness": 60.0,
+    "pendiente": 2,
+    "effectiveness": 69.23,
     "dispatch": {
       "PROGRAMADO": {
-        "total": 8,
-        "delivered": 3,
-        "anulado": 2,
+        "total": 15,
+        "delivered": 9,
+        "anulado": 4,
         "cancelado": 0
       }
     }
   },
   {
     "departamento": "Paita",
-    "total": 46,
-    "delivered": 34,
-    "anulado": 1,
-    "cancelado": 5,
+    "total": 78,
+    "delivered": 59,
+    "anulado": 4,
+    "cancelado": 9,
     "pendiente": 6,
-    "effectiveness": 85.0,
+    "effectiveness": 81.94,
     "dispatch": {
       "PROGRAMADO": {
-        "total": 17,
-        "delivered": 12,
-        "anulado": 1,
+        "total": 33,
+        "delivered": 23,
+        "anulado": 4,
         "cancelado": 1
       },
       "RETIRO EN TIENDA": {
-        "total": 29,
-        "delivered": 22,
+        "total": 45,
+        "delivered": 36,
         "anulado": 0,
-        "cancelado": 4
+        "cancelado": 8
       }
     }
   },
   {
     "departamento": "Paramonga",
-    "total": 2,
-    "delivered": 0,
-    "anulado": 1,
+    "total": 8,
+    "delivered": 1,
+    "anulado": 3,
     "cancelado": 0,
-    "pendiente": 1,
-    "effectiveness": 0.0,
+    "pendiente": 4,
+    "effectiveness": 25.0,
     "dispatch": {
       "PROGRAMADO": {
-        "total": 2,
-        "delivered": 0,
-        "anulado": 1,
+        "total": 8,
+        "delivered": 1,
+        "anulado": 3,
         "cancelado": 0
       }
     }
   },
   {
     "departamento": "Parcona",
-    "total": 61,
-    "delivered": 50,
-    "anulado": 9,
+    "total": 92,
+    "delivered": 79,
+    "anulado": 11,
     "cancelado": 1,
     "pendiente": 1,
-    "effectiveness": 83.33,
+    "effectiveness": 86.81,
     "dispatch": {
       "EXPRESS": {
-        "total": 49,
-        "delivered": 43,
-        "anulado": 5,
+        "total": 71,
+        "delivered": 62,
+        "anulado": 7,
         "cancelado": 1
       },
       "PROGRAMADO": {
-        "total": 12,
-        "delivered": 7,
+        "total": 21,
+        "delivered": 17,
         "anulado": 4,
         "cancelado": 0
       }
@@ -3033,407 +3234,40 @@
   },
   {
     "departamento": "Pariñas",
-    "total": 9,
-    "delivered": 6,
-    "anulado": 2,
-    "cancelado": 0,
-    "pendiente": 1,
-    "effectiveness": 75.0,
-    "dispatch": {
-      "PROGRAMADO": {
-        "total": 9,
-        "delivered": 6,
-        "anulado": 2,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Pasco",
-    "total": 50,
-    "delivered": 15,
-    "anulado": 0,
-    "cancelado": 30,
-    "pendiente": 5,
-    "effectiveness": 33.33,
-    "dispatch": {
-      "RETIRO EN TIENDA": {
-        "total": 50,
-        "delivered": 15,
-        "anulado": 0,
-        "cancelado": 30
-      }
-    }
-  },
-  {
-    "departamento": "Patapo",
-    "total": 3,
-    "delivered": 3,
-    "anulado": 0,
-    "cancelado": 0,
-    "pendiente": 0,
-    "effectiveness": 100.0,
-    "dispatch": {
-      "PROGRAMADO": {
-        "total": 3,
-        "delivered": 3,
-        "anulado": 0,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Paucarpata",
-    "total": 91,
-    "delivered": 61,
-    "anulado": 25,
-    "cancelado": 2,
-    "pendiente": 3,
-    "effectiveness": 69.32,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 62,
-        "delivered": 46,
-        "anulado": 16,
-        "cancelado": 0
-      },
-      "PROGRAMADO": {
-        "total": 29,
-        "delivered": 15,
-        "anulado": 9,
-        "cancelado": 2
-      }
-    }
-  },
-  {
-    "departamento": "Pedregal",
-    "total": 30,
-    "delivered": 22,
-    "anulado": 0,
-    "cancelado": 4,
-    "pendiente": 4,
-    "effectiveness": 84.62,
-    "dispatch": {
-      "RETIRO EN TIENDA": {
-        "total": 30,
-        "delivered": 22,
-        "anulado": 0,
-        "cancelado": 4
-      }
-    }
-  },
-  {
-    "departamento": "Pilcomayo",
-    "total": 4,
-    "delivered": 3,
-    "anulado": 1,
+    "total": 12,
+    "delivered": 9,
+    "anulado": 3,
     "cancelado": 0,
     "pendiente": 0,
     "effectiveness": 75.0,
     "dispatch": {
-      "EXPRESS": {
-        "total": 3,
-        "delivered": 3,
-        "anulado": 0,
-        "cancelado": 0
-      },
       "PROGRAMADO": {
-        "total": 1,
-        "delivered": 0,
-        "anulado": 1,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Pillco Marca",
-    "total": 29,
-    "delivered": 20,
-    "anulado": 9,
-    "cancelado": 0,
-    "pendiente": 0,
-    "effectiveness": 68.97,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 23,
-        "delivered": 17,
-        "anulado": 6,
-        "cancelado": 0
-      },
-      "PROGRAMADO": {
-        "total": 6,
-        "delivered": 3,
+        "total": 12,
+        "delivered": 9,
         "anulado": 3,
         "cancelado": 0
       }
     }
   },
   {
-    "departamento": "Pimentel",
-    "total": 16,
-    "delivered": 7,
-    "anulado": 2,
-    "cancelado": 0,
-    "pendiente": 7,
-    "effectiveness": 77.78,
-    "dispatch": {
-      "PROGRAMADO": {
-        "total": 16,
-        "delivered": 7,
-        "anulado": 2,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Pisco",
-    "total": 69,
-    "delivered": 19,
-    "anulado": 39,
-    "cancelado": 4,
-    "pendiente": 7,
-    "effectiveness": 30.65,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 54,
-        "delivered": 19,
-        "anulado": 30,
-        "cancelado": 3
-      },
-      "PROGRAMADO": {
-        "total": 15,
-        "delivered": 0,
-        "anulado": 9,
-        "cancelado": 1
-      }
-    }
-  },
-  {
-    "departamento": "Piura",
-    "total": 133,
-    "delivered": 91,
-    "anulado": 16,
-    "cancelado": 18,
-    "pendiente": 8,
-    "effectiveness": 72.8,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 67,
-        "delivered": 53,
-        "anulado": 11,
-        "cancelado": 1
-      },
-      "PROGRAMADO": {
-        "total": 21,
-        "delivered": 15,
-        "anulado": 5,
-        "cancelado": 0
-      },
-      "RETIRO EN TIENDA": {
-        "total": 45,
-        "delivered": 23,
-        "anulado": 0,
-        "cancelado": 17
-      }
-    }
-  },
-  {
-    "departamento": "Pocollay",
-    "total": 9,
-    "delivered": 9,
+    "departamento": "Pasco",
+    "total": 83,
+    "delivered": 20,
     "anulado": 0,
-    "cancelado": 0,
-    "pendiente": 0,
-    "effectiveness": 100.0,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 8,
-        "delivered": 8,
-        "anulado": 0,
-        "cancelado": 0
-      },
-      "PROGRAMADO": {
-        "total": 1,
-        "delivered": 1,
-        "anulado": 0,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Pomabamba",
-    "total": 6,
-    "delivered": 4,
-    "anulado": 0,
-    "cancelado": 1,
-    "pendiente": 1,
-    "effectiveness": 80.0,
+    "cancelado": 54,
+    "pendiente": 9,
+    "effectiveness": 27.03,
     "dispatch": {
       "RETIRO EN TIENDA": {
-        "total": 6,
-        "delivered": 4,
+        "total": 83,
+        "delivered": 20,
         "anulado": 0,
-        "cancelado": 1
+        "cancelado": 54
       }
     }
   },
   {
-    "departamento": "Pomalca",
-    "total": 17,
-    "delivered": 1,
-    "anulado": 2,
-    "cancelado": 0,
-    "pendiente": 14,
-    "effectiveness": 33.33,
-    "dispatch": {
-      "PROGRAMADO": {
-        "total": 17,
-        "delivered": 1,
-        "anulado": 2,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Pucala",
-    "total": 2,
-    "delivered": 1,
-    "anulado": 0,
-    "cancelado": 0,
-    "pendiente": 1,
-    "effectiveness": 100.0,
-    "dispatch": {
-      "PROGRAMADO": {
-        "total": 2,
-        "delivered": 1,
-        "anulado": 0,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Pueblo Libre",
-    "total": 32,
-    "delivered": 29,
-    "anulado": 1,
-    "cancelado": 1,
-    "pendiente": 1,
-    "effectiveness": 93.55,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 31,
-        "delivered": 28,
-        "anulado": 1,
-        "cancelado": 1
-      },
-      "PROGRAMADO": {
-        "total": 1,
-        "delivered": 1,
-        "anulado": 0,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Pueblo Nuevo",
-    "total": 23,
-    "delivered": 12,
-    "anulado": 8,
-    "cancelado": 2,
-    "pendiente": 1,
-    "effectiveness": 54.55,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 17,
-        "delivered": 11,
-        "anulado": 6,
-        "cancelado": 0
-      },
-      "PROGRAMADO": {
-        "total": 6,
-        "delivered": 1,
-        "anulado": 2,
-        "cancelado": 2
-      }
-    }
-  },
-  {
-    "departamento": "Puente Piedra",
-    "total": 186,
-    "delivered": 141,
-    "anulado": 34,
-    "cancelado": 4,
-    "pendiente": 7,
-    "effectiveness": 78.77,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 163,
-        "delivered": 124,
-        "anulado": 30,
-        "cancelado": 4
-      },
-      "PROGRAMADO": {
-        "total": 23,
-        "delivered": 17,
-        "anulado": 4,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Punchana",
-    "total": 13,
-    "delivered": 7,
-    "anulado": 4,
-    "cancelado": 0,
-    "pendiente": 2,
-    "effectiveness": 63.64,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 11,
-        "delivered": 7,
-        "anulado": 4,
-        "cancelado": 0
-      },
-      "PROGRAMADO": {
-        "total": 2,
-        "delivered": 0,
-        "anulado": 0,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Puno",
-    "total": 157,
-    "delivered": 134,
-    "anulado": 10,
-    "cancelado": 8,
-    "pendiente": 5,
-    "effectiveness": 88.16,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 103,
-        "delivered": 98,
-        "anulado": 4,
-        "cancelado": 0
-      },
-      "PROGRAMADO": {
-        "total": 23,
-        "delivered": 15,
-        "anulado": 6,
-        "cancelado": 0
-      },
-      "RETIRO EN TIENDA": {
-        "total": 31,
-        "delivered": 21,
-        "anulado": 0,
-        "cancelado": 8
-      }
-    }
-  },
-  {
-    "departamento": "Punta Hermosa",
+    "departamento": "Patapo",
     "total": 4,
     "delivered": 3,
     "anulado": 0,
@@ -3450,18 +3284,402 @@
     }
   },
   {
-    "departamento": "Punta Negra",
+    "departamento": "Paucarpata",
+    "total": 166,
+    "delivered": 125,
+    "anulado": 36,
+    "cancelado": 3,
+    "pendiente": 2,
+    "effectiveness": 76.22,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 120,
+        "delivered": 95,
+        "anulado": 24,
+        "cancelado": 1
+      },
+      "PROGRAMADO": {
+        "total": 46,
+        "delivered": 30,
+        "anulado": 12,
+        "cancelado": 2
+      }
+    }
+  },
+  {
+    "departamento": "Pedregal",
+    "total": 68,
+    "delivered": 50,
+    "anulado": 0,
+    "cancelado": 17,
+    "pendiente": 1,
+    "effectiveness": 74.63,
+    "dispatch": {
+      "RETIRO EN TIENDA": {
+        "total": 68,
+        "delivered": 50,
+        "anulado": 0,
+        "cancelado": 17
+      }
+    }
+  },
+  {
+    "departamento": "Picsi",
     "total": 2,
-    "delivered": 1,
+    "delivered": 0,
     "anulado": 0,
     "cancelado": 0,
-    "pendiente": 1,
-    "effectiveness": 100.0,
+    "pendiente": 2,
+    "effectiveness": 0.0,
     "dispatch": {
       "PROGRAMADO": {
         "total": 2,
-        "delivered": 1,
+        "delivered": 0,
         "anulado": 0,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Pilcomayo",
+    "total": 12,
+    "delivered": 10,
+    "anulado": 2,
+    "cancelado": 0,
+    "pendiente": 0,
+    "effectiveness": 83.33,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 10,
+        "delivered": 10,
+        "anulado": 0,
+        "cancelado": 0
+      },
+      "PROGRAMADO": {
+        "total": 2,
+        "delivered": 0,
+        "anulado": 2,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Pillco Marca",
+    "total": 46,
+    "delivered": 32,
+    "anulado": 12,
+    "cancelado": 0,
+    "pendiente": 2,
+    "effectiveness": 72.73,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 27,
+        "delivered": 21,
+        "anulado": 6,
+        "cancelado": 0
+      },
+      "PROGRAMADO": {
+        "total": 19,
+        "delivered": 11,
+        "anulado": 6,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Pimentel",
+    "total": 31,
+    "delivered": 14,
+    "anulado": 13,
+    "cancelado": 0,
+    "pendiente": 4,
+    "effectiveness": 51.85,
+    "dispatch": {
+      "PROGRAMADO": {
+        "total": 31,
+        "delivered": 14,
+        "anulado": 13,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Pisco",
+    "total": 142,
+    "delivered": 74,
+    "anulado": 62,
+    "cancelado": 4,
+    "pendiente": 2,
+    "effectiveness": 52.86,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 104,
+        "delivered": 53,
+        "anulado": 46,
+        "cancelado": 3
+      },
+      "PROGRAMADO": {
+        "total": 38,
+        "delivered": 21,
+        "anulado": 16,
+        "cancelado": 1
+      }
+    }
+  },
+  {
+    "departamento": "Piura",
+    "total": 285,
+    "delivered": 211,
+    "anulado": 28,
+    "cancelado": 40,
+    "pendiente": 6,
+    "effectiveness": 75.63,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 141,
+        "delivered": 122,
+        "anulado": 17,
+        "cancelado": 1
+      },
+      "PROGRAMADO": {
+        "total": 41,
+        "delivered": 28,
+        "anulado": 11,
+        "cancelado": 0
+      },
+      "RETIRO EN TIENDA": {
+        "total": 103,
+        "delivered": 61,
+        "anulado": 0,
+        "cancelado": 39
+      }
+    }
+  },
+  {
+    "departamento": "Pocollay",
+    "total": 20,
+    "delivered": 19,
+    "anulado": 1,
+    "cancelado": 0,
+    "pendiente": 0,
+    "effectiveness": 95.0,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 17,
+        "delivered": 16,
+        "anulado": 1,
+        "cancelado": 0
+      },
+      "PROGRAMADO": {
+        "total": 3,
+        "delivered": 3,
+        "anulado": 0,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Pomabamba",
+    "total": 9,
+    "delivered": 8,
+    "anulado": 0,
+    "cancelado": 1,
+    "pendiente": 0,
+    "effectiveness": 88.89,
+    "dispatch": {
+      "RETIRO EN TIENDA": {
+        "total": 9,
+        "delivered": 8,
+        "anulado": 0,
+        "cancelado": 1
+      }
+    }
+  },
+  {
+    "departamento": "Pomalca",
+    "total": 24,
+    "delivered": 8,
+    "anulado": 4,
+    "cancelado": 0,
+    "pendiente": 12,
+    "effectiveness": 66.67,
+    "dispatch": {
+      "PROGRAMADO": {
+        "total": 24,
+        "delivered": 8,
+        "anulado": 4,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Pucala",
+    "total": 5,
+    "delivered": 3,
+    "anulado": 1,
+    "cancelado": 0,
+    "pendiente": 1,
+    "effectiveness": 75.0,
+    "dispatch": {
+      "PROGRAMADO": {
+        "total": 5,
+        "delivered": 3,
+        "anulado": 1,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Pueblo Libre",
+    "total": 73,
+    "delivered": 67,
+    "anulado": 5,
+    "cancelado": 1,
+    "pendiente": 0,
+    "effectiveness": 91.78,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 68,
+        "delivered": 63,
+        "anulado": 4,
+        "cancelado": 1
+      },
+      "PROGRAMADO": {
+        "total": 5,
+        "delivered": 4,
+        "anulado": 1,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Pueblo Nuevo",
+    "total": 51,
+    "delivered": 35,
+    "anulado": 10,
+    "cancelado": 2,
+    "pendiente": 4,
+    "effectiveness": 74.47,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 39,
+        "delivered": 31,
+        "anulado": 8,
+        "cancelado": 0
+      },
+      "PROGRAMADO": {
+        "total": 12,
+        "delivered": 4,
+        "anulado": 2,
+        "cancelado": 2
+      }
+    }
+  },
+  {
+    "departamento": "Puente Piedra",
+    "total": 357,
+    "delivered": 284,
+    "anulado": 67,
+    "cancelado": 4,
+    "pendiente": 2,
+    "effectiveness": 80.0,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 301,
+        "delivered": 243,
+        "anulado": 53,
+        "cancelado": 4
+      },
+      "PROGRAMADO": {
+        "total": 56,
+        "delivered": 41,
+        "anulado": 14,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Punchana",
+    "total": 21,
+    "delivered": 10,
+    "anulado": 11,
+    "cancelado": 0,
+    "pendiente": 0,
+    "effectiveness": 47.62,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 17,
+        "delivered": 8,
+        "anulado": 9,
+        "cancelado": 0
+      },
+      "PROGRAMADO": {
+        "total": 4,
+        "delivered": 2,
+        "anulado": 2,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Puno",
+    "total": 326,
+    "delivered": 273,
+    "anulado": 22,
+    "cancelado": 15,
+    "pendiente": 16,
+    "effectiveness": 88.06,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 188,
+        "delivered": 177,
+        "anulado": 7,
+        "cancelado": 0
+      },
+      "PROGRAMADO": {
+        "total": 69,
+        "delivered": 43,
+        "anulado": 15,
+        "cancelado": 1
+      },
+      "RETIRO EN TIENDA": {
+        "total": 69,
+        "delivered": 53,
+        "anulado": 0,
+        "cancelado": 14
+      }
+    }
+  },
+  {
+    "departamento": "Punta Hermosa",
+    "total": 7,
+    "delivered": 3,
+    "anulado": 0,
+    "cancelado": 0,
+    "pendiente": 4,
+    "effectiveness": 100.0,
+    "dispatch": {
+      "PROGRAMADO": {
+        "total": 7,
+        "delivered": 3,
+        "anulado": 0,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Punta Negra",
+    "total": 4,
+    "delivered": 1,
+    "anulado": 1,
+    "cancelado": 0,
+    "pendiente": 2,
+    "effectiveness": 50.0,
+    "dispatch": {
+      "PROGRAMADO": {
+        "total": 4,
+        "delivered": 1,
+        "anulado": 1,
         "cancelado": 0
       }
     }
@@ -3484,130 +3702,16 @@
     }
   },
   {
-    "departamento": "Reque",
-    "total": 2,
-    "delivered": 0,
-    "anulado": 2,
-    "cancelado": 0,
-    "pendiente": 0,
-    "effectiveness": 0.0,
-    "dispatch": {
-      "PROGRAMADO": {
-        "total": 2,
-        "delivered": 0,
-        "anulado": 2,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Rimac",
-    "total": 61,
-    "delivered": 39,
-    "anulado": 22,
-    "cancelado": 0,
-    "pendiente": 0,
-    "effectiveness": 63.93,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 48,
-        "delivered": 31,
-        "anulado": 17,
-        "cancelado": 0
-      },
-      "PROGRAMADO": {
-        "total": 13,
-        "delivered": 8,
-        "anulado": 5,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Sachaca",
-    "total": 22,
-    "delivered": 13,
-    "anulado": 2,
-    "cancelado": 1,
-    "pendiente": 6,
-    "effectiveness": 81.25,
-    "dispatch": {
-      "PROGRAMADO": {
-        "total": 22,
-        "delivered": 13,
-        "anulado": 2,
-        "cancelado": 1
-      }
-    }
-  },
-  {
-    "departamento": "Salaverry",
-    "total": 14,
-    "delivered": 10,
-    "anulado": 3,
-    "cancelado": 1,
-    "pendiente": 0,
-    "effectiveness": 71.43,
-    "dispatch": {
-      "PROGRAMADO": {
-        "total": 14,
-        "delivered": 10,
-        "anulado": 3,
-        "cancelado": 1
-      }
-    }
-  },
-  {
-    "departamento": "San Andres",
-    "total": 10,
-    "delivered": 6,
-    "anulado": 4,
-    "cancelado": 0,
-    "pendiente": 0,
-    "effectiveness": 60.0,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 10,
-        "delivered": 6,
-        "anulado": 4,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "San Antonio",
-    "total": 11,
-    "delivered": 8,
-    "anulado": 1,
-    "cancelado": 0,
-    "pendiente": 0,
-    "effectiveness": 88.89,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 9,
-        "delivered": 6,
-        "anulado": 1,
-        "cancelado": 0
-      },
-      "PROGRAMADO": {
-        "total": 2,
-        "delivered": 2,
-        "anulado": 0,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "San Bartolo",
-    "total": 5,
+    "departamento": "Quilmana",
+    "total": 3,
     "delivered": 3,
     "anulado": 0,
     "cancelado": 0,
-    "pendiente": 2,
+    "pendiente": 0,
     "effectiveness": 100.0,
     "dispatch": {
       "PROGRAMADO": {
-        "total": 5,
+        "total": 3,
         "delivered": 3,
         "anulado": 0,
         "cancelado": 0
@@ -3615,106 +3719,134 @@
     }
   },
   {
-    "departamento": "San Borja",
-    "total": 63,
-    "delivered": 44,
-    "anulado": 16,
-    "cancelado": 3,
-    "pendiente": 0,
-    "effectiveness": 69.84,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 52,
-        "delivered": 34,
-        "anulado": 15,
-        "cancelado": 3
-      },
-      "PROGRAMADO": {
-        "total": 11,
-        "delivered": 10,
-        "anulado": 1,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "San Clemente",
-    "total": 24,
-    "delivered": 6,
-    "anulado": 15,
+    "departamento": "Reque",
+    "total": 8,
+    "delivered": 1,
+    "anulado": 2,
     "cancelado": 0,
-    "pendiente": 3,
-    "effectiveness": 28.57,
+    "pendiente": 5,
+    "effectiveness": 33.33,
     "dispatch": {
-      "EXPRESS": {
-        "total": 22,
-        "delivered": 6,
-        "anulado": 13,
-        "cancelado": 0
-      },
       "PROGRAMADO": {
-        "total": 2,
-        "delivered": 0,
+        "total": 8,
+        "delivered": 1,
         "anulado": 2,
         "cancelado": 0
       }
     }
   },
   {
-    "departamento": "San Isidro",
-    "total": 73,
-    "delivered": 62,
+    "departamento": "Rimac",
+    "total": 114,
+    "delivered": 78,
+    "anulado": 32,
+    "cancelado": 0,
+    "pendiente": 4,
+    "effectiveness": 70.91,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 87,
+        "delivered": 60,
+        "anulado": 26,
+        "cancelado": 0
+      },
+      "PROGRAMADO": {
+        "total": 27,
+        "delivered": 18,
+        "anulado": 6,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Sachaca",
+    "total": 40,
+    "delivered": 29,
     "anulado": 8,
     "cancelado": 1,
     "pendiente": 2,
-    "effectiveness": 87.32,
+    "effectiveness": 76.32,
     "dispatch": {
-      "EXPRESS": {
-        "total": 61,
-        "delivered": 52,
+      "PROGRAMADO": {
+        "total": 40,
+        "delivered": 29,
         "anulado": 8,
         "cancelado": 1
-      },
+      }
+    }
+  },
+  {
+    "departamento": "Salaverry",
+    "total": 27,
+    "delivered": 17,
+    "anulado": 5,
+    "cancelado": 2,
+    "pendiente": 3,
+    "effectiveness": 70.83,
+    "dispatch": {
       "PROGRAMADO": {
-        "total": 12,
-        "delivered": 10,
+        "total": 27,
+        "delivered": 17,
+        "anulado": 5,
+        "cancelado": 2
+      }
+    }
+  },
+  {
+    "departamento": "Salitral",
+    "total": 4,
+    "delivered": 2,
+    "anulado": 0,
+    "cancelado": 0,
+    "pendiente": 2,
+    "effectiveness": 100.0,
+    "dispatch": {
+      "PROGRAMADO": {
+        "total": 4,
+        "delivered": 2,
         "anulado": 0,
         "cancelado": 0
       }
     }
   },
   {
-    "departamento": "San Jeronimo",
-    "total": 37,
-    "delivered": 31,
-    "anulado": 2,
+    "departamento": "San Andres",
+    "total": 16,
+    "delivered": 8,
+    "anulado": 8,
     "cancelado": 0,
-    "pendiente": 4,
-    "effectiveness": 93.94,
+    "pendiente": 0,
+    "effectiveness": 50.0,
     "dispatch": {
       "EXPRESS": {
-        "total": 24,
-        "delivered": 22,
-        "anulado": 1,
+        "total": 14,
+        "delivered": 7,
+        "anulado": 7,
         "cancelado": 0
       },
       "PROGRAMADO": {
-        "total": 13,
-        "delivered": 9,
+        "total": 2,
+        "delivered": 1,
         "anulado": 1,
         "cancelado": 0
       }
     }
   },
   {
-    "departamento": "San Jose",
-    "total": 5,
-    "delivered": 4,
-    "anulado": 0,
+    "departamento": "San Antonio",
+    "total": 16,
+    "delivered": 12,
+    "anulado": 1,
     "cancelado": 0,
     "pendiente": 1,
-    "effectiveness": 100.0,
+    "effectiveness": 92.31,
     "dispatch": {
+      "EXPRESS": {
+        "total": 11,
+        "delivered": 8,
+        "anulado": 1,
+        "cancelado": 0
+      },
       "PROGRAMADO": {
         "total": 5,
         "delivered": 4,
@@ -3724,92 +3856,218 @@
     }
   },
   {
-    "departamento": "San Juan Bautista",
-    "total": 54,
-    "delivered": 34,
-    "anulado": 16,
+    "departamento": "San Bartolo",
+    "total": 10,
+    "delivered": 8,
+    "anulado": 1,
+    "cancelado": 0,
+    "pendiente": 1,
+    "effectiveness": 88.89,
+    "dispatch": {
+      "PROGRAMADO": {
+        "total": 10,
+        "delivered": 8,
+        "anulado": 1,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "San Borja",
+    "total": 131,
+    "delivered": 103,
+    "anulado": 24,
     "cancelado": 3,
     "pendiente": 1,
-    "effectiveness": 64.15,
+    "effectiveness": 79.23,
     "dispatch": {
       "EXPRESS": {
-        "total": 43,
-        "delivered": 29,
-        "anulado": 11,
+        "total": 111,
+        "delivered": 86,
+        "anulado": 21,
+        "cancelado": 3
+      },
+      "PROGRAMADO": {
+        "total": 20,
+        "delivered": 17,
+        "anulado": 3,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "San Clemente",
+    "total": 55,
+    "delivered": 30,
+    "anulado": 24,
+    "cancelado": 1,
+    "pendiente": 0,
+    "effectiveness": 54.55,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 50,
+        "delivered": 30,
+        "anulado": 19,
+        "cancelado": 1
+      },
+      "PROGRAMADO": {
+        "total": 5,
+        "delivered": 0,
+        "anulado": 5,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "San Isidro",
+    "total": 165,
+    "delivered": 147,
+    "anulado": 16,
+    "cancelado": 1,
+    "pendiente": 1,
+    "effectiveness": 89.63,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 137,
+        "delivered": 120,
+        "anulado": 15,
+        "cancelado": 1
+      },
+      "PROGRAMADO": {
+        "total": 28,
+        "delivered": 27,
+        "anulado": 1,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "San Jeronimo",
+    "total": 73,
+    "delivered": 59,
+    "anulado": 11,
+    "cancelado": 0,
+    "pendiente": 3,
+    "effectiveness": 84.29,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 46,
+        "delivered": 41,
+        "anulado": 4,
+        "cancelado": 0
+      },
+      "PROGRAMADO": {
+        "total": 27,
+        "delivered": 18,
+        "anulado": 7,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "San Jose",
+    "total": 16,
+    "delivered": 14,
+    "anulado": 2,
+    "cancelado": 0,
+    "pendiente": 0,
+    "effectiveness": 87.5,
+    "dispatch": {
+      "PROGRAMADO": {
+        "total": 16,
+        "delivered": 14,
+        "anulado": 2,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "San Juan Bautista",
+    "total": 107,
+    "delivered": 71,
+    "anulado": 29,
+    "cancelado": 4,
+    "pendiente": 3,
+    "effectiveness": 68.27,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 80,
+        "delivered": 57,
+        "anulado": 21,
         "cancelado": 2
       },
       "PROGRAMADO": {
-        "total": 11,
-        "delivered": 5,
-        "anulado": 5,
-        "cancelado": 1
+        "total": 27,
+        "delivered": 14,
+        "anulado": 8,
+        "cancelado": 2
       }
     }
   },
   {
     "departamento": "San Juan De Lurigancho",
-    "total": 437,
-    "delivered": 305,
-    "anulado": 103,
-    "cancelado": 14,
-    "pendiente": 15,
-    "effectiveness": 72.27,
+    "total": 807,
+    "delivered": 591,
+    "anulado": 184,
+    "cancelado": 21,
+    "pendiente": 11,
+    "effectiveness": 74.25,
     "dispatch": {
       "EXPRESS": {
-        "total": 375,
-        "delivered": 268,
-        "anulado": 91,
-        "cancelado": 9
+        "total": 686,
+        "delivered": 517,
+        "anulado": 151,
+        "cancelado": 16
       },
       "PROGRAMADO": {
-        "total": 62,
-        "delivered": 37,
-        "anulado": 12,
+        "total": 121,
+        "delivered": 74,
+        "anulado": 33,
         "cancelado": 5
       }
     }
   },
   {
     "departamento": "San Juan De Miraflores",
-    "total": 141,
-    "delivered": 111,
-    "anulado": 26,
-    "cancelado": 1,
-    "pendiente": 3,
-    "effectiveness": 80.43,
+    "total": 292,
+    "delivered": 225,
+    "anulado": 59,
+    "cancelado": 2,
+    "pendiente": 6,
+    "effectiveness": 78.67,
     "dispatch": {
       "EXPRESS": {
-        "total": 119,
-        "delivered": 99,
-        "anulado": 17,
-        "cancelado": 1
+        "total": 249,
+        "delivered": 195,
+        "anulado": 49,
+        "cancelado": 2
       },
       "PROGRAMADO": {
-        "total": 22,
-        "delivered": 12,
-        "anulado": 9,
+        "total": 43,
+        "delivered": 30,
+        "anulado": 10,
         "cancelado": 0
       }
     }
   },
   {
     "departamento": "San Luis",
-    "total": 46,
-    "delivered": 31,
-    "anulado": 12,
+    "total": 84,
+    "delivered": 62,
+    "anulado": 19,
     "cancelado": 0,
     "pendiente": 3,
-    "effectiveness": 72.09,
+    "effectiveness": 76.54,
     "dispatch": {
       "EXPRESS": {
-        "total": 40,
-        "delivered": 29,
-        "anulado": 10,
+        "total": 76,
+        "delivered": 57,
+        "anulado": 17,
         "cancelado": 0
       },
       "PROGRAMADO": {
-        "total": 6,
-        "delivered": 2,
+        "total": 8,
+        "delivered": 5,
         "anulado": 2,
         "cancelado": 0
       }
@@ -3817,62 +4075,62 @@
   },
   {
     "departamento": "San Martin",
-    "total": 14,
-    "delivered": 11,
+    "total": 25,
+    "delivered": 19,
     "anulado": 0,
-    "cancelado": 3,
+    "cancelado": 6,
     "pendiente": 0,
-    "effectiveness": 78.57,
+    "effectiveness": 76.0,
     "dispatch": {
       "RETIRO EN TIENDA": {
-        "total": 14,
-        "delivered": 11,
+        "total": 25,
+        "delivered": 19,
         "anulado": 0,
-        "cancelado": 3
+        "cancelado": 6
       }
     }
   },
   {
     "departamento": "San Martin De Porres",
-    "total": 257,
-    "delivered": 203,
-    "anulado": 38,
-    "cancelado": 9,
+    "total": 495,
+    "delivered": 404,
+    "anulado": 72,
+    "cancelado": 12,
     "pendiente": 7,
-    "effectiveness": 81.2,
+    "effectiveness": 82.79,
     "dispatch": {
       "EXPRESS": {
-        "total": 222,
-        "delivered": 179,
-        "anulado": 31,
-        "cancelado": 9
+        "total": 421,
+        "delivered": 346,
+        "anulado": 62,
+        "cancelado": 10
       },
       "PROGRAMADO": {
-        "total": 35,
-        "delivered": 24,
-        "anulado": 7,
-        "cancelado": 0
+        "total": 74,
+        "delivered": 58,
+        "anulado": 10,
+        "cancelado": 2
       }
     }
   },
   {
     "departamento": "San Miguel",
-    "total": 79,
-    "delivered": 65,
-    "anulado": 12,
+    "total": 155,
+    "delivered": 133,
+    "anulado": 19,
     "cancelado": 1,
-    "pendiente": 1,
-    "effectiveness": 83.33,
+    "pendiente": 2,
+    "effectiveness": 86.93,
     "dispatch": {
       "EXPRESS": {
-        "total": 76,
-        "delivered": 63,
-        "anulado": 12,
+        "total": 145,
+        "delivered": 123,
+        "anulado": 19,
         "cancelado": 1
       },
       "PROGRAMADO": {
-        "total": 3,
-        "delivered": 2,
+        "total": 10,
+        "delivered": 10,
         "anulado": 0,
         "cancelado": 0
       }
@@ -3897,120 +4155,120 @@
   },
   {
     "departamento": "San Roman",
-    "total": 87,
-    "delivered": 59,
+    "total": 187,
+    "delivered": 119,
     "anulado": 0,
-    "cancelado": 21,
-    "pendiente": 7,
-    "effectiveness": 73.75,
+    "cancelado": 64,
+    "pendiente": 4,
+    "effectiveness": 65.03,
     "dispatch": {
       "RETIRO EN TIENDA": {
-        "total": 87,
-        "delivered": 59,
+        "total": 187,
+        "delivered": 119,
         "anulado": 0,
-        "cancelado": 21
+        "cancelado": 64
       }
     }
   },
   {
     "departamento": "San Sebastian",
-    "total": 58,
-    "delivered": 42,
-    "anulado": 8,
-    "cancelado": 1,
-    "pendiente": 7,
-    "effectiveness": 82.35,
+    "total": 125,
+    "delivered": 90,
+    "anulado": 29,
+    "cancelado": 2,
+    "pendiente": 4,
+    "effectiveness": 74.38,
     "dispatch": {
       "EXPRESS": {
-        "total": 41,
-        "delivered": 34,
-        "anulado": 4,
+        "total": 80,
+        "delivered": 67,
+        "anulado": 12,
         "cancelado": 1
       },
       "PROGRAMADO": {
-        "total": 17,
-        "delivered": 8,
-        "anulado": 4,
-        "cancelado": 0
+        "total": 45,
+        "delivered": 23,
+        "anulado": 17,
+        "cancelado": 1
       }
     }
   },
   {
     "departamento": "San Vicente De Cañete",
-    "total": 4,
-    "delivered": 4,
-    "anulado": 0,
+    "total": 7,
+    "delivered": 6,
+    "anulado": 1,
     "cancelado": 0,
     "pendiente": 0,
-    "effectiveness": 100.0,
+    "effectiveness": 85.71,
     "dispatch": {
       "EXPRESS": {
-        "total": 1,
-        "delivered": 1,
+        "total": 2,
+        "delivered": 2,
         "anulado": 0,
         "cancelado": 0
       },
       "PROGRAMADO": {
-        "total": 3,
-        "delivered": 3,
-        "anulado": 0,
+        "total": 5,
+        "delivered": 4,
+        "anulado": 1,
         "cancelado": 0
       }
     }
   },
   {
     "departamento": "Sanchez Carrion",
-    "total": 24,
-    "delivered": 12,
+    "total": 47,
+    "delivered": 27,
     "anulado": 0,
-    "cancelado": 10,
+    "cancelado": 18,
     "pendiente": 2,
-    "effectiveness": 54.55,
+    "effectiveness": 60.0,
     "dispatch": {
       "RETIRO EN TIENDA": {
-        "total": 24,
-        "delivered": 12,
+        "total": 47,
+        "delivered": 27,
         "anulado": 0,
-        "cancelado": 10
+        "cancelado": 18
       }
     }
   },
   {
     "departamento": "Santa",
-    "total": 53,
-    "delivered": 42,
+    "total": 97,
+    "delivered": 70,
     "anulado": 0,
-    "cancelado": 7,
+    "cancelado": 23,
     "pendiente": 4,
-    "effectiveness": 85.71,
+    "effectiveness": 75.27,
     "dispatch": {
       "RETIRO EN TIENDA": {
-        "total": 53,
-        "delivered": 42,
+        "total": 97,
+        "delivered": 70,
         "anulado": 0,
-        "cancelado": 7
+        "cancelado": 23
       }
     }
   },
   {
     "departamento": "Santa Anita",
-    "total": 107,
-    "delivered": 82,
-    "anulado": 19,
+    "total": 248,
+    "delivered": 188,
+    "anulado": 48,
     "cancelado": 3,
-    "pendiente": 3,
-    "effectiveness": 78.85,
+    "pendiente": 9,
+    "effectiveness": 78.66,
     "dispatch": {
       "EXPRESS": {
-        "total": 89,
-        "delivered": 70,
-        "anulado": 15,
+        "total": 215,
+        "delivered": 168,
+        "anulado": 39,
         "cancelado": 3
       },
       "PROGRAMADO": {
-        "total": 18,
-        "delivered": 12,
-        "anulado": 4,
+        "total": 33,
+        "delivered": 20,
+        "anulado": 9,
         "cancelado": 0
       }
     }
@@ -4018,15 +4276,15 @@
   {
     "departamento": "Santa Eulalia",
     "total": 1,
-    "delivered": 0,
+    "delivered": 1,
     "anulado": 0,
     "cancelado": 0,
-    "pendiente": 1,
-    "effectiveness": 0.0,
+    "pendiente": 0,
+    "effectiveness": 100.0,
     "dispatch": {
       "PROGRAMADO": {
         "total": 1,
-        "delivered": 0,
+        "delivered": 1,
         "anulado": 0,
         "cancelado": 0
       }
@@ -4034,16 +4292,16 @@
   },
   {
     "departamento": "Santa Maria",
-    "total": 14,
-    "delivered": 11,
+    "total": 15,
+    "delivered": 12,
     "anulado": 3,
     "cancelado": 0,
     "pendiente": 0,
-    "effectiveness": 78.57,
+    "effectiveness": 80.0,
     "dispatch": {
       "PROGRAMADO": {
-        "total": 14,
-        "delivered": 11,
+        "total": 15,
+        "delivered": 12,
         "anulado": 3,
         "cancelado": 0
       }
@@ -4051,40 +4309,40 @@
   },
   {
     "departamento": "Santa Rosa",
-    "total": 3,
-    "delivered": 2,
-    "anulado": 1,
+    "total": 13,
+    "delivered": 10,
+    "anulado": 3,
     "cancelado": 0,
     "pendiente": 0,
-    "effectiveness": 66.67,
+    "effectiveness": 76.92,
     "dispatch": {
       "PROGRAMADO": {
-        "total": 3,
-        "delivered": 2,
-        "anulado": 1,
+        "total": 13,
+        "delivered": 10,
+        "anulado": 3,
         "cancelado": 0
       }
     }
   },
   {
     "departamento": "Santiago",
-    "total": 40,
-    "delivered": 27,
-    "anulado": 6,
+    "total": 81,
+    "delivered": 59,
+    "anulado": 18,
     "cancelado": 2,
-    "pendiente": 5,
-    "effectiveness": 77.14,
+    "pendiente": 2,
+    "effectiveness": 74.68,
     "dispatch": {
       "EXPRESS": {
-        "total": 23,
-        "delivered": 18,
-        "anulado": 3,
+        "total": 41,
+        "delivered": 34,
+        "anulado": 6,
         "cancelado": 1
       },
       "PROGRAMADO": {
-        "total": 17,
-        "delivered": 9,
-        "anulado": 3,
+        "total": 40,
+        "delivered": 25,
+        "anulado": 12,
         "cancelado": 1
       }
     }
@@ -4092,15 +4350,15 @@
   {
     "departamento": "Santiago De Cao",
     "total": 2,
-    "delivered": 1,
+    "delivered": 2,
     "anulado": 0,
     "cancelado": 0,
-    "pendiente": 1,
+    "pendiente": 0,
     "effectiveness": 100.0,
     "dispatch": {
       "PROGRAMADO": {
         "total": 2,
-        "delivered": 1,
+        "delivered": 2,
         "anulado": 0,
         "cancelado": 0
       }
@@ -4108,102 +4366,102 @@
   },
   {
     "departamento": "Santiago De Surco",
-    "total": 156,
-    "delivered": 130,
-    "anulado": 23,
-    "cancelado": 2,
-    "pendiente": 1,
-    "effectiveness": 83.87,
+    "total": 306,
+    "delivered": 252,
+    "anulado": 44,
+    "cancelado": 3,
+    "pendiente": 7,
+    "effectiveness": 84.28,
     "dispatch": {
       "EXPRESS": {
-        "total": 126,
-        "delivered": 105,
-        "anulado": 20,
-        "cancelado": 1
+        "total": 248,
+        "delivered": 203,
+        "anulado": 40,
+        "cancelado": 2
       },
       "PROGRAMADO": {
-        "total": 30,
-        "delivered": 25,
-        "anulado": 3,
+        "total": 58,
+        "delivered": 49,
+        "anulado": 4,
         "cancelado": 1
       }
     }
   },
   {
     "departamento": "Satipo",
-    "total": 33,
-    "delivered": 17,
+    "total": 48,
+    "delivered": 25,
     "anulado": 0,
-    "cancelado": 12,
+    "cancelado": 19,
     "pendiente": 4,
-    "effectiveness": 58.62,
+    "effectiveness": 56.82,
     "dispatch": {
       "RETIRO EN TIENDA": {
-        "total": 33,
-        "delivered": 17,
+        "total": 48,
+        "delivered": 25,
         "anulado": 0,
-        "cancelado": 12
+        "cancelado": 19
       }
     }
   },
   {
     "departamento": "Sechura",
-    "total": 27,
-    "delivered": 11,
-    "anulado": 4,
-    "cancelado": 7,
-    "pendiente": 5,
-    "effectiveness": 50.0,
+    "total": 45,
+    "delivered": 23,
+    "anulado": 7,
+    "cancelado": 13,
+    "pendiente": 2,
+    "effectiveness": 53.49,
     "dispatch": {
       "PROGRAMADO": {
-        "total": 18,
-        "delivered": 11,
-        "anulado": 4,
+        "total": 30,
+        "delivered": 21,
+        "anulado": 7,
         "cancelado": 0
       },
       "RETIRO EN TIENDA": {
-        "total": 9,
-        "delivered": 0,
+        "total": 15,
+        "delivered": 2,
         "anulado": 0,
-        "cancelado": 7
+        "cancelado": 13
       }
     }
   },
   {
     "departamento": "Socabaya",
-    "total": 21,
-    "delivered": 15,
-    "anulado": 3,
+    "total": 44,
+    "delivered": 37,
+    "anulado": 7,
     "cancelado": 0,
-    "pendiente": 3,
-    "effectiveness": 83.33,
+    "pendiente": 0,
+    "effectiveness": 84.09,
     "dispatch": {
       "PROGRAMADO": {
-        "total": 21,
-        "delivered": 15,
-        "anulado": 3,
+        "total": 44,
+        "delivered": 37,
+        "anulado": 7,
         "cancelado": 0
       }
     }
   },
   {
     "departamento": "Subtanjalla",
-    "total": 23,
-    "delivered": 11,
-    "anulado": 11,
+    "total": 40,
+    "delivered": 25,
+    "anulado": 12,
     "cancelado": 0,
-    "pendiente": 1,
-    "effectiveness": 50.0,
+    "pendiente": 3,
+    "effectiveness": 67.57,
     "dispatch": {
       "EXPRESS": {
-        "total": 15,
-        "delivered": 8,
-        "anulado": 7,
+        "total": 24,
+        "delivered": 16,
+        "anulado": 8,
         "cancelado": 0
       },
       "PROGRAMADO": {
-        "total": 8,
-        "delivered": 3,
+        "total": 16,
+        "delivered": 9,
         "anulado": 4,
         "cancelado": 0
       }
@@ -4211,51 +4469,51 @@
   },
   {
     "departamento": "Sullana",
-    "total": 74,
-    "delivered": 57,
-    "anulado": 10,
-    "cancelado": 3,
-    "pendiente": 4,
-    "effectiveness": 81.43,
+    "total": 140,
+    "delivered": 99,
+    "anulado": 26,
+    "cancelado": 8,
+    "pendiente": 7,
+    "effectiveness": 74.44,
     "dispatch": {
       "EXPRESS": {
-        "total": 44,
-        "delivered": 37,
-        "anulado": 6,
-        "cancelado": 1
+        "total": 84,
+        "delivered": 62,
+        "anulado": 15,
+        "cancelado": 2
       },
       "PROGRAMADO": {
-        "total": 22,
-        "delivered": 14,
-        "anulado": 4,
+        "total": 40,
+        "delivered": 27,
+        "anulado": 11,
         "cancelado": 0
       },
       "RETIRO EN TIENDA": {
-        "total": 8,
-        "delivered": 6,
+        "total": 16,
+        "delivered": 10,
         "anulado": 0,
-        "cancelado": 2
+        "cancelado": 6
       }
     }
   },
   {
     "departamento": "Sunampe",
-    "total": 6,
-    "delivered": 6,
-    "anulado": 0,
+    "total": 15,
+    "delivered": 14,
+    "anulado": 1,
     "cancelado": 0,
     "pendiente": 0,
-    "effectiveness": 100.0,
+    "effectiveness": 93.33,
     "dispatch": {
       "EXPRESS": {
-        "total": 5,
-        "delivered": 5,
-        "anulado": 0,
+        "total": 12,
+        "delivered": 11,
+        "anulado": 1,
         "cancelado": 0
       },
       "PROGRAMADO": {
-        "total": 1,
-        "delivered": 1,
+        "total": 3,
+        "delivered": 3,
         "anulado": 0,
         "cancelado": 0
       }
@@ -4263,16 +4521,16 @@
   },
   {
     "departamento": "Supe",
-    "total": 5,
-    "delivered": 5,
+    "total": 9,
+    "delivered": 9,
     "anulado": 0,
     "cancelado": 0,
     "pendiente": 0,
     "effectiveness": 100.0,
     "dispatch": {
       "PROGRAMADO": {
-        "total": 5,
-        "delivered": 5,
+        "total": 9,
+        "delivered": 9,
         "anulado": 0,
         "cancelado": 0
       }
@@ -4280,16 +4538,16 @@
   },
   {
     "departamento": "Supe Puerto",
-    "total": 6,
-    "delivered": 3,
+    "total": 12,
+    "delivered": 8,
     "anulado": 3,
     "cancelado": 0,
-    "pendiente": 0,
-    "effectiveness": 50.0,
+    "pendiente": 1,
+    "effectiveness": 72.73,
     "dispatch": {
       "PROGRAMADO": {
-        "total": 6,
-        "delivered": 3,
+        "total": 12,
+        "delivered": 8,
         "anulado": 3,
         "cancelado": 0
       }
@@ -4297,65 +4555,472 @@
   },
   {
     "departamento": "Surquillo",
-    "total": 61,
-    "delivered": 47,
-    "anulado": 12,
+    "total": 103,
+    "delivered": 79,
+    "anulado": 22,
     "cancelado": 1,
     "pendiente": 1,
-    "effectiveness": 78.33,
+    "effectiveness": 77.45,
     "dispatch": {
       "EXPRESS": {
-        "total": 48,
-        "delivered": 35,
-        "anulado": 12,
+        "total": 84,
+        "delivered": 66,
+        "anulado": 16,
         "cancelado": 1
       },
       "PROGRAMADO": {
-        "total": 13,
-        "delivered": 12,
-        "anulado": 0,
+        "total": 19,
+        "delivered": 13,
+        "anulado": 6,
         "cancelado": 0
       }
     }
   },
   {
     "departamento": "Tacna",
-    "total": 103,
-    "delivered": 76,
-    "anulado": 13,
-    "cancelado": 10,
-    "pendiente": 4,
-    "effectiveness": 76.77,
+    "total": 203,
+    "delivered": 167,
+    "anulado": 18,
+    "cancelado": 15,
+    "pendiente": 3,
+    "effectiveness": 83.5,
     "dispatch": {
       "EXPRESS": {
-        "total": 59,
-        "delivered": 49,
-        "anulado": 3,
+        "total": 108,
+        "delivered": 96,
+        "anulado": 8,
         "cancelado": 4
       },
       "PROGRAMADO": {
-        "total": 26,
-        "delivered": 15,
+        "total": 52,
+        "delivered": 42,
         "anulado": 10,
         "cancelado": 0
       },
       "RETIRO EN TIENDA": {
-        "total": 18,
-        "delivered": 12,
+        "total": 43,
+        "delivered": 29,
         "anulado": 0,
-        "cancelado": 6
+        "cancelado": 11
       }
     }
   },
   {
     "departamento": "Talara",
-    "total": 16,
-    "delivered": 11,
+    "total": 30,
+    "delivered": 20,
     "anulado": 0,
-    "cancelado": 5,
-    "pendiente": 0,
-    "effectiveness": 68.75,
+    "cancelado": 8,
+    "pendiente": 2,
+    "effectiveness": 71.43,
     "dispatch": {
+      "RETIRO EN TIENDA": {
+        "total": 30,
+        "delivered": 20,
+        "anulado": 0,
+        "cancelado": 8
+      }
+    }
+  },
+  {
+    "departamento": "Tambo Grande",
+    "total": 18,
+    "delivered": 9,
+    "anulado": 5,
+    "cancelado": 0,
+    "pendiente": 4,
+    "effectiveness": 64.29,
+    "dispatch": {
+      "PROGRAMADO": {
+        "total": 18,
+        "delivered": 9,
+        "anulado": 5,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Tambopata",
+    "total": 98,
+    "delivered": 55,
+    "anulado": 21,
+    "cancelado": 17,
+    "pendiente": 5,
+    "effectiveness": 59.14,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 55,
+        "delivered": 32,
+        "anulado": 20,
+        "cancelado": 1
+      },
+      "PROGRAMADO": {
+        "total": 3,
+        "delivered": 0,
+        "anulado": 1,
+        "cancelado": 0
+      },
+      "RETIRO EN TIENDA": {
+        "total": 40,
+        "delivered": 23,
+        "anulado": 0,
+        "cancelado": 16
+      }
+    }
+  },
+  {
+    "departamento": "Tarapoto",
+    "total": 79,
+    "delivered": 62,
+    "anulado": 13,
+    "cancelado": 0,
+    "pendiente": 4,
+    "effectiveness": 82.67,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 60,
+        "delivered": 49,
+        "anulado": 9,
+        "cancelado": 0
+      },
+      "PROGRAMADO": {
+        "total": 19,
+        "delivered": 13,
+        "anulado": 4,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Tarma",
+    "total": 61,
+    "delivered": 39,
+    "anulado": 0,
+    "cancelado": 21,
+    "pendiente": 1,
+    "effectiveness": 65.0,
+    "dispatch": {
+      "RETIRO EN TIENDA": {
+        "total": 61,
+        "delivered": 39,
+        "anulado": 0,
+        "cancelado": 21
+      }
+    }
+  },
+  {
+    "departamento": "Tiabaya",
+    "total": 15,
+    "delivered": 9,
+    "anulado": 1,
+    "cancelado": 1,
+    "pendiente": 4,
+    "effectiveness": 81.82,
+    "dispatch": {
+      "PROGRAMADO": {
+        "total": 15,
+        "delivered": 9,
+        "anulado": 1,
+        "cancelado": 1
+      }
+    }
+  },
+  {
+    "departamento": "Trujillo",
+    "total": 437,
+    "delivered": 325,
+    "anulado": 62,
+    "cancelado": 35,
+    "pendiente": 15,
+    "effectiveness": 77.01,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 220,
+        "delivered": 177,
+        "anulado": 34,
+        "cancelado": 6
+      },
+      "PROGRAMADO": {
+        "total": 139,
+        "delivered": 93,
+        "anulado": 28,
+        "cancelado": 9
+      },
+      "RETIRO EN TIENDA": {
+        "total": 78,
+        "delivered": 55,
+        "anulado": 0,
+        "cancelado": 20
+      }
+    }
+  },
+  {
+    "departamento": "Tucume",
+    "total": 9,
+    "delivered": 4,
+    "anulado": 3,
+    "cancelado": 0,
+    "pendiente": 2,
+    "effectiveness": 57.14,
+    "dispatch": {
+      "PROGRAMADO": {
+        "total": 9,
+        "delivered": 4,
+        "anulado": 3,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Tuman",
+    "total": 11,
+    "delivered": 6,
+    "anulado": 5,
+    "cancelado": 0,
+    "pendiente": 0,
+    "effectiveness": 54.55,
+    "dispatch": {
+      "PROGRAMADO": {
+        "total": 11,
+        "delivered": 6,
+        "anulado": 5,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Tumbes",
+    "total": 96,
+    "delivered": 59,
+    "anulado": 17,
+    "cancelado": 16,
+    "pendiente": 4,
+    "effectiveness": 64.13,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 44,
+        "delivered": 28,
+        "anulado": 15,
+        "cancelado": 0
+      },
+      "PROGRAMADO": {
+        "total": 7,
+        "delivered": 3,
+        "anulado": 2,
+        "cancelado": 0
+      },
+      "RETIRO EN TIENDA": {
+        "total": 45,
+        "delivered": 28,
+        "anulado": 0,
+        "cancelado": 16
+      }
+    }
+  },
+  {
+    "departamento": "Ucayali",
+    "total": 27,
+    "delivered": 23,
+    "anulado": 0,
+    "cancelado": 4,
+    "pendiente": 0,
+    "effectiveness": 85.19,
+    "dispatch": {
+      "RETIRO EN TIENDA": {
+        "total": 27,
+        "delivered": 23,
+        "anulado": 0,
+        "cancelado": 4
+      }
+    }
+  },
+  {
+    "departamento": "Utcubamba",
+    "total": 46,
+    "delivered": 38,
+    "anulado": 0,
+    "cancelado": 7,
+    "pendiente": 1,
+    "effectiveness": 84.44,
+    "dispatch": {
+      "RETIRO EN TIENDA": {
+        "total": 46,
+        "delivered": 38,
+        "anulado": 0,
+        "cancelado": 7
+      }
+    }
+  },
+  {
+    "departamento": "Vegueta",
+    "total": 4,
+    "delivered": 4,
+    "anulado": 0,
+    "cancelado": 0,
+    "pendiente": 0,
+    "effectiveness": 100.0,
+    "dispatch": {
+      "PROGRAMADO": {
+        "total": 4,
+        "delivered": 4,
+        "anulado": 0,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Veintiseis De Octubre",
+    "total": 131,
+    "delivered": 107,
+    "anulado": 22,
+    "cancelado": 1,
+    "pendiente": 1,
+    "effectiveness": 82.31,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 104,
+        "delivered": 87,
+        "anulado": 15,
+        "cancelado": 1
+      },
+      "PROGRAMADO": {
+        "total": 27,
+        "delivered": 20,
+        "anulado": 7,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Ventanilla",
+    "total": 281,
+    "delivered": 167,
+    "anulado": 82,
+    "cancelado": 9,
+    "pendiente": 22,
+    "effectiveness": 64.73,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 116,
+        "delivered": 71,
+        "anulado": 41,
+        "cancelado": 4
+      },
+      "PROGRAMADO": {
+        "total": 165,
+        "delivered": 96,
+        "anulado": 41,
+        "cancelado": 5
+      }
+    }
+  },
+  {
+    "departamento": "Vice",
+    "total": 7,
+    "delivered": 7,
+    "anulado": 0,
+    "cancelado": 0,
+    "pendiente": 0,
+    "effectiveness": 100.0,
+    "dispatch": {
+      "PROGRAMADO": {
+        "total": 7,
+        "delivered": 7,
+        "anulado": 0,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Victor Larco Herrera",
+    "total": 72,
+    "delivered": 62,
+    "anulado": 8,
+    "cancelado": 1,
+    "pendiente": 1,
+    "effectiveness": 87.32,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 54,
+        "delivered": 47,
+        "anulado": 5,
+        "cancelado": 1
+      },
+      "PROGRAMADO": {
+        "total": 18,
+        "delivered": 15,
+        "anulado": 3,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Villa El Salvador",
+    "total": 337,
+    "delivered": 269,
+    "anulado": 61,
+    "cancelado": 3,
+    "pendiente": 4,
+    "effectiveness": 80.78,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 279,
+        "delivered": 234,
+        "anulado": 44,
+        "cancelado": 1
+      },
+      "PROGRAMADO": {
+        "total": 58,
+        "delivered": 35,
+        "anulado": 17,
+        "cancelado": 2
+      }
+    }
+  },
+  {
+    "departamento": "Villa Maria Del Triunfo",
+    "total": 349,
+    "delivered": 261,
+    "anulado": 66,
+    "cancelado": 2,
+    "pendiente": 20,
+    "effectiveness": 79.33,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 288,
+        "delivered": 224,
+        "anulado": 54,
+        "cancelado": 2
+      },
+      "PROGRAMADO": {
+        "total": 61,
+        "delivered": 37,
+        "anulado": 12,
+        "cancelado": 0
+      }
+    }
+  },
+  {
+    "departamento": "Viru",
+    "total": 45,
+    "delivered": 36,
+    "anulado": 2,
+    "cancelado": 6,
+    "pendiente": 1,
+    "effectiveness": 81.82,
+    "dispatch": {
+      "EXPRESS": {
+        "total": 12,
+        "delivered": 11,
+        "anulado": 0,
+        "cancelado": 0
+      },
+      "PROGRAMADO": {
+        "total": 17,
+        "delivered": 14,
+        "anulado": 2,
+        "cancelado": 1
+      },
       "RETIRO EN TIENDA": {
         "total": 16,
         "delivered": 11,
@@ -4365,465 +5030,70 @@
     }
   },
   {
-    "departamento": "Tambo Grande",
-    "total": 8,
-    "delivered": 1,
-    "anulado": 0,
-    "cancelado": 0,
-    "pendiente": 7,
-    "effectiveness": 100.0,
-    "dispatch": {
-      "PROGRAMADO": {
-        "total": 8,
-        "delivered": 1,
-        "anulado": 0,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Tambopata",
-    "total": 53,
-    "delivered": 28,
-    "anulado": 9,
-    "cancelado": 9,
-    "pendiente": 7,
-    "effectiveness": 60.87,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 30,
-        "delivered": 17,
-        "anulado": 9,
-        "cancelado": 1
-      },
-      "RETIRO EN TIENDA": {
-        "total": 23,
-        "delivered": 11,
-        "anulado": 0,
-        "cancelado": 8
-      }
-    }
-  },
-  {
-    "departamento": "Tarapoto",
-    "total": 43,
-    "delivered": 34,
-    "anulado": 7,
-    "cancelado": 0,
-    "pendiente": 2,
-    "effectiveness": 82.93,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 35,
-        "delivered": 27,
-        "anulado": 6,
-        "cancelado": 0
-      },
-      "PROGRAMADO": {
-        "total": 8,
-        "delivered": 7,
-        "anulado": 1,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Tarma",
-    "total": 34,
-    "delivered": 19,
-    "anulado": 0,
-    "cancelado": 11,
-    "pendiente": 4,
-    "effectiveness": 63.33,
-    "dispatch": {
-      "RETIRO EN TIENDA": {
-        "total": 34,
-        "delivered": 19,
-        "anulado": 0,
-        "cancelado": 11
-      }
-    }
-  },
-  {
-    "departamento": "Tiabaya",
-    "total": 6,
-    "delivered": 5,
-    "anulado": 0,
-    "cancelado": 1,
-    "pendiente": 0,
-    "effectiveness": 83.33,
-    "dispatch": {
-      "PROGRAMADO": {
-        "total": 6,
-        "delivered": 5,
-        "anulado": 0,
-        "cancelado": 1
-      }
-    }
-  },
-  {
-    "departamento": "Trujillo",
-    "total": 255,
-    "delivered": 187,
-    "anulado": 33,
-    "cancelado": 24,
-    "pendiente": 11,
-    "effectiveness": 76.64,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 126,
-        "delivered": 104,
-        "anulado": 19,
-        "cancelado": 3
-      },
-      "PROGRAMADO": {
-        "total": 78,
-        "delivered": 47,
-        "anulado": 14,
-        "cancelado": 8
-      },
-      "RETIRO EN TIENDA": {
-        "total": 51,
-        "delivered": 36,
-        "anulado": 0,
-        "cancelado": 13
-      }
-    }
-  },
-  {
-    "departamento": "Tucume",
-    "total": 5,
-    "delivered": 1,
-    "anulado": 2,
-    "cancelado": 0,
-    "pendiente": 2,
-    "effectiveness": 33.33,
-    "dispatch": {
-      "PROGRAMADO": {
-        "total": 5,
-        "delivered": 1,
-        "anulado": 2,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Tuman",
-    "total": 3,
-    "delivered": 0,
-    "anulado": 2,
-    "cancelado": 0,
-    "pendiente": 1,
-    "effectiveness": 0.0,
-    "dispatch": {
-      "PROGRAMADO": {
-        "total": 3,
-        "delivered": 0,
-        "anulado": 2,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Tumbes",
-    "total": 41,
-    "delivered": 30,
-    "anulado": 5,
-    "cancelado": 5,
-    "pendiente": 1,
-    "effectiveness": 75.0,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 13,
-        "delivered": 8,
-        "anulado": 5,
-        "cancelado": 0
-      },
-      "RETIRO EN TIENDA": {
-        "total": 28,
-        "delivered": 22,
-        "anulado": 0,
-        "cancelado": 5
-      }
-    }
-  },
-  {
-    "departamento": "Ucayali",
-    "total": 12,
-    "delivered": 10,
-    "anulado": 0,
-    "cancelado": 2,
-    "pendiente": 0,
-    "effectiveness": 83.33,
-    "dispatch": {
-      "RETIRO EN TIENDA": {
-        "total": 12,
-        "delivered": 10,
-        "anulado": 0,
-        "cancelado": 2
-      }
-    }
-  },
-  {
-    "departamento": "Utcubamba",
-    "total": 25,
-    "delivered": 19,
-    "anulado": 0,
-    "cancelado": 4,
-    "pendiente": 2,
-    "effectiveness": 82.61,
-    "dispatch": {
-      "RETIRO EN TIENDA": {
-        "total": 25,
-        "delivered": 19,
-        "anulado": 0,
-        "cancelado": 4
-      }
-    }
-  },
-  {
-    "departamento": "Vegueta",
-    "total": 3,
-    "delivered": 3,
-    "anulado": 0,
-    "cancelado": 0,
-    "pendiente": 0,
-    "effectiveness": 100.0,
-    "dispatch": {
-      "PROGRAMADO": {
-        "total": 3,
-        "delivered": 3,
-        "anulado": 0,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Veintiseis De Octubre",
-    "total": 70,
-    "delivered": 63,
-    "anulado": 4,
-    "cancelado": 1,
-    "pendiente": 2,
-    "effectiveness": 92.65,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 55,
-        "delivered": 51,
-        "anulado": 3,
-        "cancelado": 1
-      },
-      "PROGRAMADO": {
-        "total": 15,
-        "delivered": 12,
-        "anulado": 1,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Ventanilla",
-    "total": 144,
-    "delivered": 93,
-    "anulado": 42,
-    "cancelado": 2,
-    "pendiente": 7,
-    "effectiveness": 67.88,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 62,
-        "delivered": 35,
-        "anulado": 26,
-        "cancelado": 1
-      },
-      "PROGRAMADO": {
-        "total": 82,
-        "delivered": 58,
-        "anulado": 16,
-        "cancelado": 1
-      }
-    }
-  },
-  {
-    "departamento": "Vice",
-    "total": 5,
-    "delivered": 5,
-    "anulado": 0,
-    "cancelado": 0,
-    "pendiente": 0,
-    "effectiveness": 100.0,
-    "dispatch": {
-      "PROGRAMADO": {
-        "total": 5,
-        "delivered": 5,
-        "anulado": 0,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Victor Larco Herrera",
-    "total": 29,
-    "delivered": 27,
-    "anulado": 1,
-    "cancelado": 1,
-    "pendiente": 0,
-    "effectiveness": 93.1,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 18,
-        "delivered": 17,
-        "anulado": 0,
-        "cancelado": 1
-      },
-      "PROGRAMADO": {
-        "total": 11,
-        "delivered": 10,
-        "anulado": 1,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Villa El Salvador",
-    "total": 157,
-    "delivered": 127,
-    "anulado": 28,
-    "cancelado": 1,
-    "pendiente": 1,
-    "effectiveness": 81.41,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 133,
-        "delivered": 111,
-        "anulado": 21,
-        "cancelado": 1
-      },
-      "PROGRAMADO": {
-        "total": 24,
-        "delivered": 16,
-        "anulado": 7,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Villa Maria Del Triunfo",
-    "total": 172,
-    "delivered": 127,
-    "anulado": 36,
-    "cancelado": 1,
-    "pendiente": 8,
-    "effectiveness": 77.44,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 142,
-        "delivered": 109,
-        "anulado": 32,
-        "cancelado": 1
-      },
-      "PROGRAMADO": {
-        "total": 30,
-        "delivered": 18,
-        "anulado": 4,
-        "cancelado": 0
-      }
-    }
-  },
-  {
-    "departamento": "Viru",
-    "total": 26,
-    "delivered": 21,
-    "anulado": 0,
-    "cancelado": 4,
-    "pendiente": 1,
-    "effectiveness": 84.0,
-    "dispatch": {
-      "EXPRESS": {
-        "total": 6,
-        "delivered": 6,
-        "anulado": 0,
-        "cancelado": 0
-      },
-      "PROGRAMADO": {
-        "total": 9,
-        "delivered": 8,
-        "anulado": 0,
-        "cancelado": 0
-      },
-      "RETIRO EN TIENDA": {
-        "total": 11,
-        "delivered": 7,
-        "anulado": 0,
-        "cancelado": 4
-      }
-    }
-  },
-  {
     "departamento": "Wanchaq",
-    "total": 53,
-    "delivered": 39,
-    "anulado": 9,
-    "cancelado": 1,
-    "pendiente": 4,
-    "effectiveness": 79.59,
+    "total": 127,
+    "delivered": 98,
+    "anulado": 22,
+    "cancelado": 4,
+    "pendiente": 3,
+    "effectiveness": 79.03,
     "dispatch": {
       "EXPRESS": {
-        "total": 39,
-        "delivered": 33,
-        "anulado": 6,
-        "cancelado": 0
+        "total": 80,
+        "delivered": 68,
+        "anulado": 11,
+        "cancelado": 1
       },
       "PROGRAMADO": {
-        "total": 14,
-        "delivered": 6,
-        "anulado": 3,
-        "cancelado": 1
+        "total": 47,
+        "delivered": 30,
+        "anulado": 11,
+        "cancelado": 3
       }
     }
   },
   {
     "departamento": "Yanahuara",
-    "total": 18,
-    "delivered": 15,
-    "anulado": 3,
+    "total": 28,
+    "delivered": 23,
+    "anulado": 4,
     "cancelado": 0,
-    "pendiente": 0,
-    "effectiveness": 83.33,
+    "pendiente": 1,
+    "effectiveness": 85.19,
     "dispatch": {
       "EXPRESS": {
-        "total": 17,
-        "delivered": 14,
+        "total": 24,
+        "delivered": 21,
         "anulado": 3,
         "cancelado": 0
       },
       "PROGRAMADO": {
-        "total": 1,
-        "delivered": 1,
-        "anulado": 0,
+        "total": 4,
+        "delivered": 2,
+        "anulado": 1,
         "cancelado": 0
       }
     }
   },
   {
     "departamento": "Yarinacocha",
-    "total": 31,
-    "delivered": 15,
-    "anulado": 12,
+    "total": 54,
+    "delivered": 26,
+    "anulado": 24,
     "cancelado": 2,
     "pendiente": 2,
-    "effectiveness": 51.72,
+    "effectiveness": 50.0,
     "dispatch": {
       "EXPRESS": {
-        "total": 14,
-        "delivered": 5,
-        "anulado": 8,
+        "total": 25,
+        "delivered": 11,
+        "anulado": 13,
         "cancelado": 1
       },
       "PROGRAMADO": {
-        "total": 17,
-        "delivered": 10,
-        "anulado": 4,
+        "total": 29,
+        "delivered": 15,
+        "anulado": 11,
         "cancelado": 1
       }
     }

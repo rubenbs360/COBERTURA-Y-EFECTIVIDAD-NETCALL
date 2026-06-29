@@ -12,7 +12,12 @@ if csv_files:
 else:
     CSV_PATH = r"C:\Users\USUARIO\Downloads\Dashboard Outbound Netcall- Entel V3_Post - Válidas_Tabla - 2026-06-14T131227.720.csv"
 
-XLSX_PATH = r"C:\Users\USUARIO\Downloads\DIRECTORIO TIENDAS JUNIO.xlsx"
+xlsx_pattern = r"C:\Users\USUARIO\Downloads\DIRECTORIO TIENDAS *.xlsx"
+xlsx_files = glob.glob(xlsx_pattern)
+if xlsx_files:
+    XLSX_PATH = max(xlsx_files, key=os.path.getmtime)
+else:
+    XLSX_PATH = r"C:\Users\USUARIO\Downloads\DIRECTORIO TIENDAS JUNIO.xlsx"
 
 OUTPUT_DIRS = [
     r"c:\Users\USUARIO\OneDrive\Escritorio\RUBEN DOC\NETCALL\data"
