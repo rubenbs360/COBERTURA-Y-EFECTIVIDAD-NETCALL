@@ -339,44 +339,42 @@
                             </tr>
                           </thead>
                           <tbody id="det-advisors-tbody">
-                            <!-- Populated by JS -->
-                          </tbody>
-                        </table>
-                      </div>
-                    </div>
-                  </div>
-                  
-                </div>
-                
               </div>
             </div>
             
+            <!-- Store Detail Workspace -->
+            <div class="store-detail-workspace card" id="store-detail-panel">
+              <div class="empty-state py-12" id="store-detail-empty">
+                <span class="icon">🏪</span>
+                <h4>Ninguna tienda seleccionada</h4>
+                <p>Seleccione una tienda de la lista de la izquierda para ver su información de contacto, nómina de asesores y efectividad de entrega.</p>
+              </div>
+              
+              <div class="store-detail-content hidden" id="store-detail-active">
+                <!-- Populated dynamically by JS -->
+              </div>
+            </div>
           </div>
         </section>
         
         <!-- ================= ADMINISTRATION TAB ================= -->
         <section id="tab-admin" class="tab-view">
-          
-          <!-- Login View (shown by default) -->
           <div class="admin-login-container card" id="admin-login-box">
             <div class="login-header">
-              <span class="lock-icon">🔒</span>
-              <h2>Acceso Protegido</h2>
+              <h2>🔒 Control de Supervisor</h2>
               <p>Ingrese sus credenciales de supervisor para acceder al panel de administración.</p>
             </div>
-            
             <form id="admin-login-form" class="login-form">
               <div class="form-group">
                 <label for="login-username">Usuario</label>
-                <input type="text" id="login-username" class="form-select" placeholder="Ingrese usuario" required autocomplete="username">
+                <input type="text" id="login-username" class="form-control" required placeholder="admin">
               </div>
-              
-              <div class="form-group">
+              <div class="form-group mt-3">
                 <label for="login-password">Contraseña</label>
-                <input type="password" id="login-password" class="form-select" placeholder="••••••••" required autocomplete="current-password">
+                <input type="password" id="login-password" class="form-control" required placeholder="••••••••">
               </div>
               
-              <div class="error-message hidden" id="login-error-msg">
+              <div class="error-msg mt-3 hidden" id="login-error-msg">
                 ❌ Credenciales incorrectas. Intente de nuevo.
               </div>
               
@@ -442,6 +440,97 @@
               </div>
               
             </div>
+
+            <!-- Seccion de Editor de Polígonos de Cobertura -->
+            <div class="admin-editor-section mt-8 border-t pt-6">
+              <h3>🛠️ Editor de Polígonos de Cobertura (Zonas)</h3>
+              <p class="desc mb-4">Seleccione una zona en el mapa o dibuje una nueva para editar sus propiedades y trazo. Al finalizar, exporte el nuevo cobertura.json.</p>
+              
+              <div class="admin-editor-layout">
+                <!-- Columna Mapa -->
+                <div class="editor-map-container">
+                  <div id="editor-map"></div>
+                </div>
+                
+                <!-- Columna Formulario -->
+                <div class="editor-properties-card">
+                  <h4>Propiedades de la Zona Seleccionada</h4>
+                  <div class="form-group mt-3">
+                    <label for="edit-id-zona">ID Zona</label>
+                    <input type="text" id="edit-id-zona" readonly class="form-control" placeholder="Automático">
+                  </div>
+                  
+                  <div class="form-group mt-3">
+                    <label for="edit-departamento">Departamento</label>
+                    <input type="text" id="edit-departamento" class="form-control" placeholder="Ej: Lima">
+                  </div>
+                  
+                  <div class="form-group mt-3">
+                    <label for="edit-provincia">Provincia</label>
+                    <input type="text" id="edit-provincia" class="form-control" placeholder="Ej: Lima">
+                  </div>
+                  
+                  <div class="form-group mt-3">
+                    <label for="edit-distrito">Distrito (Mapeo a efectividad)</label>
+                    <input type="text" id="edit-distrito" class="form-control" placeholder="Ej: CAJAMARQUILLA">
+                  </div>
+                  
+                  <div class="form-group mt-3">
+                    <label for="edit-nombre-comercial">Nombre Comercial</label>
+                    <input type="text" id="edit-nombre-comercial" class="form-control" placeholder="Ej: Cajamarquilla Centro">
+                  </div>
+                  
+                  <div class="form-group mt-3">
+                    <label for="edit-tipo-rango">Tipo Rango</label>
+                    <select id="edit-tipo-rango" class="form-control">
+                      <option value="ROJO (Sin Acceso)">ROJO (Sin Acceso)</option>
+                      <option value="CELESTE (Viru)">CELESTE (Viru)</option>
+                      <option value="EXPRESS">EXPRESS</option>
+                      <option value="REGULAR">REGULAR</option>
+                    </select>
+                  </div>
+                  
+                  <div class="form-group mt-3">
+                    <label for="edit-color">Color de Zona</label>
+                    <div class="color-picker-row">
+                      <input type="color" id="edit-color-picker" class="color-picker" value="#ef4444">
+                      <input type="text" id="edit-color-text" class="form-control text-input" placeholder="#ef4444">
+                    </div>
+                  </div>
+                  
+                  <div class="form-group mt-3">
+                    <label for="edit-horario">Horario de Cobertura</label>
+                    <input type="text" id="edit-horario" class="form-control" placeholder="Ej: L-S 9am a 6pm / Sin Cobertura">
+                  </div>
+                  
+                  <div class="form-group mt-3">
+                    <label for="edit-descripcion">Descripción / Detalle</label>
+                    <textarea id="edit-descripcion" class="form-control" rows="2" placeholder="Información adicional..."></textarea>
+                  </div>
+
+                  <div class="form-group mt-3 checkbox-group">
+                    <label class="checkbox-label">
+                      <input type="checkbox" id="edit-invisible">
+                      <span>👁️ Invisible para el cliente (oculto en mapa público)</span>
+                    </label>
+                  </div>
+                  
+                  <div class="editor-actions mt-4">
+                    <button class="action-btn w-full" id="btn-save-zone">💾 Aplicar Cambios a Zona</button>
+                    <button class="danger-btn w-full mt-2" id="btn-delete-zone">🗑️ Eliminar Zona</button>
+                  </div>
+                </div>
+              </div>
+
+              <div class="editor-export-row mt-6">
+                <button class="success-btn py-3 px-6" id="btn-download-geojson">
+                  📥 Descargar Nuevo cobertura.json
+                </button>
+                <div class="export-instructions">
+                  💡 <strong>¿Cómo aplicar los cambios?</strong> Al descargar el archivo, guárdalo dentro de la carpeta <code>data/</code> reemplazando el archivo existente, luego ejecuta <code>actualizar_datos.bat</code> para publicarlo en la web.
+                </div>
+              </div>
+            </div>
           </div>
         </section>
         
@@ -455,6 +544,7 @@
   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
      integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
      crossorigin=""></script>
+  <script src="https://unpkg.com/@geoman-io/leaflet-geoman-free@latest/dist/leaflet-geoman.min.js"></script>
   <!-- App JS -->
   <script src="app.js"></script>
 </body>

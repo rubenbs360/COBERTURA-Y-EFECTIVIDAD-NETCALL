@@ -174,16 +174,20 @@ function renderPolygons() {
 
   geoJsonLayer = L.geoJSON(coberturaData, {
     style: function (feature) {
+      const isInvisible = feature.properties.invisible === true;
       const isNoColor = feature.properties.no_color === true;
       return {
-        fillColor: isNoColor ? 'transparent' : (feature.properties.color_default || '#00ffff'),
-        weight: 2,
-        opacity: 0.8,
-        color: isNoColor ? '#000000' : (feature.properties.color_default || '#00ffff'),
-        fillOpacity: isNoColor ? 0.0 : 0.35
+        fillColor: isInvisible ? 'transparent' : (isNoColor ? 'transparent' : (feature.properties.color_default || '#00ffff')),
+        weight: isInvisible ? 0 : 2,
+        opacity: isInvisible ? 0 : 0.8,
+        color: isInvisible ? 'transparent' : (isNoColor ? '#000000' : (feature.properties.color_default || '#00ffff')),
+        fillOpacity: isInvisible ? 0 : (isNoColor ? 0.0 : 0.35)
       };
     },
     onEachFeature: function (feature, layer) {
+      const isInvisible = feature.properties.invisible === true;
+      if (isInvisible) return; // Skip bind hover/clicks for invisible layers in user map
+
       // Hover effects
       layer.on('mouseover', function () {
         layer.setStyle({ fillOpacity: 0.65, weight: 3 });
@@ -731,6 +735,7 @@ function setupAdminListeners() {
   if (sessionStorage.getItem("adminAuth") === "true") {
     loginBox.classList.add("hidden");
     mainPanel.classList.remove("hidden");
+    setTimeout(initEditorMap, 100);
   }
 
   // Handle Login Form Submit
@@ -749,6 +754,7 @@ function setupAdminListeners() {
       loginBox.classList.add("hidden");
       mainPanel.classList.remove("hidden");
       printConsoleLog("[ACCESO] Inicio de sesión exitoso como supervisor.");
+      setTimeout(initEditorMap, 100);
     } else {
       errorMsg.classList.remove("hidden");
       printConsoleLog("[ACCESO] Intento de acceso fallido.");
@@ -1262,3 +1268,283 @@ function findMatchingDistrictOption(searchStr) {
   
   return null;
 }
+
+// ================= COVERAGE POLYGON VISUAL EDITOR =================
+let editorMap = null;
+let editorGeoJsonGroup = null;
+let selectedFeature = null;
+let selectedLayer = null;
+
+function initEditorMap() {
+  if (editorMap) {
+    // Refresh layers if map already exists
+    refreshEditorMapLayers();
+    return;
+  }
+
+  // Create Editor Map
+  editorMap = L.map('editor-map').setView([-9.19, -75.01], 6);
+
+  // Set CartoDB voyager tile layer
+  L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
+    attribution: '&copy; CartoDB'
+  }).addTo(editorMap);
+
+  editorGeoJsonGroup = L.featureGroup().addTo(editorMap);
+
+  // Configure Leaflet-Geoman controls
+  editorMap.pm.addControls({
+    position: 'topleft',
+    drawCircle: false,
+    drawCircleMarker: false,
+    drawMarker: false,
+    drawPolyline: false,
+    drawRectangle: false,
+    drawText: false,
+    cutPolygon: false,
+    rotateMode: false,
+  });
+
+  // Enable global edit mode by default
+  editorMap.pm.setGlobalEditMode(true);
+
+  // Handle polygon drawing / creation
+  editorMap.on('pm:create', (e) => {
+    const layer = e.layer;
+    
+    // Create new GeoJSON properties structure
+    const newId = "ZONA_" + String(coberturaData.features.length + 1).padStart(4, '0');
+    const newFeature = {
+      type: "Feature",
+      properties: {
+        id_zona: newId,
+        departamento: "",
+        provincia: "",
+        distrito: "NUEVO_DISTRITO",
+        nombre_comercial: "Nueva Zona " + newId,
+        color_default: "#ef4444",
+        tipo_rango: "ROJO (Sin Acceso)",
+        horario_cobertura: "L-S 9am a 6pm",
+        description: "",
+        invisible: false
+      },
+      geometry: layer.toGeoJSON().geometry
+    };
+
+    // Add to in-memory GeoJSON list
+    coberturaData.features.push(newFeature);
+
+    // Bind edit and select events
+    bindEditorLayerEvents(layer, newFeature);
+    editorGeoJsonGroup.addLayer(layer);
+
+    // Auto-select the newly drawn polygon
+    selectZoneInEditor(layer, newFeature);
+    
+    printConsoleLog(`[EDITOR] Nueva zona creada con ID: ${newId}`);
+  });
+
+  // Bind color input syncing
+  const colorPicker = document.getElementById("edit-color-picker");
+  const colorText = document.getElementById("edit-color-text");
+  colorPicker.addEventListener("input", (e) => {
+    colorText.value = e.target.value;
+  });
+  colorText.addEventListener("input", (e) => {
+    if (/^#[0-9A-F]{6}$/i.test(e.target.value)) {
+      colorPicker.value = e.target.value;
+    }
+  });
+
+  // Action buttons
+  document.getElementById("btn-save-zone").addEventListener("click", applyPropertiesChanges);
+  document.getElementById("btn-delete-zone").addEventListener("click", deleteSelectedZone);
+  document.getElementById("btn-download-geojson").addEventListener("click", downloadCoberturaJson);
+
+  // Populate layers
+  refreshEditorMapLayers();
+}
+
+function refreshEditorMapLayers() {
+  if (!editorGeoJsonGroup || !coberturaData) return;
+  
+  editorGeoJsonGroup.clearLayers();
+  
+  coberturaData.features.forEach((feature) => {
+    const isInvisible = feature.properties.invisible === true;
+    const isNoColor = feature.properties.no_color === true;
+    
+    // Style: Show invisible layers as dashed-gray outlines
+    const layerStyle = {
+      fillColor: isInvisible ? '#888888' : (feature.properties.color_default || '#ef4444'),
+      color: isInvisible ? '#444444' : (feature.properties.color_default || '#ef4444'),
+      weight: 2,
+      opacity: 0.8,
+      fillOpacity: isInvisible ? 0.2 : 0.4,
+      dashArray: isInvisible ? '5, 5' : null
+    };
+
+    const layer = L.geoJSON(feature, {
+      style: layerStyle
+    }).getLayers()[0];
+
+    if (layer) {
+      bindEditorLayerEvents(layer, feature);
+      editorGeoJsonGroup.addLayer(layer);
+    }
+  });
+
+  // Focus bounds if layers exist
+  if (editorGeoJsonGroup.getLayers().length > 0) {
+    editorMap.fitBounds(editorGeoJsonGroup.getBounds());
+  }
+}
+
+function bindEditorLayerEvents(layer, feature) {
+  // Select polygon on click
+  layer.on('click', (e) => {
+    L.DomEvent.stopPropagation(e);
+    selectZoneInEditor(layer, feature);
+  });
+
+  // Update geometry coordinates in memory when edited on the map
+  layer.on('pm:edit', (e) => {
+    feature.geometry = layer.toGeoJSON().geometry;
+    printConsoleLog(`[EDITOR] Geometría de la zona ${feature.properties.id_zona} actualizada en el mapa.`);
+  });
+}
+
+function selectZoneInEditor(layer, feature) {
+  // Reset previous selected layer style
+  if (selectedLayer && selectedFeature) {
+    const prevInvisible = selectedFeature.properties.invisible === true;
+    selectedLayer.setStyle({
+      weight: 2,
+      color: prevInvisible ? '#444444' : (selectedFeature.properties.color_default || '#ef4444'),
+      dashArray: prevInvisible ? '5, 5' : null
+    });
+  }
+
+  selectedFeature = feature;
+  selectedLayer = layer;
+
+  // Highlight active layer
+  layer.setStyle({
+    weight: 4,
+    color: '#00ffff', // Cyan border highlight
+    dashArray: null
+  });
+
+  // Populate properties form fields
+  const props = feature.properties;
+  document.getElementById("edit-id-zona").value = props.id_zona || "";
+  document.getElementById("edit-departamento").value = props.departamento || "";
+  document.getElementById("edit-provincia").value = props.provincia || "";
+  document.getElementById("edit-distrito").value = props.distrito || "";
+  document.getElementById("edit-nombre-comercial").value = props.nombre_comercial || "";
+  document.getElementById("edit-tipo-rango").value = props.tipo_rango || "ROJO (Sin Acceso)";
+  
+  const color = props.color_default || "#ef4444";
+  document.getElementById("edit-color-picker").value = color;
+  document.getElementById("edit-color-text").value = color;
+  
+  document.getElementById("edit-horario").value = props.horario_cobertura || "";
+  document.getElementById("edit-descripcion").value = props.description || "";
+  document.getElementById("edit-invisible").checked = props.invisible === true;
+
+  printConsoleLog(`[EDITOR] Seleccionada zona: ${props.nombre_comercial} (${props.id_zona})`);
+}
+
+function applyPropertiesChanges() {
+  if (!selectedFeature || !selectedLayer) {
+    alert("Por favor, seleccione una zona del mapa haciendo clic sobre ella primero.");
+    return;
+  }
+
+  const props = selectedFeature.properties;
+  props.departamento = document.getElementById("edit-departamento").value.trim();
+  props.provincia = document.getElementById("edit-provincia").value.trim();
+  props.distrito = document.getElementById("edit-distrito").value.trim().toUpperCase();
+  props.nombre_comercial = document.getElementById("edit-nombre-comercial").value.trim();
+  props.tipo_rango = document.getElementById("edit-tipo-rango").value;
+  props.color_default = document.getElementById("edit-color-text").value.trim() || "#ef4444";
+  props.horario_cobertura = document.getElementById("edit-horario").value.trim();
+  props.description = document.getElementById("edit-descripcion").value.trim();
+  props.invisible = document.getElementById("edit-invisible").checked;
+
+  // Apply default color styling if not selected or update style representation
+  const isInvisible = props.invisible === true;
+  selectedLayer.setStyle({
+    fillColor: isInvisible ? '#888888' : props.color_default,
+    color: '#00ffff', // keep selection highlight
+    fillOpacity: isInvisible ? 0.2 : 0.4,
+    dashArray: isInvisible ? '5, 5' : null
+  });
+
+  printConsoleLog(`[EDITOR] Propiedades actualizadas para zona ${props.id_zona}.`);
+  alert(`Cambios aplicados con éxito para la zona: ${props.nombre_comercial}`);
+}
+
+function deleteSelectedZone() {
+  if (!selectedFeature || !selectedLayer) {
+    alert("Por favor, seleccione una zona del mapa para eliminar.");
+    return;
+  }
+
+  const confirmDelete = confirm(`¿Está seguro de que desea eliminar permanentemente la zona: ${selectedFeature.properties.nombre_comercial}?`);
+  if (!confirmDelete) return;
+
+  const idToDelete = selectedFeature.properties.id_zona;
+  
+  // Remove layer from map
+  editorGeoJsonGroup.removeLayer(selectedLayer);
+  
+  // Remove from main GeoJSON features array
+  coberturaData.features = coberturaData.features.filter(f => f.properties.id_zona !== idToDelete);
+
+  // Clear form
+  document.getElementById("edit-id-zona").value = "";
+  document.getElementById("edit-departamento").value = "";
+  document.getElementById("edit-provincia").value = "";
+  document.getElementById("edit-distrito").value = "";
+  document.getElementById("edit-nombre-comercial").value = "";
+  document.getElementById("edit-horario").value = "";
+  document.getElementById("edit-descripcion").value = "";
+  document.getElementById("edit-invisible").checked = false;
+  
+  selectedFeature = null;
+  selectedLayer = null;
+
+  printConsoleLog(`[EDITOR] Zona eliminada: ${idToDelete}`);
+  alert("Zona eliminada de los datos en memoria.");
+}
+
+function downloadCoberturaJson() {
+  if (!coberturaData) {
+    alert("No hay datos de cobertura cargados para exportar.");
+    return;
+  }
+
+  // Double check all layer geometries are synced from the map
+  if (editorGeoJsonGroup) {
+    editorGeoJsonGroup.getLayers().forEach(layer => {
+      const layerGeoJson = layer.toGeoJSON();
+      const id = layerGeoJson.properties.id_zona;
+      const feat = coberturaData.features.find(f => f.properties.id_zona === id);
+      if (feat) {
+        feat.geometry = layerGeoJson.geometry;
+      }
+    });
+  }
+
+  const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(coberturaData, null, 2));
+  const downloadAnchor = document.createElement('a');
+  downloadAnchor.setAttribute("href", dataStr);
+  downloadAnchor.setAttribute("download", "cobertura.json");
+  document.body.appendChild(downloadAnchor);
+  downloadAnchor.click();
+  downloadAnchor.remove();
+
+  printConsoleLog("[EDITOR] Archivo cobertura.json generado para descarga.");
+}
+
