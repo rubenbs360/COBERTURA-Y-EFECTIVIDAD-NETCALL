@@ -63,6 +63,7 @@ async function loadData() {
     initMap();
     updateRegionalPerformance();
     renderStoresList();
+    renderAgentRanking();
     
     // Set update time in header
     document.getElementById("header-update-time").textContent = new Date().toLocaleDateString('es-PE', {
@@ -367,7 +368,11 @@ function updateRegionalPerformance() {
   if (selectedDept === "todos") {
     // Sum all departments for selected dispatch type
     departmentsData.forEach(dept => {
-      if (dept.dispatch && dept.dispatch[selectedType]) {
+      if (selectedType === "ALL") {
+        total += dept.total;
+        delivered += dept.delivered;
+        failed += (dept.anulado + dept.cancelado);
+      } else if (dept.dispatch && dept.dispatch[selectedType]) {
         const dInfo = dept.dispatch[selectedType];
         total += dInfo.total;
         delivered += dInfo.delivered;
@@ -380,7 +385,11 @@ function updateRegionalPerformance() {
     // Find matching department
     const dept = departmentsData.find(d => d.departamento.toLowerCase() === selectedDept.toLowerCase());
     if (dept) {
-      if (dept.dispatch && dept.dispatch[selectedType]) {
+      if (selectedType === "ALL") {
+        total = dept.total;
+        delivered = dept.delivered;
+        failed = dept.anulado + dept.cancelado;
+      } else if (dept.dispatch && dept.dispatch[selectedType]) {
         const dInfo = dept.dispatch[selectedType];
         total = dInfo.total;
         delivered = dInfo.delivered;
@@ -1634,5 +1643,42 @@ function downloadCoberturaJson() {
   downloadAnchor.remove();
 
   printConsoleLog("[EDITOR] Archivo cobertura.json generado para descarga.");
+}
+
+function renderAgentRanking() {
+  const container = document.getElementById("agent-ranking-list");
+  if (!container || !advisorsData || advisorsData.length === 0) return;
+  
+  // Filter advisors with at least 10 orders for statistical relevance
+  const qualified = advisorsData.filter(a => a.total >= 10);
+  
+  // Sort by effectiveness desc, then total desc
+  qualified.sort((a, b) => {
+    if (b.effectiveness !== a.effectiveness) {
+      return b.effectiveness - a.effectiveness;
+    }
+    return b.total - a.total;
+  });
+  
+  // Take top 5
+  const topAdvisors = qualified.slice(0, 5);
+  
+  container.innerHTML = topAdvisors.map((adv, index) => {
+    const medals = ["🥇", "🥈", "🥉", "🏅", "🏅"];
+    const rankIcon = medals[index] || "👤";
+    
+    return `
+      <div style="display:flex; justify-content:space-between; align-items:center; font-size:0.75rem; padding:0.35rem 0.5rem; background:rgba(0,0,0,0.02); border-radius:4px; border-left:3px solid var(--primary); margin-bottom: 2px;">
+        <div style="display:flex; align-items:center; gap:0.4rem;">
+          <span style="font-size:0.9rem;">${rankIcon}</span>
+          <span style="font-weight:600; color:var(--text-main); font-family:var(--font-mono);">${adv.usuario}</span>
+        </div>
+        <div style="text-align:right;">
+          <span style="font-weight:700; color:var(--success);">${adv.effectiveness.toFixed(1)}%</span>
+          <div style="font-size:0.65rem; color:var(--text-muted);">${adv.delivered}/${adv.total} Ent.</div>
+        </div>
+      </div>
+    `;
+  }).join("");
 }
 

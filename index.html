@@ -140,23 +140,28 @@
               </div>
               
               <!-- Map Legend -->
+              <!-- Map Legend -->
               <div class="legend-box">
-                <h4>Leyenda de Polígonos Cobertura</h4>
+                <h4>Leyenda de Coberturas (Buscador)</h4>
                 <div class="legend-item">
-                  <span class="legend-color" style="background-color: #00FFFF"></span>
-                  <span>Celeste - Rango 24 Horas Sempre Disponible</span>
+                  <span class="legend-color" style="background-color: #3b82f6"></span>
+                  <span>Azul/Celeste - Envío Express (Rápido)</span>
                 </div>
                 <div class="legend-item">
-                  <span class="legend-color" style="background-color: #FFA500"></span>
-                  <span>Naranja - Rango 12 Horas (8 AM - 8 PM)</span>
+                  <span class="legend-color" style="background-color: #10b981"></span>
+                  <span>Verde - Envío Programado (Estándar)</span>
                 </div>
                 <div class="legend-item">
-                  <span class="legend-color" style="background-color: #00FF55"></span>
-                  <span>Verde - Cobertura Principal 24 Horas</span>
+                  <span class="legend-color" style="background-color: #ef4444"></span>
+                  <span>Rojo - Sin Cobertura / Zona Insegura</span>
                 </div>
-                <div class="legend-item">
-                  <span class="legend-color" style="background-color: #FF00FF"></span>
-                  <span>Magenta - Express Miraflores Hub (9 AM - 10 PM)</span>
+              </div>
+
+              <!-- Agent Ranking Box -->
+              <div class="legend-box mt-3" id="agent-ranking-box">
+                <h4>🏆 Top Agentes - Mayor Efectividad</h4>
+                <div id="agent-ranking-list" style="margin-top:0.5rem; display:flex; flex-direction:column; gap:0.4rem;">
+                  <!-- Dynamic ranking will load here -->
                 </div>
               </div>
             </div>
