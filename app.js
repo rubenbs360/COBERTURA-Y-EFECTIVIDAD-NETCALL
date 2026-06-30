@@ -385,20 +385,10 @@ function updateRegionalPerformance() {
     // Find matching department
     const dept = departmentsData.find(d => d.departamento.toLowerCase() === selectedDept.toLowerCase());
     if (dept) {
-      if (selectedType === "ALL") {
-        total = dept.total;
-        delivered = dept.delivered;
-        failed = dept.anulado + dept.cancelado;
-      } else if (dept.dispatch && dept.dispatch[selectedType]) {
-        const dInfo = dept.dispatch[selectedType];
-        total = dInfo.total;
-        delivered = dInfo.delivered;
-        failed = dInfo.anulado + dInfo.cancelado;
-      } else {
-        total = 0;
-        delivered = 0;
-        failed = 0;
-      }
+      // Always show overall district metrics to avoid showing 0.0% for districts with different dispatch types in CSV (like Talara with Retiro en Tienda)
+      total = dept.total;
+      delivered = dept.delivered;
+      failed = dept.anulado + dept.cancelado;
       document.getElementById("perf-dept-name").textContent = dept.departamento;
     } else {
       document.getElementById("perf-dept-name").textContent = selectedDept;
@@ -1649,8 +1639,8 @@ function renderAgentRanking() {
   const container = document.getElementById("agent-ranking-list");
   if (!container || !advisorsData || advisorsData.length === 0) return;
   
-  // Filter advisors with at least 10 orders for statistical relevance
-  const qualified = advisorsData.filter(a => a.total >= 10);
+  // Filter advisors with at least 15 orders for statistical relevance
+  const qualified = advisorsData.filter(a => a.total >= 15);
   
   // Sort by effectiveness desc, then total desc
   qualified.sort((a, b) => {
