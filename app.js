@@ -1026,7 +1026,8 @@ function setupCoordinateSearch() {
     let diasText = "No disponible";
     let badgeColor = "#ef4444";
 
-    const excelInfo = (deliveryData && normDist) ? deliveryData[normDist] : null;
+    const isRedZonePolygon = coverage && (coverage.tipo_rango === "ROJO (Sin Acceso)" && coverage.no_color !== true);
+    const excelInfo = (deliveryData && normDist && !isRedZonePolygon) ? deliveryData[normDist] : null;
 
     if (excelInfo) {
       if (excelInfo.rango_tipo === "CELESTE") {
