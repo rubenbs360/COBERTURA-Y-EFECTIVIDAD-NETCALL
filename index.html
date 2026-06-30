@@ -12,6 +12,7 @@
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
      integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
      crossorigin=""/>
+  <link rel="stylesheet" href="https://unpkg.com/@geoman-io/leaflet-geoman-free@latest/dist/leaflet-geoman.css" />
   <!-- Styles -->
   <link rel="stylesheet" href="styles.css">
 </head>
@@ -339,42 +340,44 @@
                             </tr>
                           </thead>
                           <tbody id="det-advisors-tbody">
+                            <!-- Populated by JS -->
+                          </tbody>
+                        </table>
+                      </div>
+                    </div>
+                  </div>
+                  
+                </div>
+                
               </div>
             </div>
             
-            <!-- Store Detail Workspace -->
-            <div class="store-detail-workspace card" id="store-detail-panel">
-              <div class="empty-state py-12" id="store-detail-empty">
-                <span class="icon">🏪</span>
-                <h4>Ninguna tienda seleccionada</h4>
-                <p>Seleccione una tienda de la lista de la izquierda para ver su información de contacto, nómina de asesores y efectividad de entrega.</p>
-              </div>
-              
-              <div class="store-detail-content hidden" id="store-detail-active">
-                <!-- Populated dynamically by JS -->
-              </div>
-            </div>
           </div>
         </section>
         
         <!-- ================= ADMINISTRATION TAB ================= -->
         <section id="tab-admin" class="tab-view">
+          
+          <!-- Login View (shown by default) -->
           <div class="admin-login-container card" id="admin-login-box">
             <div class="login-header">
-              <h2>🔒 Control de Supervisor</h2>
+              <span class="lock-icon">🔒</span>
+              <h2>Acceso Protegido</h2>
               <p>Ingrese sus credenciales de supervisor para acceder al panel de administración.</p>
             </div>
+            
             <form id="admin-login-form" class="login-form">
               <div class="form-group">
                 <label for="login-username">Usuario</label>
-                <input type="text" id="login-username" class="form-control" required placeholder="admin">
-              </div>
-              <div class="form-group mt-3">
-                <label for="login-password">Contraseña</label>
-                <input type="password" id="login-password" class="form-control" required placeholder="••••••••">
+                <input type="text" id="login-username" class="form-select" placeholder="Ingrese usuario" required autocomplete="username">
               </div>
               
-              <div class="error-msg mt-3 hidden" id="login-error-msg">
+              <div class="form-group">
+                <label for="login-password">Contraseña</label>
+                <input type="password" id="login-password" class="form-select" placeholder="••••••••" required autocomplete="current-password">
+              </div>
+              
+              <div class="error-message hidden" id="login-error-msg">
                 ❌ Credenciales incorrectas. Intente de nuevo.
               </div>
               
