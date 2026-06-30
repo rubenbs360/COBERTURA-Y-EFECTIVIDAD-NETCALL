@@ -7,10 +7,11 @@ echo.
 
 echo 📂 [1/3] Procesando archivos Excel y CSV locales...
 python build_data.py
+python compile_delivery_info.py
 
 if %ERRORLEVEL% NEQ 0 (
     echo.
-    echo ❌ ERROR: Ocurrió un problema al ejecutar build_data.py.
+    echo ❌ ERROR: Ocurrió un problema al ejecutar los scripts de procesamiento.
     echo Asegúrese de tener instaladas las dependencias (pandas, openpyxl, numpy).
     echo.
     pause

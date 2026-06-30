@@ -1,12 +1,13 @@
 import pandas as pd
 
-file_path = r"C:\Users\USUARIO\OneDrive\Escritorio\RUBEN DOC\NETCALL\REPORTERIA\NOMINA_NETCALL_03.06.xlsx"
-df = pd.read_excel(file_path, sheet_name='NOMINA BO')
-print(f"Total rows: {len(df)}")
-print("\nUnique Campaigns (CAMPANA_NOMINA):")
-print(df['CAMPANA_NOMINA'].value_counts())
-print("\nFirst 10 usernames (USUARIO):")
-print(df['USUARIO'].dropna().head(10).tolist())
-print("\nMissing values in USUARIO column:", df['USUARIO'].isna().sum())
-print("\nUnique supervisors:")
-print(df['SUPERVISOR'].value_counts().head(5))
+file_path = r"C:\Users\USUARIO\Downloads\Delivery_2026_Info_Distritos_Tipos_Horarios JUNIO.xlsx"
+xl = pd.ExcelFile(file_path)
+print("Sheet Names:", xl.sheet_names)
+
+for sheet in xl.sheet_names:
+    print(f"\n--- Sheet: {sheet} ---")
+    df = pd.read_excel(file_path, sheet_name=sheet)
+    print("Shape:", df.shape)
+    print("Columns:", df.columns.tolist())
+    print("First 5 rows:")
+    print(df.head(5))

@@ -4,6 +4,7 @@ let departmentsData = [];
 let storesData = [];
 let advisorsData = [];
 let coberturaData = null;
+let deliveryData = null;
 
 let selectedStoreId = null;
 let currentTab = "tab-map";
@@ -41,12 +42,13 @@ document.addEventListener("DOMContentLoaded", () => {
 // Fetch data from processed JSON files
 async function loadData() {
   try {
-    const [summaryRes, deptsRes, storesRes, advisorsRes, coberturaRes] = await Promise.all([
+    const [summaryRes, deptsRes, storesRes, advisorsRes, coberturaRes, deliveryRes] = await Promise.all([
       fetch("data/summary.json"),
       fetch("data/departments.json"),
       fetch("data/stores.json"),
       fetch("data/advisors.json"),
-      fetch("data/cobertura.json")
+      fetch("data/cobertura.json"),
+      fetch("data/delivery_info.json")
     ]);
 
     summaryData = await summaryRes.json();
@@ -54,6 +56,7 @@ async function loadData() {
     storesData = await storesRes.json();
     advisorsData = await advisorsRes.json();
     coberturaData = await coberturaRes.json();
+    deliveryData = await deliveryRes.json();
 
     // Populate UI elements
     populateDeptSelect();
@@ -981,6 +984,15 @@ function setupCoordinateSearch() {
     }
   };
 
+  const normalizeJS = (text) => {
+    if (!text) return "";
+    return text.toString().toUpperCase().trim()
+      .normalize("NFD").replace(/[\u0300-\u036f]/g, "") // Remove accents
+      .replace(/Ñ/g, "N")
+      .replace(/[^A-Z0-9\s]/g, "")
+      .replace(/\s+/g, " ");
+  };
+
   const showFinalPopup = (lat, lng, addressText, geoData = null) => {
     // Check coverage
     let coverage = findCoverageForLatLng(lat, lng);
@@ -997,7 +1009,7 @@ function setupCoordinateSearch() {
       };
     }
     
-    // Override default/missing district with the matched district from reverse geocoding or closest store fallback
+    // Override default/missing district with the matched district from reverse geocoding
     const matchedDistrict = findDistrictForLatLng(lat, lng, geoData);
     if (matchedDistrict) {
       if (coverage.distrito === "Dirección de Envío" || !coverage.distrito) {
@@ -1005,39 +1017,99 @@ function setupCoordinateSearch() {
       }
     }
 
-    const isRedZone = coverage.tipo_rango === "ROJO (Sin Acceso)" && coverage.no_color !== true;
-    let popupHtml = "";
+    const resolvedDistrict = matchedDistrict || coverage.distrito || coverage.departamento || "";
+    const normDist = normalizeJS(resolvedDistrict);
+
+    let colorHeader = "linear-gradient(135deg, #ef4444, #dc2626)";
+    let titleHeader = "❌ Fuera de Cobertura";
+    let rangoLabel = "ROJO (Sin Acceso)";
+    let horarioText = "Sin Cobertura / Zona Insegura";
+    let diasText = "No disponible";
+    let badgeColor = "#ef4444";
+
+    const excelInfo = (deliveryData && normDist) ? deliveryData[normDist] : null;
+
+    if (excelInfo) {
+      if (excelInfo.rango_tipo === "CELESTE") {
+        colorHeader = "linear-gradient(135deg, #3b82f6, #00d2ff)";
+        titleHeader = "✔️ Dirección Con Cobertura";
+        rangoLabel = "CELESTE";
+        badgeColor = "#00f2fe";
+        
+        let schedules = [];
+        if (excelInfo.rango_exp && excelInfo.rango_exp !== "No especificado") {
+          schedules.push(`Express: ${excelInfo.rango_exp}${excelInfo.corte_exp ? ' (Corte: ' + excelInfo.corte_exp + ')' : ''}`);
+        }
+        if (excelInfo.rango_prog && excelInfo.rango_prog !== "No especificado") {
+          schedules.push(`Reg: ${excelInfo.rango_prog}${excelInfo.corte_prog ? ' (Corte: ' + excelInfo.corte_prog + ')' : ''}`);
+        }
+        horarioText = schedules.length > 0 ? schedules.join(" / ") : "Horario regular registrado";
+        diasText = excelInfo.dias_entrega || "No registrado";
+      } else if (excelInfo.rango_tipo === "VERDE") {
+        colorHeader = "linear-gradient(135deg, #10b981, #059669)";
+        titleHeader = "✔️ Dirección Con Cobertura";
+        rangoLabel = "VERDE";
+        badgeColor = "#10b981";
+        
+        horarioText = `Reg: ${excelInfo.rango_prog}${excelInfo.corte_prog ? ' (Corte: ' + excelInfo.corte_prog + ')' : ''}`;
+        diasText = excelInfo.dias_entrega || "No registrado";
+      } else {
+        colorHeader = "linear-gradient(135deg, #ef4444, #dc2626)";
+        titleHeader = "❌ Fuera de Cobertura";
+        rangoLabel = "ROJO (Sin Acceso)";
+        badgeColor = "#ef4444";
+        horarioText = "Sin Cobertura / Zona Insegura";
+        diasText = "No disponible";
+      }
+    } else {
+      // Fallback to polygon properties if district is not in Excel
+      const isRedZone = coverage.tipo_rango === "ROJO (Sin Acceso)" && coverage.no_color !== true;
+      if (isRedZone) {
+        colorHeader = "linear-gradient(135deg, #ef4444, #dc2626)";
+        titleHeader = "❌ Fuera de Cobertura";
+        rangoLabel = "ROJO (Sin Acceso)";
+        badgeColor = "#ef4444";
+        horarioText = coverage.horario_cobertura || "Sin Cobertura";
+        diasText = "No disponible";
+      } else {
+        colorHeader = "linear-gradient(135deg, #3b82f6, #00d2ff)";
+        titleHeader = "✔️ Dirección Con Cobertura";
+        rangoLabel = coverage.tipo_rango || "CELESTE";
+        badgeColor = coverage.color_default || "#00d2ff";
+        horarioText = coverage.horario_cobertura || "24 Horas";
+        diasText = "Lunes a Sábado";
+      }
+    }
 
     // Clean up address to show a more compact version if it is too long
     let shortAddress = addressText;
     const parts = addressText.split(',');
     if (parts.length > 4) {
-      // Keep first 4 details (e.g. Street Name, Number, District, City)
       shortAddress = parts.slice(0, 4).join(',').trim();
     }
 
-    if (isRedZone) {
+    const distStat = departmentsData.find(d => normalizeJS(d.departamento) === normDist);
+    const effPercent = distStat ? `${distStat.effectiveness}%` : "No disponible";
+
+    let popupHtml = "";
+    if (rangoLabel === "ROJO (Sin Acceso)") {
       popupHtml = `
         <div class="map-popup-container" style="max-width: 250px;">
-          <div class="map-popup-header" style="background:var(--danger); color:white; border-radius:8px 8px 0 0; margin:-0.5rem -0.5rem 0.5rem -0.5rem; padding:0.5rem; font-weight:700;">❌ Fuera de Cobertura</div>
+          <div class="map-popup-header" style="background:${colorHeader}; color:white; border-radius:8px 8px 0 0; margin:-0.5rem -0.5rem 0.5rem -0.5rem; padding:0.5rem; font-weight:700;">${titleHeader}</div>
           <div class="map-popup-row" style="margin-bottom:0.4rem;">
             <span class="map-popup-lbl" style="font-weight:700;">Dirección:</span>
             <span class="map-popup-val" style="font-size:0.75rem; display:block; color:var(--danger); font-weight:700;">${shortAddress}</span>
           </div>
-          <p style="font-size:0.75rem; margin:0.3rem 0 0 0; line-height:1.3; color:var(--text-muted);">La coordenada ingresada se encuentra en una **zona insegura / sin acceso**.</p>
+          <p style="font-size:0.75rem; margin:0.3rem 0 0 0; line-height:1.3; color:var(--text-muted);">La coordenada ingresada se encuentra en una **zona insegura o sin cobertura**.</p>
         </div>
       `;
     } else {
-      const deptName = coverage.distrito || coverage.departamento || "Lima - Callao";
-      const deptStat = departmentsData.find(d => d.departamento.toLowerCase() === deptName.toLowerCase());
-      const effPercent = deptStat ? `${deptStat.effectiveness}%` : "No disponible";
-      
       popupHtml = `
-        <div class="map-popup-container" style="max-width: 250px;">
-          <div class="map-popup-header" style="background:var(--success); color:white; border-radius:8px 8px 0 0; margin:-0.5rem -0.5rem 0.5rem -0.5rem; padding:0.5rem; font-weight:700;">✔️ Dirección Con Cobertura</div>
+        <div class="map-popup-container" style="max-width: 280px;">
+          <div class="map-popup-header" style="background:${colorHeader}; color:white; border-radius:8px 8px 0 0; margin:-0.5rem -0.5rem 0.5rem -0.5rem; padding:0.5rem; font-weight:700;">${titleHeader}</div>
           <div class="map-popup-row">
             <span class="map-popup-lbl">Dirección:</span>
-            <span class="map-popup-val" style="font-size:0.75rem; font-weight:600; color:var(--text-main);">${shortAddress}</span>
+            <span class="map-popup-val" style="font-size:0.72rem; font-weight:600; color:var(--text-main); line-height:1.2;">${shortAddress}</span>
           </div>
           <div class="map-popup-row">
             <span class="map-popup-lbl">Zona:</span>
@@ -1045,19 +1117,23 @@ function setupCoordinateSearch() {
           </div>
           <div class="map-popup-row">
             <span class="map-popup-lbl">Distrito:</span>
-            <span class="map-popup-val">${coverage.distrito}</span>
+            <span class="map-popup-val" style="font-weight:600;">${resolvedDistrict}</span>
           </div>
           <div class="map-popup-row">
             <span class="map-popup-lbl">Rango:</span>
-            <span class="map-popup-val highlight" style="color:${coverage.color_default || 'var(--accent-cyan)'}; font-weight:700;">${coverage.tipo_rango}</span>
+            <span class="map-popup-val highlight" style="color:${badgeColor}; font-weight:700;">${rangoLabel}</span>
           </div>
           <div class="map-popup-row">
             <span class="map-popup-lbl">Horario:</span>
-            <span class="map-popup-val">${coverage.horario_cobertura}</span>
+            <span class="map-popup-val" style="font-size:0.75rem; line-height:1.2;">${horarioText}</span>
+          </div>
+          <div class="map-popup-row">
+            <span class="map-popup-lbl">Días:</span>
+            <span class="map-popup-val" style="font-size:0.75rem;">${diasText}</span>
           </div>
           <div class="map-popup-row" style="border-top:1px solid rgba(0,0,0,0.06); padding-top:0.3rem; margin-top:0.25rem;">
-            <span class="map-popup-lbl">Efectividad ${deptName}:</span>
-            <span class="map-popup-val text-success" style="font-weight:700;">${effPercent}</span>
+            <span class="map-popup-lbl">Efectividad ${resolvedDistrict}:</span>
+            <span class="map-popup-val text-success" style="font-weight:700; color:var(--success);">${effPercent}</span>
           </div>
         </div>
       `;
