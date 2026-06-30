@@ -83,6 +83,15 @@ def compile_data():
             "color_rango": color
         }
 
+        # Apply synonym duplication (e.g. Pariñas -> Talara, Chincha Alta -> Chincha)
+        synonyms = {
+            "PARINAS": "TALARA",
+            "CHINCHA ALTA": "CHINCHA"
+        }
+        if dist_norm in synonyms:
+            syn_to = synonyms[dist_norm]
+            delivery_map[syn_to] = delivery_map[dist_norm]
+
     os.makedirs(os.path.dirname(OUTPUT_PATH), exist_ok=True)
     with open(OUTPUT_PATH, 'w', encoding='utf-8') as f:
         json.dump(delivery_map, f, ensure_ascii=False, indent=2)

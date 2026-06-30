@@ -699,6 +699,20 @@
     "rango_tipo": "CELESTE",
     "color_rango": "#00f2fe"
   },
+  "CHINCHA": {
+    "distrito": "CHINCHA ALTA",
+    "provincia": "CHINCHA",
+    "departamento": "ICA",
+    "express": "SI",
+    "programado": "SI",
+    "rango_exp": "10:00 - 20:00",
+    "corte_exp": "17:00:00",
+    "rango_prog": "09:00 - 13:00 / 13:01 - 19:00",
+    "corte_prog": "20:00 / 23:00",
+    "dias_entrega": "Lun, Mar, Mie, Jue, Vie, Sab",
+    "rango_tipo": "CELESTE",
+    "color_rango": "#00f2fe"
+  },
   "ALTO LARAN": {
     "distrito": "ALTO LARAN",
     "provincia": "CHINCHA",
@@ -2758,6 +2772,20 @@
     "color_rango": "#10b981"
   },
   "PARINAS": {
+    "distrito": "PARIÑAS",
+    "provincia": "TALARA",
+    "departamento": "PIURA",
+    "express": "NO",
+    "programado": "SI",
+    "rango_exp": "No especificado",
+    "corte_exp": "",
+    "rango_prog": "08:00 - 19:00",
+    "corte_prog": "09:00 - 16:00",
+    "dias_entrega": "Mar, Vie",
+    "rango_tipo": "VERDE",
+    "color_rango": "#10b981"
+  },
+  "TALARA": {
     "distrito": "PARIÑAS",
     "provincia": "TALARA",
     "departamento": "PIURA",
