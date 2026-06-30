@@ -1279,6 +1279,12 @@ function initEditorMap() {
   if (editorMap) {
     // Refresh layers if map already exists
     refreshEditorMapLayers();
+    setTimeout(() => {
+      editorMap.invalidateSize();
+      if (editorGeoJsonGroup.getLayers().length > 0) {
+        editorMap.fitBounds(editorGeoJsonGroup.getBounds());
+      }
+    }, 200);
     return;
   }
 
@@ -1307,6 +1313,12 @@ function initEditorMap() {
 
   // Enable global edit mode by default
   editorMap.pm.setGlobalEditMode(true);
+
+  // Trigger size recalculation and layer populating
+  setTimeout(() => {
+    editorMap.invalidateSize();
+    refreshEditorMapLayers();
+  }, 200);
 
   // Handle polygon drawing / creation
   editorMap.on('pm:create', (e) => {
