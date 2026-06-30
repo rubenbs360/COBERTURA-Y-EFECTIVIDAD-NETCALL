@@ -1311,9 +1311,6 @@ function initEditorMap() {
     rotateMode: false,
   });
 
-  // Enable global edit mode by default
-  editorMap.pm.setGlobalEditMode(true);
-
   // Trigger size recalculation and layer populating
   setTimeout(() => {
     editorMap.invalidateSize();
@@ -1414,11 +1411,6 @@ function bindEditorLayerEvents(layer, feature) {
     selectZoneInEditor(layer, feature);
   });
 
-  // Enable editing on this layer
-  if (layer.pm) {
-    layer.pm.enable();
-  }
-
   // Update geometry coordinates in memory when edited on the map
   layer.on('pm:edit', (e) => {
     feature.geometry = layer.toGeoJSON().geometry;
@@ -1427,7 +1419,7 @@ function bindEditorLayerEvents(layer, feature) {
 }
 
 function selectZoneInEditor(layer, feature) {
-  // Reset previous selected layer style
+  // Reset previous selected layer style and disable its edit mode
   if (selectedLayer && selectedFeature) {
     const prevInvisible = selectedFeature.properties.invisible === true;
     selectedLayer.setStyle({
@@ -1435,17 +1427,25 @@ function selectZoneInEditor(layer, feature) {
       color: prevInvisible ? '#444444' : (selectedFeature.properties.color_default || '#ef4444'),
       dashArray: prevInvisible ? '5, 5' : null
     });
+    if (selectedLayer.pm) {
+      selectedLayer.pm.disable();
+    }
   }
 
   selectedFeature = feature;
   selectedLayer = layer;
 
-  // Highlight active layer
+  // Highlight active layer and enable its edit mode
   layer.setStyle({
     weight: 4,
     color: '#00ffff', // Cyan border highlight
     dashArray: null
   });
+  if (layer.pm) {
+    layer.pm.enable({
+      allowSelfIntersection: false
+    });
+  }
 
   // Populate properties form fields
   const props = feature.properties;
