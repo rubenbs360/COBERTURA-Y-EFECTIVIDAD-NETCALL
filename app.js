@@ -1382,7 +1382,7 @@ function refreshEditorMapLayers() {
   
   editorGeoJsonGroup.clearLayers();
   
-  L.geoJSON(coberturaData, {
+  const tempGeoJsonLayer = L.geoJSON(coberturaData, {
     style: function (feature) {
       const isInvisible = feature.properties.invisible === true;
       return {
@@ -1396,9 +1396,10 @@ function refreshEditorMapLayers() {
     },
     onEachFeature: function (feature, layer) {
       bindEditorLayerEvents(layer, feature);
-      editorGeoJsonGroup.addLayer(layer);
     }
   });
+
+  editorGeoJsonGroup.addLayer(tempGeoJsonLayer);
 
   // Focus bounds if layers exist
   if (editorGeoJsonGroup.getLayers().length > 0) {
