@@ -1370,25 +1370,19 @@ function refreshEditorMapLayers() {
   
   editorGeoJsonGroup.clearLayers();
   
-  coberturaData.features.forEach((feature) => {
-    const isInvisible = feature.properties.invisible === true;
-    const isNoColor = feature.properties.no_color === true;
-    
-    // Style: Show invisible layers as dashed-gray outlines
-    const layerStyle = {
-      fillColor: isInvisible ? '#888888' : (feature.properties.color_default || '#ef4444'),
-      color: isInvisible ? '#444444' : (feature.properties.color_default || '#ef4444'),
-      weight: 2,
-      opacity: 0.8,
-      fillOpacity: isInvisible ? 0.2 : 0.4,
-      dashArray: isInvisible ? '5, 5' : null
-    };
-
-    const layer = L.geoJSON(feature, {
-      style: layerStyle
-    }).getLayers()[0];
-
-    if (layer) {
+  L.geoJSON(coberturaData, {
+    style: function (feature) {
+      const isInvisible = feature.properties.invisible === true;
+      return {
+        fillColor: isInvisible ? '#888888' : (feature.properties.color_default || '#ef4444'),
+        color: isInvisible ? '#444444' : (feature.properties.color_default || '#ef4444'),
+        weight: 2,
+        opacity: 0.8,
+        fillOpacity: isInvisible ? 0.2 : 0.4,
+        dashArray: isInvisible ? '5, 5' : null
+      };
+    },
+    onEachFeature: function (feature, layer) {
       bindEditorLayerEvents(layer, feature);
       editorGeoJsonGroup.addLayer(layer);
     }
@@ -1406,6 +1400,11 @@ function bindEditorLayerEvents(layer, feature) {
     L.DomEvent.stopPropagation(e);
     selectZoneInEditor(layer, feature);
   });
+
+  // Enable editing on this layer
+  if (layer.pm) {
+    layer.pm.enable();
+  }
 
   // Update geometry coordinates in memory when edited on the map
   layer.on('pm:edit', (e) => {
