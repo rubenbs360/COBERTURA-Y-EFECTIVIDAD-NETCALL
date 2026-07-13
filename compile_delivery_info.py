@@ -2,8 +2,14 @@ import json
 import pandas as pd
 import re
 import os
+import glob
 
-EXCEL_PATH = r"C:\Users\USUARIO\Downloads\Delivery_2026_Info_Distritos_Tipos_Horarios JUNIO.xlsx"
+excel_pattern = r"REPORTERIA_PROYECTO_COBERTURERO\Delivery_2026_Info_Distritos_Tipos_Horarios *.xlsx"
+excel_files = glob.glob(excel_pattern)
+if excel_files:
+    EXCEL_PATH = max(excel_files, key=os.path.getmtime)
+else:
+    EXCEL_PATH = r"REPORTERIA_PROYECTO_COBERTURERO\Delivery_2026_Info_Distritos_Tipos_Horarios JUNIO.xlsx"
 OUTPUT_PATH = r"data/delivery_info.json"
 
 def normalize_text(text):

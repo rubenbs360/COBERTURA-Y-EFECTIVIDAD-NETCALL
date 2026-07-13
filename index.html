@@ -36,6 +36,10 @@
           <span class="nav-icon">🏪</span>
           <span class="nav-text">Directorio Tiendas</span>
         </button>
+        <button class="nav-item" data-tab="tab-ranking">
+          <span class="nav-icon">🏆</span>
+          <span class="nav-text">Ranking Asesores</span>
+        </button>
         <button class="nav-item" data-tab="tab-admin">
           <span class="nav-icon">⚙️</span>
           <span class="nav-text">Administración</span>
@@ -144,16 +148,16 @@
               <div class="legend-box">
                 <h4>Leyenda de Coberturas (Buscador)</h4>
                 <div class="legend-item">
-                  <span class="legend-color" style="background-color: #3b82f6"></span>
-                  <span>Azul/Celeste - Envío Express (Rápido)</span>
+                  <span class="legend-color" style="background-color: #0288d1"></span>
+                  <span>Azul/Celeste - Rango Parcial (Solo ciertos días) 24h+</span>
                 </div>
                 <div class="legend-item">
-                  <span class="legend-color" style="background-color: #10b981"></span>
-                  <span>Verde - Envío Programado (Estándar)</span>
+                  <span class="legend-color" style="background-color: #ffa500"></span>
+                  <span>Naranja - Rango Regular (Hasta ciertas horas)</span>
                 </div>
                 <div class="legend-item">
-                  <span class="legend-color" style="background-color: #ef4444"></span>
-                  <span>Rojo - Sin Cobertura / Zona Insegura</span>
+                  <span class="legend-color" style="background: linear-gradient(90deg, #ef4444 0%, #000000 50%, #757575 100%)"></span>
+                  <span>Rojo/Negro/Gris - Sin Cobertura / Zona Insegura</span>
                 </div>
               </div>
 
@@ -164,6 +168,9 @@
                 <div id="agent-ranking-list" style="display:flex; flex-direction:column; gap:0.4rem;">
                   <!-- Dynamic ranking will load here -->
                 </div>
+                <button class="btn btn-sm btn-outline-info w-100 mt-2" style="font-size:0.72rem; border-color:var(--accent-cyan); color:var(--accent-cyan); font-weight:700; border-radius:8px;" onclick="switchTabToRanking()">
+                  🏆 Ver Ranking General Completo
+                </button>
               </div>
             </div>
             
@@ -540,6 +547,83 @@
                 </div>
               </div>
             </div>
+          </div>
+        </section>
+
+        <!-- ================= RANKING TAB ================= -->
+        <section id="tab-ranking" class="tab-view">
+          <div class="split-layout">
+            
+            <!-- Left Controls/Filters Panel -->
+            <div class="controls-panel card">
+              <div class="panel-header">
+                <h2>Filtros del Ranking</h2>
+                <p>Busque y filtre el desempeño de los asesores</p>
+              </div>
+              
+              <div class="form-group">
+                <label for="ranking-search-input">Buscar Asesor</label>
+                <input type="text" id="ranking-search-input" class="form-control" placeholder="Nombre o Usuario..." oninput="filterLeaderboardTabTable()">
+              </div>
+              
+              <div class="form-group mt-3">
+                <label for="ranking-supervisor-select">Filtrar por Supervisor</label>
+                <select id="ranking-supervisor-select" class="form-select" onchange="filterLeaderboardTabTable()">
+                  <option value="todos">Todos los Supervisores</option>
+                  <!-- Populated by JS -->
+                </select>
+              </div>
+
+              <div class="form-group mt-3">
+                <label for="ranking-coordinador-select">Filtrar por Líder / Coordinador</label>
+                <select id="ranking-coordinador-select" class="form-select" onchange="filterLeaderboardTabTable()">
+                  <option value="todos">Todos los Líderes</option>
+                  <!-- Populated by JS -->
+                </select>
+              </div>
+              
+              <div class="legend-box mt-4">
+                <h4>Detalles de Competencia</h4>
+                <p style="font-size:0.75rem; color:var(--text-muted); line-height:1.4;">
+                  ⚠️ <strong>Requisito:</strong> Debes tener más de 15 órdenes ingresadas en el mes para calificar e ingresar al ranking.
+                  <br><br>
+                  El ranking se calcula considerando únicamente las órdenes generadas en el mes en curso (<b>Julio</b>).
+                  <br><br>
+                  Los cuartiles y la efectividad se actualizan automáticamente al compilar nuevos datos en el servidor local.
+                </p>
+              </div>
+            </div>
+            
+            <!-- Right Table Content Area -->
+            <div class="map-container-wrapper card" style="padding: 1.5rem; overflow-y: auto;">
+              <h3 style="margin-top:0; margin-bottom:1rem; font-weight:700; color:var(--text-main); display:flex; justify-content:space-between; align-items:center;">
+                <span>🏆 Leaderboard General de Efectividad</span>
+                <span id="ranking-total-badge" class="badge" style="font-size:0.8rem; background:rgba(0,242,254,0.1); color:var(--accent-cyan); border:1px solid rgba(0,242,254,0.2); padding:0.3rem 0.6rem; border-radius:6px;">0 asesores</span>
+              </h3>
+              
+              <div class="leaderboard-table-container">
+                <table class="leaderboard-table">
+                  <thead>
+                    <tr>
+                      <th style="width: 80px;">Puesto</th>
+                      <th>Asesor</th>
+                      <th>Usuario</th>
+                      <th>Cargo</th>
+                      <th>Supervisor</th>
+                      <th>Líder / Coor.</th>
+                      <th>Cuartil</th>
+                      <th style="text-align:right;">Órdenes</th>
+                      <th style="text-align:right; color:var(--text-muted);">Entregadas</th>
+                      <th style="text-align:right;">Efectividad</th>
+                    </tr>
+                  </thead>
+                  <tbody id="ranking-tab-table-body">
+                    <!-- Populated by JS -->
+                  </tbody>
+                </table>
+              </div>
+            </div>
+            
           </div>
         </section>
         

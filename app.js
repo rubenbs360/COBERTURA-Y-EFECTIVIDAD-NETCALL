@@ -42,13 +42,14 @@ document.addEventListener("DOMContentLoaded", () => {
 // Fetch data from processed JSON files
 async function loadData() {
   try {
+    const cb = Date.now();
     const [summaryRes, deptsRes, storesRes, advisorsRes, coberturaRes, deliveryRes] = await Promise.all([
-      fetch("data/summary.json"),
-      fetch("data/departments.json"),
-      fetch("data/stores.json"),
-      fetch("data/advisors.json"),
-      fetch("data/cobertura.json"),
-      fetch("data/delivery_info.json")
+      fetch(`data/summary.json?v=${cb}`),
+      fetch(`data/departments.json?v=${cb}`),
+      fetch(`data/stores.json?v=${cb}`),
+      fetch(`data/advisors.json?v=${cb}`),
+      fetch(`data/cobertura.json?v=${cb}`),
+      fetch(`data/delivery_info.json?v=${cb}`)
     ]);
 
     summaryData = await summaryRes.json();
@@ -64,6 +65,7 @@ async function loadData() {
     updateRegionalPerformance();
     renderStoresList();
     renderAgentRanking();
+    initRankingTab();
     
     // Set update time in header
     document.getElementById("header-update-time").textContent = new Date().toLocaleDateString('es-PE', {
@@ -301,7 +303,7 @@ function updateMapMarkers() {
             <span class="map-popup-val">${store.pickup}</span>
           </div>
           <div class="map-popup-row">
-            <span class="map-popup-lbl">Efectividad Delivery:</span>
+            <span class="map-popup-lbl">Efectividad Tienda:</span>
             <span class="map-popup-val ${markerColor}">${store.metricas.effectiveness !== null ? store.metricas.effectiveness + '%' : 'N/A'}</span>
           </div>
           <button class="map-popup-btn" style="background:var(--accent-purple); color:#fff;" onclick="viewStoreDetail(${store.id_pdv})">
@@ -1026,57 +1028,70 @@ function setupCoordinateSearch() {
     let diasText = "No disponible";
     let badgeColor = "#ef4444";
 
-    const isRedZonePolygon = coverage && (coverage.tipo_rango === "ROJO (Sin Acceso)" && coverage.no_color !== true);
-    const excelInfo = (deliveryData && normDist && !isRedZonePolygon) ? deliveryData[normDist] : null;
-
-    if (excelInfo) {
-      if (excelInfo.rango_tipo === "CELESTE") {
-        colorHeader = "linear-gradient(135deg, #3b82f6, #00d2ff)";
-        titleHeader = "✔️ Dirección Con Cobertura";
-        rangoLabel = "CELESTE";
-        badgeColor = "#00f2fe";
-        
-        let schedules = [];
-        if (excelInfo.rango_exp && excelInfo.rango_exp !== "No especificado") {
-          schedules.push(`Express: ${excelInfo.rango_exp}${excelInfo.corte_exp ? ' (Corte: ' + excelInfo.corte_exp + ')' : ''}`);
+    // Check specific ranges of the matched polygon first to apply safety and delivery type priorities
+    if (coverage && coverage.tipo_rango === "ROJO (Sin Acceso)") {
+      colorHeader = "linear-gradient(135deg, #ef4444, #dc2626)";
+      titleHeader = "❌ Fuera de Cobertura";
+      rangoLabel = "ROJO (Sin Acceso)";
+      badgeColor = "#ef4444";
+      horarioText = coverage.horario_cobertura || "Sin Cobertura / Zona Insegura";
+      diasText = "No disponible";
+    } else if (coverage && coverage.tipo_rango === "NARANJA (Regular)") {
+      colorHeader = "linear-gradient(135deg, #f57c00, #e65100)";
+      titleHeader = "✔️ Dirección Con Cobertura (Regular)";
+      rangoLabel = "NARANJA (Regular)";
+      badgeColor = "#ffa500";
+      horarioText = coverage.horario_cobertura || "Rango Regular (Hasta ciertas horas)";
+      diasText = "Lunes a Sábado";
+    } else if (coverage && coverage.tipo_rango === "CELESTE (Rango Parcial)") {
+      colorHeader = "linear-gradient(135deg, #3b82f6, #0288d1)";
+      titleHeader = "✔️ Dirección Con Cobertura (Parcial)";
+      rangoLabel = "CELESTE (Rango Parcial)";
+      badgeColor = "#0288d1";
+      horarioText = coverage.horario_cobertura || "Rango Parcial (Solo ciertos días) 24h+";
+      diasText = "Lunes a Sábado";
+    } else {
+      // Fallback: Check if we have Excel info for this district (general coverage)
+      const excelInfo = (deliveryData && normDist) ? deliveryData[normDist] : null;
+      if (excelInfo) {
+        if (excelInfo.rango_tipo === "CELESTE") {
+          colorHeader = "linear-gradient(135deg, #10b981, #059669)";
+          titleHeader = "✔️ Dirección Con Cobertura";
+          rangoLabel = "Rango Express";
+          badgeColor = "#10b981";
+          
+          let schedules = [];
+          if (excelInfo.rango_exp && excelInfo.rango_exp !== "No especificado") {
+            schedules.push(`Express: ${excelInfo.rango_exp}${excelInfo.corte_exp ? ' (Corte: ' + excelInfo.corte_exp + ')' : ''}`);
+          }
+          if (excelInfo.rango_prog && excelInfo.rango_prog !== "No especificado") {
+            schedules.push(`Reg: ${excelInfo.rango_prog}${excelInfo.corte_prog ? ' (Corte: ' + excelInfo.corte_prog + ')' : ''}`);
+          }
+          horarioText = schedules.length > 0 ? schedules.join(" / ") : "Horario regular registrado";
+          diasText = excelInfo.dias_entrega || "No registrado";
+        } else if (excelInfo.rango_tipo === "VERDE") {
+          colorHeader = "linear-gradient(135deg, #10b981, #059669)";
+          titleHeader = "✔️ Dirección Con Cobertura";
+          rangoLabel = "VERDE";
+          badgeColor = "#10b981";
+          
+          horarioText = `Reg: ${excelInfo.rango_prog}${excelInfo.corte_prog ? ' (Corte: ' + excelInfo.corte_prog + ')' : ''}`;
+          diasText = excelInfo.dias_entrega || "No registrado";
+        } else {
+          colorHeader = "linear-gradient(135deg, #ef4444, #dc2626)";
+          titleHeader = "❌ Fuera de Cobertura";
+          rangoLabel = "ROJO (Sin Acceso)";
+          badgeColor = "#ef4444";
+          horarioText = "Sin Cobertura / Zona Insegura";
+          diasText = "No disponible";
         }
-        if (excelInfo.rango_prog && excelInfo.rango_prog !== "No especificado") {
-          schedules.push(`Reg: ${excelInfo.rango_prog}${excelInfo.corte_prog ? ' (Corte: ' + excelInfo.corte_prog + ')' : ''}`);
-        }
-        horarioText = schedules.length > 0 ? schedules.join(" / ") : "Horario regular registrado";
-        diasText = excelInfo.dias_entrega || "No registrado";
-      } else if (excelInfo.rango_tipo === "VERDE") {
+      } else {
+        // Fallback to basic Express
         colorHeader = "linear-gradient(135deg, #10b981, #059669)";
         titleHeader = "✔️ Dirección Con Cobertura";
-        rangoLabel = "VERDE";
+        rangoLabel = "Rango Express";
         badgeColor = "#10b981";
-        
-        horarioText = `Reg: ${excelInfo.rango_prog}${excelInfo.corte_prog ? ' (Corte: ' + excelInfo.corte_prog + ')' : ''}`;
-        diasText = excelInfo.dias_entrega || "No registrado";
-      } else {
-        colorHeader = "linear-gradient(135deg, #ef4444, #dc2626)";
-        titleHeader = "❌ Fuera de Cobertura";
-        rangoLabel = "ROJO (Sin Acceso)";
-        badgeColor = "#ef4444";
-        horarioText = "Sin Cobertura / Zona Insegura";
-        diasText = "No disponible";
-      }
-    } else {
-      // Fallback to polygon properties if district is not in Excel
-      const isRedZone = coverage.tipo_rango === "ROJO (Sin Acceso)" && coverage.no_color !== true;
-      if (isRedZone) {
-        colorHeader = "linear-gradient(135deg, #ef4444, #dc2626)";
-        titleHeader = "❌ Fuera de Cobertura";
-        rangoLabel = "ROJO (Sin Acceso)";
-        badgeColor = "#ef4444";
-        horarioText = coverage.horario_cobertura || "Sin Cobertura";
-        diasText = "No disponible";
-      } else {
-        colorHeader = "linear-gradient(135deg, #3b82f6, #00d2ff)";
-        titleHeader = "✔️ Dirección Con Cobertura";
-        rangoLabel = coverage.tipo_rango || "CELESTE";
-        badgeColor = coverage.color_default || "#00d2ff";
-        horarioText = coverage.horario_cobertura || "24 Horas";
+        horarioText = (coverage && coverage.horario_cobertura) || "24 Horas";
         diasText = "Lunes a Sábado";
       }
     }
@@ -1131,6 +1146,11 @@ function setupCoordinateSearch() {
             <span class="map-popup-lbl">Días:</span>
             <span class="map-popup-val" style="font-size:0.75rem;">${diasText}</span>
           </div>
+          ${coverage.description && coverage.description.trim() !== "" ? `
+          <div class="map-popup-row" style="border-top:1px dashed rgba(0,0,0,0.08); padding-top:0.25rem; margin-top:0.25rem;">
+            <span class="map-popup-lbl" style="color:var(--danger); font-weight:700;">Notas Zona:</span>
+            <span class="map-popup-val" style="font-weight:700; color:var(--danger);">${coverage.description}</span>
+          </div>` : ''}
           <div class="map-popup-row" style="border-top:1px solid rgba(0,0,0,0.06); padding-top:0.3rem; margin-top:0.25rem;">
             <span class="map-popup-lbl">Efectividad ${resolvedDistrict}:</span>
             <span class="map-popup-val text-success" style="font-weight:700; color:var(--success);">${effPercent}</span>
@@ -1671,5 +1691,145 @@ function renderAgentRanking() {
       </div>
     `;
   }).join("");
+}
+
+// Ranking Tab Control and Initializers
+function initRankingTab() {
+  populateRankingFilters();
+  renderRankingTabTable();
+}
+
+function populateRankingFilters() {
+  const superSelect = document.getElementById("ranking-supervisor-select");
+  const coordSelect = document.getElementById("ranking-coordinador-select");
+  if (!superSelect || !coordSelect || !advisorsData) return;
+  
+  const supervisors = new Set();
+  const coordinadores = new Set();
+  
+  advisorsData.forEach(adv => {
+    if (adv.supervisor && adv.supervisor !== "No registrado") supervisors.add(adv.supervisor);
+    if (adv.coordinador && adv.coordinador !== "No registrado") coordinadores.add(adv.coordinador);
+  });
+  
+  superSelect.innerHTML = '<option value="todos">Todos los Supervisores</option>';
+  [...supervisors].sort().forEach(sup => {
+    const opt = document.createElement("option");
+    opt.value = sup;
+    opt.textContent = sup;
+    superSelect.appendChild(opt);
+  });
+  
+  coordSelect.innerHTML = '<option value="todos">Todos los Líderes</option>';
+  [...coordinadores].sort().forEach(coord => {
+    const opt = document.createElement("option");
+    opt.value = coord;
+    opt.textContent = coord;
+    coordSelect.appendChild(opt);
+  });
+}
+
+function renderRankingTabTable(filteredAdvisors = null) {
+  const body = document.getElementById("ranking-tab-table-body");
+  const totalBadge = document.getElementById("ranking-total-badge");
+  if (!body || !advisorsData) return;
+  
+  // Filter advisors to only include those with MORE THAN 15 orders
+  const qualifiedGlobal = advisorsData.filter(a => a.total > 15);
+  
+  const listToRender = filteredAdvisors || [...qualifiedGlobal].sort((a, b) => {
+    if (b.effectiveness !== a.effectiveness) {
+      return b.effectiveness - a.effectiveness;
+    }
+    return b.total - a.total;
+  });
+  
+  if (totalBadge) {
+    totalBadge.textContent = `${listToRender.length} asesores`;
+  }
+  
+  body.innerHTML = listToRender.map((adv, index) => {
+    let rank = index + 1;
+    if (filteredAdvisors) {
+      const globalSorted = [...qualifiedGlobal].sort((a, b) => {
+        if (b.effectiveness !== a.effectiveness) return b.effectiveness - a.effectiveness;
+        return b.total - a.total;
+      });
+      rank = globalSorted.findIndex(a => a.usuario === adv.usuario) + 1;
+    }
+    
+    let rankClass = "rank-normal";
+    if (rank === 1) rankClass = "rank-1";
+    else if (rank === 2) rankClass = "rank-2";
+    else if (rank === 3) rankClass = "rank-3";
+    
+    const rankText = rank <= 3 ? "" : rank;
+    const rankIcon = rank === 1 ? "🥇" : rank === 2 ? "🥈" : rank === 3 ? "🥉" : rank;
+    
+    let effColor = "var(--text-muted)";
+    if (adv.effectiveness >= 75) effColor = "var(--success)";
+    else if (adv.effectiveness >= 60) effColor = "var(--warning)";
+    else if (adv.total > 0) effColor = "var(--danger)";
+    
+    const displayName = (adv.nombre && adv.nombre !== adv.usuario) ? adv.nombre : "Sin Nombre en Padrón";
+    
+    return `
+      <tr class="leaderboard-row">
+        <td>
+          <span class="rank-badge ${rankClass}">${rankText ? rankText : rankIcon}</span>
+        </td>
+        <td>
+          <div style="font-weight: 600; color: var(--text-main);">${displayName}</div>
+        </td>
+        <td>
+          <code style="font-family: var(--font-mono); font-size: 0.75rem; color: var(--accent-cyan);">${adv.usuario}</code>
+        </td>
+        <td>${adv.cargo || 'N/A'}</td>
+        <td style="font-weight: 500;">${adv.supervisor || 'No registrado'}</td>
+        <td>${adv.coordinador || 'No registrado'}</td>
+        <td>
+          <span class="badge" style="background: rgba(255,255,255,0.06); padding: 0.2rem 0.4rem; border-radius: 4px; font-size: 0.7rem;">Cuartil ${adv.cuartil || 'N/A'}</span>
+        </td>
+        <td style="text-align:right; font-weight:600;">${adv.total}</td>
+        <td style="text-align:right; color:var(--text-muted);">${adv.delivered}</td>
+        <td style="text-align:right; font-weight:700; color:${effColor}; font-size: 0.875rem;">
+          ${adv.effectiveness.toFixed(1)}%
+        </td>
+      </tr>
+    `;
+  }).join("");
+}
+
+function filterLeaderboardTabTable() {
+  const query = document.getElementById("ranking-search-input").value.toLowerCase();
+  const selectedSup = document.getElementById("ranking-supervisor-select").value;
+  const selectedCoord = document.getElementById("ranking-coordinador-select").value;
+  
+  if (!advisorsData) return;
+  
+  const qualifiedGlobal = advisorsData.filter(a => a.total > 15);
+  
+  const globalSorted = [...qualifiedGlobal].sort((a, b) => {
+    if (b.effectiveness !== a.effectiveness) return b.effectiveness - a.effectiveness;
+    return b.total - a.total;
+  });
+  
+  const filtered = globalSorted.filter(adv => {
+    const nameStr = (adv.nombre || "").toLowerCase();
+    const userStr = (adv.usuario || "").toLowerCase();
+    const matchesQuery = nameStr.includes(query) || userStr.includes(query);
+    
+    const matchesSup = selectedSup === "todos" || adv.supervisor === selectedSup;
+    const matchesCoord = selectedCoord === "todos" || adv.coordinador === selectedCoord;
+    
+    return matchesQuery && matchesSup && matchesCoord;
+  });
+  
+  renderRankingTabTable(filtered);
+}
+
+function switchTabToRanking() {
+  const tabBtn = document.querySelector('.nav-item[data-tab="tab-ranking"]');
+  if (tabBtn) tabBtn.click();
 }
 

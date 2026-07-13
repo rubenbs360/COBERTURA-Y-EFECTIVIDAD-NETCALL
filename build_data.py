@@ -5,19 +5,12 @@ import numpy as np
 import glob
 
 # Paths
-csv_pattern = r"C:\Users\USUARIO\Downloads\Dashboard Outbound Netcall- Entel V3_Post - Válidas_Tabla - *.csv"
-csv_files = glob.glob(csv_pattern)
-if csv_files:
-    CSV_PATH = max(csv_files, key=os.path.getmtime)
-else:
-    CSV_PATH = r"C:\Users\USUARIO\Downloads\Dashboard Outbound Netcall- Entel V3_Post - Válidas_Tabla - 2026-06-14T131227.720.csv"
-
-xlsx_pattern = r"C:\Users\USUARIO\Downloads\DIRECTORIO TIENDAS *.xlsx"
+xlsx_pattern = r"REPORTERIA_PROYECTO_COBERTURERO\DIRECTORIO TIENDAS *.xlsx"
 xlsx_files = glob.glob(xlsx_pattern)
 if xlsx_files:
     XLSX_PATH = max(xlsx_files, key=os.path.getmtime)
 else:
-    XLSX_PATH = r"C:\Users\USUARIO\Downloads\DIRECTORIO TIENDAS JUNIO.xlsx"
+    XLSX_PATH = r"REPORTERIA_PROYECTO_COBERTURERO\DIRECTORIO TIENDAS JUNIO.xlsx"
 
 OUTPUT_DIRS = [
     r"c:\Users\USUARIO\OneDrive\Escritorio\RUBEN DOC\NETCALL\data"
@@ -34,17 +27,30 @@ def clean_time(val):
     return val.strftime("%H:%M") if hasattr(val, 'strftime') else str(val)
 
 def process_data():
-    print(f"Loading CSV Outbound Netcall from: {CSV_PATH}")
-    # Read the large CSV file
-    df_csv = pd.read_csv(CSV_PATH, encoding='utf-8', encoding_errors='ignore')
+    csv_pattern = r"REPORTERIA_PROYECTO_COBERTURERO\Dashboard Outbound Netcall- Entel V3_Post - Válidas_Tabla - *.csv"
+    csv_files = glob.glob(csv_pattern)
+    if not csv_files:
+        raise FileNotFoundError("No se encontraron archivos CSV de Dashboard Outbound.")
+    
+    # Latest CSV (in-progress July month) for Advisor stats
+    latest_csv_path = max(csv_files, key=os.path.getmtime)
+    print(f"Latest CSV (July in-progress) selected for Advisor Ranking: {latest_csv_path}")
+    df_july_csv = pd.read_csv(latest_csv_path, encoding='utf-8', encoding_errors='ignore')
+    
+    # Combined CSV (June + July) for overall effectiveness
+    df_list = []
+    for f in csv_files:
+        print(f"Loading CSV for combined effectiveness: {f}")
+        df_list.append(pd.read_csv(f, encoding='utf-8', encoding_errors='ignore'))
+    df_csv = pd.concat(df_list, ignore_index=True)
     
     print(f"Loading Excel Store Directory from: {XLSX_PATH}")
     xl = pd.ExcelFile(XLSX_PATH)
     
     # 1. Process Advisors (Lima + Prov)
     print("Processing Advisors...")
-    adv_lima_sheet = "Padrón Asesores LIMA" if "Padrón Asesores LIMA" in xl.sheet_names else "ASESORES LIMA"
-    adv_prov_sheet = "Padrón Asesores Prov" if "Padrón Asesores Prov" in xl.sheet_names else "ASESORES PROV"
+    adv_lima_sheet = "PADRON LIMA" if "PADRON LIMA" in xl.sheet_names else ("Padrón Asesores LIMA" if "Padrón Asesores LIMA" in xl.sheet_names else "ASESORES LIMA")
+    adv_prov_sheet = "PADRON PROV" if "PADRON PROV" in xl.sheet_names else ("Padrón Asesores Prov" if "Padrón Asesores Prov" in xl.sheet_names else "ASESORES PROV")
     
     df_adv_lima = xl.parse(adv_lima_sheet)
     df_adv_prov = xl.parse(adv_prov_sheet)
@@ -82,8 +88,8 @@ def process_data():
 
     # 2. Process Stores (Directorio LIMA + Directorio Provincia)
     print("Processing Stores...")
-    dir_lima_sheet = "Directorio LIMA " if "Directorio LIMA " in xl.sheet_names else "LIMA SUP"
-    dir_prov_sheet = "Directorio Provincia" if "Directorio Provincia" in xl.sheet_names else "PROV SUP"
+    dir_lima_sheet = "SUP LIMA" if "SUP LIMA" in xl.sheet_names else ("Directorio LIMA " if "Directorio LIMA " in xl.sheet_names else "LIMA SUP")
+    dir_prov_sheet = "SUP PROV" if "SUP PROV" in xl.sheet_names else ("Directorio Provincia" if "Directorio Provincia" in xl.sheet_names else "PROV SUP")
     
     df_sup_lima = xl.parse(dir_lima_sheet)
     df_sup_prov = xl.parse(dir_prov_sheet)
@@ -109,8 +115,7 @@ def process_data():
     pendiente = estado_counts.get('Pendiente Entrega', 0)
     no_bop = estado_counts.get('No bop', 0)
     
-    denom = delivered + anulado + cancelado
-    global_effectiveness = (delivered / denom * 100) if denom > 0 else 0.0
+    global_effectiveness = (delivered / total_orders * 100) if total_orders > 0 else 0.0
     
     summary_data = {
         "total_orders": total_orders,
@@ -136,8 +141,7 @@ def process_data():
         d_delivered = d_counts.get('Entregado', 0)
         d_anulado = d_counts.get('Anulado', 0)
         d_cancelado = d_counts.get('Cancelado', 0)
-        d_denom = d_delivered + d_anulado + d_cancelado
-        d_eff = (d_delivered / d_denom * 100) if d_denom > 0 else 0.0
+        d_eff = (d_delivered / d_total * 100) if d_total > 0 else 0.0
         
         # Dispatch breakdown
         dispatch_breakdown = {}
@@ -176,8 +180,7 @@ def process_data():
         s_delivered = s_counts.get('Entregado', 0)
         s_anulado = s_counts.get('Anulado', 0)
         s_cancelado = s_counts.get('Cancelado', 0)
-        s_denom = s_delivered + s_anulado + s_cancelado
-        s_eff = (s_delivered / s_denom * 100) if s_denom > 0 else 0.0
+        s_eff = (s_delivered / s_total * 100) if s_total > 0 else 0.0
         
         store_eff_dict[int(store_id)] = {
             "total": s_total,
@@ -187,20 +190,55 @@ def process_data():
             "effectiveness": round(s_eff, 2)
         }
         
-    # Advisor effectiveness
+    # Load user padron if exists
+    user_pattern = r"REPORTERIA_PROYECTO_COBERTURERO\Padrón Usuario_*.xlsx"
+    user_files = glob.glob(user_pattern)
+    padron_users = {}
+    if user_files:
+        user_path = max(user_files, key=os.path.getmtime)
+        print(f"Loading Padrón Usuario from: {user_path}")
+        try:
+            df_padron = pd.read_excel(user_path, sheet_name=0)
+            for _, row in df_padron.iterrows():
+                usr = str(row.get('USUARIO', '')).strip().upper()
+                if usr and usr != 'NAN':
+                    padron_users[usr] = {
+                        "nombre": str(row.get('APELLIDOS_NOMBRES', '')).strip(),
+                        "supervisor": str(row.get('SUPERVISOR', 'No registrado')).strip(),
+                        "coordinador": str(row.get('COORDINADOR', 'No registrado')).strip(),
+                        "cuartil": str(row.get('CUARTIL', 'N/A')).strip(),
+                        "cargo": str(row.get('CARGO_NOMINA', 'N/A')).strip(),
+                    }
+        except Exception as e:
+            print(f"Error loading Padrón Usuario: {e}")
+
+    # Advisor effectiveness (July only)
     advisor_stats = []
-    df_csv['FRM_N_DNI_Asesor'] = df_csv['FRM_N_DNI_Asesor'].fillna("No especificado")
-    for adv, group in df_csv.groupby('FRM_N_DNI_Asesor'):
+    df_july_csv['FRM_N_DNI_Asesor'] = df_july_csv['FRM_N_DNI_Asesor'].fillna("No especificado")
+    for adv, group in df_july_csv.groupby('FRM_N_DNI_Asesor'):
         a_total = len(group)
         a_counts = group['Estado_T'].value_counts().to_dict()
         a_delivered = a_counts.get('Entregado', 0)
         a_anulado = a_counts.get('Anulado', 0)
         a_cancelado = a_counts.get('Cancelado', 0)
-        a_denom = a_delivered + a_anulado + a_cancelado
-        a_eff = (a_delivered / a_denom * 100) if a_denom > 0 else 0.0
+        a_eff = (a_delivered / a_total * 100) if a_total > 0 else 0.0
+        
+        usr_key = str(adv).strip().upper()
+        p_info = padron_users.get(usr_key, {
+            "nombre": str(adv),
+            "supervisor": "No registrado",
+            "coordinador": "No registrado",
+            "cuartil": "N/A",
+            "cargo": "N/A"
+        })
         
         advisor_stats.append({
             "usuario": str(adv),
+            "nombre": p_info["nombre"],
+            "supervisor": p_info["supervisor"],
+            "coordinador": p_info["coordinador"],
+            "cuartil": p_info["cuartil"],
+            "cargo": p_info["cargo"],
             "total": a_total,
             "delivered": a_delivered,
             "anulado": a_anulado,
