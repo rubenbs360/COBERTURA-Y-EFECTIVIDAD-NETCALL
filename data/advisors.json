@@ -45,11 +45,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 20,
-    "delivered": 18,
-    "anulado": 2,
+    "total": 26,
+    "delivered": 20,
+    "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 90.0
+    "effectiveness": 76.92
   },
   {
     "usuario": "NET_AARANAS",
@@ -58,11 +58,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 13,
-    "delivered": 7,
+    "total": 15,
+    "delivered": 9,
     "anulado": 6,
     "cancelado": 0,
-    "effectiveness": 53.85
+    "effectiveness": 60.0
   },
   {
     "usuario": "NET_AARANDAB",
@@ -72,10 +72,10 @@
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
     "total": 11,
-    "delivered": 4,
+    "delivered": 5,
     "anulado": 6,
     "cancelado": 0,
-    "effectiveness": 36.36
+    "effectiveness": 45.45
   },
   {
     "usuario": "NET_AARNAIZA",
@@ -84,11 +84,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 28,
-    "delivered": 22,
-    "anulado": 3,
+    "total": 33,
+    "delivered": 25,
+    "anulado": 6,
     "cancelado": 0,
-    "effectiveness": 78.57
+    "effectiveness": 75.76
   },
   {
     "usuario": "NET_AATOCHEH",
@@ -97,11 +97,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 19,
-    "delivered": 12,
+    "total": 21,
+    "delivered": 14,
     "anulado": 5,
     "cancelado": 1,
-    "effectiveness": 63.16
+    "effectiveness": 66.67
   },
   {
     "usuario": "NET_AAVENDANOR",
@@ -110,11 +110,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 13,
-    "delivered": 9,
+    "total": 16,
+    "delivered": 11,
     "anulado": 0,
-    "cancelado": 2,
-    "effectiveness": 69.23
+    "cancelado": 3,
+    "effectiveness": 68.75
   },
   {
     "usuario": "NET_AAYAURIO",
@@ -123,11 +123,11 @@
     "coordinador": "JONATHAN CONTRERAS",
     "cuartil": "N/C",
     "cargo": "SUPERVISOR DE OPERACIONES",
-    "total": 9,
-    "delivered": 5,
-    "anulado": 2,
+    "total": 13,
+    "delivered": 6,
+    "anulado": 3,
     "cancelado": 1,
-    "effectiveness": 55.56
+    "effectiveness": 46.15
   },
   {
     "usuario": "NET_AAZCARATED",
@@ -136,11 +136,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 13,
-    "delivered": 12,
+    "total": 19,
+    "delivered": 15,
     "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 92.31
+    "effectiveness": 78.95
   },
   {
     "usuario": "NET_ABARRERAY",
@@ -149,11 +149,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 20,
-    "delivered": 15,
-    "anulado": 2,
+    "total": 26,
+    "delivered": 21,
+    "anulado": 3,
     "cancelado": 1,
-    "effectiveness": 75.0
+    "effectiveness": 80.77
   },
   {
     "usuario": "NET_ABLASA",
@@ -162,11 +162,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 14,
-    "delivered": 12,
+    "total": 16,
+    "delivered": 13,
     "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 85.71
+    "effectiveness": 81.25
   },
   {
     "usuario": "NET_ABZEVALLOSZ",
@@ -175,11 +175,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 6,
-    "delivered": 5,
+    "total": 9,
+    "delivered": 7,
     "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 83.33
+    "effectiveness": 77.78
   },
   {
     "usuario": "NET_ACAMPOSV",
@@ -188,11 +188,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 12,
+    "total": 13,
     "delivered": 7,
-    "anulado": 3,
-    "cancelado": 1,
-    "effectiveness": 58.33
+    "anulado": 4,
+    "cancelado": 2,
+    "effectiveness": 53.85
   },
   {
     "usuario": "NET_ACASTROS",
@@ -201,11 +201,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 22,
-    "delivered": 17,
-    "anulado": 5,
+    "total": 24,
+    "delivered": 19,
+    "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 77.27
+    "effectiveness": 79.17
   },
   {
     "usuario": "NET_ACESPEDESR",
@@ -214,11 +214,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 4,
-    "delivered": 2,
+    "total": 6,
+    "delivered": 4,
     "anulado": 1,
     "cancelado": 1,
-    "effectiveness": 50.0
+    "effectiveness": 66.67
   },
   {
     "usuario": "NET_ACORDOVAS",
@@ -227,11 +227,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 17,
+    "total": 21,
     "delivered": 11,
-    "anulado": 3,
+    "anulado": 5,
     "cancelado": 1,
-    "effectiveness": 64.71
+    "effectiveness": 52.38
   },
   {
     "usuario": "NET_ACREGALADO",
@@ -240,11 +240,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 15,
-    "delivered": 9,
+    "total": 18,
+    "delivered": 12,
     "anulado": 2,
     "cancelado": 2,
-    "effectiveness": 60.0
+    "effectiveness": 66.67
   },
   {
     "usuario": "NET_ACUEVAC",
@@ -253,11 +253,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 43,
-    "delivered": 31,
-    "anulado": 4,
+    "total": 47,
+    "delivered": 38,
+    "anulado": 5,
     "cancelado": 3,
-    "effectiveness": 72.09
+    "effectiveness": 80.85
   },
   {
     "usuario": "NET_ADIAZCAJO",
@@ -266,11 +266,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 17,
-    "delivered": 10,
-    "anulado": 4,
+    "total": 21,
+    "delivered": 13,
+    "anulado": 5,
     "cancelado": 1,
-    "effectiveness": 58.82
+    "effectiveness": 61.9
   },
   {
     "usuario": "NET_ADOMINGUEZF",
@@ -279,11 +279,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 12,
-    "delivered": 10,
-    "anulado": 0,
-    "cancelado": 0,
-    "effectiveness": 83.33
+    "total": 20,
+    "delivered": 14,
+    "anulado": 3,
+    "cancelado": 1,
+    "effectiveness": 70.0
   },
   {
     "usuario": "NET_ADOROTEOSAL",
@@ -292,11 +292,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 66,
-    "delivered": 50,
-    "anulado": 7,
-    "cancelado": 8,
-    "effectiveness": 75.76
+    "total": 77,
+    "delivered": 55,
+    "anulado": 10,
+    "cancelado": 9,
+    "effectiveness": 71.43
   },
   {
     "usuario": "NET_AEREYES",
@@ -305,11 +305,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 20,
-    "delivered": 9,
+    "total": 24,
+    "delivered": 11,
     "anulado": 7,
     "cancelado": 2,
-    "effectiveness": 45.0
+    "effectiveness": 45.83
   },
   {
     "usuario": "NET_AGOMEZR",
@@ -318,11 +318,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 17,
-    "delivered": 8,
-    "anulado": 7,
+    "total": 22,
+    "delivered": 11,
+    "anulado": 8,
     "cancelado": 2,
-    "effectiveness": 47.06
+    "effectiveness": 50.0
   },
   {
     "usuario": "NET_AISLAG",
@@ -331,11 +331,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 4,
-    "delivered": 3,
+    "total": 5,
+    "delivered": 4,
     "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 75.0
+    "effectiveness": 80.0
   },
   {
     "usuario": "NET_AITORRESC",
@@ -344,11 +344,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 7,
-    "delivered": 5,
+    "total": 9,
+    "delivered": 6,
     "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 71.43
+    "effectiveness": 66.67
   },
   {
     "usuario": "NET_AJGUTIERREC",
@@ -357,11 +357,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 16,
-    "delivered": 12,
-    "anulado": 1,
+    "total": 19,
+    "delivered": 13,
+    "anulado": 3,
     "cancelado": 2,
-    "effectiveness": 75.0
+    "effectiveness": 68.42
   },
   {
     "usuario": "NET_AJMEZAR",
@@ -383,9 +383,9 @@
     "coordinador": "KARLA LAMA",
     "cuartil": "N/C",
     "cargo": "FORMADOR",
-    "total": 8,
+    "total": 9,
     "delivered": 0,
-    "anulado": 3,
+    "anulado": 8,
     "cancelado": 0,
     "effectiveness": 0.0
   },
@@ -398,7 +398,7 @@
     "cargo": "ASESOR DE TELEVENTAS",
     "total": 13,
     "delivered": 8,
-    "anulado": 2,
+    "anulado": 3,
     "cancelado": 0,
     "effectiveness": 61.54
   },
@@ -422,11 +422,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 5,
+    "total": 9,
     "delivered": 4,
-    "anulado": 1,
+    "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 80.0
+    "effectiveness": 44.44
   },
   {
     "usuario": "NET_ALOPEZD",
@@ -435,11 +435,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 19,
-    "delivered": 12,
+    "total": 23,
+    "delivered": 15,
     "anulado": 4,
     "cancelado": 3,
-    "effectiveness": 63.16
+    "effectiveness": 65.22
   },
   {
     "usuario": "NET_ALUJANO",
@@ -448,11 +448,11 @@
     "coordinador": "JONATHAN CONTRERAS",
     "cuartil": "N/C",
     "cargo": "SUPERVISOR DE OPERACIONES",
-    "total": 13,
-    "delivered": 8,
+    "total": 17,
+    "delivered": 9,
     "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 61.54
+    "effectiveness": 52.94
   },
   {
     "usuario": "NET_AMANRIQUEC",
@@ -461,11 +461,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 8,
-    "delivered": 6,
+    "total": 9,
+    "delivered": 9,
     "anulado": 0,
     "cancelado": 0,
-    "effectiveness": 75.0
+    "effectiveness": 100.0
   },
   {
     "usuario": "NET_AMILTONL",
@@ -489,8 +489,8 @@
     "cargo": "ASESOR DE TELEVENTAS",
     "total": 23,
     "delivered": 14,
-    "anulado": 5,
-    "cancelado": 2,
+    "anulado": 6,
+    "cancelado": 3,
     "effectiveness": 60.87
   },
   {
@@ -500,11 +500,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 19,
-    "delivered": 14,
-    "anulado": 4,
+    "total": 25,
+    "delivered": 18,
+    "anulado": 6,
     "cancelado": 0,
-    "effectiveness": 73.68
+    "effectiveness": 72.0
   },
   {
     "usuario": "NET_APACHECO",
@@ -513,11 +513,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 26,
-    "delivered": 23,
-    "anulado": 2,
+    "total": 31,
+    "delivered": 26,
+    "anulado": 3,
     "cancelado": 1,
-    "effectiveness": 88.46
+    "effectiveness": 83.87
   },
   {
     "usuario": "NET_AQUIROZM",
@@ -526,11 +526,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 21,
-    "delivered": 19,
+    "total": 23,
+    "delivered": 20,
     "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 90.48
+    "effectiveness": 86.96
   },
   {
     "usuario": "NET_ARALVAREZD",
@@ -539,11 +539,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 3,
+    "total": 4,
     "delivered": 1,
     "anulado": 1,
     "cancelado": 1,
-    "effectiveness": 33.33
+    "effectiveness": 25.0
   },
   {
     "usuario": "NET_ARAMOSR",
@@ -552,11 +552,24 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 16,
-    "delivered": 11,
+    "total": 20,
+    "delivered": 13,
     "anulado": 3,
     "cancelado": 2,
-    "effectiveness": 68.75
+    "effectiveness": 65.0
+  },
+  {
+    "usuario": "NET_AREYNOSAC",
+    "nombre": "NET_AREYNOSAC",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 3,
+    "delivered": 3,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 100.0
   },
   {
     "usuario": "NET_ARIOST",
@@ -565,11 +578,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 23,
-    "delivered": 13,
-    "anulado": 5,
+    "total": 28,
+    "delivered": 18,
+    "anulado": 6,
     "cancelado": 0,
-    "effectiveness": 56.52
+    "effectiveness": 64.29
   },
   {
     "usuario": "NET_ARIVERA",
@@ -578,11 +591,24 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 69,
-    "delivered": 52,
-    "anulado": 7,
-    "cancelado": 3,
-    "effectiveness": 75.36
+    "total": 75,
+    "delivered": 56,
+    "anulado": 9,
+    "cancelado": 6,
+    "effectiveness": 74.67
+  },
+  {
+    "usuario": "NET_ARIVERAQ",
+    "nombre": "NET_ARIVERAQ",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 2,
+    "delivered": 1,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 50.0
   },
   {
     "usuario": "NET_ARODRIGUEZF",
@@ -604,11 +630,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 17,
-    "delivered": 10,
+    "total": 22,
+    "delivered": 14,
     "anulado": 1,
     "cancelado": 3,
-    "effectiveness": 58.82
+    "effectiveness": 63.64
   },
   {
     "usuario": "NET_ARUIZP",
@@ -631,10 +657,10 @@
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
     "total": 5,
-    "delivered": 4,
+    "delivered": 5,
     "anulado": 0,
     "cancelado": 0,
-    "effectiveness": 80.0
+    "effectiveness": 100.0
   },
   {
     "usuario": "NET_ASANCHEZT",
@@ -646,7 +672,7 @@
     "total": 9,
     "delivered": 7,
     "anulado": 1,
-    "cancelado": 0,
+    "cancelado": 1,
     "effectiveness": 77.78
   },
   {
@@ -656,11 +682,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 7,
-    "delivered": 5,
+    "total": 9,
+    "delivered": 7,
     "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 71.43
+    "effectiveness": 77.78
   },
   {
     "usuario": "NET_ATELLOY",
@@ -669,11 +695,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 26,
+    "total": 28,
     "delivered": 17,
-    "anulado": 2,
+    "anulado": 4,
     "cancelado": 6,
-    "effectiveness": 65.38
+    "effectiveness": 60.71
   },
   {
     "usuario": "NET_ATENORIOM",
@@ -682,11 +708,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 21,
-    "delivered": 13,
+    "total": 23,
+    "delivered": 15,
     "anulado": 6,
     "cancelado": 2,
-    "effectiveness": 61.9
+    "effectiveness": 65.22
   },
   {
     "usuario": "NET_ATINEDOP",
@@ -695,11 +721,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 7,
-    "delivered": 6,
+    "total": 12,
+    "delivered": 9,
     "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 85.71
+    "effectiveness": 75.0
   },
   {
     "usuario": "NET_ATORRESP",
@@ -708,11 +734,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 40,
-    "delivered": 24,
-    "anulado": 10,
+    "total": 43,
+    "delivered": 30,
+    "anulado": 11,
     "cancelado": 1,
-    "effectiveness": 60.0
+    "effectiveness": 69.77
   },
   {
     "usuario": "NET_ATRIVINOS",
@@ -721,11 +747,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 35,
-    "delivered": 26,
-    "anulado": 7,
+    "total": 40,
+    "delivered": 30,
+    "anulado": 9,
     "cancelado": 0,
-    "effectiveness": 74.29
+    "effectiveness": 75.0
   },
   {
     "usuario": "NET_ATUMEH",
@@ -734,11 +760,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 24,
-    "delivered": 17,
+    "total": 28,
+    "delivered": 23,
     "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 70.83
+    "effectiveness": 82.14
   },
   {
     "usuario": "NET_AUCEDAENEQU",
@@ -747,11 +773,24 @@
     "coordinador": "JONATHAN CONTRERAS",
     "cuartil": "N/C",
     "cargo": "BACKOFFICE",
-    "total": 22,
-    "delivered": 11,
-    "anulado": 5,
+    "total": 25,
+    "delivered": 13,
+    "anulado": 7,
     "cancelado": 0,
-    "effectiveness": 50.0
+    "effectiveness": 52.0
+  },
+  {
+    "usuario": "NET_AUGAZC",
+    "nombre": "NET_AUGAZC",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 2,
+    "delivered": 2,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 100.0
   },
   {
     "usuario": "NET_AYACILAP",
@@ -760,11 +799,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 42,
-    "delivered": 30,
-    "anulado": 6,
+    "total": 51,
+    "delivered": 34,
+    "anulado": 10,
     "cancelado": 1,
-    "effectiveness": 71.43
+    "effectiveness": 66.67
   },
   {
     "usuario": "NET_AYBECERRAS",
@@ -773,11 +812,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 21,
-    "delivered": 12,
-    "anulado": 4,
-    "cancelado": 5,
-    "effectiveness": 57.14
+    "total": 30,
+    "delivered": 14,
+    "anulado": 5,
+    "cancelado": 8,
+    "effectiveness": 46.67
   },
   {
     "usuario": "NET_AYZAGUIRREH",
@@ -786,11 +825,11 @@
     "coordinador": "OJT",
     "cuartil": "OJT",
     "cargo": "OJT",
-    "total": 5,
-    "delivered": 4,
+    "total": 6,
+    "delivered": 5,
     "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 80.0
+    "effectiveness": 83.33
   },
   {
     "usuario": "NET_BAPAZAB",
@@ -799,11 +838,11 @@
     "coordinador": "JONATHAN CONTRERAS",
     "cuartil": "N/C",
     "cargo": "BACKOFFICE",
-    "total": 8,
-    "delivered": 5,
+    "total": 11,
+    "delivered": 7,
     "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 62.5
+    "effectiveness": 63.64
   },
   {
     "usuario": "NET_BATOP",
@@ -812,11 +851,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 44,
-    "delivered": 28,
-    "anulado": 3,
-    "cancelado": 8,
-    "effectiveness": 63.64
+    "total": 66,
+    "delivered": 38,
+    "anulado": 5,
+    "cancelado": 12,
+    "effectiveness": 57.58
   },
   {
     "usuario": "NET_BBELLIDOP",
@@ -825,11 +864,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 27,
-    "delivered": 17,
-    "anulado": 7,
+    "total": 33,
+    "delivered": 21,
+    "anulado": 8,
     "cancelado": 1,
-    "effectiveness": 62.96
+    "effectiveness": 63.64
   },
   {
     "usuario": "NET_BCUSQUISIVA",
@@ -838,11 +877,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 29,
-    "delivered": 14,
+    "total": 34,
+    "delivered": 22,
     "anulado": 3,
     "cancelado": 8,
-    "effectiveness": 48.28
+    "effectiveness": 64.71
   },
   {
     "usuario": "NET_BDELGADOC",
@@ -851,11 +890,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 19,
-    "delivered": 12,
-    "anulado": 4,
-    "cancelado": 0,
-    "effectiveness": 63.16
+    "total": 24,
+    "delivered": 15,
+    "anulado": 5,
+    "cancelado": 1,
+    "effectiveness": 62.5
   },
   {
     "usuario": "NET_BLAUYAA",
@@ -864,11 +903,11 @@
     "coordinador": "OJT",
     "cuartil": "OJT",
     "cargo": "OJT",
-    "total": 5,
+    "total": 7,
     "delivered": 1,
     "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 20.0
+    "effectiveness": 14.29
   },
   {
     "usuario": "NET_BMIRANDAFE",
@@ -878,10 +917,10 @@
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
     "total": 5,
-    "delivered": 3,
+    "delivered": 5,
     "anulado": 0,
     "cancelado": 0,
-    "effectiveness": 60.0
+    "effectiveness": 100.0
   },
   {
     "usuario": "NET_BOLAYAC",
@@ -890,11 +929,11 @@
     "coordinador": "JONATHAN CONTRERAS",
     "cuartil": "N/C",
     "cargo": "SUPERVISOR DE OPERACIONES",
-    "total": 8,
-    "delivered": 4,
-    "anulado": 2,
+    "total": 9,
+    "delivered": 5,
+    "anulado": 3,
     "cancelado": 1,
-    "effectiveness": 50.0
+    "effectiveness": 55.56
   },
   {
     "usuario": "NET_BROMANS",
@@ -903,11 +942,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 16,
-    "delivered": 10,
+    "total": 18,
+    "delivered": 13,
     "anulado": 5,
     "cancelado": 0,
-    "effectiveness": 62.5
+    "effectiveness": 72.22
   },
   {
     "usuario": "NET_BSANCHEZP",
@@ -929,11 +968,11 @@
     "coordinador": "OPERACIONES",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 15,
-    "delivered": 8,
-    "anulado": 5,
-    "cancelado": 1,
-    "effectiveness": 53.33
+    "total": 28,
+    "delivered": 16,
+    "anulado": 7,
+    "cancelado": 4,
+    "effectiveness": 57.14
   },
   {
     "usuario": "NET_BYAUYOD",
@@ -942,11 +981,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 10,
-    "delivered": 6,
+    "total": 17,
+    "delivered": 9,
     "anulado": 1,
     "cancelado": 2,
-    "effectiveness": 60.0
+    "effectiveness": 52.94
   },
   {
     "usuario": "NET_BZUASNABARF",
@@ -955,11 +994,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 8,
-    "delivered": 5,
-    "anulado": 1,
+    "total": 10,
+    "delivered": 7,
+    "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 62.5
+    "effectiveness": 70.0
   },
   {
     "usuario": "NET_CALCAB",
@@ -968,11 +1007,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 11,
-    "delivered": 7,
-    "anulado": 4,
+    "total": 18,
+    "delivered": 11,
+    "anulado": 5,
     "cancelado": 0,
-    "effectiveness": 63.64
+    "effectiveness": 61.11
   },
   {
     "usuario": "NET_CBARRIOSP",
@@ -981,11 +1020,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 20,
-    "delivered": 13,
-    "anulado": 6,
+    "total": 22,
+    "delivered": 15,
+    "anulado": 7,
     "cancelado": 0,
-    "effectiveness": 65.0
+    "effectiveness": 68.18
   },
   {
     "usuario": "NET_CBIELICHR",
@@ -994,11 +1033,11 @@
     "coordinador": "JONATHAN CONTRERAS",
     "cuartil": "N/C",
     "cargo": "SUPERVISOR DE OPERACIONES",
-    "total": 41,
-    "delivered": 26,
-    "anulado": 4,
-    "cancelado": 8,
-    "effectiveness": 63.41
+    "total": 50,
+    "delivered": 31,
+    "anulado": 5,
+    "cancelado": 9,
+    "effectiveness": 62.0
   },
   {
     "usuario": "NET_CCANOP",
@@ -1033,11 +1072,11 @@
     "coordinador": "OPERACIONES",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 22,
-    "delivered": 10,
-    "anulado": 6,
-    "cancelado": 2,
-    "effectiveness": 45.45
+    "total": 26,
+    "delivered": 15,
+    "anulado": 7,
+    "cancelado": 3,
+    "effectiveness": 57.69
   },
   {
     "usuario": "NET_CCONDEM",
@@ -1046,11 +1085,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 33,
-    "delivered": 23,
+    "total": 40,
+    "delivered": 30,
     "anulado": 6,
     "cancelado": 1,
-    "effectiveness": 69.7
+    "effectiveness": 75.0
   },
   {
     "usuario": "NET_CCURAYG",
@@ -1059,11 +1098,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 9,
-    "delivered": 6,
+    "total": 11,
+    "delivered": 7,
     "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 66.67
+    "effectiveness": 63.64
   },
   {
     "usuario": "NET_CDACHAC",
@@ -1072,11 +1111,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 11,
-    "delivered": 6,
+    "total": 12,
+    "delivered": 7,
     "anulado": 2,
     "cancelado": 2,
-    "effectiveness": 54.55
+    "effectiveness": 58.33
   },
   {
     "usuario": "NET_CDANGELOV",
@@ -1085,11 +1124,11 @@
     "coordinador": "OPERACIONES",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 13,
-    "delivered": 10,
-    "anulado": 2,
+    "total": 16,
+    "delivered": 12,
+    "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 76.92
+    "effectiveness": 75.0
   },
   {
     "usuario": "NET_CDIAZG",
@@ -1098,11 +1137,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 23,
-    "delivered": 18,
+    "total": 26,
+    "delivered": 21,
     "anulado": 0,
     "cancelado": 2,
-    "effectiveness": 78.26
+    "effectiveness": 80.77
   },
   {
     "usuario": "NET_CEVANGELISV",
@@ -1111,11 +1150,11 @@
     "coordinador": "OJT",
     "cuartil": "OJT",
     "cargo": "OJT",
-    "total": 6,
-    "delivered": 1,
-    "anulado": 2,
+    "total": 9,
+    "delivered": 3,
+    "anulado": 5,
     "cancelado": 0,
-    "effectiveness": 16.67
+    "effectiveness": 33.33
   },
   {
     "usuario": "NET_CGARCIAC",
@@ -1124,11 +1163,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 21,
-    "delivered": 15,
+    "total": 27,
+    "delivered": 19,
     "anulado": 5,
-    "cancelado": 0,
-    "effectiveness": 71.43
+    "cancelado": 1,
+    "effectiveness": 70.37
   },
   {
     "usuario": "NET_CGRANADOSC",
@@ -1150,11 +1189,24 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "MONITOR DE CALIDAD",
-    "total": 14,
-    "delivered": 8,
-    "anulado": 1,
+    "total": 19,
+    "delivered": 13,
+    "anulado": 5,
     "cancelado": 1,
-    "effectiveness": 57.14
+    "effectiveness": 68.42
+  },
+  {
+    "usuario": "NET_CMDELACRUZV",
+    "nombre": "NET_CMDELACRUZV",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 3,
+    "delivered": 0,
+    "anulado": 2,
+    "cancelado": 1,
+    "effectiveness": 0.0
   },
   {
     "usuario": "NET_CMENESESV",
@@ -1163,11 +1215,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 16,
-    "delivered": 8,
+    "total": 19,
+    "delivered": 11,
     "anulado": 4,
-    "cancelado": 1,
-    "effectiveness": 50.0
+    "cancelado": 4,
+    "effectiveness": 57.89
   },
   {
     "usuario": "NET_CMERAA",
@@ -1176,11 +1228,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 6,
+    "total": 7,
     "delivered": 5,
     "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 83.33
+    "effectiveness": 71.43
   },
   {
     "usuario": "NET_CPALMAG",
@@ -1189,11 +1241,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 7,
-    "delivered": 2,
+    "total": 8,
+    "delivered": 3,
     "anulado": 1,
     "cancelado": 4,
-    "effectiveness": 28.57
+    "effectiveness": 37.5
   },
   {
     "usuario": "NET_CPINELLAC",
@@ -1202,11 +1254,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 12,
-    "delivered": 7,
+    "total": 16,
+    "delivered": 8,
     "anulado": 4,
-    "cancelado": 0,
-    "effectiveness": 58.33
+    "cancelado": 1,
+    "effectiveness": 50.0
   },
   {
     "usuario": "NET_CPORRASP",
@@ -1228,11 +1280,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 14,
+    "total": 15,
     "delivered": 12,
     "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 85.71
+    "effectiveness": 80.0
   },
   {
     "usuario": "NET_CREYESJ",
@@ -1241,11 +1293,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 45,
-    "delivered": 43,
+    "total": 52,
+    "delivered": 49,
     "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 95.56
+    "effectiveness": 94.23
   },
   {
     "usuario": "NET_CRUEDAV",
@@ -1254,11 +1306,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 1,
-    "delivered": 0,
+    "total": 2,
+    "delivered": 1,
     "anulado": 0,
     "cancelado": 1,
-    "effectiveness": 0.0
+    "effectiveness": 50.0
   },
   {
     "usuario": "NET_CSALAZARP",
@@ -1267,11 +1319,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 19,
-    "delivered": 8,
-    "anulado": 4,
+    "total": 22,
+    "delivered": 13,
+    "anulado": 5,
     "cancelado": 3,
-    "effectiveness": 42.11
+    "effectiveness": 59.09
   },
   {
     "usuario": "NET_CSANTIAGOQ",
@@ -1280,11 +1332,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 27,
-    "delivered": 19,
+    "total": 30,
+    "delivered": 20,
     "anulado": 2,
-    "cancelado": 5,
-    "effectiveness": 70.37
+    "cancelado": 6,
+    "effectiveness": 66.67
   },
   {
     "usuario": "NET_CSIRRAZABAC",
@@ -1306,11 +1358,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 21,
-    "delivered": 14,
+    "total": 23,
+    "delivered": 16,
     "anulado": 7,
     "cancelado": 0,
-    "effectiveness": 66.67
+    "effectiveness": 69.57
   },
   {
     "usuario": "NET_CULLOAC",
@@ -1319,11 +1371,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 27,
-    "delivered": 20,
-    "anulado": 3,
-    "cancelado": 0,
-    "effectiveness": 74.07
+    "total": 33,
+    "delivered": 26,
+    "anulado": 4,
+    "cancelado": 1,
+    "effectiveness": 78.79
   },
   {
     "usuario": "NET_DALVAREZC",
@@ -1332,11 +1384,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 8,
-    "delivered": 4,
+    "total": 11,
+    "delivered": 6,
     "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 50.0
+    "effectiveness": 54.55
   },
   {
     "usuario": "NET_DAOBANDOI",
@@ -1345,11 +1397,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 11,
-    "delivered": 10,
+    "total": 13,
+    "delivered": 12,
     "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 90.91
+    "effectiveness": 92.31
   },
   {
     "usuario": "NET_DAYLASF",
@@ -1358,11 +1410,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 7,
-    "delivered": 5,
+    "total": 11,
+    "delivered": 7,
     "anulado": 0,
     "cancelado": 2,
-    "effectiveness": 71.43
+    "effectiveness": 63.64
   },
   {
     "usuario": "NET_DCOVIEDOA",
@@ -1384,11 +1436,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 15,
-    "delivered": 13,
-    "anulado": 0,
+    "total": 19,
+    "delivered": 15,
+    "anulado": 1,
     "cancelado": 1,
-    "effectiveness": 86.67
+    "effectiveness": 78.95
   },
   {
     "usuario": "NET_DDEPINHOZ",
@@ -1399,7 +1451,7 @@
     "cargo": "ASESOR DE TELEVENTAS",
     "total": 27,
     "delivered": 18,
-    "anulado": 8,
+    "anulado": 7,
     "cancelado": 1,
     "effectiveness": 66.67
   },
@@ -1410,11 +1462,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 14,
+    "total": 15,
     "delivered": 5,
     "anulado": 2,
-    "cancelado": 6,
-    "effectiveness": 35.71
+    "cancelado": 7,
+    "effectiveness": 33.33
   },
   {
     "usuario": "NET_DFRANCIAH",
@@ -1423,11 +1475,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 36,
-    "delivered": 29,
-    "anulado": 5,
+    "total": 44,
+    "delivered": 35,
+    "anulado": 6,
     "cancelado": 1,
-    "effectiveness": 80.56
+    "effectiveness": 79.55
   },
   {
     "usuario": "NET_DGHERRERA",
@@ -1449,11 +1501,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 12,
-    "delivered": 7,
+    "total": 15,
+    "delivered": 11,
     "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 58.33
+    "effectiveness": 73.33
   },
   {
     "usuario": "NET_DLUNAS",
@@ -1462,11 +1514,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 11,
-    "delivered": 8,
-    "anulado": 1,
+    "total": 12,
+    "delivered": 9,
+    "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 72.73
+    "effectiveness": 75.0
   },
   {
     "usuario": "NET_DMALCAD",
@@ -1475,11 +1527,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 16,
+    "total": 18,
     "delivered": 4,
-    "anulado": 10,
+    "anulado": 11,
     "cancelado": 0,
-    "effectiveness": 25.0
+    "effectiveness": 22.22
   },
   {
     "usuario": "NET_DMORENOL",
@@ -1488,11 +1540,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 40,
-    "delivered": 26,
-    "anulado": 6,
+    "total": 50,
+    "delivered": 37,
+    "anulado": 8,
     "cancelado": 4,
-    "effectiveness": 65.0
+    "effectiveness": 74.0
   },
   {
     "usuario": "NET_DMUNOZCORNE",
@@ -1514,11 +1566,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 21,
-    "delivered": 13,
-    "anulado": 4,
+    "total": 26,
+    "delivered": 17,
+    "anulado": 5,
     "cancelado": 1,
-    "effectiveness": 61.9
+    "effectiveness": 65.38
   },
   {
     "usuario": "NET_DRUIZR",
@@ -1527,11 +1579,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 8,
+    "total": 10,
     "delivered": 5,
     "anulado": 1,
     "cancelado": 2,
-    "effectiveness": 62.5
+    "effectiveness": 50.0
   },
   {
     "usuario": "NET_DVALVERDEM",
@@ -1540,11 +1592,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 7,
-    "delivered": 7,
+    "total": 10,
+    "delivered": 9,
     "anulado": 0,
     "cancelado": 0,
-    "effectiveness": 100.0
+    "effectiveness": 90.0
   },
   {
     "usuario": "NET_DVILLALOBOS",
@@ -1553,11 +1605,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 17,
-    "delivered": 15,
+    "total": 18,
+    "delivered": 16,
     "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 88.24
+    "effectiveness": 88.89
   },
   {
     "usuario": "NET_DVILLAVERDM",
@@ -1566,11 +1618,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 12,
-    "delivered": 6,
-    "anulado": 3,
+    "total": 15,
+    "delivered": 7,
+    "anulado": 6,
     "cancelado": 2,
-    "effectiveness": 50.0
+    "effectiveness": 46.67
   },
   {
     "usuario": "NET_EALBORNOZR",
@@ -1579,11 +1631,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 24,
-    "delivered": 11,
-    "anulado": 3,
+    "total": 30,
+    "delivered": 17,
+    "anulado": 4,
     "cancelado": 7,
-    "effectiveness": 45.83
+    "effectiveness": 56.67
   },
   {
     "usuario": "NET_EBOZA",
@@ -1592,11 +1644,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 28,
-    "delivered": 18,
+    "total": 29,
+    "delivered": 21,
     "anulado": 5,
     "cancelado": 2,
-    "effectiveness": 64.29
+    "effectiveness": 72.41
   },
   {
     "usuario": "NET_ECALDERONV",
@@ -1607,7 +1659,7 @@
     "cargo": "OJT",
     "total": 3,
     "delivered": 0,
-    "anulado": 0,
+    "anulado": 3,
     "cancelado": 0,
     "effectiveness": 0.0
   },
@@ -1618,11 +1670,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 33,
-    "delivered": 24,
+    "total": 38,
+    "delivered": 28,
     "anulado": 5,
-    "cancelado": 3,
-    "effectiveness": 72.73
+    "cancelado": 4,
+    "effectiveness": 73.68
   },
   {
     "usuario": "NET_ECASASN",
@@ -1631,11 +1683,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 14,
-    "delivered": 9,
+    "total": 19,
+    "delivered": 15,
     "anulado": 0,
     "cancelado": 3,
-    "effectiveness": 64.29
+    "effectiveness": 78.95
   },
   {
     "usuario": "NET_ECASTILLOH",
@@ -1644,11 +1696,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 18,
-    "delivered": 12,
+    "total": 19,
+    "delivered": 14,
     "anulado": 2,
     "cancelado": 2,
-    "effectiveness": 66.67
+    "effectiveness": 73.68
   },
   {
     "usuario": "NET_ECHEROS",
@@ -1657,11 +1709,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 21,
-    "delivered": 18,
+    "total": 26,
+    "delivered": 23,
     "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 85.71
+    "effectiveness": 88.46
   },
   {
     "usuario": "NET_EECASAFRANC",
@@ -1670,11 +1722,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 14,
+    "total": 16,
     "delivered": 7,
-    "anulado": 3,
+    "anulado": 4,
     "cancelado": 2,
-    "effectiveness": 50.0
+    "effectiveness": 43.75
   },
   {
     "usuario": "NET_EGOMEZB",
@@ -1683,11 +1735,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 27,
-    "delivered": 19,
-    "anulado": 2,
+    "total": 30,
+    "delivered": 22,
+    "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 70.37
+    "effectiveness": 73.33
   },
   {
     "usuario": "NET_EIZACUPEC",
@@ -1696,11 +1748,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 15,
-    "delivered": 8,
-    "anulado": 4,
+    "total": 16,
+    "delivered": 10,
+    "anulado": 5,
     "cancelado": 1,
-    "effectiveness": 53.33
+    "effectiveness": 62.5
   },
   {
     "usuario": "NET_ELAURAQ",
@@ -1709,11 +1761,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 32,
-    "delivered": 9,
-    "anulado": 15,
+    "total": 39,
+    "delivered": 11,
+    "anulado": 20,
     "cancelado": 2,
-    "effectiveness": 28.12
+    "effectiveness": 28.21
   },
   {
     "usuario": "NET_EMACHEROT",
@@ -1722,11 +1774,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 13,
-    "delivered": 9,
+    "total": 15,
+    "delivered": 11,
     "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 69.23
+    "effectiveness": 73.33
   },
   {
     "usuario": "NET_EMEDINAU",
@@ -1735,11 +1787,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 30,
-    "delivered": 25,
+    "total": 33,
+    "delivered": 28,
     "anulado": 3,
     "cancelado": 2,
-    "effectiveness": 83.33
+    "effectiveness": 84.85
   },
   {
     "usuario": "NET_EMMENDIZF",
@@ -1748,11 +1800,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 23,
-    "delivered": 14,
+    "total": 24,
+    "delivered": 15,
     "anulado": 4,
     "cancelado": 3,
-    "effectiveness": 60.87
+    "effectiveness": 62.5
   },
   {
     "usuario": "NET_EMONZONP",
@@ -1761,11 +1813,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 31,
-    "delivered": 20,
-    "anulado": 7,
-    "cancelado": 2,
-    "effectiveness": 64.52
+    "total": 36,
+    "delivered": 23,
+    "anulado": 8,
+    "cancelado": 3,
+    "effectiveness": 63.89
   },
   {
     "usuario": "NET_EPARDOG",
@@ -1774,11 +1826,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 18,
-    "delivered": 15,
+    "total": 20,
+    "delivered": 16,
     "anulado": 1,
-    "cancelado": 1,
-    "effectiveness": 83.33
+    "cancelado": 2,
+    "effectiveness": 80.0
   },
   {
     "usuario": "NET_ETERNEROC",
@@ -1789,7 +1841,7 @@
     "cargo": "OJT",
     "total": 5,
     "delivered": 0,
-    "anulado": 3,
+    "anulado": 4,
     "cancelado": 0,
     "effectiveness": 0.0
   },
@@ -1800,11 +1852,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 21,
-    "delivered": 13,
-    "anulado": 1,
-    "cancelado": 2,
-    "effectiveness": 61.9
+    "total": 25,
+    "delivered": 14,
+    "anulado": 4,
+    "cancelado": 5,
+    "effectiveness": 56.0
   },
   {
     "usuario": "NET_EVALDIVIEZO",
@@ -1813,11 +1865,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 26,
-    "delivered": 20,
-    "anulado": 5,
+    "total": 31,
+    "delivered": 24,
+    "anulado": 6,
     "cancelado": 0,
-    "effectiveness": 76.92
+    "effectiveness": 77.42
   },
   {
     "usuario": "NET_EVELASQUEZB",
@@ -1826,11 +1878,11 @@
     "coordinador": "OJT",
     "cuartil": "OJT",
     "cargo": "OJT",
-    "total": 5,
-    "delivered": 1,
-    "anulado": 3,
+    "total": 7,
+    "delivered": 3,
+    "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 20.0
+    "effectiveness": 42.86
   },
   {
     "usuario": "NET_EZAPATAC",
@@ -1839,11 +1891,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 24,
-    "delivered": 20,
-    "anulado": 1,
+    "total": 33,
+    "delivered": 25,
+    "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 83.33
+    "effectiveness": 75.76
   },
   {
     "usuario": "NET_EZEVALLOSZ",
@@ -1852,11 +1904,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 15,
+    "total": 16,
     "delivered": 11,
-    "anulado": 2,
+    "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 73.33
+    "effectiveness": 68.75
   },
   {
     "usuario": "NET_FBARTET",
@@ -1865,11 +1917,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 16,
-    "delivered": 14,
+    "total": 19,
+    "delivered": 15,
     "anulado": 1,
     "cancelado": 1,
-    "effectiveness": 87.5
+    "effectiveness": 78.95
   },
   {
     "usuario": "NET_FBUSTAMANTI",
@@ -1878,11 +1930,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 13,
-    "delivered": 11,
+    "total": 19,
+    "delivered": 17,
     "anulado": 1,
     "cancelado": 1,
-    "effectiveness": 84.62
+    "effectiveness": 89.47
   },
   {
     "usuario": "NET_FCARRIONM",
@@ -1891,11 +1943,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 19,
-    "delivered": 10,
-    "anulado": 6,
+    "total": 21,
+    "delivered": 13,
+    "anulado": 8,
     "cancelado": 0,
-    "effectiveness": 52.63
+    "effectiveness": 61.9
   },
   {
     "usuario": "NET_FCASTILLOG",
@@ -1904,11 +1956,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 62,
-    "delivered": 43,
-    "anulado": 6,
-    "cancelado": 7,
-    "effectiveness": 69.35
+    "total": 67,
+    "delivered": 48,
+    "anulado": 7,
+    "cancelado": 8,
+    "effectiveness": 71.64
   },
   {
     "usuario": "NET_FGRIMALDOS",
@@ -1930,11 +1982,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 11,
-    "delivered": 8,
-    "anulado": 3,
-    "cancelado": 0,
-    "effectiveness": 72.73
+    "total": 22,
+    "delivered": 10,
+    "anulado": 4,
+    "cancelado": 1,
+    "effectiveness": 45.45
   },
   {
     "usuario": "NET_FQUISPEP",
@@ -1943,11 +1995,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 10,
-    "delivered": 3,
+    "total": 12,
+    "delivered": 6,
     "anulado": 6,
     "cancelado": 0,
-    "effectiveness": 30.0
+    "effectiveness": 50.0
   },
   {
     "usuario": "NET_FRIVERAO",
@@ -1956,11 +2008,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 10,
-    "delivered": 8,
+    "total": 13,
+    "delivered": 11,
     "anulado": 0,
     "cancelado": 1,
-    "effectiveness": 80.0
+    "effectiveness": 84.62
   },
   {
     "usuario": "NET_FTUCTOM",
@@ -1969,11 +2021,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 9,
+    "total": 11,
     "delivered": 8,
-    "anulado": 0,
-    "cancelado": 0,
-    "effectiveness": 88.89
+    "anulado": 1,
+    "cancelado": 1,
+    "effectiveness": 72.73
   },
   {
     "usuario": "NET_GARMAZAG",
@@ -1982,11 +2034,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 14,
-    "delivered": 3,
-    "anulado": 8,
+    "total": 16,
+    "delivered": 4,
+    "anulado": 10,
     "cancelado": 1,
-    "effectiveness": 21.43
+    "effectiveness": 25.0
   },
   {
     "usuario": "NET_GCABALLEROB",
@@ -1995,11 +2047,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 47,
-    "delivered": 33,
-    "anulado": 6,
-    "cancelado": 3,
-    "effectiveness": 70.21
+    "total": 57,
+    "delivered": 42,
+    "anulado": 7,
+    "cancelado": 4,
+    "effectiveness": 73.68
   },
   {
     "usuario": "NET_GCABALLEROC",
@@ -2008,11 +2060,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 21,
-    "delivered": 15,
+    "total": 30,
+    "delivered": 22,
     "anulado": 5,
-    "cancelado": 0,
-    "effectiveness": 71.43
+    "cancelado": 1,
+    "effectiveness": 73.33
   },
   {
     "usuario": "NET_GDELGADO",
@@ -2021,11 +2073,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 31,
-    "delivered": 22,
+    "total": 37,
+    "delivered": 31,
     "anulado": 4,
     "cancelado": 2,
-    "effectiveness": 70.97
+    "effectiveness": 83.78
   },
   {
     "usuario": "NET_GDJULCAT",
@@ -2034,11 +2086,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 11,
-    "delivered": 5,
+    "total": 12,
+    "delivered": 7,
     "anulado": 4,
     "cancelado": 1,
-    "effectiveness": 45.45
+    "effectiveness": 58.33
   },
   {
     "usuario": "NET_GFLORESS",
@@ -2047,11 +2099,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 26,
-    "delivered": 24,
+    "total": 35,
+    "delivered": 30,
     "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 92.31
+    "effectiveness": 85.71
   },
   {
     "usuario": "NET_GGALLARDAYA",
@@ -2060,11 +2112,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 29,
-    "delivered": 15,
+    "total": 32,
+    "delivered": 18,
     "anulado": 4,
     "cancelado": 10,
-    "effectiveness": 51.72
+    "effectiveness": 56.25
   },
   {
     "usuario": "NET_GGARCIAS",
@@ -2073,11 +2125,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 15,
-    "delivered": 11,
+    "total": 21,
+    "delivered": 14,
     "anulado": 3,
     "cancelado": 1,
-    "effectiveness": 73.33
+    "effectiveness": 66.67
   },
   {
     "usuario": "NET_GGUTIERREZM",
@@ -2086,11 +2138,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 18,
-    "delivered": 12,
-    "anulado": 2,
+    "total": 25,
+    "delivered": 17,
+    "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 66.67
+    "effectiveness": 68.0
   },
   {
     "usuario": "NET_GHERRERAG",
@@ -2099,11 +2151,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 15,
-    "delivered": 8,
-    "anulado": 5,
+    "total": 25,
+    "delivered": 14,
+    "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 53.33
+    "effectiveness": 56.0
   },
   {
     "usuario": "NET_GHUAMANT",
@@ -2112,11 +2164,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 23,
-    "delivered": 18,
-    "anulado": 3,
-    "cancelado": 0,
-    "effectiveness": 78.26
+    "total": 29,
+    "delivered": 21,
+    "anulado": 6,
+    "cancelado": 1,
+    "effectiveness": 72.41
   },
   {
     "usuario": "NET_GHUANCASS",
@@ -2125,11 +2177,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 17,
+    "total": 18,
     "delivered": 14,
     "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 82.35
+    "effectiveness": 77.78
   },
   {
     "usuario": "NET_GLOPEZF",
@@ -2138,11 +2190,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 31,
-    "delivered": 20,
-    "anulado": 1,
+    "total": 40,
+    "delivered": 26,
+    "anulado": 6,
     "cancelado": 4,
-    "effectiveness": 64.52
+    "effectiveness": 65.0
   },
   {
     "usuario": "NET_GMENDIGUETE",
@@ -2151,11 +2203,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 45,
-    "delivered": 34,
-    "anulado": 5,
+    "total": 66,
+    "delivered": 51,
+    "anulado": 8,
     "cancelado": 3,
-    "effectiveness": 75.56
+    "effectiveness": 77.27
   },
   {
     "usuario": "NET_GSANCHEZO",
@@ -2164,11 +2216,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 17,
-    "delivered": 14,
+    "total": 21,
+    "delivered": 18,
     "anulado": 2,
     "cancelado": 1,
-    "effectiveness": 82.35
+    "effectiveness": 85.71
   },
   {
     "usuario": "NET_GSANTOSC",
@@ -2177,11 +2229,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 20,
-    "delivered": 19,
+    "total": 26,
+    "delivered": 23,
     "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 95.0
+    "effectiveness": 88.46
   },
   {
     "usuario": "NET_GSILVAJ",
@@ -2190,11 +2242,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 6,
-    "delivered": 6,
+    "total": 9,
+    "delivered": 7,
     "anulado": 0,
     "cancelado": 0,
-    "effectiveness": 100.0
+    "effectiveness": 77.78
   },
   {
     "usuario": "NET_GVELASQUEZA",
@@ -2203,11 +2255,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 33,
-    "delivered": 23,
-    "anulado": 8,
+    "total": 42,
+    "delivered": 28,
+    "anulado": 9,
     "cancelado": 0,
-    "effectiveness": 69.7
+    "effectiveness": 66.67
   },
   {
     "usuario": "NET_GVILELAR",
@@ -2216,11 +2268,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 24,
-    "delivered": 15,
-    "anulado": 1,
-    "cancelado": 2,
-    "effectiveness": 62.5
+    "total": 29,
+    "delivered": 18,
+    "anulado": 4,
+    "cancelado": 3,
+    "effectiveness": 62.07
   },
   {
     "usuario": "NET_GZUNIGAO",
@@ -2229,69 +2281,17 @@
     "coordinador": "OPERACIONES",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 6,
-    "delivered": 1,
+    "total": 7,
+    "delivered": 2,
     "anulado": 5,
     "cancelado": 0,
-    "effectiveness": 16.67
+    "effectiveness": 28.57
   },
   {
     "usuario": "NET_HCASTILLOV",
     "nombre": "CASTILLO VELEZMORO HANALY SAORY",
     "supervisor": "KATIUSKA PAJUELO",
     "coordinador": "PIERO MEDINA",
-    "cuartil": "Q3",
-    "cargo": "ASESOR DE TELEVENTAS",
-    "total": 8,
-    "delivered": 6,
-    "anulado": 1,
-    "cancelado": 0,
-    "effectiveness": 75.0
-  },
-  {
-    "usuario": "NET_HEULOGIO",
-    "nombre": "EULOGIO TERRANOVA RAÚL HUGO",
-    "supervisor": "JEAN ELIAS",
-    "coordinador": "EVER MALCA",
-    "cuartil": "Q1",
-    "cargo": "ASESOR DE TELEVENTAS",
-    "total": 23,
-    "delivered": 14,
-    "anulado": 2,
-    "cancelado": 2,
-    "effectiveness": 60.87
-  },
-  {
-    "usuario": "NET_HJUNCOT",
-    "nombre": "JUNCO TOLEDO HANS DAVID PLACIDO",
-    "supervisor": "RIVALDO DONAYRE",
-    "coordinador": "JOSÉ SOLORZANO",
-    "cuartil": "Q2",
-    "cargo": "ASESOR DE TELEVENTAS",
-    "total": 13,
-    "delivered": 12,
-    "anulado": 1,
-    "cancelado": 0,
-    "effectiveness": 92.31
-  },
-  {
-    "usuario": "NET_HTAMAYD",
-    "nombre": "TAMAY DIAZ HIDEKY SIDNEY",
-    "supervisor": "JORGE JUSTO",
-    "coordinador": "JOSÉ SOLORZANO",
-    "cuartil": "Q4",
-    "cargo": "ASESOR DE TELEVENTAS",
-    "total": 6,
-    "delivered": 1,
-    "anulado": 1,
-    "cancelado": 0,
-    "effectiveness": 16.67
-  },
-  {
-    "usuario": "NET_IASTOCONDOP",
-    "nombre": "ASTOCONDOR PURIZACA IRMA SARITA",
-    "supervisor": "ANDREA YAURI",
-    "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
     "total": 9,
@@ -2301,17 +2301,69 @@
     "effectiveness": 77.78
   },
   {
+    "usuario": "NET_HEULOGIO",
+    "nombre": "EULOGIO TERRANOVA RAÚL HUGO",
+    "supervisor": "JEAN ELIAS",
+    "coordinador": "EVER MALCA",
+    "cuartil": "Q1",
+    "cargo": "ASESOR DE TELEVENTAS",
+    "total": 44,
+    "delivered": 35,
+    "anulado": 3,
+    "cancelado": 3,
+    "effectiveness": 79.55
+  },
+  {
+    "usuario": "NET_HJUNCOT",
+    "nombre": "JUNCO TOLEDO HANS DAVID PLACIDO",
+    "supervisor": "RIVALDO DONAYRE",
+    "coordinador": "JOSÉ SOLORZANO",
+    "cuartil": "Q2",
+    "cargo": "ASESOR DE TELEVENTAS",
+    "total": 16,
+    "delivered": 14,
+    "anulado": 1,
+    "cancelado": 0,
+    "effectiveness": 87.5
+  },
+  {
+    "usuario": "NET_HTAMAYD",
+    "nombre": "TAMAY DIAZ HIDEKY SIDNEY",
+    "supervisor": "JORGE JUSTO",
+    "coordinador": "JOSÉ SOLORZANO",
+    "cuartil": "Q4",
+    "cargo": "ASESOR DE TELEVENTAS",
+    "total": 13,
+    "delivered": 4,
+    "anulado": 2,
+    "cancelado": 0,
+    "effectiveness": 30.77
+  },
+  {
+    "usuario": "NET_IASTOCONDOP",
+    "nombre": "ASTOCONDOR PURIZACA IRMA SARITA",
+    "supervisor": "ANDREA YAURI",
+    "coordinador": "EVER MALCA",
+    "cuartil": "Q3",
+    "cargo": "ASESOR DE TELEVENTAS",
+    "total": 12,
+    "delivered": 7,
+    "anulado": 1,
+    "cancelado": 1,
+    "effectiveness": 58.33
+  },
+  {
     "usuario": "NET_IMATTAV",
     "nombre": "IRAIDA ARETUZA MATTA VALDEZ",
     "supervisor": "CINTHIA BIELICH",
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 9,
+    "total": 11,
     "delivered": 8,
-    "anulado": 0,
+    "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 88.89
+    "effectiveness": 72.73
   },
   {
     "usuario": "NET_IQUEREVALUL",
@@ -2320,11 +2372,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 11,
+    "total": 14,
     "delivered": 6,
     "anulado": 3,
     "cancelado": 2,
-    "effectiveness": 54.55
+    "effectiveness": 42.86
   },
   {
     "usuario": "NET_IRODRIGUEZS",
@@ -2333,11 +2385,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 26,
-    "delivered": 17,
+    "total": 30,
+    "delivered": 20,
     "anulado": 3,
     "cancelado": 4,
-    "effectiveness": 65.38
+    "effectiveness": 66.67
   },
   {
     "usuario": "NET_IVARGASI",
@@ -2346,11 +2398,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 18,
-    "delivered": 6,
-    "anulado": 6,
+    "total": 21,
+    "delivered": 10,
+    "anulado": 7,
     "cancelado": 1,
-    "effectiveness": 33.33
+    "effectiveness": 47.62
   },
   {
     "usuario": "NET_JAMASIFUENT",
@@ -2359,11 +2411,11 @@
     "coordinador": "OPERACIONES",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 11,
-    "delivered": 4,
+    "total": 12,
+    "delivered": 5,
     "anulado": 5,
     "cancelado": 0,
-    "effectiveness": 36.36
+    "effectiveness": 41.67
   },
   {
     "usuario": "NET_JAREVALOC",
@@ -2372,11 +2424,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 38,
-    "delivered": 28,
+    "total": 44,
+    "delivered": 31,
     "anulado": 0,
-    "cancelado": 9,
-    "effectiveness": 73.68
+    "cancelado": 10,
+    "effectiveness": 70.45
   },
   {
     "usuario": "NET_JAREVALOV",
@@ -2385,11 +2437,11 @@
     "coordinador": "OJT",
     "cuartil": "OJT",
     "cargo": "OJT",
-    "total": 2,
+    "total": 3,
     "delivered": 1,
-    "anulado": 0,
+    "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 50.0
+    "effectiveness": 33.33
   },
   {
     "usuario": "NET_JATANACIOC",
@@ -2398,11 +2450,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 28,
-    "delivered": 26,
+    "total": 31,
+    "delivered": 29,
     "anulado": 1,
-    "cancelado": 0,
-    "effectiveness": 92.86
+    "cancelado": 1,
+    "effectiveness": 93.55
   },
   {
     "usuario": "NET_JBARRAGANH",
@@ -2411,11 +2463,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 17,
-    "delivered": 9,
+    "total": 19,
+    "delivered": 10,
     "anulado": 6,
     "cancelado": 0,
-    "effectiveness": 52.94
+    "effectiveness": 52.63
   },
   {
     "usuario": "NET_JCABANILLAR",
@@ -2424,8 +2476,8 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 8,
-    "delivered": 6,
+    "total": 12,
+    "delivered": 9,
     "anulado": 1,
     "cancelado": 1,
     "effectiveness": 75.0
@@ -2437,11 +2489,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 20,
-    "delivered": 11,
-    "anulado": 4,
+    "total": 22,
+    "delivered": 13,
+    "anulado": 7,
     "cancelado": 2,
-    "effectiveness": 55.0
+    "effectiveness": 59.09
   },
   {
     "usuario": "NET_JCAMPOS",
@@ -2450,11 +2502,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 29,
-    "delivered": 14,
-    "anulado": 7,
-    "cancelado": 2,
-    "effectiveness": 48.28
+    "total": 36,
+    "delivered": 21,
+    "anulado": 10,
+    "cancelado": 4,
+    "effectiveness": 58.33
   },
   {
     "usuario": "NET_JCAVEROC",
@@ -2464,10 +2516,10 @@
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
     "total": 18,
-    "delivered": 13,
+    "delivered": 14,
     "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 72.22
+    "effectiveness": 77.78
   },
   {
     "usuario": "NET_JCHAVEZC",
@@ -2476,11 +2528,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 28,
-    "delivered": 22,
+    "total": 34,
+    "delivered": 26,
     "anulado": 2,
-    "cancelado": 2,
-    "effectiveness": 78.57
+    "cancelado": 4,
+    "effectiveness": 76.47
   },
   {
     "usuario": "NET_JCHAVEZPINT",
@@ -2489,11 +2541,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 31,
-    "delivered": 23,
+    "total": 37,
+    "delivered": 29,
     "anulado": 8,
     "cancelado": 0,
-    "effectiveness": 74.19
+    "effectiveness": 78.38
   },
   {
     "usuario": "NET_JCHEROO",
@@ -2502,11 +2554,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 27,
-    "delivered": 24,
+    "total": 34,
+    "delivered": 26,
     "anulado": 1,
-    "cancelado": 1,
-    "effectiveness": 88.89
+    "cancelado": 2,
+    "effectiveness": 76.47
   },
   {
     "usuario": "NET_JCHINGAA",
@@ -2515,11 +2567,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 18,
-    "delivered": 12,
-    "anulado": 1,
+    "total": 19,
+    "delivered": 14,
+    "anulado": 2,
     "cancelado": 3,
-    "effectiveness": 66.67
+    "effectiveness": 73.68
   },
   {
     "usuario": "NET_JCHIRINOSP",
@@ -2528,11 +2580,11 @@
     "coordinador": "OJT",
     "cuartil": "OJT",
     "cargo": "OJT",
-    "total": 5,
+    "total": 6,
     "delivered": 2,
-    "anulado": 0,
+    "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 40.0
+    "effectiveness": 33.33
   },
   {
     "usuario": "NET_JCHUQUILINL",
@@ -2541,11 +2593,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 12,
+    "total": 18,
     "delivered": 10,
-    "anulado": 2,
+    "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 83.33
+    "effectiveness": 55.56
   },
   {
     "usuario": "NET_JCHUQUIPOMD",
@@ -2554,11 +2606,11 @@
     "coordinador": "OJT",
     "cuartil": "OJT",
     "cargo": "OJT",
-    "total": 5,
-    "delivered": 2,
-    "anulado": 0,
+    "total": 12,
+    "delivered": 6,
+    "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 40.0
+    "effectiveness": 50.0
   },
   {
     "usuario": "NET_JCOLOMAA",
@@ -2567,11 +2619,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 17,
-    "delivered": 12,
+    "total": 18,
+    "delivered": 15,
     "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 70.59
+    "effectiveness": 83.33
   },
   {
     "usuario": "NET_JCORONADOC",
@@ -2582,7 +2634,7 @@
     "cargo": "ASESOR DE TELEVENTAS",
     "total": 6,
     "delivered": 2,
-    "anulado": 2,
+    "anulado": 4,
     "cancelado": 0,
     "effectiveness": 33.33
   },
@@ -2619,11 +2671,11 @@
     "coordinador": "JONATHAN CONTRERAS",
     "cuartil": "N/C",
     "cargo": "SUPERVISOR DE OPERACIONES",
-    "total": 2,
+    "total": 3,
     "delivered": 2,
     "anulado": 0,
     "cancelado": 0,
-    "effectiveness": 100.0
+    "effectiveness": 66.67
   },
   {
     "usuario": "NET_JGUIOP",
@@ -2632,11 +2684,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 34,
-    "delivered": 25,
-    "anulado": 3,
-    "cancelado": 2,
-    "effectiveness": 73.53
+    "total": 41,
+    "delivered": 32,
+    "anulado": 4,
+    "cancelado": 3,
+    "effectiveness": 78.05
   },
   {
     "usuario": "NET_JHUARACHEC",
@@ -2645,11 +2697,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 1,
-    "delivered": 0,
+    "total": 4,
+    "delivered": 2,
     "anulado": 1,
-    "cancelado": 0,
-    "effectiveness": 0.0
+    "cancelado": 1,
+    "effectiveness": 50.0
   },
   {
     "usuario": "NET_JIYASHAMAR",
@@ -2658,11 +2710,11 @@
     "coordinador": "JONATHAN CONTRERAS",
     "cuartil": "N/C",
     "cargo": "SUPERVISOR DE OPERACIONES",
-    "total": 14,
-    "delivered": 8,
+    "total": 16,
+    "delivered": 10,
     "anulado": 2,
-    "cancelado": 2,
-    "effectiveness": 57.14
+    "cancelado": 3,
+    "effectiveness": 62.5
   },
   {
     "usuario": "NET_JJFERNANDEA",
@@ -2671,11 +2723,11 @@
     "coordinador": "OPERACIONES",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 6,
-    "delivered": 2,
+    "total": 7,
+    "delivered": 3,
     "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 33.33
+    "effectiveness": 42.86
   },
   {
     "usuario": "NET_JLAZAROA",
@@ -2684,11 +2736,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 8,
-    "delivered": 6,
+    "total": 9,
+    "delivered": 7,
     "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 75.0
+    "effectiveness": 77.78
   },
   {
     "usuario": "NET_JLCASTILLOU",
@@ -2710,11 +2762,24 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 9,
-    "delivered": 5,
-    "anulado": 1,
+    "total": 11,
+    "delivered": 7,
+    "anulado": 2,
     "cancelado": 2,
-    "effectiveness": 55.56
+    "effectiveness": 63.64
+  },
+  {
+    "usuario": "NET_JLQUISPEM",
+    "nombre": "NET_JLQUISPEM",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 2,
+    "delivered": 0,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 0.0
   },
   {
     "usuario": "NET_JLUCIANOT",
@@ -2723,11 +2788,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 25,
-    "delivered": 18,
-    "anulado": 6,
-    "cancelado": 0,
-    "effectiveness": 72.0
+    "total": 30,
+    "delivered": 19,
+    "anulado": 8,
+    "cancelado": 1,
+    "effectiveness": 63.33
   },
   {
     "usuario": "NET_JMARQUEZG",
@@ -2738,7 +2803,7 @@
     "cargo": "ASESOR DE TELEVENTAS",
     "total": 2,
     "delivered": 1,
-    "anulado": 0,
+    "anulado": 1,
     "cancelado": 0,
     "effectiveness": 50.0
   },
@@ -2775,11 +2840,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 11,
-    "delivered": 6,
-    "anulado": 2,
+    "total": 14,
+    "delivered": 8,
+    "anulado": 4,
     "cancelado": 1,
-    "effectiveness": 54.55
+    "effectiveness": 57.14
   },
   {
     "usuario": "NET_JNEYRAZ",
@@ -2788,11 +2853,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 14,
+    "total": 15,
     "delivered": 9,
     "anulado": 1,
-    "cancelado": 3,
-    "effectiveness": 64.29
+    "cancelado": 4,
+    "effectiveness": 60.0
   },
   {
     "usuario": "NET_JORTIZV",
@@ -2801,11 +2866,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 16,
-    "delivered": 10,
-    "anulado": 2,
+    "total": 22,
+    "delivered": 11,
+    "anulado": 5,
     "cancelado": 0,
-    "effectiveness": 62.5
+    "effectiveness": 50.0
   },
   {
     "usuario": "NET_JPALOMINOA",
@@ -2814,11 +2879,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 8,
-    "delivered": 7,
+    "total": 10,
+    "delivered": 9,
     "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 87.5
+    "effectiveness": 90.0
   },
   {
     "usuario": "NET_JPINDAYG",
@@ -2840,11 +2905,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 40,
-    "delivered": 21,
-    "anulado": 12,
-    "cancelado": 4,
-    "effectiveness": 52.5
+    "total": 45,
+    "delivered": 25,
+    "anulado": 13,
+    "cancelado": 5,
+    "effectiveness": 55.56
   },
   {
     "usuario": "NET_JQUINECHEB",
@@ -2853,11 +2918,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 68,
-    "delivered": 41,
-    "anulado": 18,
-    "cancelado": 3,
-    "effectiveness": 60.29
+    "total": 78,
+    "delivered": 47,
+    "anulado": 21,
+    "cancelado": 4,
+    "effectiveness": 60.26
   },
   {
     "usuario": "NET_JQUISPELUZA",
@@ -2879,11 +2944,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 18,
-    "delivered": 13,
+    "total": 22,
+    "delivered": 15,
     "anulado": 3,
-    "cancelado": 1,
-    "effectiveness": 72.22
+    "cancelado": 2,
+    "effectiveness": 68.18
   },
   {
     "usuario": "NET_JRIVADENEIC",
@@ -2892,11 +2957,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 16,
-    "delivered": 9,
-    "anulado": 4,
+    "total": 26,
+    "delivered": 13,
+    "anulado": 8,
     "cancelado": 3,
-    "effectiveness": 56.25
+    "effectiveness": 50.0
   },
   {
     "usuario": "NET_JROMEROC",
@@ -2918,11 +2983,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 32,
-    "delivered": 25,
+    "total": 37,
+    "delivered": 32,
     "anulado": 4,
     "cancelado": 1,
-    "effectiveness": 78.12
+    "effectiveness": 86.49
   },
   {
     "usuario": "NET_JSANGAMA",
@@ -2931,11 +2996,24 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 63,
-    "delivered": 43,
-    "anulado": 9,
+    "total": 70,
+    "delivered": 51,
+    "anulado": 12,
     "cancelado": 4,
-    "effectiveness": 68.25
+    "effectiveness": 72.86
+  },
+  {
+    "usuario": "NET_JSANGAMAT",
+    "nombre": "NET_JSANGAMAT",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 5,
+    "delivered": 1,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 20.0
   },
   {
     "usuario": "NET_JSIADEN",
@@ -2946,7 +3024,7 @@
     "cargo": "ASESOR DE TELEVENTAS",
     "total": 43,
     "delivered": 28,
-    "anulado": 10,
+    "anulado": 11,
     "cancelado": 4,
     "effectiveness": 65.12
   },
@@ -2957,11 +3035,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 20,
-    "delivered": 14,
+    "total": 25,
+    "delivered": 17,
     "anulado": 4,
-    "cancelado": 1,
-    "effectiveness": 70.0
+    "cancelado": 2,
+    "effectiveness": 68.0
   },
   {
     "usuario": "NET_JTITOM",
@@ -2970,11 +3048,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 29,
-    "delivered": 17,
+    "total": 32,
+    "delivered": 23,
     "anulado": 8,
     "cancelado": 0,
-    "effectiveness": 58.62
+    "effectiveness": 71.88
   },
   {
     "usuario": "NET_JTORRESQ",
@@ -2983,11 +3061,11 @@
     "coordinador": "OJT",
     "cuartil": "OJT",
     "cargo": "OJT",
-    "total": 6,
+    "total": 8,
     "delivered": 4,
     "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 66.67
+    "effectiveness": 50.0
   },
   {
     "usuario": "NET_JUGARRIZAA",
@@ -2998,7 +3076,7 @@
     "cargo": "SUPERVISOR DE OPERACIONES",
     "total": 2,
     "delivered": 1,
-    "anulado": 0,
+    "anulado": 1,
     "cancelado": 0,
     "effectiveness": 50.0
   },
@@ -3009,11 +3087,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 10,
+    "total": 12,
     "delivered": 8,
-    "anulado": 0,
+    "anulado": 1,
     "cancelado": 2,
-    "effectiveness": 80.0
+    "effectiveness": 66.67
   },
   {
     "usuario": "NET_JVALVERDEV",
@@ -3022,11 +3100,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 31,
-    "delivered": 23,
-    "anulado": 6,
+    "total": 38,
+    "delivered": 28,
+    "anulado": 7,
     "cancelado": 1,
-    "effectiveness": 74.19
+    "effectiveness": 73.68
   },
   {
     "usuario": "NET_JVASQUEZMEN",
@@ -3035,11 +3113,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 15,
-    "delivered": 8,
-    "anulado": 3,
+    "total": 18,
+    "delivered": 11,
+    "anulado": 4,
     "cancelado": 1,
-    "effectiveness": 53.33
+    "effectiveness": 61.11
   },
   {
     "usuario": "NET_JVELASQUEZS",
@@ -3048,11 +3126,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 28,
-    "delivered": 16,
-    "anulado": 3,
-    "cancelado": 3,
-    "effectiveness": 57.14
+    "total": 40,
+    "delivered": 22,
+    "anulado": 11,
+    "cancelado": 4,
+    "effectiveness": 55.0
   },
   {
     "usuario": "NET_JVILLAFANIC",
@@ -3061,11 +3139,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 17,
-    "delivered": 13,
+    "total": 20,
+    "delivered": 14,
     "anulado": 3,
     "cancelado": 1,
-    "effectiveness": 76.47
+    "effectiveness": 70.0
   },
   {
     "usuario": "NET_JVILLANUEVL",
@@ -3074,11 +3152,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 20,
-    "delivered": 6,
+    "total": 24,
+    "delivered": 8,
     "anulado": 11,
-    "cancelado": 2,
-    "effectiveness": 30.0
+    "cancelado": 3,
+    "effectiveness": 33.33
   },
   {
     "usuario": "NET_JVILLAVICEC",
@@ -3113,11 +3191,11 @@
     "coordinador": "OJT",
     "cuartil": "OJT",
     "cargo": "OJT",
-    "total": 5,
-    "delivered": 2,
+    "total": 6,
+    "delivered": 3,
     "anulado": 2,
-    "cancelado": 0,
-    "effectiveness": 40.0
+    "cancelado": 1,
+    "effectiveness": 50.0
   },
   {
     "usuario": "NET_KAGRAMONTEM",
@@ -3126,11 +3204,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 38,
-    "delivered": 20,
-    "anulado": 5,
+    "total": 42,
+    "delivered": 28,
+    "anulado": 6,
     "cancelado": 5,
-    "effectiveness": 52.63
+    "effectiveness": 66.67
   },
   {
     "usuario": "NET_KANGELESS",
@@ -3139,11 +3217,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 48,
-    "delivered": 40,
-    "anulado": 7,
-    "cancelado": 0,
-    "effectiveness": 83.33
+    "total": 58,
+    "delivered": 48,
+    "anulado": 9,
+    "cancelado": 1,
+    "effectiveness": 82.76
   },
   {
     "usuario": "NET_KARAUJOC",
@@ -3152,11 +3230,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 12,
-    "delivered": 8,
+    "total": 13,
+    "delivered": 9,
     "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 66.67
+    "effectiveness": 69.23
   },
   {
     "usuario": "NET_KBERROSPIS",
@@ -3165,11 +3243,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 21,
-    "delivered": 13,
-    "anulado": 4,
-    "cancelado": 1,
-    "effectiveness": 61.9
+    "total": 27,
+    "delivered": 15,
+    "anulado": 6,
+    "cancelado": 2,
+    "effectiveness": 55.56
   },
   {
     "usuario": "NET_KBRACOV",
@@ -3178,11 +3256,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 14,
-    "delivered": 10,
+    "total": 20,
+    "delivered": 14,
     "anulado": 0,
-    "cancelado": 2,
-    "effectiveness": 71.43
+    "cancelado": 3,
+    "effectiveness": 70.0
   },
   {
     "usuario": "NET_KCARRENOV",
@@ -3191,11 +3269,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 5,
-    "delivered": 3,
-    "anulado": 1,
+    "total": 9,
+    "delivered": 4,
+    "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 60.0
+    "effectiveness": 44.44
   },
   {
     "usuario": "NET_KCHUNAP",
@@ -3204,11 +3282,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 9,
-    "delivered": 5,
+    "total": 16,
+    "delivered": 11,
     "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 55.56
+    "effectiveness": 68.75
   },
   {
     "usuario": "NET_KCHUQUIZUTC",
@@ -3217,11 +3295,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 15,
+    "total": 16,
     "delivered": 7,
-    "anulado": 5,
+    "anulado": 6,
     "cancelado": 0,
-    "effectiveness": 46.67
+    "effectiveness": 43.75
   },
   {
     "usuario": "NET_KCONTRERASA",
@@ -3230,9 +3308,9 @@
     "coordinador": "OJT",
     "cuartil": "OJT",
     "cargo": "OJT",
-    "total": 7,
+    "total": 10,
     "delivered": 0,
-    "anulado": 2,
+    "anulado": 7,
     "cancelado": 0,
     "effectiveness": 0.0
   },
@@ -3243,11 +3321,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 46,
-    "delivered": 34,
+    "total": 52,
+    "delivered": 40,
     "anulado": 5,
     "cancelado": 3,
-    "effectiveness": 73.91
+    "effectiveness": 76.92
   },
   {
     "usuario": "NET_KDREYNA",
@@ -3256,11 +3334,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 9,
-    "delivered": 7,
-    "anulado": 0,
+    "total": 11,
+    "delivered": 9,
+    "anulado": 1,
     "cancelado": 1,
-    "effectiveness": 77.78
+    "effectiveness": 81.82
   },
   {
     "usuario": "NET_KESCORZAC",
@@ -3269,11 +3347,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 23,
-    "delivered": 14,
-    "anulado": 5,
+    "total": 27,
+    "delivered": 16,
+    "anulado": 7,
     "cancelado": 1,
-    "effectiveness": 60.87
+    "effectiveness": 59.26
   },
   {
     "usuario": "NET_KGCORTEZP",
@@ -3282,16 +3360,81 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 7,
-    "delivered": 3,
+    "total": 8,
+    "delivered": 5,
     "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 42.86
+    "effectiveness": 62.5
   },
   {
     "usuario": "NET_KGUTIERREZV",
     "nombre": "GUTIERREZ VITE KATTERIN LIZET",
     "supervisor": "FRANCO GRIMALDO",
+    "coordinador": "PIERO MEDINA",
+    "cuartil": "Q4",
+    "cargo": "ASESOR DE TELEVENTAS",
+    "total": 9,
+    "delivered": 4,
+    "anulado": 3,
+    "cancelado": 0,
+    "effectiveness": 44.44
+  },
+  {
+    "usuario": "NET_KLGARCIAA",
+    "nombre": "GARCIA  ARISTA  KATERYN LICET",
+    "supervisor": "JORGE JUSTO",
+    "coordinador": "JOSÉ SOLORZANO",
+    "cuartil": "Q3",
+    "cargo": "ASESOR DE TELEVENTAS",
+    "total": 17,
+    "delivered": 14,
+    "anulado": 2,
+    "cancelado": 1,
+    "effectiveness": 82.35
+  },
+  {
+    "usuario": "NET_KNIZAMAA",
+    "nombre": "NIZAMA ACOSTA KATY LINDA",
+    "supervisor": "FIORELLA QUISPE",
+    "coordinador": "PIERO MEDINA",
+    "cuartil": "Q2",
+    "cargo": "ASESOR DE TELEVENTAS",
+    "total": 37,
+    "delivered": 31,
+    "anulado": 3,
+    "cancelado": 1,
+    "effectiveness": 83.78
+  },
+  {
+    "usuario": "NET_KORTIZD",
+    "nombre": "ORTIZ DIAZ KHATERINE JOYSI",
+    "supervisor": "FIORELLA QUISPE",
+    "coordinador": "PIERO MEDINA",
+    "cuartil": "Q1",
+    "cargo": "ASESOR DE TELEVENTAS",
+    "total": 42,
+    "delivered": 37,
+    "anulado": 1,
+    "cancelado": 2,
+    "effectiveness": 88.1
+  },
+  {
+    "usuario": "NET_KPAJUELOC",
+    "nombre": "PAJUELO CAMACHO KATIUSKA ALEXANDRA",
+    "supervisor": "WALTER VILLARREAL",
+    "coordinador": "JONATHAN CONTRERAS",
+    "cuartil": "N/C",
+    "cargo": "SUPERVISOR DE OPERACIONES",
+    "total": 8,
+    "delivered": 3,
+    "anulado": 2,
+    "cancelado": 1,
+    "effectiveness": 37.5
+  },
+  {
+    "usuario": "NET_KPARRAGUEZG",
+    "nombre": "PARRAGUEZ GUILLERMO KIARA GABRIELA",
+    "supervisor": "MARCELO DIAZ",
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
@@ -3302,82 +3445,17 @@
     "effectiveness": 57.14
   },
   {
-    "usuario": "NET_KLGARCIAA",
-    "nombre": "GARCIA  ARISTA  KATERYN LICET",
-    "supervisor": "JORGE JUSTO",
-    "coordinador": "JOSÉ SOLORZANO",
-    "cuartil": "Q3",
-    "cargo": "ASESOR DE TELEVENTAS",
-    "total": 13,
-    "delivered": 10,
-    "anulado": 1,
-    "cancelado": 1,
-    "effectiveness": 76.92
-  },
-  {
-    "usuario": "NET_KNIZAMAA",
-    "nombre": "NIZAMA ACOSTA KATY LINDA",
-    "supervisor": "FIORELLA QUISPE",
-    "coordinador": "PIERO MEDINA",
-    "cuartil": "Q2",
-    "cargo": "ASESOR DE TELEVENTAS",
-    "total": 30,
-    "delivered": 25,
-    "anulado": 3,
-    "cancelado": 1,
-    "effectiveness": 83.33
-  },
-  {
-    "usuario": "NET_KORTIZD",
-    "nombre": "ORTIZ DIAZ KHATERINE JOYSI",
-    "supervisor": "FIORELLA QUISPE",
-    "coordinador": "PIERO MEDINA",
-    "cuartil": "Q1",
-    "cargo": "ASESOR DE TELEVENTAS",
-    "total": 33,
-    "delivered": 29,
-    "anulado": 1,
-    "cancelado": 1,
-    "effectiveness": 87.88
-  },
-  {
-    "usuario": "NET_KPAJUELOC",
-    "nombre": "PAJUELO CAMACHO KATIUSKA ALEXANDRA",
-    "supervisor": "WALTER VILLARREAL",
-    "coordinador": "JONATHAN CONTRERAS",
-    "cuartil": "N/C",
-    "cargo": "SUPERVISOR DE OPERACIONES",
-    "total": 4,
-    "delivered": 1,
-    "anulado": 2,
-    "cancelado": 1,
-    "effectiveness": 25.0
-  },
-  {
-    "usuario": "NET_KPARRAGUEZG",
-    "nombre": "PARRAGUEZ GUILLERMO KIARA GABRIELA",
-    "supervisor": "MARCELO DIAZ",
-    "coordinador": "PIERO MEDINA",
-    "cuartil": "Q4",
-    "cargo": "ASESOR DE TELEVENTAS",
-    "total": 6,
-    "delivered": 4,
-    "anulado": 1,
-    "cancelado": 0,
-    "effectiveness": 66.67
-  },
-  {
     "usuario": "NET_KQUISPEMUNO",
     "nombre": "QUISPE MUÑOZ KRISTYNA JAZMIN",
     "supervisor": "WALTER VILLARREAL",
     "coordinador": "JONATHAN CONTRERAS",
     "cuartil": "N/C",
     "cargo": "SUPERVISOR DE OPERACIONES",
-    "total": 10,
-    "delivered": 9,
+    "total": 12,
+    "delivered": 11,
     "anulado": 0,
     "cancelado": 0,
-    "effectiveness": 90.0
+    "effectiveness": 91.67
   },
   {
     "usuario": "NET_KROJASNAUPA",
@@ -3386,11 +3464,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 29,
-    "delivered": 17,
-    "anulado": 4,
-    "cancelado": 1,
-    "effectiveness": 58.62
+    "total": 34,
+    "delivered": 22,
+    "anulado": 10,
+    "cancelado": 2,
+    "effectiveness": 64.71
   },
   {
     "usuario": "NET_KSANCHEZ",
@@ -3399,11 +3477,24 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 6,
-    "delivered": 3,
+    "total": 12,
+    "delivered": 9,
     "anulado": 1,
     "cancelado": 2,
-    "effectiveness": 50.0
+    "effectiveness": 75.0
+  },
+  {
+    "usuario": "NET_KSANCHEZV",
+    "nombre": "NET_KSANCHEZV",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 1,
+    "delivered": 1,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 100.0
   },
   {
     "usuario": "NET_KTAYAB",
@@ -3412,11 +3503,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 14,
-    "delivered": 6,
+    "total": 16,
+    "delivered": 8,
     "anulado": 7,
     "cancelado": 1,
-    "effectiveness": 42.86
+    "effectiveness": 50.0
   },
   {
     "usuario": "NET_KTORRESP",
@@ -3425,11 +3516,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 11,
-    "delivered": 3,
-    "anulado": 5,
+    "total": 14,
+    "delivered": 5,
+    "anulado": 6,
     "cancelado": 2,
-    "effectiveness": 27.27
+    "effectiveness": 35.71
   },
   {
     "usuario": "NET_KYUPANQUIC",
@@ -3438,11 +3529,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 20,
-    "delivered": 10,
+    "total": 22,
+    "delivered": 15,
     "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 50.0
+    "effectiveness": 68.18
   },
   {
     "usuario": "NET_KZAPATAV",
@@ -3451,11 +3542,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 17,
+    "total": 18,
     "delivered": 15,
     "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 88.24
+    "effectiveness": 83.33
   },
   {
     "usuario": "NET_KZAVALETAZ",
@@ -3464,11 +3555,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 30,
-    "delivered": 23,
-    "anulado": 4,
+    "total": 35,
+    "delivered": 26,
+    "anulado": 6,
     "cancelado": 2,
-    "effectiveness": 76.67
+    "effectiveness": 74.29
   },
   {
     "usuario": "NET_LALARCONP",
@@ -3477,11 +3568,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 15,
-    "delivered": 7,
-    "anulado": 3,
-    "cancelado": 1,
-    "effectiveness": 46.67
+    "total": 18,
+    "delivered": 9,
+    "anulado": 4,
+    "cancelado": 2,
+    "effectiveness": 50.0
   },
   {
     "usuario": "NET_LALVAREZD",
@@ -3529,11 +3620,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 12,
-    "delivered": 8,
-    "anulado": 0,
+    "total": 16,
+    "delivered": 12,
+    "anulado": 1,
     "cancelado": 1,
-    "effectiveness": 66.67
+    "effectiveness": 75.0
   },
   {
     "usuario": "NET_LCALDERONC",
@@ -3542,15 +3633,106 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 75,
-    "delivered": 68,
-    "anulado": 2,
+    "total": 82,
+    "delivered": 75,
+    "anulado": 3,
     "cancelado": 3,
-    "effectiveness": 90.67
+    "effectiveness": 91.46
   },
   {
     "usuario": "NET_LCALDERONCA",
     "nombre": "NET_LCALDERONCA",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 3,
+    "delivered": 1,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 33.33
+  },
+  {
+    "usuario": "NET_LCAMPOSCABR",
+    "nombre": "CAMPOS CABRERA LEONARDO JAVIER",
+    "supervisor": "RIVALDO DONAYRE",
+    "coordinador": "JOSÉ SOLORZANO",
+    "cuartil": "Q1",
+    "cargo": "ASESOR DE TELEVENTAS",
+    "total": 3,
+    "delivered": 2,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 66.67
+  },
+  {
+    "usuario": "NET_LCAMPOSL",
+    "nombre": "CAMPOS LEÓN LILIANA ZORAIDA",
+    "supervisor": "JORGE JUSTO",
+    "coordinador": "JOSÉ SOLORZANO",
+    "cuartil": "Q4",
+    "cargo": "ASESOR DE TELEVENTAS",
+    "total": 12,
+    "delivered": 3,
+    "anulado": 7,
+    "cancelado": 0,
+    "effectiveness": 25.0
+  },
+  {
+    "usuario": "NET_LCASTILLORI",
+    "nombre": "CASTILLO RIOS LUIS FERNANDO",
+    "supervisor": "RENY BARRAZA",
+    "coordinador": "JOSÉ SOLORZANO",
+    "cuartil": "Q3",
+    "cargo": "ASESOR DE TELEVENTAS",
+    "total": 18,
+    "delivered": 12,
+    "anulado": 5,
+    "cancelado": 0,
+    "effectiveness": 66.67
+  },
+  {
+    "usuario": "NET_LCCASTILLO",
+    "nombre": "CASTILLO CORREA LUZ DELIA",
+    "supervisor": "KIARA RUIZ",
+    "coordinador": "PIERO MEDINA",
+    "cuartil": "Q2",
+    "cargo": "ASESOR DE TELEVENTAS",
+    "total": 21,
+    "delivered": 18,
+    "anulado": 1,
+    "cancelado": 1,
+    "effectiveness": 85.71
+  },
+  {
+    "usuario": "NET_LCEOPAP",
+    "nombre": "CEOPA PISCO LUCIA DEL PILAR",
+    "supervisor": "JORDAN CASTILLO",
+    "coordinador": "EVER MALCA",
+    "cuartil": "Q3",
+    "cargo": "ASESOR DE TELEVENTAS",
+    "total": 23,
+    "delivered": 19,
+    "anulado": 1,
+    "cancelado": 2,
+    "effectiveness": 82.61
+  },
+  {
+    "usuario": "NET_LDIAZ",
+    "nombre": "DIAZ TAPIA LORENA",
+    "supervisor": "SHARON ZAVALA",
+    "coordinador": "JOSÉ SOLORZANO",
+    "cuartil": "Q1",
+    "cargo": "ASESOR DE TELEVENTAS",
+    "total": 23,
+    "delivered": 12,
+    "anulado": 3,
+    "cancelado": 7,
+    "effectiveness": 52.17
+  },
+  {
+    "usuario": "NET_LDIAZA",
+    "nombre": "NET_LDIAZA",
     "supervisor": "No registrado",
     "coordinador": "No registrado",
     "cuartil": "N/A",
@@ -3562,82 +3744,17 @@
     "effectiveness": 0.0
   },
   {
-    "usuario": "NET_LCAMPOSL",
-    "nombre": "CAMPOS LEÓN LILIANA ZORAIDA",
-    "supervisor": "JORGE JUSTO",
-    "coordinador": "JOSÉ SOLORZANO",
-    "cuartil": "Q4",
-    "cargo": "ASESOR DE TELEVENTAS",
-    "total": 10,
-    "delivered": 2,
-    "anulado": 6,
-    "cancelado": 0,
-    "effectiveness": 20.0
-  },
-  {
-    "usuario": "NET_LCASTILLORI",
-    "nombre": "CASTILLO RIOS LUIS FERNANDO",
-    "supervisor": "RENY BARRAZA",
-    "coordinador": "JOSÉ SOLORZANO",
-    "cuartil": "Q3",
-    "cargo": "ASESOR DE TELEVENTAS",
-    "total": 14,
-    "delivered": 10,
-    "anulado": 3,
-    "cancelado": 0,
-    "effectiveness": 71.43
-  },
-  {
-    "usuario": "NET_LCCASTILLO",
-    "nombre": "CASTILLO CORREA LUZ DELIA",
-    "supervisor": "KIARA RUIZ",
-    "coordinador": "PIERO MEDINA",
-    "cuartil": "Q2",
-    "cargo": "ASESOR DE TELEVENTAS",
-    "total": 14,
-    "delivered": 12,
-    "anulado": 0,
-    "cancelado": 1,
-    "effectiveness": 85.71
-  },
-  {
-    "usuario": "NET_LCEOPAP",
-    "nombre": "CEOPA PISCO LUCIA DEL PILAR",
-    "supervisor": "JORDAN CASTILLO",
-    "coordinador": "EVER MALCA",
-    "cuartil": "Q3",
-    "cargo": "ASESOR DE TELEVENTAS",
-    "total": 18,
-    "delivered": 14,
-    "anulado": 1,
-    "cancelado": 2,
-    "effectiveness": 77.78
-  },
-  {
-    "usuario": "NET_LDIAZ",
-    "nombre": "DIAZ TAPIA LORENA",
-    "supervisor": "SHARON ZAVALA",
-    "coordinador": "JOSÉ SOLORZANO",
-    "cuartil": "Q1",
-    "cargo": "ASESOR DE TELEVENTAS",
-    "total": 23,
-    "delivered": 11,
-    "anulado": 3,
-    "cancelado": 6,
-    "effectiveness": 47.83
-  },
-  {
     "usuario": "NET_LDIAZM",
     "nombre": "DIAZ MERA LEDI YOVANI",
     "supervisor": "JUAN IYASHAMA",
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 14,
-    "delivered": 10,
-    "anulado": 1,
+    "total": 16,
+    "delivered": 12,
+    "anulado": 2,
     "cancelado": 2,
-    "effectiveness": 71.43
+    "effectiveness": 75.0
   },
   {
     "usuario": "NET_LFERNANDEZY",
@@ -3659,11 +3776,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 15,
-    "delivered": 11,
+    "total": 17,
+    "delivered": 12,
     "anulado": 3,
     "cancelado": 1,
-    "effectiveness": 73.33
+    "effectiveness": 70.59
   },
   {
     "usuario": "NET_LFLORESY",
@@ -3672,11 +3789,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 28,
-    "delivered": 20,
+    "total": 30,
+    "delivered": 24,
     "anulado": 1,
-    "cancelado": 2,
-    "effectiveness": 71.43
+    "cancelado": 4,
+    "effectiveness": 80.0
   },
   {
     "usuario": "NET_LGOMEZA",
@@ -3685,11 +3802,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 34,
-    "delivered": 29,
+    "total": 42,
+    "delivered": 34,
     "anulado": 2,
     "cancelado": 1,
-    "effectiveness": 85.29
+    "effectiveness": 80.95
   },
   {
     "usuario": "NET_LLEIVAH",
@@ -3698,11 +3815,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 9,
-    "delivered": 4,
-    "anulado": 2,
+    "total": 11,
+    "delivered": 6,
+    "anulado": 4,
     "cancelado": 1,
-    "effectiveness": 44.44
+    "effectiveness": 54.55
   },
   {
     "usuario": "NET_LLEONAN",
@@ -3711,11 +3828,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 28,
-    "delivered": 20,
-    "anulado": 4,
+    "total": 37,
+    "delivered": 23,
+    "anulado": 10,
     "cancelado": 0,
-    "effectiveness": 71.43
+    "effectiveness": 62.16
   },
   {
     "usuario": "NET_LLOBATONV",
@@ -3724,11 +3841,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 29,
-    "delivered": 23,
-    "anulado": 6,
+    "total": 34,
+    "delivered": 26,
+    "anulado": 7,
     "cancelado": 0,
-    "effectiveness": 79.31
+    "effectiveness": 76.47
   },
   {
     "usuario": "NET_LLOPEZM",
@@ -3737,11 +3854,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 23,
-    "delivered": 15,
+    "total": 24,
+    "delivered": 16,
     "anulado": 3,
     "cancelado": 2,
-    "effectiveness": 65.22
+    "effectiveness": 66.67
   },
   {
     "usuario": "NET_LMACARLUPUP",
@@ -3750,8 +3867,8 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 3,
-    "delivered": 3,
+    "total": 4,
+    "delivered": 4,
     "anulado": 0,
     "cancelado": 0,
     "effectiveness": 100.0
@@ -3776,11 +3893,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 23,
-    "delivered": 15,
-    "anulado": 5,
+    "total": 26,
+    "delivered": 16,
+    "anulado": 6,
     "cancelado": 0,
-    "effectiveness": 65.22
+    "effectiveness": 61.54
   },
   {
     "usuario": "NET_LMARTINEZAR",
@@ -3796,17 +3913,30 @@
     "effectiveness": 100.0
   },
   {
+    "usuario": "NET_LMCALDERONC",
+    "nombre": "NET_LMCALDERONC",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 3,
+    "delivered": 2,
+    "anulado": 1,
+    "cancelado": 0,
+    "effectiveness": 66.67
+  },
+  {
     "usuario": "NET_LMORAO",
     "nombre": "MORA OLAYA LUIS EDUARDO",
     "supervisor": "JORDAN CASTILLO",
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 16,
-    "delivered": 14,
+    "total": 19,
+    "delivered": 17,
     "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 87.5
+    "effectiveness": 89.47
   },
   {
     "usuario": "NET_LMUSAYONS",
@@ -3815,11 +3945,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 26,
-    "delivered": 14,
-    "anulado": 5,
+    "total": 30,
+    "delivered": 18,
+    "anulado": 7,
     "cancelado": 3,
-    "effectiveness": 53.85
+    "effectiveness": 60.0
   },
   {
     "usuario": "NET_LNARVAEZR",
@@ -3828,11 +3958,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 21,
-    "delivered": 8,
-    "anulado": 7,
-    "cancelado": 1,
-    "effectiveness": 38.1
+    "total": 27,
+    "delivered": 9,
+    "anulado": 14,
+    "cancelado": 2,
+    "effectiveness": 33.33
   },
   {
     "usuario": "NET_LNECIOSUPC",
@@ -3841,11 +3971,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 54,
-    "delivered": 26,
+    "total": 64,
+    "delivered": 36,
     "anulado": 17,
-    "cancelado": 5,
-    "effectiveness": 48.15
+    "cancelado": 7,
+    "effectiveness": 56.25
   },
   {
     "usuario": "NET_LOPEZDI",
@@ -3854,11 +3984,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 44,
-    "delivered": 36,
-    "anulado": 6,
+    "total": 46,
+    "delivered": 38,
+    "anulado": 7,
     "cancelado": 1,
-    "effectiveness": 81.82
+    "effectiveness": 82.61
   },
   {
     "usuario": "NET_LPADILLAC",
@@ -3867,11 +3997,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 11,
-    "delivered": 9,
+    "total": 14,
+    "delivered": 12,
     "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 81.82
+    "effectiveness": 85.71
   },
   {
     "usuario": "NET_LPASCUALH",
@@ -3880,11 +4010,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 4,
-    "delivered": 2,
+    "total": 6,
+    "delivered": 4,
     "anulado": 1,
-    "cancelado": 0,
-    "effectiveness": 50.0
+    "cancelado": 1,
+    "effectiveness": 66.67
   },
   {
     "usuario": "NET_LPINTOH",
@@ -3893,11 +4023,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 8,
-    "delivered": 5,
-    "anulado": 1,
+    "total": 10,
+    "delivered": 7,
+    "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 62.5
+    "effectiveness": 70.0
   },
   {
     "usuario": "NET_LRAMIREZV",
@@ -3906,11 +4036,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 5,
+    "total": 6,
     "delivered": 5,
     "anulado": 0,
     "cancelado": 0,
-    "effectiveness": 100.0
+    "effectiveness": 83.33
   },
   {
     "usuario": "NET_LRAMOSC",
@@ -3932,11 +4062,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 18,
-    "delivered": 8,
-    "anulado": 5,
+    "total": 21,
+    "delivered": 12,
+    "anulado": 6,
     "cancelado": 3,
-    "effectiveness": 44.44
+    "effectiveness": 57.14
   },
   {
     "usuario": "NET_LROSALESA",
@@ -3945,11 +4075,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 7,
-    "delivered": 3,
-    "anulado": 1,
+    "total": 9,
+    "delivered": 6,
+    "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 42.86
+    "effectiveness": 66.67
   },
   {
     "usuario": "NET_LRTIQUILLAH",
@@ -3971,11 +4101,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 24,
-    "delivered": 20,
-    "anulado": 2,
+    "total": 33,
+    "delivered": 26,
+    "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 83.33
+    "effectiveness": 78.79
   },
   {
     "usuario": "NET_LRUIZL",
@@ -3984,11 +4114,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 9,
-    "delivered": 6,
+    "total": 10,
+    "delivered": 7,
     "anulado": 1,
     "cancelado": 2,
-    "effectiveness": 66.67
+    "effectiveness": 70.0
   },
   {
     "usuario": "NET_LTAMAYOD",
@@ -3997,11 +4127,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 44,
-    "delivered": 33,
+    "total": 52,
+    "delivered": 42,
     "anulado": 4,
-    "cancelado": 4,
-    "effectiveness": 75.0
+    "cancelado": 5,
+    "effectiveness": 80.77
   },
   {
     "usuario": "NET_LTELLOC",
@@ -4010,11 +4140,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 12,
-    "delivered": 9,
-    "anulado": 1,
+    "total": 15,
+    "delivered": 10,
+    "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 75.0
+    "effectiveness": 66.67
   },
   {
     "usuario": "NET_LTORRESPU",
@@ -4036,11 +4166,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 15,
-    "delivered": 7,
-    "anulado": 2,
+    "total": 18,
+    "delivered": 10,
+    "anulado": 5,
     "cancelado": 3,
-    "effectiveness": 46.67
+    "effectiveness": 55.56
   },
   {
     "usuario": "NET_LVASQUEZT",
@@ -4049,11 +4179,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 20,
+    "total": 27,
     "delivered": 18,
-    "anulado": 0,
+    "anulado": 2,
     "cancelado": 1,
-    "effectiveness": 90.0
+    "effectiveness": 66.67
   },
   {
     "usuario": "NET_LVIZCARRARO",
@@ -4062,11 +4192,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 23,
-    "delivered": 17,
-    "anulado": 3,
+    "total": 28,
+    "delivered": 21,
+    "anulado": 4,
     "cancelado": 3,
-    "effectiveness": 73.91
+    "effectiveness": 75.0
   },
   {
     "usuario": "NET_LYAIPENARRO",
@@ -4075,11 +4205,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 11,
-    "delivered": 8,
+    "total": 17,
+    "delivered": 10,
     "anulado": 2,
-    "cancelado": 0,
-    "effectiveness": 72.73
+    "cancelado": 1,
+    "effectiveness": 58.82
   },
   {
     "usuario": "NET_LYESQUENP",
@@ -4088,11 +4218,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 8,
-    "delivered": 3,
+    "total": 12,
+    "delivered": 6,
     "anulado": 2,
     "cancelado": 2,
-    "effectiveness": 37.5
+    "effectiveness": 50.0
   },
   {
     "usuario": "NET_MALCANTARAV",
@@ -4114,11 +4244,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 9,
-    "delivered": 7,
-    "anulado": 1,
+    "total": 13,
+    "delivered": 9,
+    "anulado": 3,
     "cancelado": 1,
-    "effectiveness": 77.78
+    "effectiveness": 69.23
   },
   {
     "usuario": "NET_MBARTURENO",
@@ -4127,11 +4257,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 23,
-    "delivered": 16,
-    "anulado": 4,
+    "total": 30,
+    "delivered": 20,
+    "anulado": 5,
     "cancelado": 2,
-    "effectiveness": 69.57
+    "effectiveness": 66.67
   },
   {
     "usuario": "NET_MCASTILLOC",
@@ -4140,11 +4270,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 31,
-    "delivered": 15,
-    "anulado": 14,
+    "total": 36,
+    "delivered": 18,
+    "anulado": 16,
     "cancelado": 0,
-    "effectiveness": 48.39
+    "effectiveness": 50.0
   },
   {
     "usuario": "NET_MCELISG",
@@ -4153,11 +4283,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 26,
-    "delivered": 16,
-    "anulado": 3,
+    "total": 30,
+    "delivered": 19,
+    "anulado": 8,
     "cancelado": 1,
-    "effectiveness": 61.54
+    "effectiveness": 63.33
   },
   {
     "usuario": "NET_MCGARCIAG",
@@ -4166,11 +4296,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 9,
-    "delivered": 6,
+    "total": 10,
+    "delivered": 9,
     "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 66.67
+    "effectiveness": 90.0
   },
   {
     "usuario": "NET_MCHAMPIR",
@@ -4192,11 +4322,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 14,
+    "total": 19,
     "delivered": 13,
     "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 92.86
+    "effectiveness": 68.42
   },
   {
     "usuario": "NET_MCORDOVACRU",
@@ -4205,11 +4335,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 41,
-    "delivered": 29,
-    "anulado": 5,
-    "cancelado": 1,
-    "effectiveness": 70.73
+    "total": 52,
+    "delivered": 38,
+    "anulado": 7,
+    "cancelado": 2,
+    "effectiveness": 73.08
   },
   {
     "usuario": "NET_MCRUZS",
@@ -4218,11 +4348,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 23,
-    "delivered": 13,
+    "total": 27,
+    "delivered": 15,
     "anulado": 2,
-    "cancelado": 6,
-    "effectiveness": 56.52
+    "cancelado": 7,
+    "effectiveness": 55.56
   },
   {
     "usuario": "NET_MCSANCHEZ",
@@ -4231,11 +4361,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 15,
-    "delivered": 8,
-    "anulado": 3,
+    "total": 21,
+    "delivered": 12,
+    "anulado": 6,
     "cancelado": 3,
-    "effectiveness": 53.33
+    "effectiveness": 57.14
   },
   {
     "usuario": "NET_MCVASQUEZ",
@@ -4244,11 +4374,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 86,
-    "delivered": 73,
-    "anulado": 4,
-    "cancelado": 4,
-    "effectiveness": 84.88
+    "total": 103,
+    "delivered": 89,
+    "anulado": 6,
+    "cancelado": 5,
+    "effectiveness": 86.41
   },
   {
     "usuario": "NET_MDIAZJ",
@@ -4270,11 +4400,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 43,
-    "delivered": 26,
-    "anulado": 6,
-    "cancelado": 6,
-    "effectiveness": 60.47
+    "total": 57,
+    "delivered": 35,
+    "anulado": 7,
+    "cancelado": 11,
+    "effectiveness": 61.4
   },
   {
     "usuario": "NET_MEDIAZ",
@@ -4283,11 +4413,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 6,
-    "delivered": 4,
+    "total": 10,
+    "delivered": 7,
     "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 66.67
+    "effectiveness": 70.0
   },
   {
     "usuario": "NET_MESPINOZAG",
@@ -4309,11 +4439,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 47,
-    "delivered": 20,
-    "anulado": 16,
+    "total": 52,
+    "delivered": 23,
+    "anulado": 17,
     "cancelado": 11,
-    "effectiveness": 42.55
+    "effectiveness": 44.23
   },
   {
     "usuario": "NET_MFLORESD",
@@ -4322,11 +4452,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 25,
-    "delivered": 19,
-    "anulado": 1,
+    "total": 32,
+    "delivered": 25,
+    "anulado": 3,
     "cancelado": 2,
-    "effectiveness": 76.0
+    "effectiveness": 78.12
   },
   {
     "usuario": "NET_MGONZALESPE",
@@ -4335,11 +4465,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 32,
-    "delivered": 18,
-    "anulado": 4,
+    "total": 35,
+    "delivered": 22,
+    "anulado": 5,
     "cancelado": 8,
-    "effectiveness": 56.25
+    "effectiveness": 62.86
   },
   {
     "usuario": "NET_MGONZALESR",
@@ -4348,11 +4478,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 12,
-    "delivered": 11,
-    "anulado": 0,
+    "total": 15,
+    "delivered": 13,
+    "anulado": 1,
     "cancelado": 1,
-    "effectiveness": 91.67
+    "effectiveness": 86.67
   },
   {
     "usuario": "NET_MGSGRADOS",
@@ -4361,11 +4491,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 17,
-    "delivered": 14,
+    "total": 21,
+    "delivered": 16,
     "anulado": 0,
     "cancelado": 3,
-    "effectiveness": 82.35
+    "effectiveness": 76.19
   },
   {
     "usuario": "NET_MHOYOSV",
@@ -4374,11 +4504,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 10,
-    "delivered": 10,
-    "anulado": 0,
+    "total": 14,
+    "delivered": 12,
+    "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 100.0
+    "effectiveness": 85.71
   },
   {
     "usuario": "NET_MHUAPAYAQ",
@@ -4387,11 +4517,11 @@
     "coordinador": "JONATHAN CONTRERAS",
     "cuartil": "N/C",
     "cargo": "BACKOFFICE",
-    "total": 18,
-    "delivered": 5,
+    "total": 23,
+    "delivered": 8,
     "anulado": 6,
-    "cancelado": 3,
-    "effectiveness": 27.78
+    "cancelado": 4,
+    "effectiveness": 34.78
   },
   {
     "usuario": "NET_MLANDAS",
@@ -4413,11 +4543,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 17,
+    "total": 19,
     "delivered": 15,
-    "anulado": 1,
+    "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 88.24
+    "effectiveness": 78.95
   },
   {
     "usuario": "NET_MLOPEZP",
@@ -4426,11 +4556,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 8,
-    "delivered": 5,
-    "anulado": 1,
+    "total": 12,
+    "delivered": 6,
+    "anulado": 2,
     "cancelado": 1,
-    "effectiveness": 62.5
+    "effectiveness": 50.0
   },
   {
     "usuario": "NET_MLOPEZS",
@@ -4439,11 +4569,11 @@
     "coordinador": "JONATHAN CONTRERAS",
     "cuartil": "N/C",
     "cargo": "BACKOFFICE",
-    "total": 4,
+    "total": 6,
     "delivered": 2,
-    "anulado": 0,
+    "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 50.0
+    "effectiveness": 33.33
   },
   {
     "usuario": "NET_MMARTINEZV",
@@ -4453,10 +4583,10 @@
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
     "total": 9,
-    "delivered": 2,
-    "anulado": 3,
+    "delivered": 3,
+    "anulado": 5,
     "cancelado": 1,
-    "effectiveness": 22.22
+    "effectiveness": 33.33
   },
   {
     "usuario": "NET_MMORANM",
@@ -4465,11 +4595,11 @@
     "coordinador": "OPERACIONES",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 12,
-    "delivered": 4,
-    "anulado": 7,
+    "total": 16,
+    "delivered": 8,
+    "anulado": 8,
     "cancelado": 0,
-    "effectiveness": 33.33
+    "effectiveness": 50.0
   },
   {
     "usuario": "NET_MMREVILLA",
@@ -4478,11 +4608,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 40,
-    "delivered": 24,
-    "anulado": 5,
+    "total": 42,
+    "delivered": 27,
+    "anulado": 7,
     "cancelado": 2,
-    "effectiveness": 60.0
+    "effectiveness": 64.29
   },
   {
     "usuario": "NET_MNEGRETE",
@@ -4491,11 +4621,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 30,
-    "delivered": 12,
-    "anulado": 8,
-    "cancelado": 4,
-    "effectiveness": 40.0
+    "total": 34,
+    "delivered": 15,
+    "anulado": 9,
+    "cancelado": 6,
+    "effectiveness": 44.12
   },
   {
     "usuario": "NET_MORIHUELAQ",
@@ -4504,11 +4634,24 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 74,
-    "delivered": 65,
-    "anulado": 7,
+    "total": 90,
+    "delivered": 76,
+    "anulado": 8,
     "cancelado": 2,
-    "effectiveness": 87.84
+    "effectiveness": 84.44
+  },
+  {
+    "usuario": "NET_MPOSTILLONQ",
+    "nombre": "NET_MPOSTILLONQ",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 2,
+    "delivered": 0,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 0.0
   },
   {
     "usuario": "NET_MQUISPITONO",
@@ -4517,11 +4660,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 8,
-    "delivered": 6,
+    "total": 9,
+    "delivered": 7,
     "anulado": 0,
-    "cancelado": 0,
-    "effectiveness": 75.0
+    "cancelado": 2,
+    "effectiveness": 77.78
   },
   {
     "usuario": "NET_MREZAH",
@@ -4530,11 +4673,24 @@
     "coordinador": "OJT",
     "cuartil": "OJT",
     "cargo": "OJT",
-    "total": 7,
-    "delivered": 5,
-    "anulado": 0,
+    "total": 10,
+    "delivered": 6,
+    "anulado": 2,
+    "cancelado": 1,
+    "effectiveness": 60.0
+  },
+  {
+    "usuario": "NET_MRIOSV",
+    "nombre": "NET_MRIOSV",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 1,
+    "delivered": 0,
+    "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 71.43
+    "effectiveness": 0.0
   },
   {
     "usuario": "NET_MROJASS",
@@ -4543,11 +4699,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 26,
-    "delivered": 13,
-    "anulado": 7,
-    "cancelado": 2,
-    "effectiveness": 50.0
+    "total": 31,
+    "delivered": 18,
+    "anulado": 9,
+    "cancelado": 3,
+    "effectiveness": 58.06
   },
   {
     "usuario": "NET_MRUIZSANCHC",
@@ -4556,11 +4712,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 11,
-    "delivered": 9,
+    "total": 17,
+    "delivered": 13,
     "anulado": 2,
-    "cancelado": 0,
-    "effectiveness": 81.82
+    "cancelado": 1,
+    "effectiveness": 76.47
   },
   {
     "usuario": "NET_MSUAREZG",
@@ -4569,11 +4725,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 18,
-    "delivered": 6,
+    "total": 26,
+    "delivered": 7,
     "anulado": 6,
-    "cancelado": 5,
-    "effectiveness": 33.33
+    "cancelado": 7,
+    "effectiveness": 26.92
   },
   {
     "usuario": "NET_MTELLOG",
@@ -4582,11 +4738,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 9,
-    "delivered": 4,
+    "total": 11,
+    "delivered": 6,
     "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 44.44
+    "effectiveness": 54.55
   },
   {
     "usuario": "NET_MUBILLUSR",
@@ -4595,11 +4751,24 @@
     "coordinador": "OPERACIONES",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 11,
-    "delivered": 8,
+    "total": 15,
+    "delivered": 11,
+    "anulado": 1,
+    "cancelado": 0,
+    "effectiveness": 73.33
+  },
+  {
+    "usuario": "NET_MVALIENTES",
+    "nombre": "NET_MVALIENTES",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 1,
+    "delivered": 0,
     "anulado": 0,
     "cancelado": 0,
-    "effectiveness": 72.73
+    "effectiveness": 0.0
   },
   {
     "usuario": "NET_MVASQUEZV",
@@ -4608,11 +4777,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 11,
-    "delivered": 7,
-    "anulado": 2,
+    "total": 12,
+    "delivered": 8,
+    "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 63.64
+    "effectiveness": 66.67
   },
   {
     "usuario": "NET_MZEVALLOSMA",
@@ -4621,11 +4790,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 11,
-    "delivered": 9,
+    "total": 13,
+    "delivered": 11,
     "anulado": 0,
     "cancelado": 1,
-    "effectiveness": 81.82
+    "effectiveness": 84.62
   },
   {
     "usuario": "NET_NBURGAR",
@@ -4634,11 +4803,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 31,
-    "delivered": 26,
-    "anulado": 3,
+    "total": 37,
+    "delivered": 31,
+    "anulado": 4,
     "cancelado": 1,
-    "effectiveness": 83.87
+    "effectiveness": 83.78
   },
   {
     "usuario": "NET_NCANCHOP",
@@ -4647,11 +4816,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 15,
-    "delivered": 8,
+    "total": 23,
+    "delivered": 18,
     "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 53.33
+    "effectiveness": 78.26
   },
   {
     "usuario": "NET_NCASTILLOF",
@@ -4662,7 +4831,7 @@
     "cargo": "ASESOR DE TELEVENTAS",
     "total": 9,
     "delivered": 8,
-    "anulado": 0,
+    "anulado": 1,
     "cancelado": 0,
     "effectiveness": 88.89
   },
@@ -4686,11 +4855,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 6,
-    "delivered": 3,
-    "anulado": 1,
+    "total": 8,
+    "delivered": 5,
+    "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 50.0
+    "effectiveness": 62.5
   },
   {
     "usuario": "NET_NPINAR",
@@ -4699,11 +4868,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 11,
-    "delivered": 9,
+    "total": 14,
+    "delivered": 12,
     "anulado": 0,
     "cancelado": 2,
-    "effectiveness": 81.82
+    "effectiveness": 85.71
   },
   {
     "usuario": "NET_NRUBIOMARCO",
@@ -4712,11 +4881,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 17,
-    "delivered": 16,
+    "total": 26,
+    "delivered": 23,
     "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 94.12
+    "effectiveness": 88.46
   },
   {
     "usuario": "NET_NSANTAMARIA",
@@ -4725,11 +4894,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 35,
-    "delivered": 23,
-    "anulado": 1,
-    "cancelado": 8,
-    "effectiveness": 65.71
+    "total": 46,
+    "delivered": 29,
+    "anulado": 5,
+    "cancelado": 10,
+    "effectiveness": 63.04
   },
   {
     "usuario": "NET_NYROJASM",
@@ -4738,11 +4907,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 11,
-    "delivered": 8,
-    "anulado": 2,
+    "total": 15,
+    "delivered": 11,
+    "anulado": 3,
     "cancelado": 1,
-    "effectiveness": 72.73
+    "effectiveness": 73.33
   },
   {
     "usuario": "NET_OGUERREROR",
@@ -4751,11 +4920,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 6,
-    "delivered": 4,
+    "total": 8,
+    "delivered": 6,
     "anulado": 1,
     "cancelado": 1,
-    "effectiveness": 66.67
+    "effectiveness": 75.0
   },
   {
     "usuario": "NET_OSANCHEZP",
@@ -4764,11 +4933,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 5,
-    "delivered": 1,
-    "anulado": 2,
+    "total": 7,
+    "delivered": 4,
+    "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 20.0
+    "effectiveness": 57.14
   },
   {
     "usuario": "NET_PCHAVESTAY",
@@ -4777,11 +4946,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 19,
-    "delivered": 13,
-    "anulado": 1,
-    "cancelado": 4,
-    "effectiveness": 68.42
+    "total": 24,
+    "delivered": 16,
+    "anulado": 2,
+    "cancelado": 5,
+    "effectiveness": 66.67
   },
   {
     "usuario": "NET_PHUAMANM",
@@ -4790,11 +4959,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 22,
-    "delivered": 15,
+    "total": 23,
+    "delivered": 17,
     "anulado": 4,
-    "cancelado": 1,
-    "effectiveness": 68.18
+    "cancelado": 2,
+    "effectiveness": 73.91
   },
   {
     "usuario": "NET_POBANDOL",
@@ -4803,11 +4972,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 15,
+    "total": 16,
     "delivered": 6,
-    "anulado": 2,
+    "anulado": 3,
     "cancelado": 3,
-    "effectiveness": 40.0
+    "effectiveness": 37.5
   },
   {
     "usuario": "NET_PSANCHEZE",
@@ -4816,11 +4985,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 27,
-    "delivered": 19,
-    "anulado": 5,
+    "total": 35,
+    "delivered": 24,
+    "anulado": 6,
     "cancelado": 2,
-    "effectiveness": 70.37
+    "effectiveness": 68.57
   },
   {
     "usuario": "NET_PTORRESR",
@@ -4829,11 +4998,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 17,
+    "total": 18,
     "delivered": 12,
-    "anulado": 4,
+    "anulado": 5,
     "cancelado": 1,
-    "effectiveness": 70.59
+    "effectiveness": 66.67
   },
   {
     "usuario": "NET_PVEGAC",
@@ -4842,11 +5011,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 21,
-    "delivered": 17,
-    "anulado": 1,
+    "total": 26,
+    "delivered": 20,
+    "anulado": 3,
     "cancelado": 2,
-    "effectiveness": 80.95
+    "effectiveness": 76.92
   },
   {
     "usuario": "NET_PVILCAC",
@@ -4855,11 +5024,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 8,
-    "delivered": 4,
-    "anulado": 2,
+    "total": 11,
+    "delivered": 5,
+    "anulado": 4,
     "cancelado": 2,
-    "effectiveness": 50.0
+    "effectiveness": 45.45
   },
   {
     "usuario": "NET_PYGARCIAG",
@@ -4868,11 +5037,11 @@
     "coordinador": "OPERACIONES",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 13,
+    "total": 14,
     "delivered": 8,
-    "anulado": 3,
+    "anulado": 4,
     "cancelado": 1,
-    "effectiveness": 61.54
+    "effectiveness": 57.14
   },
   {
     "usuario": "NET_RALARCONT",
@@ -4881,11 +5050,11 @@
     "coordinador": "OJT",
     "cuartil": "OJT",
     "cargo": "OJT",
-    "total": 6,
+    "total": 8,
     "delivered": 5,
-    "anulado": 0,
+    "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 83.33
+    "effectiveness": 62.5
   },
   {
     "usuario": "NET_RALVAREZV",
@@ -4896,7 +5065,7 @@
     "cargo": "ASESOR DE TELEVENTAS",
     "total": 10,
     "delivered": 7,
-    "anulado": 1,
+    "anulado": 3,
     "cancelado": 0,
     "effectiveness": 70.0
   },
@@ -4920,11 +5089,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 27,
-    "delivered": 23,
-    "anulado": 1,
+    "total": 30,
+    "delivered": 26,
+    "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 85.19
+    "effectiveness": 86.67
   },
   {
     "usuario": "NET_RCANDIOTTIA",
@@ -4933,11 +5102,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 39,
-    "delivered": 25,
-    "anulado": 10,
+    "total": 50,
+    "delivered": 34,
+    "anulado": 12,
     "cancelado": 0,
-    "effectiveness": 64.1
+    "effectiveness": 68.0
   },
   {
     "usuario": "NET_RCARDENASH",
@@ -4946,11 +5115,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 20,
-    "delivered": 15,
-    "anulado": 1,
+    "total": 24,
+    "delivered": 21,
+    "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 75.0
+    "effectiveness": 87.5
   },
   {
     "usuario": "NET_RCASTANEDAR",
@@ -4959,11 +5128,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 29,
-    "delivered": 17,
+    "total": 36,
+    "delivered": 23,
     "anulado": 10,
     "cancelado": 1,
-    "effectiveness": 58.62
+    "effectiveness": 63.89
   },
   {
     "usuario": "NET_RCEVERINOL",
@@ -4972,11 +5141,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 24,
-    "delivered": 15,
+    "total": 31,
+    "delivered": 21,
     "anulado": 5,
     "cancelado": 2,
-    "effectiveness": 62.5
+    "effectiveness": 67.74
   },
   {
     "usuario": "NET_RCORDOVAC",
@@ -4985,11 +5154,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 21,
-    "delivered": 11,
+    "total": 26,
+    "delivered": 13,
     "anulado": 4,
-    "cancelado": 4,
-    "effectiveness": 52.38
+    "cancelado": 5,
+    "effectiveness": 50.0
   },
   {
     "usuario": "NET_RDULANTORO",
@@ -4998,11 +5167,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 27,
-    "delivered": 19,
-    "anulado": 2,
+    "total": 29,
+    "delivered": 24,
+    "anulado": 3,
     "cancelado": 1,
-    "effectiveness": 70.37
+    "effectiveness": 82.76
   },
   {
     "usuario": "NET_RFIGUEROAR",
@@ -5011,11 +5180,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 9,
-    "delivered": 4,
+    "total": 11,
+    "delivered": 7,
     "anulado": 1,
     "cancelado": 2,
-    "effectiveness": 44.44
+    "effectiveness": 63.64
   },
   {
     "usuario": "NET_RGALVEZC",
@@ -5024,11 +5193,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 16,
-    "delivered": 13,
+    "total": 17,
+    "delivered": 15,
     "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 81.25
+    "effectiveness": 88.24
   },
   {
     "usuario": "NET_RGUTIERREZS",
@@ -5037,11 +5206,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 21,
-    "delivered": 19,
+    "total": 29,
+    "delivered": 24,
     "anulado": 1,
-    "cancelado": 0,
-    "effectiveness": 90.48
+    "cancelado": 1,
+    "effectiveness": 82.76
   },
   {
     "usuario": "NET_RIZACUPEC",
@@ -5050,11 +5219,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 14,
-    "delivered": 14,
+    "total": 17,
+    "delivered": 16,
     "anulado": 0,
     "cancelado": 0,
-    "effectiveness": 100.0
+    "effectiveness": 94.12
   },
   {
     "usuario": "NET_RMRAMIREZ",
@@ -5063,11 +5232,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 33,
-    "delivered": 23,
-    "anulado": 6,
+    "total": 44,
+    "delivered": 27,
+    "anulado": 7,
     "cancelado": 2,
-    "effectiveness": 69.7
+    "effectiveness": 61.36
   },
   {
     "usuario": "NET_RNUNEZH",
@@ -5076,11 +5245,11 @@
     "coordinador": "OPERACIONES",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 13,
-    "delivered": 5,
+    "total": 15,
+    "delivered": 8,
     "anulado": 6,
     "cancelado": 0,
-    "effectiveness": 38.46
+    "effectiveness": 53.33
   },
   {
     "usuario": "NET_RPOLOD",
@@ -5089,11 +5258,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 12,
-    "delivered": 6,
+    "total": 13,
+    "delivered": 7,
     "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 50.0
+    "effectiveness": 53.85
   },
   {
     "usuario": "NET_RSTORRESP",
@@ -5102,11 +5271,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 14,
-    "delivered": 11,
-    "anulado": 1,
+    "total": 15,
+    "delivered": 12,
+    "anulado": 2,
     "cancelado": 1,
-    "effectiveness": 78.57
+    "effectiveness": 80.0
   },
   {
     "usuario": "NET_RTORRESB",
@@ -5115,11 +5284,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 26,
-    "delivered": 15,
-    "anulado": 3,
-    "cancelado": 1,
-    "effectiveness": 57.69
+    "total": 36,
+    "delivered": 21,
+    "anulado": 6,
+    "cancelado": 5,
+    "effectiveness": 58.33
   },
   {
     "usuario": "NET_RURBINAG",
@@ -5128,11 +5297,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 35,
-    "delivered": 26,
+    "total": 43,
+    "delivered": 31,
     "anulado": 4,
-    "cancelado": 4,
-    "effectiveness": 74.29
+    "cancelado": 6,
+    "effectiveness": 72.09
   },
   {
     "usuario": "NET_SANTONM",
@@ -5141,11 +5310,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 9,
+    "total": 10,
     "delivered": 6,
-    "anulado": 0,
+    "anulado": 1,
     "cancelado": 2,
-    "effectiveness": 66.67
+    "effectiveness": 60.0
   },
   {
     "usuario": "NET_SAVILAC",
@@ -5154,11 +5323,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 19,
-    "delivered": 16,
-    "anulado": 1,
+    "total": 22,
+    "delivered": 19,
+    "anulado": 2,
     "cancelado": 1,
-    "effectiveness": 84.21
+    "effectiveness": 86.36
   },
   {
     "usuario": "NET_SBACAD",
@@ -5167,11 +5336,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 26,
-    "delivered": 22,
-    "anulado": 1,
+    "total": 35,
+    "delivered": 30,
+    "anulado": 2,
     "cancelado": 1,
-    "effectiveness": 84.62
+    "effectiveness": 85.71
   },
   {
     "usuario": "NET_SBENITESL",
@@ -5180,11 +5349,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 45,
-    "delivered": 37,
+    "total": 48,
+    "delivered": 40,
     "anulado": 5,
     "cancelado": 0,
-    "effectiveness": 82.22
+    "effectiveness": 83.33
   },
   {
     "usuario": "NET_SBENITOV",
@@ -5193,11 +5362,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 21,
-    "delivered": 12,
-    "anulado": 2,
-    "cancelado": 5,
-    "effectiveness": 57.14
+    "total": 34,
+    "delivered": 19,
+    "anulado": 3,
+    "cancelado": 7,
+    "effectiveness": 55.88
   },
   {
     "usuario": "NET_SCANTOT",
@@ -5206,11 +5375,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 23,
-    "delivered": 17,
+    "total": 29,
+    "delivered": 23,
     "anulado": 0,
     "cancelado": 5,
-    "effectiveness": 73.91
+    "effectiveness": 79.31
   },
   {
     "usuario": "NET_SCAVEROC",
@@ -5219,11 +5388,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 23,
-    "delivered": 19,
+    "total": 28,
+    "delivered": 23,
     "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 82.61
+    "effectiveness": 82.14
   },
   {
     "usuario": "NET_SCHUMIOQUEP",
@@ -5232,11 +5401,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 34,
-    "delivered": 27,
+    "total": 40,
+    "delivered": 33,
     "anulado": 1,
     "cancelado": 5,
-    "effectiveness": 79.41
+    "effectiveness": 82.5
   },
   {
     "usuario": "NET_SCOVENASC",
@@ -5245,11 +5414,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 14,
-    "delivered": 12,
+    "total": 16,
+    "delivered": 14,
     "anulado": 1,
-    "cancelado": 0,
-    "effectiveness": 85.71
+    "cancelado": 1,
+    "effectiveness": 87.5
   },
   {
     "usuario": "NET_SDEDIOSO",
@@ -5258,11 +5427,11 @@
     "coordinador": "OPERACIONES",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 7,
+    "total": 9,
     "delivered": 3,
     "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 42.86
+    "effectiveness": 33.33
   },
   {
     "usuario": "NET_SDIAZO",
@@ -5271,11 +5440,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 45,
-    "delivered": 34,
-    "anulado": 6,
+    "total": 50,
+    "delivered": 39,
+    "anulado": 5,
     "cancelado": 1,
-    "effectiveness": 75.56
+    "effectiveness": 78.0
   },
   {
     "usuario": "NET_SGALINDOM",
@@ -5285,10 +5454,10 @@
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
     "total": 3,
-    "delivered": 2,
+    "delivered": 3,
     "anulado": 0,
     "cancelado": 0,
-    "effectiveness": 66.67
+    "effectiveness": 100.0
   },
   {
     "usuario": "NET_SGONZALESF",
@@ -5297,11 +5466,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 22,
+    "total": 25,
     "delivered": 12,
-    "anulado": 8,
+    "anulado": 12,
     "cancelado": 0,
-    "effectiveness": 54.55
+    "effectiveness": 48.0
   },
   {
     "usuario": "NET_SGONZALESP",
@@ -5310,11 +5479,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 14,
-    "delivered": 11,
-    "anulado": 1,
+    "total": 25,
+    "delivered": 19,
+    "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 78.57
+    "effectiveness": 76.0
   },
   {
     "usuario": "NET_SINGAC",
@@ -5323,11 +5492,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 26,
-    "delivered": 17,
-    "anulado": 7,
+    "total": 30,
+    "delivered": 20,
+    "anulado": 6,
     "cancelado": 0,
-    "effectiveness": 65.38
+    "effectiveness": 66.67
   },
   {
     "usuario": "NET_SLIZARDOPER",
@@ -5336,11 +5505,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 51,
-    "delivered": 41,
-    "anulado": 8,
+    "total": 59,
+    "delivered": 46,
+    "anulado": 9,
     "cancelado": 2,
-    "effectiveness": 80.39
+    "effectiveness": 77.97
   },
   {
     "usuario": "NET_SLUJANA",
@@ -5362,11 +5531,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 27,
-    "delivered": 19,
-    "anulado": 6,
+    "total": 30,
+    "delivered": 20,
+    "anulado": 7,
     "cancelado": 2,
-    "effectiveness": 70.37
+    "effectiveness": 66.67
   },
   {
     "usuario": "NET_SNIMAG",
@@ -5375,11 +5544,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 22,
-    "delivered": 11,
-    "anulado": 6,
-    "cancelado": 1,
-    "effectiveness": 50.0
+    "total": 30,
+    "delivered": 17,
+    "anulado": 9,
+    "cancelado": 2,
+    "effectiveness": 56.67
   },
   {
     "usuario": "NET_SPALACIOSA",
@@ -5388,11 +5557,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 15,
-    "delivered": 11,
-    "anulado": 3,
+    "total": 16,
+    "delivered": 12,
+    "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 73.33
+    "effectiveness": 75.0
   },
   {
     "usuario": "NET_SPERALTAV",
@@ -5401,11 +5570,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 11,
-    "delivered": 10,
-    "anulado": 1,
+    "total": 15,
+    "delivered": 12,
+    "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 90.91
+    "effectiveness": 80.0
   },
   {
     "usuario": "NET_SPEREZR",
@@ -5414,11 +5583,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 31,
-    "delivered": 25,
+    "total": 44,
+    "delivered": 36,
     "anulado": 4,
     "cancelado": 2,
-    "effectiveness": 80.65
+    "effectiveness": 81.82
   },
   {
     "usuario": "NET_SRAMOSC",
@@ -5427,11 +5596,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 13,
+    "total": 14,
     "delivered": 13,
     "anulado": 0,
     "cancelado": 0,
-    "effectiveness": 100.0
+    "effectiveness": 92.86
   },
   {
     "usuario": "NET_SRODRIGUEZP",
@@ -5440,11 +5609,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 6,
-    "delivered": 1,
+    "total": 9,
+    "delivered": 6,
     "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 16.67
+    "effectiveness": 66.67
   },
   {
     "usuario": "NET_SSALAZARV",
@@ -5453,11 +5622,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 41,
-    "delivered": 32,
-    "anulado": 1,
+    "total": 44,
+    "delivered": 33,
+    "anulado": 3,
     "cancelado": 7,
-    "effectiveness": 78.05
+    "effectiveness": 75.0
   },
   {
     "usuario": "NET_SSANGAYL",
@@ -5466,11 +5635,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 11,
+    "total": 12,
     "delivered": 8,
     "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 72.73
+    "effectiveness": 66.67
   },
   {
     "usuario": "NET_SSOTOM",
@@ -5479,11 +5648,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 16,
-    "delivered": 13,
+    "total": 17,
+    "delivered": 14,
     "anulado": 1,
     "cancelado": 1,
-    "effectiveness": 81.25
+    "effectiveness": 82.35
   },
   {
     "usuario": "NET_STANANTAM",
@@ -5492,11 +5661,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 22,
-    "delivered": 18,
-    "anulado": 1,
+    "total": 23,
+    "delivered": 20,
+    "anulado": 2,
     "cancelado": 1,
-    "effectiveness": 81.82
+    "effectiveness": 86.96
   },
   {
     "usuario": "NET_STAVARALIVI",
@@ -5505,8 +5674,8 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 17,
-    "delivered": 17,
+    "total": 18,
+    "delivered": 18,
     "anulado": 0,
     "cancelado": 0,
     "effectiveness": 100.0
@@ -5518,11 +5687,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 3,
+    "total": 4,
     "delivered": 3,
     "anulado": 0,
     "cancelado": 0,
-    "effectiveness": 100.0
+    "effectiveness": 75.0
   },
   {
     "usuario": "NET_SVELASQUEZL",
@@ -5531,11 +5700,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 22,
+    "total": 25,
     "delivered": 16,
-    "anulado": 4,
+    "anulado": 6,
     "cancelado": 1,
-    "effectiveness": 72.73
+    "effectiveness": 64.0
   },
   {
     "usuario": "NET_SVILELAA",
@@ -5557,11 +5726,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 28,
-    "delivered": 22,
+    "total": 31,
+    "delivered": 26,
     "anulado": 2,
     "cancelado": 2,
-    "effectiveness": 78.57
+    "effectiveness": 83.87
   },
   {
     "usuario": "NET_TBECERRAC",
@@ -5570,11 +5739,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 32,
-    "delivered": 21,
+    "total": 33,
+    "delivered": 22,
     "anulado": 4,
     "cancelado": 7,
-    "effectiveness": 65.62
+    "effectiveness": 66.67
   },
   {
     "usuario": "NET_TDILAST",
@@ -5583,11 +5752,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 20,
-    "delivered": 17,
+    "total": 24,
+    "delivered": 18,
     "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 85.0
+    "effectiveness": 75.0
   },
   {
     "usuario": "NET_THUAMANIP",
@@ -5596,11 +5765,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 13,
-    "delivered": 10,
-    "anulado": 1,
+    "total": 15,
+    "delivered": 12,
+    "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 76.92
+    "effectiveness": 80.0
   },
   {
     "usuario": "NET_TMUNOZCALDE",
@@ -5609,11 +5778,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 26,
-    "delivered": 20,
-    "anulado": 4,
+    "total": 35,
+    "delivered": 28,
+    "anulado": 5,
     "cancelado": 2,
-    "effectiveness": 76.92
+    "effectiveness": 80.0
   },
   {
     "usuario": "NET_TOLANOZ",
@@ -5622,11 +5791,11 @@
     "coordinador": "OPERACIONES",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 4,
-    "delivered": 3,
-    "anulado": 0,
+    "total": 5,
+    "delivered": 4,
+    "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 75.0
+    "effectiveness": 80.0
   },
   {
     "usuario": "NET_TSANDOVALZ",
@@ -5648,11 +5817,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 34,
-    "delivered": 21,
-    "anulado": 3,
-    "cancelado": 5,
-    "effectiveness": 61.76
+    "total": 41,
+    "delivered": 27,
+    "anulado": 6,
+    "cancelado": 6,
+    "effectiveness": 65.85
   },
   {
     "usuario": "NET_VALEMANR",
@@ -5674,11 +5843,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 7,
-    "delivered": 3,
-    "anulado": 1,
-    "cancelado": 2,
-    "effectiveness": 42.86
+    "total": 13,
+    "delivered": 5,
+    "anulado": 2,
+    "cancelado": 4,
+    "effectiveness": 38.46
   },
   {
     "usuario": "NET_VAYALA",
@@ -5687,11 +5856,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 25,
-    "delivered": 18,
+    "total": 27,
+    "delivered": 21,
     "anulado": 6,
     "cancelado": 0,
-    "effectiveness": 72.0
+    "effectiveness": 77.78
   },
   {
     "usuario": "NET_VCARMENG",
@@ -5713,11 +5882,11 @@
     "coordinador": "JONATHAN CONTRERAS",
     "cuartil": "N/C",
     "cargo": "SUPERVISOR DE OPERACIONES",
-    "total": 4,
-    "delivered": 2,
+    "total": 7,
+    "delivered": 5,
     "anulado": 1,
     "cancelado": 1,
-    "effectiveness": 50.0
+    "effectiveness": 71.43
   },
   {
     "usuario": "NET_VCHIRIA",
@@ -5726,11 +5895,11 @@
     "coordinador": "OPERACIONES",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 10,
+    "total": 12,
     "delivered": 4,
-    "anulado": 4,
-    "cancelado": 2,
-    "effectiveness": 40.0
+    "anulado": 5,
+    "cancelado": 3,
+    "effectiveness": 33.33
   },
   {
     "usuario": "NET_VCISNEROSG",
@@ -5752,11 +5921,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 15,
-    "delivered": 12,
+    "total": 19,
+    "delivered": 16,
     "anulado": 1,
     "cancelado": 1,
-    "effectiveness": 80.0
+    "effectiveness": 84.21
   },
   {
     "usuario": "NET_VJAUREGUIM",
@@ -5765,11 +5934,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 30,
-    "delivered": 23,
+    "total": 34,
+    "delivered": 27,
     "anulado": 5,
     "cancelado": 1,
-    "effectiveness": 76.67
+    "effectiveness": 79.41
   },
   {
     "usuario": "NET_VMEJIAC",
@@ -5778,11 +5947,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 30,
-    "delivered": 28,
+    "total": 37,
+    "delivered": 33,
     "anulado": 0,
     "cancelado": 0,
-    "effectiveness": 93.33
+    "effectiveness": 89.19
   },
   {
     "usuario": "NET_VOBESOS",
@@ -5791,11 +5960,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 23,
-    "delivered": 16,
+    "total": 26,
+    "delivered": 17,
     "anulado": 6,
     "cancelado": 0,
-    "effectiveness": 69.57
+    "effectiveness": 65.38
   },
   {
     "usuario": "NET_VRAMOSC",
@@ -5804,11 +5973,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 15,
-    "delivered": 14,
+    "total": 19,
+    "delivered": 16,
     "anulado": 0,
     "cancelado": 1,
-    "effectiveness": 93.33
+    "effectiveness": 84.21
   },
   {
     "usuario": "NET_VSANTISTEBV",
@@ -5817,11 +5986,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 10,
-    "delivered": 7,
-    "anulado": 1,
+    "total": 16,
+    "delivered": 11,
+    "anulado": 2,
     "cancelado": 1,
-    "effectiveness": 70.0
+    "effectiveness": 68.75
   },
   {
     "usuario": "NET_VTURKOWSKYG",
@@ -5843,11 +6012,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 36,
-    "delivered": 33,
+    "total": 43,
+    "delivered": 36,
     "anulado": 2,
     "cancelado": 1,
-    "effectiveness": 91.67
+    "effectiveness": 83.72
   },
   {
     "usuario": "NET_WBENITESA",
@@ -5856,11 +6025,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 32,
-    "delivered": 20,
-    "anulado": 6,
-    "cancelado": 3,
-    "effectiveness": 62.5
+    "total": 40,
+    "delivered": 23,
+    "anulado": 8,
+    "cancelado": 6,
+    "effectiveness": 57.5
   },
   {
     "usuario": "NET_WSMILIANA",
@@ -5872,8 +6041,21 @@
     "total": 9,
     "delivered": 7,
     "anulado": 0,
-    "cancelado": 1,
+    "cancelado": 2,
     "effectiveness": 77.78
+  },
+  {
+    "usuario": "NET_XMENDOZAP",
+    "nombre": "NET_XMENDOZAP",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 3,
+    "delivered": 0,
+    "anulado": 3,
+    "cancelado": 0,
+    "effectiveness": 0.0
   },
   {
     "usuario": "NET_YACHOM",
@@ -5882,11 +6064,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 6,
-    "delivered": 4,
-    "anulado": 0,
+    "total": 10,
+    "delivered": 7,
+    "anulado": 1,
     "cancelado": 2,
-    "effectiveness": 66.67
+    "effectiveness": 70.0
   },
   {
     "usuario": "NET_YCASTILLOO",
@@ -5895,11 +6077,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 22,
-    "delivered": 17,
+    "total": 28,
+    "delivered": 21,
     "anulado": 3,
     "cancelado": 2,
-    "effectiveness": 77.27
+    "effectiveness": 75.0
   },
   {
     "usuario": "NET_YCASTROH",
@@ -5908,11 +6090,11 @@
     "coordinador": "OPERACIONES",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 10,
-    "delivered": 3,
-    "anulado": 6,
+    "total": 12,
+    "delivered": 5,
+    "anulado": 7,
     "cancelado": 0,
-    "effectiveness": 30.0
+    "effectiveness": 41.67
   },
   {
     "usuario": "NET_YCHAVEZ",
@@ -5921,11 +6103,24 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 15,
-    "delivered": 12,
+    "total": 17,
+    "delivered": 14,
+    "anulado": 2,
+    "cancelado": 0,
+    "effectiveness": 82.35
+  },
+  {
+    "usuario": "NET_YCHAVEZE",
+    "nombre": "NET_YCHAVEZE",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 1,
+    "delivered": 0,
     "anulado": 0,
     "cancelado": 0,
-    "effectiveness": 80.0
+    "effectiveness": 0.0
   },
   {
     "usuario": "NET_YCORNEJOA",
@@ -5934,11 +6129,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 11,
-    "delivered": 9,
+    "total": 13,
+    "delivered": 10,
     "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 81.82
+    "effectiveness": 76.92
   },
   {
     "usuario": "NET_YFALCONP",
@@ -5947,11 +6142,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 7,
-    "delivered": 5,
+    "total": 8,
+    "delivered": 6,
     "anulado": 0,
-    "cancelado": 1,
-    "effectiveness": 71.43
+    "cancelado": 2,
+    "effectiveness": 75.0
   },
   {
     "usuario": "NET_YFLORESR",
@@ -5960,11 +6155,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 28,
-    "delivered": 15,
+    "total": 34,
+    "delivered": 17,
     "anulado": 7,
-    "cancelado": 3,
-    "effectiveness": 53.57
+    "cancelado": 4,
+    "effectiveness": 50.0
   },
   {
     "usuario": "NET_YGIRONL",
@@ -5973,11 +6168,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 3,
-    "delivered": 2,
+    "total": 5,
+    "delivered": 4,
     "anulado": 0,
     "cancelado": 1,
-    "effectiveness": 66.67
+    "effectiveness": 80.0
   },
   {
     "usuario": "NET_YHUAMAN",
@@ -5986,11 +6181,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 13,
-    "delivered": 6,
-    "anulado": 1,
+    "total": 14,
+    "delivered": 8,
+    "anulado": 3,
     "cancelado": 2,
-    "effectiveness": 46.15
+    "effectiveness": 57.14
   },
   {
     "usuario": "NET_YMILLA",
@@ -5999,11 +6194,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 50,
-    "delivered": 38,
-    "anulado": 3,
-    "cancelado": 5,
-    "effectiveness": 76.0
+    "total": 65,
+    "delivered": 45,
+    "anulado": 5,
+    "cancelado": 7,
+    "effectiveness": 69.23
   },
   {
     "usuario": "NET_YPAREDESG",
@@ -6012,11 +6207,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 17,
-    "delivered": 6,
+    "total": 21,
+    "delivered": 9,
     "anulado": 5,
-    "cancelado": 1,
-    "effectiveness": 35.29
+    "cancelado": 2,
+    "effectiveness": 42.86
   },
   {
     "usuario": "NET_YPEREZC",
@@ -6025,11 +6220,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 6,
-    "delivered": 4,
+    "total": 7,
+    "delivered": 6,
     "anulado": 0,
     "cancelado": 1,
-    "effectiveness": 66.67
+    "effectiveness": 85.71
   },
   {
     "usuario": "NET_YRAMOSA",
@@ -6038,11 +6233,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 13,
-    "delivered": 9,
-    "anulado": 2,
-    "cancelado": 0,
-    "effectiveness": 69.23
+    "total": 16,
+    "delivered": 11,
+    "anulado": 3,
+    "cancelado": 1,
+    "effectiveness": 68.75
   },
   {
     "usuario": "NET_YRAYMUNDOTA",
@@ -6064,11 +6259,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 26,
-    "delivered": 21,
+    "total": 29,
+    "delivered": 23,
     "anulado": 3,
     "cancelado": 2,
-    "effectiveness": 80.77
+    "effectiveness": 79.31
   },
   {
     "usuario": "NET_YUCEDAB",
@@ -6077,11 +6272,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 68,
-    "delivered": 47,
-    "anulado": 5,
-    "cancelado": 11,
-    "effectiveness": 69.12
+    "total": 78,
+    "delivered": 51,
+    "anulado": 12,
+    "cancelado": 12,
+    "effectiveness": 65.38
   },
   {
     "usuario": "NET_YVALDIVIAP",
@@ -6103,11 +6298,24 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 22,
-    "delivered": 19,
+    "total": 28,
+    "delivered": 22,
     "anulado": 0,
     "cancelado": 2,
-    "effectiveness": 86.36
+    "effectiveness": 78.57
+  },
+  {
+    "usuario": "TLV_NET_AARANAS",
+    "nombre": "TLV_NET_AARANAS",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 1,
+    "delivered": 1,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 100.0
   },
   {
     "usuario": "TLV_NET_AARRASC",
@@ -6116,11 +6324,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 9,
-    "delivered": 5,
+    "total": 11,
+    "delivered": 6,
     "anulado": 1,
-    "cancelado": 0,
-    "effectiveness": 55.56
+    "cancelado": 1,
+    "effectiveness": 54.55
   },
   {
     "usuario": "TLV_NET_ACUBASS",
@@ -6129,11 +6337,24 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 44,
-    "delivered": 32,
-    "anulado": 4,
+    "total": 48,
+    "delivered": 40,
+    "anulado": 6,
     "cancelado": 1,
-    "effectiveness": 72.73
+    "effectiveness": 83.33
+  },
+  {
+    "usuario": "TLV_NET_ACUEVAC",
+    "nombre": "TLV_NET_ACUEVAC",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 2,
+    "delivered": 1,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 50.0
   },
   {
     "usuario": "TLV_NET_ALANDAS",
@@ -6142,11 +6363,11 @@
     "coordinador": "JONATHAN CONTRERAS",
     "cuartil": "N/C",
     "cargo": "BACKOFFICE",
-    "total": 12,
+    "total": 13,
     "delivered": 4,
-    "anulado": 6,
-    "cancelado": 1,
-    "effectiveness": 33.33
+    "anulado": 7,
+    "cancelado": 2,
+    "effectiveness": 30.77
   },
   {
     "usuario": "TLV_NET_APINTAD",
@@ -6155,11 +6376,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 41,
-    "delivered": 37,
-    "anulado": 2,
+    "total": 46,
+    "delivered": 40,
+    "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 90.24
+    "effectiveness": 86.96
   },
   {
     "usuario": "TLV_NET_BCHAVEZ",
@@ -6168,11 +6389,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 100,
-    "delivered": 81,
-    "anulado": 8,
+    "total": 116,
+    "delivered": 94,
+    "anulado": 17,
     "cancelado": 3,
-    "effectiveness": 81.0
+    "effectiveness": 81.03
   },
   {
     "usuario": "TLV_NET_BRAMIRE",
@@ -6181,11 +6402,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 30,
-    "delivered": 21,
+    "total": 32,
+    "delivered": 23,
     "anulado": 5,
     "cancelado": 0,
-    "effectiveness": 70.0
+    "effectiveness": 71.88
   },
   {
     "usuario": "TLV_NET_BREYESR",
@@ -6194,11 +6415,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 17,
-    "delivered": 12,
+    "total": 19,
+    "delivered": 14,
     "anulado": 4,
     "cancelado": 1,
-    "effectiveness": 70.59
+    "effectiveness": 73.68
   },
   {
     "usuario": "TLV_NET_CACEVED",
@@ -6207,11 +6428,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 43,
-    "delivered": 31,
-    "anulado": 5,
+    "total": 54,
+    "delivered": 41,
+    "anulado": 7,
     "cancelado": 2,
-    "effectiveness": 72.09
+    "effectiveness": 75.93
   },
   {
     "usuario": "TLV_NET_CSILVAP",
@@ -6220,11 +6441,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 48,
+    "total": 51,
     "delivered": 39,
-    "anulado": 5,
-    "cancelado": 1,
-    "effectiveness": 81.25
+    "anulado": 7,
+    "cancelado": 3,
+    "effectiveness": 76.47
   },
   {
     "usuario": "TLV_NET_CURCIAR",
@@ -6233,11 +6454,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 32,
-    "delivered": 20,
-    "anulado": 9,
+    "total": 34,
+    "delivered": 21,
+    "anulado": 10,
     "cancelado": 1,
-    "effectiveness": 62.5
+    "effectiveness": 61.76
   },
   {
     "usuario": "TLV_NET_CZEGARR",
@@ -6246,11 +6467,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 30,
-    "delivered": 16,
-    "anulado": 9,
+    "total": 35,
+    "delivered": 23,
+    "anulado": 11,
     "cancelado": 0,
-    "effectiveness": 53.33
+    "effectiveness": 65.71
   },
   {
     "usuario": "TLV_NET_DBARTET",
@@ -6261,9 +6482,22 @@
     "cargo": "ASESOR DE TELEVENTAS",
     "total": 24,
     "delivered": 8,
-    "anulado": 12,
+    "anulado": 11,
     "cancelado": 3,
     "effectiveness": 33.33
+  },
+  {
+    "usuario": "TLV_NET_DCABEZU",
+    "nombre": "CABEZUDO BERNAOLA DEISY BEATRIZ",
+    "supervisor": "RIVALDO DONAYRE",
+    "coordinador": "JOSÉ SOLORZANO",
+    "cuartil": "Q1",
+    "cargo": "ASESOR DE TELEVENTAS",
+    "total": 3,
+    "delivered": 3,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 100.0
   },
   {
     "usuario": "TLV_NET_DCASTIA",
@@ -6272,11 +6506,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 4,
-    "delivered": 1,
-    "anulado": 1,
+    "total": 8,
+    "delivered": 5,
+    "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 25.0
+    "effectiveness": 62.5
   },
   {
     "usuario": "TLV_NET_DGARCIA",
@@ -6285,11 +6519,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 22,
-    "delivered": 15,
-    "anulado": 6,
+    "total": 25,
+    "delivered": 19,
+    "anulado": 5,
     "cancelado": 0,
-    "effectiveness": 68.18
+    "effectiveness": 76.0
   },
   {
     "usuario": "TLV_NET_DSANC",
@@ -6298,11 +6532,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 19,
-    "delivered": 16,
+    "total": 23,
+    "delivered": 20,
     "anulado": 1,
     "cancelado": 1,
-    "effectiveness": 84.21
+    "effectiveness": 86.96
   },
   {
     "usuario": "TLV_NET_DVALOI",
@@ -6311,11 +6545,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 90,
-    "delivered": 51,
+    "total": 102,
+    "delivered": 65,
     "anulado": 19,
-    "cancelado": 13,
-    "effectiveness": 56.67
+    "cancelado": 14,
+    "effectiveness": 63.73
   },
   {
     "usuario": "TLV_NET_EBULNES",
@@ -6324,11 +6558,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 33,
-    "delivered": 24,
-    "anulado": 3,
+    "total": 38,
+    "delivered": 28,
+    "anulado": 4,
     "cancelado": 6,
-    "effectiveness": 72.73
+    "effectiveness": 73.68
   },
   {
     "usuario": "TLV_NET_ECODARL",
@@ -6337,11 +6571,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 8,
-    "delivered": 6,
+    "total": 12,
+    "delivered": 10,
     "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 75.0
+    "effectiveness": 83.33
   },
   {
     "usuario": "TLV_NET_ECUROS",
@@ -6350,11 +6584,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 31,
-    "delivered": 24,
+    "total": 35,
+    "delivered": 28,
     "anulado": 2,
-    "cancelado": 2,
-    "effectiveness": 77.42
+    "cancelado": 3,
+    "effectiveness": 80.0
   },
   {
     "usuario": "TLV_NET_FVALQUI",
@@ -6363,11 +6597,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 34,
-    "delivered": 24,
-    "anulado": 4,
+    "total": 50,
+    "delivered": 33,
+    "anulado": 7,
     "cancelado": 2,
-    "effectiveness": 70.59
+    "effectiveness": 66.0
   },
   {
     "usuario": "TLV_NET_GANACLE",
@@ -6376,11 +6610,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 21,
-    "delivered": 11,
-    "anulado": 5,
+    "total": 24,
+    "delivered": 16,
+    "anulado": 6,
     "cancelado": 0,
-    "effectiveness": 52.38
+    "effectiveness": 66.67
   },
   {
     "usuario": "TLV_NET_GCUEVAC",
@@ -6389,11 +6623,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 28,
-    "delivered": 12,
+    "total": 36,
+    "delivered": 20,
     "anulado": 4,
-    "cancelado": 10,
-    "effectiveness": 42.86
+    "cancelado": 12,
+    "effectiveness": 55.56
   },
   {
     "usuario": "TLV_NET_GJQUISP",
@@ -6402,11 +6636,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 51,
-    "delivered": 31,
-    "anulado": 15,
+    "total": 57,
+    "delivered": 35,
+    "anulado": 17,
     "cancelado": 3,
-    "effectiveness": 60.78
+    "effectiveness": 61.4
   },
   {
     "usuario": "TLV_NET_GQUISP",
@@ -6428,11 +6662,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 7,
-    "delivered": 6,
+    "total": 8,
+    "delivered": 7,
     "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 85.71
+    "effectiveness": 87.5
   },
   {
     "usuario": "TLV_NET_JCAMPOS",
@@ -6441,7 +6675,7 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 2,
+    "total": 3,
     "delivered": 0,
     "anulado": 0,
     "cancelado": 0,
@@ -6454,11 +6688,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 47,
-    "delivered": 33,
+    "total": 51,
+    "delivered": 39,
     "anulado": 7,
-    "cancelado": 2,
-    "effectiveness": 70.21
+    "cancelado": 3,
+    "effectiveness": 76.47
   },
   {
     "usuario": "TLV_NET_JPENAM",
@@ -6467,11 +6701,24 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 10,
-    "delivered": 7,
+    "total": 12,
+    "delivered": 8,
     "anulado": 0,
     "cancelado": 2,
-    "effectiveness": 70.0
+    "effectiveness": 66.67
+  },
+  {
+    "usuario": "TLV_NET_JSIADEN",
+    "nombre": "TLV_NET_JSIADEN",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 1,
+    "delivered": 1,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 100.0
   },
   {
     "usuario": "TLV_NET_JSOTOZ",
@@ -6480,11 +6727,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 30,
-    "delivered": 21,
-    "anulado": 6,
+    "total": 34,
+    "delivered": 27,
+    "anulado": 5,
     "cancelado": 1,
-    "effectiveness": 70.0
+    "effectiveness": 79.41
   },
   {
     "usuario": "TLV_NET_KARANDA",
@@ -6493,11 +6740,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 44,
-    "delivered": 33,
-    "anulado": 5,
+    "total": 51,
+    "delivered": 41,
+    "anulado": 8,
     "cancelado": 1,
-    "effectiveness": 75.0
+    "effectiveness": 80.39
   },
   {
     "usuario": "TLV_NET_KCHAVEZ",
@@ -6506,11 +6753,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 20,
-    "delivered": 16,
+    "total": 21,
+    "delivered": 17,
     "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 80.0
+    "effectiveness": 80.95
   },
   {
     "usuario": "TLV_NET_LMONTED",
@@ -6519,11 +6766,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 17,
+    "total": 19,
     "delivered": 12,
-    "anulado": 1,
-    "cancelado": 2,
-    "effectiveness": 70.59
+    "anulado": 2,
+    "cancelado": 3,
+    "effectiveness": 63.16
   },
   {
     "usuario": "TLV_NET_LPULIDO",
@@ -6532,11 +6779,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 15,
-    "delivered": 12,
+    "total": 18,
+    "delivered": 15,
     "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 80.0
+    "effectiveness": 83.33
   },
   {
     "usuario": "TLV_NET_LSANCHA",
@@ -6545,11 +6792,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 31,
-    "delivered": 26,
-    "anulado": 4,
+    "total": 35,
+    "delivered": 31,
+    "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 83.87
+    "effectiveness": 88.57
   },
   {
     "usuario": "TLV_NET_LVILLLA",
@@ -6558,11 +6805,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 24,
-    "delivered": 22,
+    "total": 28,
+    "delivered": 27,
     "anulado": 0,
     "cancelado": 1,
-    "effectiveness": 91.67
+    "effectiveness": 96.43
   },
   {
     "usuario": "TLV_NET_MAYALAM",
@@ -6571,11 +6818,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 16,
-    "delivered": 13,
+    "total": 26,
+    "delivered": 24,
     "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 81.25
+    "effectiveness": 92.31
   },
   {
     "usuario": "TLV_NET_MCHAMBI",
@@ -6584,11 +6831,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 21,
-    "delivered": 17,
+    "total": 24,
+    "delivered": 19,
     "anulado": 1,
     "cancelado": 3,
-    "effectiveness": 80.95
+    "effectiveness": 79.17
   },
   {
     "usuario": "TLV_NET_MFARFAN",
@@ -6597,11 +6844,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 56,
-    "delivered": 40,
-    "anulado": 10,
+    "total": 63,
+    "delivered": 44,
+    "anulado": 13,
     "cancelado": 2,
-    "effectiveness": 71.43
+    "effectiveness": 69.84
   },
   {
     "usuario": "TLV_NET_MLANDAR",
@@ -6610,11 +6857,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 114,
-    "delivered": 71,
-    "anulado": 13,
-    "cancelado": 18,
-    "effectiveness": 62.28
+    "total": 131,
+    "delivered": 90,
+    "anulado": 14,
+    "cancelado": 24,
+    "effectiveness": 68.7
   },
   {
     "usuario": "TLV_NET_MMAURIC",
@@ -6623,11 +6870,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 66,
-    "delivered": 46,
-    "anulado": 9,
-    "cancelado": 6,
-    "effectiveness": 69.7
+    "total": 80,
+    "delivered": 58,
+    "anulado": 12,
+    "cancelado": 7,
+    "effectiveness": 72.5
   },
   {
     "usuario": "TLV_NET_MMURGAF",
@@ -6636,11 +6883,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 29,
-    "delivered": 22,
-    "anulado": 0,
+    "total": 34,
+    "delivered": 27,
+    "anulado": 1,
     "cancelado": 4,
-    "effectiveness": 75.86
+    "effectiveness": 79.41
   },
   {
     "usuario": "TLV_NET_MRONCAL",
@@ -6649,11 +6896,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 12,
-    "delivered": 10,
-    "anulado": 0,
+    "total": 13,
+    "delivered": 12,
+    "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 83.33
+    "effectiveness": 92.31
   },
   {
     "usuario": "TLV_NET_MSLLUC",
@@ -6675,11 +6922,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 32,
-    "delivered": 20,
-    "anulado": 6,
+    "total": 44,
+    "delivered": 26,
+    "anulado": 7,
     "cancelado": 4,
-    "effectiveness": 62.5
+    "effectiveness": 59.09
   },
   {
     "usuario": "TLV_NET_OCCONA",
@@ -6688,11 +6935,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 32,
-    "delivered": 22,
+    "total": 34,
+    "delivered": 27,
     "anulado": 3,
     "cancelado": 3,
-    "effectiveness": 68.75
+    "effectiveness": 79.41
   },
   {
     "usuario": "TLV_NET_RBARRAZ",
@@ -6701,11 +6948,11 @@
     "coordinador": "JONATHAN CONTRERAS",
     "cuartil": "N/C",
     "cargo": "SUPERVISOR DE OPERACIONES",
-    "total": 19,
-    "delivered": 12,
+    "total": 21,
+    "delivered": 15,
     "anulado": 2,
-    "cancelado": 2,
-    "effectiveness": 63.16
+    "cancelado": 3,
+    "effectiveness": 71.43
   },
   {
     "usuario": "TLV_NET_RBURGOS",
@@ -6714,11 +6961,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 52,
-    "delivered": 41,
-    "anulado": 8,
+    "total": 57,
+    "delivered": 45,
+    "anulado": 10,
     "cancelado": 1,
-    "effectiveness": 78.85
+    "effectiveness": 78.95
   },
   {
     "usuario": "TLV_NET_RSORIAH",
@@ -6727,11 +6974,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 27,
-    "delivered": 19,
-    "anulado": 8,
+    "total": 37,
+    "delivered": 25,
+    "anulado": 10,
     "cancelado": 0,
-    "effectiveness": 70.37
+    "effectiveness": 67.57
   },
   {
     "usuario": "TLV_NET_SFERNAN",
@@ -6740,11 +6987,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 24,
-    "delivered": 13,
+    "total": 29,
+    "delivered": 18,
     "anulado": 7,
-    "cancelado": 3,
-    "effectiveness": 54.17
+    "cancelado": 4,
+    "effectiveness": 62.07
   },
   {
     "usuario": "TLV_NET_SVALDEZ",
@@ -6753,11 +7000,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 24,
-    "delivered": 24,
+    "total": 27,
+    "delivered": 26,
     "anulado": 0,
     "cancelado": 0,
-    "effectiveness": 100.0
+    "effectiveness": 96.3
   },
   {
     "usuario": "TLV_NET_VAYALAP",
@@ -6779,11 +7026,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 28,
-    "delivered": 20,
-    "anulado": 3,
-    "cancelado": 2,
-    "effectiveness": 71.43
+    "total": 34,
+    "delivered": 25,
+    "anulado": 4,
+    "cancelado": 3,
+    "effectiveness": 73.53
   },
   {
     "usuario": "TLV_NET_VNAPAH",
@@ -6805,11 +7052,11 @@
     "coordinador": "JOSÉ SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 33,
-    "delivered": 25,
-    "anulado": 5,
+    "total": 35,
+    "delivered": 28,
+    "anulado": 6,
     "cancelado": 0,
-    "effectiveness": 75.76
+    "effectiveness": 80.0
   },
   {
     "usuario": "TLV_NET_YQUITOV",
@@ -6818,10 +7065,10 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR DE TELEVENTAS",
-    "total": 23,
-    "delivered": 17,
+    "total": 29,
+    "delivered": 25,
     "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 73.91
+    "effectiveness": 86.21
   }
 ]
