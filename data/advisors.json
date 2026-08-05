@@ -19,11 +19,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 13,
+    "total": 14,
     "delivered": 10,
-    "anulado": 3,
+    "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 76.92
+    "effectiveness": 71.43
   },
   {
     "usuario": "ECP_UWOOLCOTTV",
@@ -58,11 +58,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 18,
-    "delivered": 14,
+    "total": 20,
+    "delivered": 16,
     "anulado": 1,
     "cancelado": 3,
-    "effectiveness": 77.78
+    "effectiveness": 80.0
   },
   {
     "usuario": "KON_CADRIANZENC",
@@ -110,11 +110,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 31,
-    "delivered": 27,
-    "anulado": 4,
+    "total": 35,
+    "delivered": 30,
+    "anulado": 5,
     "cancelado": 0,
-    "effectiveness": 87.1
+    "effectiveness": 85.71
   },
   {
     "usuario": "NET_AARANAS",
@@ -123,11 +123,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 23,
-    "delivered": 15,
-    "anulado": 7,
+    "total": 26,
+    "delivered": 16,
+    "anulado": 9,
     "cancelado": 0,
-    "effectiveness": 65.22
+    "effectiveness": 61.54
   },
   {
     "usuario": "NET_AARANDAB",
@@ -136,11 +136,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 22,
-    "delivered": 12,
-    "anulado": 8,
-    "cancelado": 0,
-    "effectiveness": 54.55
+    "total": 27,
+    "delivered": 16,
+    "anulado": 10,
+    "cancelado": 1,
+    "effectiveness": 59.26
   },
   {
     "usuario": "NET_AARNAIZA",
@@ -149,11 +149,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 63,
-    "delivered": 50,
-    "anulado": 11,
+    "total": 73,
+    "delivered": 59,
+    "anulado": 13,
     "cancelado": 1,
-    "effectiveness": 79.37
+    "effectiveness": 80.82
   },
   {
     "usuario": "NET_AATOCHEH",
@@ -162,11 +162,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 45,
-    "delivered": 34,
+    "total": 48,
+    "delivered": 38,
     "anulado": 8,
     "cancelado": 2,
-    "effectiveness": 75.56
+    "effectiveness": 79.17
   },
   {
     "usuario": "NET_AAVENDANOR",
@@ -175,11 +175,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 25,
-    "delivered": 16,
+    "total": 28,
+    "delivered": 19,
     "anulado": 2,
     "cancelado": 6,
-    "effectiveness": 64.0
+    "effectiveness": 67.86
   },
   {
     "usuario": "NET_AAYAURIO",
@@ -188,11 +188,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 46,
-    "delivered": 32,
-    "anulado": 5,
+    "total": 52,
+    "delivered": 34,
+    "anulado": 7,
     "cancelado": 9,
-    "effectiveness": 69.57
+    "effectiveness": 65.38
   },
   {
     "usuario": "NET_AAZCARATED",
@@ -214,11 +214,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 36,
-    "delivered": 29,
-    "anulado": 6,
+    "total": 48,
+    "delivered": 39,
+    "anulado": 8,
     "cancelado": 1,
-    "effectiveness": 80.56
+    "effectiveness": 81.25
   },
   {
     "usuario": "NET_ABZEVALLOSZ",
@@ -234,17 +234,30 @@
     "effectiveness": 72.73
   },
   {
+    "usuario": "NET_ACAJAF",
+    "nombre": "NET_ACAJAF",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 8,
+    "delivered": 2,
+    "anulado": 6,
+    "cancelado": 0,
+    "effectiveness": 25.0
+  },
+  {
     "usuario": "NET_ACAMPOSV",
     "nombre": "NET_ACAMPOSV",
     "supervisor": "No registrado",
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 25,
-    "delivered": 16,
+    "total": 27,
+    "delivered": 18,
     "anulado": 6,
-    "cancelado": 2,
-    "effectiveness": 64.0
+    "cancelado": 3,
+    "effectiveness": 66.67
   },
   {
     "usuario": "NET_ACASTROS",
@@ -253,11 +266,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 43,
-    "delivered": 37,
-    "anulado": 6,
+    "total": 49,
+    "delivered": 40,
+    "anulado": 7,
     "cancelado": 0,
-    "effectiveness": 86.05
+    "effectiveness": 81.63
   },
   {
     "usuario": "NET_ACESPEDESR",
@@ -266,11 +279,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 14,
-    "delivered": 9,
+    "total": 16,
+    "delivered": 11,
     "anulado": 2,
     "cancelado": 2,
-    "effectiveness": 64.29
+    "effectiveness": 68.75
   },
   {
     "usuario": "NET_ACORDOVAS",
@@ -279,11 +292,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 50,
-    "delivered": 36,
+    "total": 58,
+    "delivered": 42,
     "anulado": 7,
-    "cancelado": 5,
-    "effectiveness": 72.0
+    "cancelado": 8,
+    "effectiveness": 72.41
   },
   {
     "usuario": "NET_ACREGALADO",
@@ -292,11 +305,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 33,
-    "delivered": 25,
+    "total": 40,
+    "delivered": 32,
     "anulado": 6,
     "cancelado": 2,
-    "effectiveness": 75.76
+    "effectiveness": 80.0
   },
   {
     "usuario": "NET_ACUEVAC",
@@ -305,11 +318,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 77,
-    "delivered": 60,
-    "anulado": 11,
-    "cancelado": 6,
-    "effectiveness": 77.92
+    "total": 90,
+    "delivered": 71,
+    "anulado": 12,
+    "cancelado": 7,
+    "effectiveness": 78.89
   },
   {
     "usuario": "NET_ADIAZCAJO",
@@ -318,11 +331,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 38,
-    "delivered": 27,
-    "anulado": 8,
-    "cancelado": 2,
-    "effectiveness": 71.05
+    "total": 43,
+    "delivered": 29,
+    "anulado": 10,
+    "cancelado": 4,
+    "effectiveness": 67.44
   },
   {
     "usuario": "NET_ADOMINGUEZF",
@@ -331,11 +344,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 35,
-    "delivered": 28,
-    "anulado": 4,
+    "total": 44,
+    "delivered": 34,
+    "anulado": 8,
     "cancelado": 1,
-    "effectiveness": 80.0
+    "effectiveness": 77.27
   },
   {
     "usuario": "NET_ADOROTEOSAL",
@@ -344,11 +357,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 121,
-    "delivered": 83,
-    "anulado": 19,
-    "cancelado": 18,
-    "effectiveness": 68.6
+    "total": 146,
+    "delivered": 104,
+    "anulado": 22,
+    "cancelado": 20,
+    "effectiveness": 71.23
   },
   {
     "usuario": "NET_AEREYES",
@@ -357,11 +370,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 47,
-    "delivered": 25,
-    "anulado": 18,
+    "total": 53,
+    "delivered": 30,
+    "anulado": 19,
     "cancelado": 4,
-    "effectiveness": 53.19
+    "effectiveness": 56.6
   },
   {
     "usuario": "NET_AESCARATEP",
@@ -370,11 +383,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 5,
+    "total": 7,
     "delivered": 2,
     "anulado": 2,
-    "cancelado": 1,
-    "effectiveness": 40.0
+    "cancelado": 2,
+    "effectiveness": 28.57
   },
   {
     "usuario": "NET_AGOMEZR",
@@ -383,11 +396,24 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 39,
-    "delivered": 23,
+    "total": 40,
+    "delivered": 24,
     "anulado": 11,
-    "cancelado": 4,
-    "effectiveness": 58.97
+    "cancelado": 5,
+    "effectiveness": 60.0
+  },
+  {
+    "usuario": "NET_AGRIMALDOE",
+    "nombre": "NET_AGRIMALDOE",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 5,
+    "delivered": 2,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 40.0
   },
   {
     "usuario": "NET_AISLAG",
@@ -396,11 +422,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 7,
-    "delivered": 5,
+    "total": 11,
+    "delivered": 6,
     "anulado": 2,
-    "cancelado": 0,
-    "effectiveness": 71.43
+    "cancelado": 1,
+    "effectiveness": 54.55
   },
   {
     "usuario": "NET_AITORRESC",
@@ -409,11 +435,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 18,
-    "delivered": 15,
-    "anulado": 1,
+    "total": 23,
+    "delivered": 18,
+    "anulado": 3,
     "cancelado": 2,
-    "effectiveness": 83.33
+    "effectiveness": 78.26
   },
   {
     "usuario": "NET_AJGUTIERREC",
@@ -455,17 +481,30 @@
     "effectiveness": 0.0
   },
   {
+    "usuario": "NET_AJUNCOL",
+    "nombre": "NET_AJUNCOL",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 5,
+    "delivered": 0,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 0.0
+  },
+  {
     "usuario": "NET_ALABANP",
     "nombre": "NET_ALABANP",
     "supervisor": "No registrado",
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 28,
-    "delivered": 22,
-    "anulado": 5,
+    "total": 32,
+    "delivered": 23,
+    "anulado": 7,
     "cancelado": 1,
-    "effectiveness": 78.57
+    "effectiveness": 71.88
   },
   {
     "usuario": "NET_ALAPOI",
@@ -487,11 +526,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 21,
-    "delivered": 14,
+    "total": 25,
+    "delivered": 18,
     "anulado": 4,
     "cancelado": 2,
-    "effectiveness": 66.67
+    "effectiveness": 72.0
   },
   {
     "usuario": "NET_ALOPEZD",
@@ -500,11 +539,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 41,
-    "delivered": 25,
-    "anulado": 10,
-    "cancelado": 5,
-    "effectiveness": 60.98
+    "total": 45,
+    "delivered": 27,
+    "anulado": 11,
+    "cancelado": 6,
+    "effectiveness": 60.0
   },
   {
     "usuario": "NET_ALUJANO",
@@ -513,11 +552,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 33,
-    "delivered": 23,
-    "anulado": 8,
+    "total": 34,
+    "delivered": 25,
+    "anulado": 7,
     "cancelado": 2,
-    "effectiveness": 69.7
+    "effectiveness": 73.53
   },
   {
     "usuario": "NET_AMANRIQUEC",
@@ -526,11 +565,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 22,
-    "delivered": 18,
+    "total": 23,
+    "delivered": 20,
     "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 81.82
+    "effectiveness": 86.96
   },
   {
     "usuario": "NET_AMENDIGUETN",
@@ -552,11 +591,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 29,
-    "delivered": 18,
+    "total": 30,
+    "delivered": 20,
     "anulado": 1,
-    "cancelado": 8,
-    "effectiveness": 62.07
+    "cancelado": 9,
+    "effectiveness": 66.67
   },
   {
     "usuario": "NET_ANAVARRETEP",
@@ -578,11 +617,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 52,
-    "delivered": 42,
-    "anulado": 7,
-    "cancelado": 1,
-    "effectiveness": 80.77
+    "total": 64,
+    "delivered": 54,
+    "anulado": 8,
+    "cancelado": 2,
+    "effectiveness": 84.38
   },
   {
     "usuario": "NET_APACHECO",
@@ -591,11 +630,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 55,
-    "delivered": 45,
-    "anulado": 6,
+    "total": 61,
+    "delivered": 48,
+    "anulado": 7,
     "cancelado": 2,
-    "effectiveness": 81.82
+    "effectiveness": 78.69
   },
   {
     "usuario": "NET_APAREDEST",
@@ -604,11 +643,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 1,
-    "delivered": 0,
-    "anulado": 0,
+    "total": 4,
+    "delivered": 1,
+    "anulado": 1,
     "cancelado": 1,
-    "effectiveness": 0.0
+    "effectiveness": 25.0
   },
   {
     "usuario": "NET_APUCHOCF",
@@ -617,11 +656,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 24,
-    "delivered": 10,
+    "total": 25,
+    "delivered": 11,
     "anulado": 6,
     "cancelado": 8,
-    "effectiveness": 41.67
+    "effectiveness": 44.0
   },
   {
     "usuario": "NET_AQUIROZM",
@@ -630,11 +669,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 41,
-    "delivered": 39,
+    "total": 43,
+    "delivered": 42,
     "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 95.12
+    "effectiveness": 97.67
   },
   {
     "usuario": "NET_ARALVAREZD",
@@ -643,11 +682,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 10,
+    "total": 11,
     "delivered": 5,
     "anulado": 4,
     "cancelado": 1,
-    "effectiveness": 50.0
+    "effectiveness": 45.45
   },
   {
     "usuario": "NET_ARAMOSR",
@@ -656,11 +695,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 33,
-    "delivered": 27,
+    "total": 35,
+    "delivered": 29,
     "anulado": 3,
-    "cancelado": 2,
-    "effectiveness": 81.82
+    "cancelado": 3,
+    "effectiveness": 82.86
   },
   {
     "usuario": "NET_AREYNOSAC",
@@ -669,11 +708,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 18,
-    "delivered": 9,
-    "anulado": 6,
-    "cancelado": 1,
-    "effectiveness": 50.0
+    "total": 25,
+    "delivered": 12,
+    "anulado": 8,
+    "cancelado": 4,
+    "effectiveness": 48.0
   },
   {
     "usuario": "NET_ARIOST",
@@ -682,11 +721,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 68,
-    "delivered": 50,
-    "anulado": 11,
+    "total": 76,
+    "delivered": 61,
+    "anulado": 12,
     "cancelado": 2,
-    "effectiveness": 73.53
+    "effectiveness": 80.26
   },
   {
     "usuario": "NET_ARIVERA",
@@ -695,24 +734,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 128,
-    "delivered": 103,
-    "anulado": 11,
-    "cancelado": 10,
-    "effectiveness": 80.47
-  },
-  {
-    "usuario": "NET_ARIVERAQ",
-    "nombre": "NET_ARIVERAQ",
-    "supervisor": "No registrado",
-    "coordinador": "No registrado",
-    "cuartil": "N/A",
-    "cargo": "N/A",
-    "total": 2,
-    "delivered": 0,
-    "anulado": 0,
-    "cancelado": 0,
-    "effectiveness": 0.0
+    "total": 149,
+    "delivered": 115,
+    "anulado": 13,
+    "cancelado": 16,
+    "effectiveness": 77.18
   },
   {
     "usuario": "NET_ARODRIGUEZF",
@@ -723,7 +749,7 @@
     "cargo": "N/A",
     "total": 19,
     "delivered": 10,
-    "anulado": 6,
+    "anulado": 7,
     "cancelado": 1,
     "effectiveness": 52.63
   },
@@ -734,11 +760,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 46,
-    "delivered": 30,
-    "anulado": 11,
+    "total": 54,
+    "delivered": 36,
+    "anulado": 12,
     "cancelado": 5,
-    "effectiveness": 65.22
+    "effectiveness": 66.67
   },
   {
     "usuario": "NET_ARUIZP",
@@ -760,11 +786,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 8,
-    "delivered": 6,
-    "anulado": 0,
+    "total": 9,
+    "delivered": 7,
+    "anulado": 1,
     "cancelado": 1,
-    "effectiveness": 75.0
+    "effectiveness": 77.78
   },
   {
     "usuario": "NET_ASANCHEZT",
@@ -773,11 +799,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 22,
-    "delivered": 13,
+    "total": 29,
+    "delivered": 18,
     "anulado": 6,
-    "cancelado": 2,
-    "effectiveness": 59.09
+    "cancelado": 3,
+    "effectiveness": 62.07
   },
   {
     "usuario": "NET_ATAPIAL",
@@ -799,11 +825,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 45,
-    "delivered": 30,
-    "anulado": 5,
+    "total": 48,
+    "delivered": 33,
+    "anulado": 6,
     "cancelado": 9,
-    "effectiveness": 66.67
+    "effectiveness": 68.75
   },
   {
     "usuario": "NET_ATENORIOM",
@@ -812,11 +838,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 40,
-    "delivered": 28,
+    "total": 42,
+    "delivered": 30,
     "anulado": 6,
     "cancelado": 6,
-    "effectiveness": 70.0
+    "effectiveness": 71.43
   },
   {
     "usuario": "NET_ATINEDOP",
@@ -825,11 +851,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 22,
+    "total": 23,
     "delivered": 18,
-    "anulado": 4,
+    "anulado": 5,
     "cancelado": 0,
-    "effectiveness": 81.82
+    "effectiveness": 78.26
   },
   {
     "usuario": "NET_ATISNADOA",
@@ -838,11 +864,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 5,
-    "delivered": 4,
+    "total": 9,
+    "delivered": 7,
     "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 80.0
+    "effectiveness": 77.78
   },
   {
     "usuario": "NET_ATORRESP",
@@ -851,11 +877,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 78,
-    "delivered": 56,
-    "anulado": 20,
+    "total": 89,
+    "delivered": 65,
+    "anulado": 22,
     "cancelado": 1,
-    "effectiveness": 71.79
+    "effectiveness": 73.03
   },
   {
     "usuario": "NET_ATRESIERRAL",
@@ -864,11 +890,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 14,
-    "delivered": 4,
+    "total": 16,
+    "delivered": 6,
     "anulado": 9,
     "cancelado": 1,
-    "effectiveness": 28.57
+    "effectiveness": 37.5
   },
   {
     "usuario": "NET_ATRIVINOS",
@@ -877,11 +903,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 69,
-    "delivered": 54,
-    "anulado": 11,
-    "cancelado": 3,
-    "effectiveness": 78.26
+    "total": 81,
+    "delivered": 61,
+    "anulado": 14,
+    "cancelado": 4,
+    "effectiveness": 75.31
   },
   {
     "usuario": "NET_ATUMEH",
@@ -890,11 +916,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 42,
-    "delivered": 34,
-    "anulado": 6,
+    "total": 45,
+    "delivered": 37,
+    "anulado": 8,
     "cancelado": 0,
-    "effectiveness": 80.95
+    "effectiveness": 82.22
   },
   {
     "usuario": "NET_AUCEDAENEQU",
@@ -903,11 +929,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 41,
-    "delivered": 23,
-    "anulado": 13,
-    "cancelado": 2,
-    "effectiveness": 56.1
+    "total": 50,
+    "delivered": 25,
+    "anulado": 16,
+    "cancelado": 7,
+    "effectiveness": 50.0
   },
   {
     "usuario": "NET_AUGAZC",
@@ -916,11 +942,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 11,
-    "delivered": 3,
-    "anulado": 3,
-    "cancelado": 0,
-    "effectiveness": 27.27
+    "total": 12,
+    "delivered": 4,
+    "anulado": 7,
+    "cancelado": 1,
+    "effectiveness": 33.33
   },
   {
     "usuario": "NET_AVIVANCOE",
@@ -929,8 +955,8 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 5,
-    "delivered": 3,
+    "total": 10,
+    "delivered": 6,
     "anulado": 2,
     "cancelado": 0,
     "effectiveness": 60.0
@@ -942,11 +968,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 118,
-    "delivered": 85,
-    "anulado": 25,
-    "cancelado": 7,
-    "effectiveness": 72.03
+    "total": 143,
+    "delivered": 99,
+    "anulado": 29,
+    "cancelado": 11,
+    "effectiveness": 69.23
   },
   {
     "usuario": "NET_AYBECERRAS",
@@ -955,11 +981,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 41,
-    "delivered": 21,
-    "anulado": 8,
+    "total": 44,
+    "delivered": 23,
+    "anulado": 9,
     "cancelado": 10,
-    "effectiveness": 51.22
+    "effectiveness": 52.27
   },
   {
     "usuario": "NET_AYROJASS",
@@ -968,11 +994,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 6,
-    "delivered": 4,
-    "anulado": 2,
+    "total": 13,
+    "delivered": 9,
+    "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 66.67
+    "effectiveness": 69.23
   },
   {
     "usuario": "NET_AYZAGUIRREH",
@@ -981,11 +1007,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 19,
-    "delivered": 13,
+    "total": 25,
+    "delivered": 19,
     "anulado": 2,
-    "cancelado": 3,
-    "effectiveness": 68.42
+    "cancelado": 4,
+    "effectiveness": 76.0
   },
   {
     "usuario": "NET_BAPAZAB",
@@ -994,11 +1020,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 14,
-    "delivered": 8,
+    "total": 17,
+    "delivered": 10,
     "anulado": 6,
     "cancelado": 0,
-    "effectiveness": 57.14
+    "effectiveness": 58.82
   },
   {
     "usuario": "NET_BATOP",
@@ -1007,11 +1033,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 96,
-    "delivered": 63,
-    "anulado": 8,
-    "cancelado": 22,
-    "effectiveness": 65.62
+    "total": 131,
+    "delivered": 87,
+    "anulado": 14,
+    "cancelado": 27,
+    "effectiveness": 66.41
   },
   {
     "usuario": "NET_BBELLIDOP",
@@ -1033,11 +1059,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 59,
-    "delivered": 40,
-    "anulado": 8,
+    "total": 62,
+    "delivered": 43,
+    "anulado": 10,
     "cancelado": 8,
-    "effectiveness": 67.8
+    "effectiveness": 69.35
   },
   {
     "usuario": "NET_BDELGADOC",
@@ -1046,11 +1072,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 34,
-    "delivered": 22,
-    "anulado": 8,
-    "cancelado": 2,
-    "effectiveness": 64.71
+    "total": 39,
+    "delivered": 24,
+    "anulado": 11,
+    "cancelado": 3,
+    "effectiveness": 61.54
   },
   {
     "usuario": "NET_BHUACHUHUIB",
@@ -1059,11 +1085,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 6,
-    "delivered": 3,
-    "anulado": 3,
+    "total": 11,
+    "delivered": 7,
+    "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 50.0
+    "effectiveness": 63.64
   },
   {
     "usuario": "NET_BLAUYAA",
@@ -1085,11 +1111,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 14,
-    "delivered": 13,
-    "anulado": 0,
+    "total": 19,
+    "delivered": 18,
+    "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 92.86
+    "effectiveness": 94.74
   },
   {
     "usuario": "NET_BOLAYAC",
@@ -1098,11 +1124,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 13,
+    "total": 14,
     "delivered": 8,
     "anulado": 3,
     "cancelado": 2,
-    "effectiveness": 61.54
+    "effectiveness": 57.14
   },
   {
     "usuario": "NET_BROMANS",
@@ -1111,11 +1137,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 39,
-    "delivered": 29,
-    "anulado": 6,
+    "total": 42,
+    "delivered": 32,
+    "anulado": 8,
     "cancelado": 2,
-    "effectiveness": 74.36
+    "effectiveness": 76.19
   },
   {
     "usuario": "NET_BSANCHEZP",
@@ -1137,11 +1163,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 98,
-    "delivered": 66,
-    "anulado": 17,
+    "total": 108,
+    "delivered": 74,
+    "anulado": 19,
     "cancelado": 15,
-    "effectiveness": 67.35
+    "effectiveness": 68.52
   },
   {
     "usuario": "NET_BYAUYOD",
@@ -1150,11 +1176,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 27,
-    "delivered": 19,
-    "anulado": 5,
+    "total": 33,
+    "delivered": 23,
+    "anulado": 6,
     "cancelado": 3,
-    "effectiveness": 70.37
+    "effectiveness": 69.7
   },
   {
     "usuario": "NET_BZUASNABARF",
@@ -1163,11 +1189,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 21,
-    "delivered": 17,
+    "total": 25,
+    "delivered": 19,
     "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 80.95
+    "effectiveness": 76.0
   },
   {
     "usuario": "NET_CALCAB",
@@ -1176,11 +1202,24 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 44,
-    "delivered": 25,
-    "anulado": 12,
+    "total": 52,
+    "delivered": 30,
+    "anulado": 15,
     "cancelado": 4,
-    "effectiveness": 56.82
+    "effectiveness": 57.69
+  },
+  {
+    "usuario": "NET_CALIAGAP",
+    "nombre": "NET_CALIAGAP",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 6,
+    "delivered": 2,
+    "anulado": 4,
+    "cancelado": 0,
+    "effectiveness": 33.33
   },
   {
     "usuario": "NET_CBARRIOSP",
@@ -1189,11 +1228,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 35,
-    "delivered": 24,
+    "total": 38,
+    "delivered": 28,
     "anulado": 9,
     "cancelado": 0,
-    "effectiveness": 68.57
+    "effectiveness": 73.68
   },
   {
     "usuario": "NET_CBIELICHR",
@@ -1202,11 +1241,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 64,
-    "delivered": 42,
-    "anulado": 12,
-    "cancelado": 9,
-    "effectiveness": 65.62
+    "total": 70,
+    "delivered": 45,
+    "anulado": 13,
+    "cancelado": 11,
+    "effectiveness": 64.29
   },
   {
     "usuario": "NET_CCANOP",
@@ -1218,7 +1257,7 @@
     "total": 8,
     "delivered": 2,
     "anulado": 2,
-    "cancelado": 3,
+    "cancelado": 4,
     "effectiveness": 25.0
   },
   {
@@ -1228,11 +1267,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 9,
-    "delivered": 5,
+    "total": 13,
+    "delivered": 8,
     "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 55.56
+    "effectiveness": 61.54
   },
   {
     "usuario": "NET_CCOBENAM",
@@ -1241,11 +1280,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 47,
-    "delivered": 30,
-    "anulado": 13,
+    "total": 52,
+    "delivered": 34,
+    "anulado": 14,
     "cancelado": 4,
-    "effectiveness": 63.83
+    "effectiveness": 65.38
   },
   {
     "usuario": "NET_CCONDEM",
@@ -1254,11 +1293,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 61,
-    "delivered": 45,
-    "anulado": 12,
+    "total": 71,
+    "delivered": 53,
+    "anulado": 13,
     "cancelado": 3,
-    "effectiveness": 73.77
+    "effectiveness": 74.65
   },
   {
     "usuario": "NET_CCURAYG",
@@ -1267,11 +1306,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 25,
-    "delivered": 17,
+    "total": 32,
+    "delivered": 21,
     "anulado": 7,
-    "cancelado": 0,
-    "effectiveness": 68.0
+    "cancelado": 1,
+    "effectiveness": 65.62
   },
   {
     "usuario": "NET_CDACHAC",
@@ -1280,11 +1319,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 19,
-    "delivered": 8,
+    "total": 21,
+    "delivered": 9,
     "anulado": 7,
-    "cancelado": 4,
-    "effectiveness": 42.11
+    "cancelado": 5,
+    "effectiveness": 42.86
   },
   {
     "usuario": "NET_CDANGELOV",
@@ -1293,11 +1332,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 31,
-    "delivered": 22,
-    "anulado": 5,
-    "cancelado": 1,
-    "effectiveness": 70.97
+    "total": 38,
+    "delivered": 26,
+    "anulado": 8,
+    "cancelado": 3,
+    "effectiveness": 68.42
   },
   {
     "usuario": "NET_CDIAZG",
@@ -1306,11 +1345,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 43,
-    "delivered": 38,
-    "anulado": 0,
+    "total": 52,
+    "delivered": 46,
+    "anulado": 1,
     "cancelado": 4,
-    "effectiveness": 88.37
+    "effectiveness": 88.46
   },
   {
     "usuario": "NET_CEVANGELISV",
@@ -1322,7 +1361,7 @@
     "total": 13,
     "delivered": 6,
     "anulado": 6,
-    "cancelado": 0,
+    "cancelado": 1,
     "effectiveness": 46.15
   },
   {
@@ -1332,11 +1371,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 5,
-    "delivered": 1,
-    "anulado": 0,
+    "total": 6,
+    "delivered": 2,
+    "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 20.0
+    "effectiveness": 33.33
   },
   {
     "usuario": "NET_CGALVEZG",
@@ -1358,11 +1397,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 45,
-    "delivered": 32,
+    "total": 47,
+    "delivered": 34,
     "anulado": 11,
     "cancelado": 2,
-    "effectiveness": 71.11
+    "effectiveness": 72.34
   },
   {
     "usuario": "NET_CGRANADOSC",
@@ -1371,11 +1410,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 20,
-    "delivered": 16,
+    "total": 25,
+    "delivered": 21,
     "anulado": 3,
     "cancelado": 1,
-    "effectiveness": 80.0
+    "effectiveness": 84.0
   },
   {
     "usuario": "NET_CIOLAYAR",
@@ -1384,11 +1423,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 5,
-    "delivered": 4,
-    "anulado": 0,
-    "cancelado": 0,
-    "effectiveness": 80.0
+    "total": 24,
+    "delivered": 14,
+    "anulado": 2,
+    "cancelado": 3,
+    "effectiveness": 58.33
   },
   {
     "usuario": "NET_CJCASTILLOM",
@@ -1397,11 +1436,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 5,
-    "delivered": 2,
+    "total": 7,
+    "delivered": 4,
     "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 40.0
+    "effectiveness": 57.14
   },
   {
     "usuario": "NET_CLOARTEF",
@@ -1410,11 +1449,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 47,
-    "delivered": 30,
-    "anulado": 12,
-    "cancelado": 2,
-    "effectiveness": 63.83
+    "total": 53,
+    "delivered": 31,
+    "anulado": 17,
+    "cancelado": 3,
+    "effectiveness": 58.49
   },
   {
     "usuario": "NET_CMDELACRUZV",
@@ -1423,11 +1462,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 28,
-    "delivered": 17,
-    "anulado": 6,
-    "cancelado": 3,
-    "effectiveness": 60.71
+    "total": 32,
+    "delivered": 19,
+    "anulado": 9,
+    "cancelado": 4,
+    "effectiveness": 59.38
   },
   {
     "usuario": "NET_CMENESESV",
@@ -1436,11 +1475,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 33,
-    "delivered": 19,
+    "total": 40,
+    "delivered": 24,
     "anulado": 7,
-    "cancelado": 6,
-    "effectiveness": 57.58
+    "cancelado": 9,
+    "effectiveness": 60.0
   },
   {
     "usuario": "NET_CMERAA",
@@ -1456,17 +1495,30 @@
     "effectiveness": 94.74
   },
   {
+    "usuario": "NET_CMUNOZC",
+    "nombre": "NET_CMUNOZC",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 5,
+    "delivered": 3,
+    "anulado": 1,
+    "cancelado": 0,
+    "effectiveness": 60.0
+  },
+  {
     "usuario": "NET_CPALMAG",
     "nombre": "NET_CPALMAG",
     "supervisor": "No registrado",
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 9,
-    "delivered": 4,
-    "anulado": 1,
+    "total": 13,
+    "delivered": 6,
+    "anulado": 3,
     "cancelado": 4,
-    "effectiveness": 44.44
+    "effectiveness": 46.15
   },
   {
     "usuario": "NET_CPINELLAC",
@@ -1475,11 +1527,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 23,
-    "delivered": 15,
+    "total": 31,
+    "delivered": 23,
     "anulado": 4,
     "cancelado": 3,
-    "effectiveness": 65.22
+    "effectiveness": 74.19
   },
   {
     "usuario": "NET_CPORRASP",
@@ -1488,11 +1540,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 26,
-    "delivered": 14,
-    "anulado": 10,
+    "total": 28,
+    "delivered": 15,
+    "anulado": 11,
     "cancelado": 2,
-    "effectiveness": 53.85
+    "effectiveness": 53.57
   },
   {
     "usuario": "NET_CQUISPITONO",
@@ -1501,11 +1553,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 10,
-    "delivered": 6,
+    "total": 14,
+    "delivered": 8,
     "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 60.0
+    "effectiveness": 57.14
   },
   {
     "usuario": "NET_CRAMOSC",
@@ -1514,11 +1566,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 29,
-    "delivered": 22,
-    "anulado": 4,
+    "total": 37,
+    "delivered": 28,
+    "anulado": 5,
     "cancelado": 1,
-    "effectiveness": 75.86
+    "effectiveness": 75.68
   },
   {
     "usuario": "NET_CREYESJ",
@@ -1527,11 +1579,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 95,
-    "delivered": 87,
+    "total": 109,
+    "delivered": 103,
     "anulado": 4,
     "cancelado": 1,
-    "effectiveness": 91.58
+    "effectiveness": 94.5
   },
   {
     "usuario": "NET_CRUEDAV",
@@ -1540,11 +1592,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 13,
-    "delivered": 7,
+    "total": 12,
+    "delivered": 6,
     "anulado": 1,
     "cancelado": 1,
-    "effectiveness": 53.85
+    "effectiveness": 50.0
   },
   {
     "usuario": "NET_CSALAZARP",
@@ -1553,11 +1605,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 41,
-    "delivered": 25,
-    "anulado": 10,
+    "total": 50,
+    "delivered": 33,
+    "anulado": 11,
     "cancelado": 5,
-    "effectiveness": 60.98
+    "effectiveness": 66.0
   },
   {
     "usuario": "NET_CSANTIAGOQ",
@@ -1566,11 +1618,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 42,
-    "delivered": 32,
-    "anulado": 3,
+    "total": 46,
+    "delivered": 36,
+    "anulado": 4,
     "cancelado": 6,
-    "effectiveness": 76.19
+    "effectiveness": 78.26
   },
   {
     "usuario": "NET_CSIRRAZABAC",
@@ -1592,11 +1644,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 44,
-    "delivered": 33,
-    "anulado": 11,
+    "total": 47,
+    "delivered": 35,
+    "anulado": 12,
     "cancelado": 0,
-    "effectiveness": 75.0
+    "effectiveness": 74.47
   },
   {
     "usuario": "NET_CUCEDAE",
@@ -1608,7 +1660,7 @@
     "total": 18,
     "delivered": 9,
     "anulado": 4,
-    "cancelado": 4,
+    "cancelado": 5,
     "effectiveness": 50.0
   },
   {
@@ -1618,11 +1670,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 62,
-    "delivered": 51,
-    "anulado": 9,
+    "total": 68,
+    "delivered": 54,
+    "anulado": 10,
     "cancelado": 2,
-    "effectiveness": 82.26
+    "effectiveness": 79.41
   },
   {
     "usuario": "NET_CVASQUEZR",
@@ -1631,11 +1683,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 5,
-    "delivered": 3,
-    "anulado": 1,
+    "total": 14,
+    "delivered": 7,
+    "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 60.0
+    "effectiveness": 50.0
   },
   {
     "usuario": "NET_DALVAREZC",
@@ -1644,11 +1696,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 17,
+    "total": 19,
     "delivered": 10,
-    "anulado": 5,
+    "anulado": 7,
     "cancelado": 1,
-    "effectiveness": 58.82
+    "effectiveness": 52.63
   },
   {
     "usuario": "NET_DAOBANDOI",
@@ -1670,11 +1722,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 15,
-    "delivered": 11,
-    "anulado": 2,
+    "total": 17,
+    "delivered": 12,
+    "anulado": 3,
     "cancelado": 2,
-    "effectiveness": 73.33
+    "effectiveness": 70.59
   },
   {
     "usuario": "NET_DCOVIEDOA",
@@ -1696,11 +1748,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 38,
+    "total": 40,
     "delivered": 25,
-    "anulado": 5,
+    "anulado": 8,
     "cancelado": 7,
-    "effectiveness": 65.79
+    "effectiveness": 62.5
   },
   {
     "usuario": "NET_DDEPINHOZ",
@@ -1709,11 +1761,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 41,
-    "delivered": 26,
+    "total": 50,
+    "delivered": 35,
     "anulado": 12,
     "cancelado": 3,
-    "effectiveness": 63.41
+    "effectiveness": 70.0
   },
   {
     "usuario": "NET_DDIAZC",
@@ -1735,11 +1787,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 95,
-    "delivered": 79,
-    "anulado": 13,
+    "total": 117,
+    "delivered": 100,
+    "anulado": 14,
     "cancelado": 3,
-    "effectiveness": 83.16
+    "effectiveness": 85.47
   },
   {
     "usuario": "NET_DGHERRERA",
@@ -1748,8 +1800,8 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 1,
-    "delivered": 1,
+    "total": 3,
+    "delivered": 3,
     "anulado": 0,
     "cancelado": 0,
     "effectiveness": 100.0
@@ -1761,11 +1813,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 15,
+    "total": 16,
     "delivered": 12,
-    "anulado": 3,
+    "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 80.0
+    "effectiveness": 75.0
   },
   {
     "usuario": "NET_DLUNAS",
@@ -1789,7 +1841,7 @@
     "cargo": "N/A",
     "total": 22,
     "delivered": 5,
-    "anulado": 15,
+    "anulado": 16,
     "cancelado": 1,
     "effectiveness": 22.73
   },
@@ -1800,11 +1852,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 67,
-    "delivered": 48,
+    "total": 71,
+    "delivered": 50,
     "anulado": 10,
     "cancelado": 9,
-    "effectiveness": 71.64
+    "effectiveness": 70.42
   },
   {
     "usuario": "NET_DMUNOZCORNE",
@@ -1826,11 +1878,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 46,
-    "delivered": 30,
-    "anulado": 9,
+    "total": 51,
+    "delivered": 33,
+    "anulado": 11,
     "cancelado": 6,
-    "effectiveness": 65.22
+    "effectiveness": 64.71
   },
   {
     "usuario": "NET_DOLIDENC",
@@ -1839,11 +1891,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 7,
-    "delivered": 0,
-    "anulado": 7,
+    "total": 9,
+    "delivered": 1,
+    "anulado": 8,
     "cancelado": 0,
-    "effectiveness": 0.0
+    "effectiveness": 11.11
   },
   {
     "usuario": "NET_DRUIZR",
@@ -1852,11 +1904,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 25,
-    "delivered": 12,
-    "anulado": 6,
-    "cancelado": 6,
-    "effectiveness": 48.0
+    "total": 34,
+    "delivered": 16,
+    "anulado": 10,
+    "cancelado": 8,
+    "effectiveness": 47.06
   },
   {
     "usuario": "NET_DSANTOSC",
@@ -1878,11 +1930,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 35,
-    "delivered": 25,
+    "total": 49,
+    "delivered": 37,
     "anulado": 4,
     "cancelado": 5,
-    "effectiveness": 71.43
+    "effectiveness": 75.51
   },
   {
     "usuario": "NET_DVELASQUEZQ",
@@ -1904,11 +1956,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 32,
-    "delivered": 29,
-    "anulado": 3,
+    "total": 43,
+    "delivered": 37,
+    "anulado": 5,
     "cancelado": 0,
-    "effectiveness": 90.62
+    "effectiveness": 86.05
   },
   {
     "usuario": "NET_DVILLAVERDM",
@@ -1917,10 +1969,10 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 22,
-    "delivered": 11,
+    "total": 24,
+    "delivered": 12,
     "anulado": 7,
-    "cancelado": 4,
+    "cancelado": 5,
     "effectiveness": 50.0
   },
   {
@@ -1930,11 +1982,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 61,
-    "delivered": 41,
-    "anulado": 9,
-    "cancelado": 8,
-    "effectiveness": 67.21
+    "total": 70,
+    "delivered": 47,
+    "anulado": 11,
+    "cancelado": 12,
+    "effectiveness": 67.14
   },
   {
     "usuario": "NET_EAYALAE",
@@ -1943,11 +1995,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 6,
-    "delivered": 2,
-    "anulado": 3,
+    "total": 10,
+    "delivered": 6,
+    "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 33.33
+    "effectiveness": 60.0
   },
   {
     "usuario": "NET_EBELTRANV",
@@ -1956,11 +2008,24 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 3,
-    "delivered": 0,
+    "total": 4,
+    "delivered": 1,
     "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 0.0
+    "effectiveness": 25.0
+  },
+  {
+    "usuario": "NET_EBOZA",
+    "nombre": "NET_EBOZA",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 22,
+    "delivered": 12,
+    "anulado": 7,
+    "cancelado": 0,
+    "effectiveness": 54.55
   },
   {
     "usuario": "NET_ECALDERONV",
@@ -1969,11 +2034,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 9,
-    "delivered": 4,
+    "total": 10,
+    "delivered": 5,
     "anulado": 3,
     "cancelado": 2,
-    "effectiveness": 44.44
+    "effectiveness": 50.0
   },
   {
     "usuario": "NET_ECARRETEROH",
@@ -1982,11 +2047,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 66,
-    "delivered": 53,
+    "total": 83,
+    "delivered": 69,
     "anulado": 5,
-    "cancelado": 6,
-    "effectiveness": 80.3
+    "cancelado": 9,
+    "effectiveness": 83.13
   },
   {
     "usuario": "NET_ECASASN",
@@ -1995,11 +2060,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 37,
-    "delivered": 29,
-    "anulado": 1,
+    "total": 44,
+    "delivered": 35,
+    "anulado": 4,
     "cancelado": 5,
-    "effectiveness": 78.38
+    "effectiveness": 79.55
   },
   {
     "usuario": "NET_ECASTILLOH",
@@ -2008,11 +2073,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 38,
-    "delivered": 31,
+    "total": 43,
+    "delivered": 37,
     "anulado": 2,
     "cancelado": 4,
-    "effectiveness": 81.58
+    "effectiveness": 86.05
   },
   {
     "usuario": "NET_ECHEROS",
@@ -2021,11 +2086,24 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 47,
-    "delivered": 34,
-    "anulado": 7,
+    "total": 52,
+    "delivered": 39,
+    "anulado": 8,
     "cancelado": 2,
-    "effectiveness": 72.34
+    "effectiveness": 75.0
+  },
+  {
+    "usuario": "NET_EDMATOSM",
+    "nombre": "NET_EDMATOSM",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 5,
+    "delivered": 0,
+    "anulado": 5,
+    "cancelado": 0,
+    "effectiveness": 0.0
   },
   {
     "usuario": "NET_EECASAFRANC",
@@ -2034,11 +2112,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 32,
-    "delivered": 10,
-    "anulado": 8,
-    "cancelado": 9,
-    "effectiveness": 31.25
+    "total": 38,
+    "delivered": 12,
+    "anulado": 12,
+    "cancelado": 11,
+    "effectiveness": 31.58
   },
   {
     "usuario": "NET_EGOMEZB",
@@ -2047,11 +2125,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 56,
-    "delivered": 38,
-    "anulado": 15,
-    "cancelado": 1,
-    "effectiveness": 67.86
+    "total": 62,
+    "delivered": 42,
+    "anulado": 17,
+    "cancelado": 2,
+    "effectiveness": 67.74
   },
   {
     "usuario": "NET_EIZACUPEC",
@@ -2073,11 +2151,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 48,
-    "delivered": 19,
-    "anulado": 23,
+    "total": 57,
+    "delivered": 23,
+    "anulado": 29,
     "cancelado": 5,
-    "effectiveness": 39.58
+    "effectiveness": 40.35
   },
   {
     "usuario": "NET_EMACHEROT",
@@ -2086,11 +2164,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 26,
-    "delivered": 20,
+    "total": 32,
+    "delivered": 26,
     "anulado": 5,
     "cancelado": 1,
-    "effectiveness": 76.92
+    "effectiveness": 81.25
   },
   {
     "usuario": "NET_EMEDINAU",
@@ -2099,11 +2177,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 65,
-    "delivered": 54,
-    "anulado": 7,
+    "total": 79,
+    "delivered": 66,
+    "anulado": 8,
     "cancelado": 3,
-    "effectiveness": 83.08
+    "effectiveness": 83.54
   },
   {
     "usuario": "NET_EMMENDIZF",
@@ -2112,11 +2190,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 57,
-    "delivered": 37,
-    "anulado": 13,
-    "cancelado": 5,
-    "effectiveness": 64.91
+    "total": 62,
+    "delivered": 41,
+    "anulado": 14,
+    "cancelado": 6,
+    "effectiveness": 66.13
   },
   {
     "usuario": "NET_EMONZONP",
@@ -2125,11 +2203,24 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 58,
-    "delivered": 39,
+    "total": 59,
+    "delivered": 42,
     "anulado": 9,
-    "cancelado": 6,
-    "effectiveness": 67.24
+    "cancelado": 8,
+    "effectiveness": 71.19
+  },
+  {
+    "usuario": "NET_ENUNEZQ",
+    "nombre": "NET_ENUNEZQ",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 5,
+    "delivered": 4,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 80.0
   },
   {
     "usuario": "NET_EPARDOG",
@@ -2138,11 +2229,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 31,
+    "total": 32,
     "delivered": 28,
-    "anulado": 1,
+    "anulado": 2,
     "cancelado": 2,
-    "effectiveness": 90.32
+    "effectiveness": 87.5
   },
   {
     "usuario": "NET_EQUIROZH",
@@ -2151,11 +2242,24 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 11,
-    "delivered": 3,
-    "anulado": 6,
+    "total": 13,
+    "delivered": 4,
+    "anulado": 7,
+    "cancelado": 1,
+    "effectiveness": 30.77
+  },
+  {
+    "usuario": "NET_EROSALESL",
+    "nombre": "NET_EROSALESL",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 5,
+    "delivered": 1,
+    "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 27.27
+    "effectiveness": 20.0
   },
   {
     "usuario": "NET_ETERNEROC",
@@ -2177,11 +2281,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 36,
-    "delivered": 26,
+    "total": 37,
+    "delivered": 27,
     "anulado": 5,
     "cancelado": 5,
-    "effectiveness": 72.22
+    "effectiveness": 72.97
   },
   {
     "usuario": "NET_EVALDIVIEZO",
@@ -2190,11 +2294,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 63,
-    "delivered": 51,
-    "anulado": 10,
+    "total": 68,
+    "delivered": 54,
+    "anulado": 12,
     "cancelado": 1,
-    "effectiveness": 80.95
+    "effectiveness": 79.41
   },
   {
     "usuario": "NET_EVELASQUEZB",
@@ -2203,10 +2307,10 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 12,
-    "delivered": 3,
+    "total": 16,
+    "delivered": 4,
     "anulado": 9,
-    "cancelado": 0,
+    "cancelado": 1,
     "effectiveness": 25.0
   },
   {
@@ -2216,11 +2320,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 62,
-    "delivered": 49,
+    "total": 70,
+    "delivered": 58,
     "anulado": 11,
     "cancelado": 1,
-    "effectiveness": 79.03
+    "effectiveness": 82.86
   },
   {
     "usuario": "NET_EZEVALLOSZ",
@@ -2229,11 +2333,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 24,
-    "delivered": 19,
+    "total": 30,
+    "delivered": 25,
     "anulado": 5,
     "cancelado": 0,
-    "effectiveness": 79.17
+    "effectiveness": 83.33
   },
   {
     "usuario": "NET_FBARTET",
@@ -2242,11 +2346,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 29,
-    "delivered": 25,
+    "total": 35,
+    "delivered": 27,
     "anulado": 2,
-    "cancelado": 2,
-    "effectiveness": 86.21
+    "cancelado": 3,
+    "effectiveness": 77.14
   },
   {
     "usuario": "NET_FBUSTAMANTI",
@@ -2268,11 +2372,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 30,
-    "delivered": 18,
-    "anulado": 11,
+    "total": 43,
+    "delivered": 26,
+    "anulado": 15,
     "cancelado": 1,
-    "effectiveness": 60.0
+    "effectiveness": 60.47
   },
   {
     "usuario": "NET_FCASTILLOG",
@@ -2281,11 +2385,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 90,
-    "delivered": 70,
+    "total": 100,
+    "delivered": 81,
     "anulado": 10,
     "cancelado": 8,
-    "effectiveness": 77.78
+    "effectiveness": 81.0
   },
   {
     "usuario": "NET_FGRIMALDOS",
@@ -2307,11 +2411,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 12,
-    "delivered": 6,
+    "total": 17,
+    "delivered": 11,
     "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 50.0
+    "effectiveness": 64.71
   },
   {
     "usuario": "NET_FLABANM",
@@ -2320,11 +2424,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 43,
-    "delivered": 31,
-    "anulado": 7,
-    "cancelado": 5,
-    "effectiveness": 72.09
+    "total": 49,
+    "delivered": 33,
+    "anulado": 8,
+    "cancelado": 7,
+    "effectiveness": 67.35
   },
   {
     "usuario": "NET_FQUISPEP",
@@ -2333,11 +2437,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 28,
+    "total": 29,
     "delivered": 18,
-    "anulado": 10,
+    "anulado": 11,
     "cancelado": 0,
-    "effectiveness": 64.29
+    "effectiveness": 62.07
   },
   {
     "usuario": "NET_FRIVERAO",
@@ -2346,11 +2450,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 28,
-    "delivered": 20,
-    "anulado": 4,
-    "cancelado": 3,
-    "effectiveness": 71.43
+    "total": 32,
+    "delivered": 22,
+    "anulado": 6,
+    "cancelado": 4,
+    "effectiveness": 68.75
   },
   {
     "usuario": "NET_FTUCTOM",
@@ -2366,17 +2470,69 @@
     "effectiveness": 69.23
   },
   {
+    "usuario": "NET_FVIGILF",
+    "nombre": "NET_FVIGILF",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 5,
+    "delivered": 4,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 80.0
+  },
+  {
+    "usuario": "NET_GAGUILARC",
+    "nombre": "NET_GAGUILARC",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 5,
+    "delivered": 4,
+    "anulado": 1,
+    "cancelado": 0,
+    "effectiveness": 80.0
+  },
+  {
     "usuario": "NET_GARMAZAG",
     "nombre": "NET_GARMAZAG",
     "supervisor": "No registrado",
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 23,
+    "total": 25,
     "delivered": 8,
-    "anulado": 11,
-    "cancelado": 3,
-    "effectiveness": 34.78
+    "anulado": 12,
+    "cancelado": 4,
+    "effectiveness": 32.0
+  },
+  {
+    "usuario": "NET_GARROYOR",
+    "nombre": "NET_GARROYOR",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 5,
+    "delivered": 0,
+    "anulado": 2,
+    "cancelado": 0,
+    "effectiveness": 0.0
+  },
+  {
+    "usuario": "NET_GBUITRONL",
+    "nombre": "NET_GBUITRONL",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 6,
+    "delivered": 6,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 100.0
   },
   {
     "usuario": "NET_GCABALLEROB",
@@ -2386,10 +2542,10 @@
     "cuartil": "N/A",
     "cargo": "N/A",
     "total": 97,
-    "delivered": 78,
+    "delivered": 81,
     "anulado": 12,
     "cancelado": 4,
-    "effectiveness": 80.41
+    "effectiveness": 83.51
   },
   {
     "usuario": "NET_GCABALLEROC",
@@ -2398,11 +2554,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 60,
-    "delivered": 49,
-    "anulado": 10,
+    "total": 77,
+    "delivered": 63,
+    "anulado": 12,
     "cancelado": 1,
-    "effectiveness": 81.67
+    "effectiveness": 81.82
   },
   {
     "usuario": "NET_GDELGADO",
@@ -2412,10 +2568,10 @@
     "cuartil": "N/A",
     "cargo": "N/A",
     "total": 56,
-    "delivered": 47,
-    "anulado": 7,
+    "delivered": 45,
+    "anulado": 9,
     "cancelado": 2,
-    "effectiveness": 83.93
+    "effectiveness": 80.36
   },
   {
     "usuario": "NET_GDJULCAT",
@@ -2424,11 +2580,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 31,
-    "delivered": 13,
-    "anulado": 12,
+    "total": 37,
+    "delivered": 18,
+    "anulado": 13,
     "cancelado": 6,
-    "effectiveness": 41.94
+    "effectiveness": 48.65
   },
   {
     "usuario": "NET_GFLORESS",
@@ -2437,11 +2593,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 123,
-    "delivered": 99,
-    "anulado": 10,
-    "cancelado": 4,
-    "effectiveness": 80.49
+    "total": 173,
+    "delivered": 143,
+    "anulado": 21,
+    "cancelado": 8,
+    "effectiveness": 82.66
   },
   {
     "usuario": "NET_GGALLARDAYA",
@@ -2450,11 +2606,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 57,
-    "delivered": 36,
-    "anulado": 7,
-    "cancelado": 12,
-    "effectiveness": 63.16
+    "total": 62,
+    "delivered": 40,
+    "anulado": 8,
+    "cancelado": 13,
+    "effectiveness": 64.52
   },
   {
     "usuario": "NET_GGARCIAS",
@@ -2463,11 +2619,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 26,
-    "delivered": 21,
-    "anulado": 4,
+    "total": 32,
+    "delivered": 24,
+    "anulado": 5,
     "cancelado": 1,
-    "effectiveness": 80.77
+    "effectiveness": 75.0
   },
   {
     "usuario": "NET_GGUTIERREZM",
@@ -2476,11 +2632,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 55,
-    "delivered": 44,
+    "total": 66,
+    "delivered": 50,
     "anulado": 6,
-    "cancelado": 4,
-    "effectiveness": 80.0
+    "cancelado": 5,
+    "effectiveness": 75.76
   },
   {
     "usuario": "NET_GHERRERAG",
@@ -2489,11 +2645,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 97,
-    "delivered": 67,
-    "anulado": 22,
+    "total": 118,
+    "delivered": 83,
+    "anulado": 32,
     "cancelado": 2,
-    "effectiveness": 69.07
+    "effectiveness": 70.34
   },
   {
     "usuario": "NET_GHUAMANT",
@@ -2502,11 +2658,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 39,
-    "delivered": 29,
+    "total": 44,
+    "delivered": 34,
     "anulado": 9,
     "cancelado": 1,
-    "effectiveness": 74.36
+    "effectiveness": 77.27
   },
   {
     "usuario": "NET_GHUANCASS",
@@ -2515,11 +2671,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 34,
-    "delivered": 28,
+    "total": 41,
+    "delivered": 35,
     "anulado": 6,
     "cancelado": 0,
-    "effectiveness": 82.35
+    "effectiveness": 85.37
   },
   {
     "usuario": "NET_GLOPEZF",
@@ -2528,11 +2684,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 43,
-    "delivered": 31,
-    "anulado": 7,
+    "total": 48,
+    "delivered": 35,
+    "anulado": 8,
     "cancelado": 4,
-    "effectiveness": 72.09
+    "effectiveness": 72.92
   },
   {
     "usuario": "NET_GMENDIGUETE",
@@ -2541,11 +2697,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 145,
-    "delivered": 114,
-    "anulado": 18,
-    "cancelado": 9,
-    "effectiveness": 78.62
+    "total": 176,
+    "delivered": 142,
+    "anulado": 22,
+    "cancelado": 10,
+    "effectiveness": 80.68
   },
   {
     "usuario": "NET_GSANCHEZO",
@@ -2554,11 +2710,24 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 41,
-    "delivered": 31,
+    "total": 42,
+    "delivered": 32,
     "anulado": 7,
     "cancelado": 3,
-    "effectiveness": 75.61
+    "effectiveness": 76.19
+  },
+  {
+    "usuario": "NET_GSANDOVALS",
+    "nombre": "NET_GSANDOVALS",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 6,
+    "delivered": 1,
+    "anulado": 2,
+    "cancelado": 0,
+    "effectiveness": 16.67
   },
   {
     "usuario": "NET_GSANTOSC",
@@ -2567,11 +2736,24 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 39,
-    "delivered": 35,
+    "total": 44,
+    "delivered": 40,
     "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 89.74
+    "effectiveness": 90.91
+  },
+  {
+    "usuario": "NET_GSILVAF",
+    "nombre": "NET_GSILVAF",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 6,
+    "delivered": 4,
+    "anulado": 1,
+    "cancelado": 0,
+    "effectiveness": 66.67
   },
   {
     "usuario": "NET_GSILVAJ",
@@ -2580,11 +2762,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 22,
-    "delivered": 19,
+    "total": 27,
+    "delivered": 23,
     "anulado": 1,
-    "cancelado": 2,
-    "effectiveness": 86.36
+    "cancelado": 3,
+    "effectiveness": 85.19
   },
   {
     "usuario": "NET_GURBINAA",
@@ -2593,11 +2775,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 7,
-    "delivered": 2,
-    "anulado": 2,
+    "total": 11,
+    "delivered": 5,
+    "anulado": 6,
     "cancelado": 0,
-    "effectiveness": 28.57
+    "effectiveness": 45.45
   },
   {
     "usuario": "NET_GVELASQUEZA",
@@ -2606,11 +2788,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 74,
-    "delivered": 55,
-    "anulado": 16,
-    "cancelado": 2,
-    "effectiveness": 74.32
+    "total": 86,
+    "delivered": 63,
+    "anulado": 19,
+    "cancelado": 3,
+    "effectiveness": 73.26
   },
   {
     "usuario": "NET_GVILELAR",
@@ -2619,11 +2801,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 60,
-    "delivered": 39,
-    "anulado": 11,
-    "cancelado": 4,
-    "effectiveness": 65.0
+    "total": 64,
+    "delivered": 45,
+    "anulado": 13,
+    "cancelado": 5,
+    "effectiveness": 70.31
   },
   {
     "usuario": "NET_GZUNIGAO",
@@ -2658,11 +2840,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 12,
-    "delivered": 4,
+    "total": 13,
+    "delivered": 5,
     "anulado": 5,
-    "cancelado": 1,
-    "effectiveness": 33.33
+    "cancelado": 2,
+    "effectiveness": 38.46
   },
   {
     "usuario": "NET_HEULOGIO",
@@ -2671,11 +2853,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 167,
-    "delivered": 139,
+    "total": 175,
+    "delivered": 148,
     "anulado": 8,
-    "cancelado": 13,
-    "effectiveness": 83.23
+    "cancelado": 16,
+    "effectiveness": 84.57
   },
   {
     "usuario": "NET_HJUNCOT",
@@ -2684,11 +2866,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 20,
-    "delivered": 18,
+    "total": 24,
+    "delivered": 21,
     "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 90.0
+    "effectiveness": 87.5
   },
   {
     "usuario": "NET_HTAMAYD",
@@ -2697,11 +2879,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 30,
-    "delivered": 16,
-    "anulado": 11,
+    "total": 32,
+    "delivered": 18,
+    "anulado": 12,
     "cancelado": 1,
-    "effectiveness": 53.33
+    "effectiveness": 56.25
   },
   {
     "usuario": "NET_IASTOCONDOP",
@@ -2723,11 +2905,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 42,
+    "total": 43,
     "delivered": 15,
     "anulado": 13,
     "cancelado": 14,
-    "effectiveness": 35.71
+    "effectiveness": 34.88
   },
   {
     "usuario": "NET_IQUEREVALUL",
@@ -2736,11 +2918,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 31,
-    "delivered": 19,
-    "anulado": 9,
+    "total": 32,
+    "delivered": 20,
+    "anulado": 10,
     "cancelado": 2,
-    "effectiveness": 61.29
+    "effectiveness": 62.5
   },
   {
     "usuario": "NET_IRODRIGUEZS",
@@ -2749,11 +2931,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 37,
-    "delivered": 25,
-    "anulado": 4,
+    "total": 49,
+    "delivered": 36,
+    "anulado": 6,
     "cancelado": 7,
-    "effectiveness": 67.57
+    "effectiveness": 73.47
   },
   {
     "usuario": "NET_IVARGASI",
@@ -2762,11 +2944,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 38,
-    "delivered": 23,
-    "anulado": 11,
+    "total": 44,
+    "delivered": 29,
+    "anulado": 12,
     "cancelado": 2,
-    "effectiveness": 60.53
+    "effectiveness": 65.91
   },
   {
     "usuario": "NET_JAMASIFUENT",
@@ -2775,11 +2957,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 29,
-    "delivered": 15,
-    "anulado": 7,
-    "cancelado": 2,
-    "effectiveness": 51.72
+    "total": 31,
+    "delivered": 17,
+    "anulado": 8,
+    "cancelado": 4,
+    "effectiveness": 54.84
   },
   {
     "usuario": "NET_JAREVALOC",
@@ -2788,11 +2970,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 70,
-    "delivered": 54,
-    "anulado": 3,
-    "cancelado": 12,
-    "effectiveness": 77.14
+    "total": 82,
+    "delivered": 61,
+    "anulado": 4,
+    "cancelado": 15,
+    "effectiveness": 74.39
   },
   {
     "usuario": "NET_JAREVALOV",
@@ -2814,11 +2996,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 49,
-    "delivered": 46,
+    "total": 53,
+    "delivered": 50,
     "anulado": 2,
     "cancelado": 1,
-    "effectiveness": 93.88
+    "effectiveness": 94.34
   },
   {
     "usuario": "NET_JBARRAGANH",
@@ -2827,11 +3009,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 47,
-    "delivered": 29,
-    "anulado": 13,
-    "cancelado": 0,
-    "effectiveness": 61.7
+    "total": 58,
+    "delivered": 40,
+    "anulado": 14,
+    "cancelado": 3,
+    "effectiveness": 68.97
   },
   {
     "usuario": "NET_JCABANILLAR",
@@ -2840,11 +3022,24 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 21,
-    "delivered": 14,
+    "total": 22,
+    "delivered": 15,
     "anulado": 6,
     "cancelado": 1,
-    "effectiveness": 66.67
+    "effectiveness": 68.18
+  },
+  {
+    "usuario": "NET_JCALDASB",
+    "nombre": "NET_JCALDASB",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 4,
+    "delivered": 3,
+    "anulado": 1,
+    "cancelado": 0,
+    "effectiveness": 75.0
   },
   {
     "usuario": "NET_JCAMPOS",
@@ -2853,11 +3048,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 63,
-    "delivered": 30,
-    "anulado": 21,
-    "cancelado": 8,
-    "effectiveness": 47.62
+    "total": 71,
+    "delivered": 34,
+    "anulado": 27,
+    "cancelado": 9,
+    "effectiveness": 47.89
   },
   {
     "usuario": "NET_JCARUAJULCA",
@@ -2879,11 +3074,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 37,
-    "delivered": 28,
-    "anulado": 6,
-    "cancelado": 1,
-    "effectiveness": 75.68
+    "total": 43,
+    "delivered": 33,
+    "anulado": 8,
+    "cancelado": 2,
+    "effectiveness": 76.74
   },
   {
     "usuario": "NET_JCHAVEZC",
@@ -2892,9 +3087,9 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 60,
-    "delivered": 50,
-    "anulado": 4,
+    "total": 66,
+    "delivered": 55,
+    "anulado": 5,
     "cancelado": 6,
     "effectiveness": 83.33
   },
@@ -2905,11 +3100,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 59,
-    "delivered": 46,
+    "total": 69,
+    "delivered": 56,
     "anulado": 10,
-    "cancelado": 2,
-    "effectiveness": 77.97
+    "cancelado": 3,
+    "effectiveness": 81.16
   },
   {
     "usuario": "NET_JCHEROO",
@@ -2918,11 +3113,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 71,
-    "delivered": 50,
-    "anulado": 14,
-    "cancelado": 6,
-    "effectiveness": 70.42
+    "total": 84,
+    "delivered": 58,
+    "anulado": 15,
+    "cancelado": 8,
+    "effectiveness": 69.05
   },
   {
     "usuario": "NET_JCHINGAA",
@@ -2931,11 +3126,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 34,
-    "delivered": 24,
-    "anulado": 3,
-    "cancelado": 5,
-    "effectiveness": 70.59
+    "total": 43,
+    "delivered": 30,
+    "anulado": 5,
+    "cancelado": 7,
+    "effectiveness": 69.77
   },
   {
     "usuario": "NET_JCHIRINOSP",
@@ -2944,11 +3139,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 7,
-    "delivered": 5,
-    "anulado": 1,
+    "total": 14,
+    "delivered": 7,
+    "anulado": 5,
     "cancelado": 1,
-    "effectiveness": 71.43
+    "effectiveness": 50.0
   },
   {
     "usuario": "NET_JCHUQUILINL",
@@ -2957,11 +3152,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 26,
-    "delivered": 18,
+    "total": 31,
+    "delivered": 23,
     "anulado": 3,
     "cancelado": 4,
-    "effectiveness": 69.23
+    "effectiveness": 74.19
   },
   {
     "usuario": "NET_JCHUQUIPOMD",
@@ -2970,11 +3165,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 25,
-    "delivered": 13,
-    "anulado": 10,
-    "cancelado": 0,
-    "effectiveness": 52.0
+    "total": 32,
+    "delivered": 17,
+    "anulado": 13,
+    "cancelado": 1,
+    "effectiveness": 53.12
   },
   {
     "usuario": "NET_JCOLOMAA",
@@ -2996,11 +3191,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 9,
-    "delivered": 2,
-    "anulado": 7,
+    "total": 12,
+    "delivered": 4,
+    "anulado": 8,
     "cancelado": 0,
-    "effectiveness": 22.22
+    "effectiveness": 33.33
   },
   {
     "usuario": "NET_JDSANCHEZM",
@@ -3009,11 +3204,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 5,
-    "delivered": 0,
+    "total": 7,
+    "delivered": 2,
     "anulado": 5,
     "cancelado": 0,
-    "effectiveness": 0.0
+    "effectiveness": 28.57
   },
   {
     "usuario": "NET_JFAJARDOR",
@@ -3022,11 +3217,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 27,
-    "delivered": 14,
-    "anulado": 12,
+    "total": 33,
+    "delivered": 20,
+    "anulado": 13,
     "cancelado": 0,
-    "effectiveness": 51.85
+    "effectiveness": 60.61
   },
   {
     "usuario": "NET_JGARCIAJ",
@@ -3048,11 +3243,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 15,
-    "delivered": 12,
+    "total": 18,
+    "delivered": 14,
     "anulado": 1,
     "cancelado": 2,
-    "effectiveness": 80.0
+    "effectiveness": 77.78
   },
   {
     "usuario": "NET_JGUIOP",
@@ -3061,11 +3256,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 72,
-    "delivered": 58,
-    "anulado": 9,
-    "cancelado": 5,
-    "effectiveness": 80.56
+    "total": 85,
+    "delivered": 65,
+    "anulado": 10,
+    "cancelado": 10,
+    "effectiveness": 76.47
   },
   {
     "usuario": "NET_JHUARACHEC",
@@ -3081,17 +3276,30 @@
     "effectiveness": 55.56
   },
   {
+    "usuario": "NET_JHUARCAYAS",
+    "nombre": "NET_JHUARCAYAS",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 5,
+    "delivered": 5,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 100.0
+  },
+  {
     "usuario": "NET_JIYASHAMAR",
     "nombre": "NET_JIYASHAMAR",
     "supervisor": "No registrado",
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 50,
-    "delivered": 19,
-    "anulado": 8,
-    "cancelado": 17,
-    "effectiveness": 38.0
+    "total": 76,
+    "delivered": 37,
+    "anulado": 12,
+    "cancelado": 22,
+    "effectiveness": 48.68
   },
   {
     "usuario": "NET_JJFERNANDEA",
@@ -3100,11 +3308,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 16,
-    "delivered": 10,
+    "total": 19,
+    "delivered": 14,
     "anulado": 3,
-    "cancelado": 1,
-    "effectiveness": 62.5
+    "cancelado": 2,
+    "effectiveness": 73.68
   },
   {
     "usuario": "NET_JLAZAROA",
@@ -3113,11 +3321,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 24,
+    "total": 27,
     "delivered": 17,
-    "anulado": 5,
-    "cancelado": 0,
-    "effectiveness": 70.83
+    "anulado": 8,
+    "cancelado": 2,
+    "effectiveness": 62.96
   },
   {
     "usuario": "NET_JLCASTILLOU",
@@ -3129,7 +3337,7 @@
     "total": 14,
     "delivered": 12,
     "anulado": 0,
-    "cancelado": 1,
+    "cancelado": 2,
     "effectiveness": 85.71
   },
   {
@@ -3139,11 +3347,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 25,
-    "delivered": 15,
+    "total": 27,
+    "delivered": 17,
     "anulado": 6,
-    "cancelado": 3,
-    "effectiveness": 60.0
+    "cancelado": 4,
+    "effectiveness": 62.96
   },
   {
     "usuario": "NET_JLQUISPEM",
@@ -3152,11 +3360,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 10,
-    "delivered": 7,
+    "total": 15,
+    "delivered": 11,
     "anulado": 3,
-    "cancelado": 0,
-    "effectiveness": 70.0
+    "cancelado": 1,
+    "effectiveness": 73.33
   },
   {
     "usuario": "NET_JLUCIANOT",
@@ -3165,11 +3373,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 49,
-    "delivered": 35,
+    "total": 51,
+    "delivered": 37,
     "anulado": 9,
     "cancelado": 5,
-    "effectiveness": 71.43
+    "effectiveness": 72.55
   },
   {
     "usuario": "NET_JMARQUEZG",
@@ -3204,11 +3412,24 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 57,
-    "delivered": 44,
+    "total": 63,
+    "delivered": 49,
     "anulado": 3,
-    "cancelado": 10,
-    "effectiveness": 77.19
+    "cancelado": 11,
+    "effectiveness": 77.78
+  },
+  {
+    "usuario": "NET_JMELLOV",
+    "nombre": "NET_JMELLOV",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 5,
+    "delivered": 3,
+    "anulado": 2,
+    "cancelado": 0,
+    "effectiveness": 60.0
   },
   {
     "usuario": "NET_JMENDOZAN",
@@ -3217,11 +3438,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 21,
-    "delivered": 12,
-    "anulado": 5,
-    "cancelado": 2,
-    "effectiveness": 57.14
+    "total": 25,
+    "delivered": 14,
+    "anulado": 7,
+    "cancelado": 3,
+    "effectiveness": 56.0
   },
   {
     "usuario": "NET_JNEYRAZ",
@@ -3230,11 +3451,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 25,
-    "delivered": 15,
-    "anulado": 3,
-    "cancelado": 5,
-    "effectiveness": 60.0
+    "total": 31,
+    "delivered": 17,
+    "anulado": 7,
+    "cancelado": 6,
+    "effectiveness": 54.84
   },
   {
     "usuario": "NET_JORTIZV",
@@ -3243,11 +3464,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 42,
-    "delivered": 28,
+    "total": 49,
+    "delivered": 31,
     "anulado": 11,
     "cancelado": 2,
-    "effectiveness": 66.67
+    "effectiveness": 63.27
   },
   {
     "usuario": "NET_JPALOMINOA",
@@ -3256,11 +3477,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 19,
-    "delivered": 15,
+    "total": 23,
+    "delivered": 18,
     "anulado": 4,
-    "cancelado": 0,
-    "effectiveness": 78.95
+    "cancelado": 1,
+    "effectiveness": 78.26
   },
   {
     "usuario": "NET_JPINDAYG",
@@ -3282,11 +3503,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 19,
-    "delivered": 13,
-    "anulado": 3,
-    "cancelado": 1,
-    "effectiveness": 68.42
+    "total": 32,
+    "delivered": 19,
+    "anulado": 9,
+    "cancelado": 3,
+    "effectiveness": 59.38
   },
   {
     "usuario": "NET_JQUINECHEB",
@@ -3295,11 +3516,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 108,
-    "delivered": 70,
-    "anulado": 27,
-    "cancelado": 8,
-    "effectiveness": 64.81
+    "total": 122,
+    "delivered": 81,
+    "anulado": 30,
+    "cancelado": 9,
+    "effectiveness": 66.39
   },
   {
     "usuario": "NET_JQUISPELUZA",
@@ -3308,11 +3529,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 8,
+    "total": 9,
     "delivered": 6,
     "anulado": 0,
     "cancelado": 2,
-    "effectiveness": 75.0
+    "effectiveness": 66.67
   },
   {
     "usuario": "NET_JRAMIREZQ",
@@ -3321,11 +3542,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 42,
-    "delivered": 30,
-    "anulado": 4,
-    "cancelado": 6,
-    "effectiveness": 71.43
+    "total": 50,
+    "delivered": 37,
+    "anulado": 5,
+    "cancelado": 7,
+    "effectiveness": 74.0
   },
   {
     "usuario": "NET_JRIVADENEIC",
@@ -3334,11 +3555,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 47,
-    "delivered": 25,
+    "total": 51,
+    "delivered": 27,
     "anulado": 15,
     "cancelado": 7,
-    "effectiveness": 53.19
+    "effectiveness": 52.94
   },
   {
     "usuario": "NET_JROMEROC",
@@ -3347,11 +3568,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 75,
-    "delivered": 43,
-    "anulado": 17,
-    "cancelado": 15,
-    "effectiveness": 57.33
+    "total": 88,
+    "delivered": 52,
+    "anulado": 19,
+    "cancelado": 17,
+    "effectiveness": 59.09
   },
   {
     "usuario": "NET_JSANCHEZC",
@@ -3360,11 +3581,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 78,
-    "delivered": 62,
+    "total": 83,
+    "delivered": 66,
     "anulado": 14,
     "cancelado": 2,
-    "effectiveness": 79.49
+    "effectiveness": 79.52
   },
   {
     "usuario": "NET_JSANGAMA",
@@ -3373,24 +3594,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 145,
-    "delivered": 83,
-    "anulado": 48,
+    "total": 162,
+    "delivered": 96,
+    "anulado": 54,
     "cancelado": 10,
-    "effectiveness": 57.24
-  },
-  {
-    "usuario": "NET_JSANGAMAT",
-    "nombre": "NET_JSANGAMAT",
-    "supervisor": "No registrado",
-    "coordinador": "No registrado",
-    "cuartil": "N/A",
-    "cargo": "N/A",
-    "total": 1,
-    "delivered": 0,
-    "anulado": 0,
-    "cancelado": 0,
-    "effectiveness": 0.0
+    "effectiveness": 59.26
   },
   {
     "usuario": "NET_JSIADEN",
@@ -3399,11 +3607,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 58,
-    "delivered": 42,
-    "anulado": 12,
-    "cancelado": 4,
-    "effectiveness": 72.41
+    "total": 78,
+    "delivered": 57,
+    "anulado": 14,
+    "cancelado": 6,
+    "effectiveness": 73.08
   },
   {
     "usuario": "NET_JSINCHEF",
@@ -3414,7 +3622,7 @@
     "cargo": "N/A",
     "total": 1,
     "delivered": 0,
-    "anulado": 0,
+    "anulado": 1,
     "cancelado": 0,
     "effectiveness": 0.0
   },
@@ -3425,11 +3633,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 56,
-    "delivered": 39,
+    "total": 58,
+    "delivered": 41,
     "anulado": 10,
     "cancelado": 7,
-    "effectiveness": 69.64
+    "effectiveness": 70.69
   },
   {
     "usuario": "NET_JTITOM",
@@ -3438,11 +3646,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 58,
-    "delivered": 37,
+    "total": 65,
+    "delivered": 43,
     "anulado": 16,
-    "cancelado": 4,
-    "effectiveness": 63.79
+    "cancelado": 5,
+    "effectiveness": 66.15
   },
   {
     "usuario": "NET_JTORRESQ",
@@ -3451,11 +3659,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 10,
-    "delivered": 6,
-    "anulado": 4,
-    "cancelado": 0,
-    "effectiveness": 60.0
+    "total": 18,
+    "delivered": 10,
+    "anulado": 7,
+    "cancelado": 1,
+    "effectiveness": 55.56
   },
   {
     "usuario": "NET_JUGARRIZAA",
@@ -3477,11 +3685,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 18,
-    "delivered": 13,
+    "total": 20,
+    "delivered": 16,
     "anulado": 2,
     "cancelado": 2,
-    "effectiveness": 72.22
+    "effectiveness": 80.0
   },
   {
     "usuario": "NET_JVALVERDEV",
@@ -3490,11 +3698,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 59,
-    "delivered": 42,
-    "anulado": 11,
-    "cancelado": 3,
-    "effectiveness": 71.19
+    "total": 70,
+    "delivered": 49,
+    "anulado": 12,
+    "cancelado": 8,
+    "effectiveness": 70.0
   },
   {
     "usuario": "NET_JVASQUEZMEN",
@@ -3503,11 +3711,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 29,
-    "delivered": 20,
-    "anulado": 5,
+    "total": 32,
+    "delivered": 22,
+    "anulado": 7,
     "cancelado": 2,
-    "effectiveness": 68.97
+    "effectiveness": 68.75
   },
   {
     "usuario": "NET_JVELASQUEZS",
@@ -3516,11 +3724,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 54,
-    "delivered": 31,
-    "anulado": 18,
+    "total": 61,
+    "delivered": 36,
+    "anulado": 19,
     "cancelado": 4,
-    "effectiveness": 57.41
+    "effectiveness": 59.02
   },
   {
     "usuario": "NET_JVILLAFANIC",
@@ -3529,11 +3737,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 31,
-    "delivered": 20,
-    "anulado": 8,
+    "total": 35,
+    "delivered": 23,
+    "anulado": 9,
     "cancelado": 3,
-    "effectiveness": 64.52
+    "effectiveness": 65.71
   },
   {
     "usuario": "NET_JVILLANUEVL",
@@ -3542,11 +3750,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 44,
-    "delivered": 20,
-    "anulado": 15,
-    "cancelado": 5,
-    "effectiveness": 45.45
+    "total": 48,
+    "delivered": 23,
+    "anulado": 18,
+    "cancelado": 6,
+    "effectiveness": 47.92
   },
   {
     "usuario": "NET_JVILLAVICEC",
@@ -3568,11 +3776,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 19,
-    "delivered": 12,
-    "anulado": 5,
+    "total": 30,
+    "delivered": 15,
+    "anulado": 8,
     "cancelado": 2,
-    "effectiveness": 63.16
+    "effectiveness": 50.0
   },
   {
     "usuario": "NET_JYCHPASF",
@@ -3581,11 +3789,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 9,
-    "delivered": 4,
-    "anulado": 3,
+    "total": 13,
+    "delivered": 7,
+    "anulado": 4,
     "cancelado": 2,
-    "effectiveness": 44.44
+    "effectiveness": 53.85
   },
   {
     "usuario": "NET_KAGRAMONTEM",
@@ -3594,11 +3802,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 68,
-    "delivered": 51,
-    "anulado": 11,
+    "total": 89,
+    "delivered": 71,
+    "anulado": 12,
     "cancelado": 5,
-    "effectiveness": 75.0
+    "effectiveness": 79.78
   },
   {
     "usuario": "NET_KANGELESS",
@@ -3607,11 +3815,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 89,
-    "delivered": 75,
-    "anulado": 12,
+    "total": 104,
+    "delivered": 84,
+    "anulado": 19,
     "cancelado": 1,
-    "effectiveness": 84.27
+    "effectiveness": 80.77
   },
   {
     "usuario": "NET_KARAUJOC",
@@ -3620,11 +3828,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 27,
-    "delivered": 17,
+    "total": 38,
+    "delivered": 27,
     "anulado": 6,
-    "cancelado": 2,
-    "effectiveness": 62.96
+    "cancelado": 4,
+    "effectiveness": 71.05
   },
   {
     "usuario": "NET_KBERROSPIS",
@@ -3633,11 +3841,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 55,
-    "delivered": 36,
+    "total": 56,
+    "delivered": 37,
     "anulado": 16,
     "cancelado": 3,
-    "effectiveness": 65.45
+    "effectiveness": 66.07
   },
   {
     "usuario": "NET_KBRACOV",
@@ -3646,11 +3854,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 31,
-    "delivered": 26,
-    "anulado": 1,
-    "cancelado": 4,
-    "effectiveness": 83.87
+    "total": 43,
+    "delivered": 32,
+    "anulado": 2,
+    "cancelado": 7,
+    "effectiveness": 74.42
   },
   {
     "usuario": "NET_KCARRENOV",
@@ -3659,11 +3867,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 20,
-    "delivered": 14,
+    "total": 25,
+    "delivered": 21,
     "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 70.0
+    "effectiveness": 84.0
   },
   {
     "usuario": "NET_KCHUNAP",
@@ -3672,10 +3880,10 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 28,
-    "delivered": 21,
-    "anulado": 5,
-    "cancelado": 0,
+    "total": 36,
+    "delivered": 27,
+    "anulado": 7,
+    "cancelado": 1,
     "effectiveness": 75.0
   },
   {
@@ -3685,11 +3893,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 32,
-    "delivered": 18,
-    "anulado": 9,
+    "total": 38,
+    "delivered": 25,
+    "anulado": 10,
     "cancelado": 1,
-    "effectiveness": 56.25
+    "effectiveness": 65.79
   },
   {
     "usuario": "NET_KCONTRERASA",
@@ -3711,11 +3919,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 93,
-    "delivered": 73,
-    "anulado": 7,
-    "cancelado": 4,
-    "effectiveness": 78.49
+    "total": 111,
+    "delivered": 90,
+    "anulado": 12,
+    "cancelado": 7,
+    "effectiveness": 81.08
   },
   {
     "usuario": "NET_KDREYNA",
@@ -3724,11 +3932,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 18,
-    "delivered": 11,
-    "anulado": 2,
-    "cancelado": 4,
-    "effectiveness": 61.11
+    "total": 26,
+    "delivered": 17,
+    "anulado": 4,
+    "cancelado": 5,
+    "effectiveness": 65.38
   },
   {
     "usuario": "NET_KESCORZAC",
@@ -3737,11 +3945,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 45,
-    "delivered": 27,
+    "total": 51,
+    "delivered": 33,
     "anulado": 12,
-    "cancelado": 5,
-    "effectiveness": 60.0
+    "cancelado": 6,
+    "effectiveness": 64.71
   },
   {
     "usuario": "NET_KGCORTEZP",
@@ -3750,11 +3958,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 13,
+    "total": 14,
     "delivered": 8,
     "anulado": 5,
     "cancelado": 0,
-    "effectiveness": 61.54
+    "effectiveness": 57.14
   },
   {
     "usuario": "NET_KGUTIERREZV",
@@ -3763,11 +3971,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 19,
-    "delivered": 11,
-    "anulado": 6,
+    "total": 20,
+    "delivered": 12,
+    "anulado": 7,
     "cancelado": 1,
-    "effectiveness": 57.89
+    "effectiveness": 60.0
   },
   {
     "usuario": "NET_KLGARCIAA",
@@ -3776,11 +3984,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 29,
-    "delivered": 20,
-    "anulado": 5,
+    "total": 32,
+    "delivered": 23,
+    "anulado": 7,
     "cancelado": 2,
-    "effectiveness": 68.97
+    "effectiveness": 71.88
   },
   {
     "usuario": "NET_KNIZAMAA",
@@ -3803,10 +4011,10 @@
     "cuartil": "N/A",
     "cargo": "N/A",
     "total": 98,
-    "delivered": 78,
+    "delivered": 77,
     "anulado": 12,
     "cancelado": 8,
-    "effectiveness": 79.59
+    "effectiveness": 78.57
   },
   {
     "usuario": "NET_KPAJUELOC",
@@ -3828,11 +4036,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 17,
-    "delivered": 10,
-    "anulado": 1,
-    "cancelado": 2,
-    "effectiveness": 58.82
+    "total": 23,
+    "delivered": 15,
+    "anulado": 3,
+    "cancelado": 4,
+    "effectiveness": 65.22
   },
   {
     "usuario": "NET_KQUISPEMUNO",
@@ -3854,11 +4062,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 48,
-    "delivered": 33,
-    "anulado": 11,
+    "total": 56,
+    "delivered": 36,
+    "anulado": 17,
     "cancelado": 3,
-    "effectiveness": 68.75
+    "effectiveness": 64.29
   },
   {
     "usuario": "NET_KSANCHEZ",
@@ -3867,11 +4075,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 21,
-    "delivered": 16,
-    "anulado": 2,
-    "cancelado": 2,
-    "effectiveness": 76.19
+    "total": 26,
+    "delivered": 18,
+    "anulado": 4,
+    "cancelado": 3,
+    "effectiveness": 69.23
   },
   {
     "usuario": "NET_KTAYAB",
@@ -3880,11 +4088,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 25,
-    "delivered": 14,
+    "total": 31,
+    "delivered": 19,
     "anulado": 10,
     "cancelado": 1,
-    "effectiveness": 56.0
+    "effectiveness": 61.29
   },
   {
     "usuario": "NET_KTORRESP",
@@ -3893,11 +4101,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 29,
-    "delivered": 18,
+    "total": 30,
+    "delivered": 19,
     "anulado": 8,
     "cancelado": 3,
-    "effectiveness": 62.07
+    "effectiveness": 63.33
   },
   {
     "usuario": "NET_KYUPANQUIC",
@@ -3906,11 +4114,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 44,
-    "delivered": 34,
+    "total": 51,
+    "delivered": 41,
     "anulado": 9,
     "cancelado": 0,
-    "effectiveness": 77.27
+    "effectiveness": 80.39
   },
   {
     "usuario": "NET_KZAPATAV",
@@ -3932,11 +4140,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 50,
-    "delivered": 37,
-    "anulado": 8,
+    "total": 54,
+    "delivered": 42,
+    "anulado": 9,
     "cancelado": 3,
-    "effectiveness": 74.0
+    "effectiveness": 77.78
   },
   {
     "usuario": "NET_LALARCONP",
@@ -3945,11 +4153,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 29,
-    "delivered": 18,
-    "anulado": 5,
+    "total": 32,
+    "delivered": 22,
+    "anulado": 6,
     "cancelado": 3,
-    "effectiveness": 62.07
+    "effectiveness": 68.75
   },
   {
     "usuario": "NET_LALVAREZD",
@@ -3958,11 +4166,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 7,
-    "delivered": 6,
+    "total": 11,
+    "delivered": 10,
     "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 85.71
+    "effectiveness": 90.91
   },
   {
     "usuario": "NET_LAPOLAYAA",
@@ -3997,11 +4205,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 31,
-    "delivered": 21,
-    "anulado": 5,
+    "total": 41,
+    "delivered": 30,
+    "anulado": 8,
     "cancelado": 2,
-    "effectiveness": 67.74
+    "effectiveness": 73.17
   },
   {
     "usuario": "NET_LCALDERONC",
@@ -4010,24 +4218,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 131,
-    "delivered": 117,
-    "anulado": 7,
-    "cancelado": 4,
-    "effectiveness": 89.31
-  },
-  {
-    "usuario": "NET_LCALDERONCA",
-    "nombre": "NET_LCALDERONCA",
-    "supervisor": "No registrado",
-    "coordinador": "No registrado",
-    "cuartil": "N/A",
-    "cargo": "N/A",
-    "total": 3,
-    "delivered": 2,
-    "anulado": 0,
-    "cancelado": 0,
-    "effectiveness": 66.67
+    "total": 151,
+    "delivered": 136,
+    "anulado": 9,
+    "cancelado": 6,
+    "effectiveness": 90.07
   },
   {
     "usuario": "NET_LCAMPOSCABR",
@@ -4036,11 +4231,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 61,
-    "delivered": 36,
-    "anulado": 11,
-    "cancelado": 10,
-    "effectiveness": 59.02
+    "total": 84,
+    "delivered": 55,
+    "anulado": 12,
+    "cancelado": 16,
+    "effectiveness": 65.48
   },
   {
     "usuario": "NET_LCAMPOSL",
@@ -4062,11 +4257,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 37,
-    "delivered": 27,
+    "total": 45,
+    "delivered": 37,
     "anulado": 8,
     "cancelado": 0,
-    "effectiveness": 72.97
+    "effectiveness": 82.22
   },
   {
     "usuario": "NET_LCCASTILLO",
@@ -4075,11 +4270,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 46,
-    "delivered": 39,
+    "total": 50,
+    "delivered": 43,
     "anulado": 5,
     "cancelado": 2,
-    "effectiveness": 84.78
+    "effectiveness": 86.0
   },
   {
     "usuario": "NET_LCEOPAP",
@@ -4101,24 +4296,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 62,
-    "delivered": 34,
+    "total": 65,
+    "delivered": 37,
     "anulado": 13,
     "cancelado": 15,
-    "effectiveness": 54.84
-  },
-  {
-    "usuario": "NET_LDIAZA",
-    "nombre": "NET_LDIAZA",
-    "supervisor": "No registrado",
-    "coordinador": "No registrado",
-    "cuartil": "N/A",
-    "cargo": "N/A",
-    "total": 1,
-    "delivered": 0,
-    "anulado": 0,
-    "cancelado": 0,
-    "effectiveness": 0.0
+    "effectiveness": 56.92
   },
   {
     "usuario": "NET_LDIAZM",
@@ -4127,11 +4309,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 20,
-    "delivered": 14,
+    "total": 25,
+    "delivered": 18,
     "anulado": 2,
-    "cancelado": 3,
-    "effectiveness": 70.0
+    "cancelado": 4,
+    "effectiveness": 72.0
   },
   {
     "usuario": "NET_LDIAZS",
@@ -4140,11 +4322,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 7,
-    "delivered": 3,
-    "anulado": 1,
+    "total": 12,
+    "delivered": 5,
+    "anulado": 5,
     "cancelado": 0,
-    "effectiveness": 42.86
+    "effectiveness": 41.67
   },
   {
     "usuario": "NET_LFERNANDEZY",
@@ -4166,11 +4348,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 40,
-    "delivered": 28,
-    "anulado": 10,
-    "cancelado": 1,
-    "effectiveness": 70.0
+    "total": 55,
+    "delivered": 38,
+    "anulado": 14,
+    "cancelado": 2,
+    "effectiveness": 69.09
   },
   {
     "usuario": "NET_LFLORESY",
@@ -4179,11 +4361,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 66,
-    "delivered": 57,
-    "anulado": 5,
-    "cancelado": 4,
-    "effectiveness": 86.36
+    "total": 81,
+    "delivered": 66,
+    "anulado": 8,
+    "cancelado": 7,
+    "effectiveness": 81.48
   },
   {
     "usuario": "NET_LGOMEZA",
@@ -4192,11 +4374,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 77,
-    "delivered": 62,
-    "anulado": 13,
+    "total": 89,
+    "delivered": 69,
+    "anulado": 14,
     "cancelado": 2,
-    "effectiveness": 80.52
+    "effectiveness": 77.53
   },
   {
     "usuario": "NET_LLAZOC",
@@ -4205,11 +4387,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 5,
+    "total": 6,
     "delivered": 1,
-    "anulado": 4,
+    "anulado": 5,
     "cancelado": 0,
-    "effectiveness": 20.0
+    "effectiveness": 16.67
   },
   {
     "usuario": "NET_LLEIVAH",
@@ -4218,11 +4400,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 13,
-    "delivered": 7,
+    "total": 17,
+    "delivered": 11,
     "anulado": 5,
     "cancelado": 1,
-    "effectiveness": 53.85
+    "effectiveness": 64.71
   },
   {
     "usuario": "NET_LLEONAN",
@@ -4231,11 +4413,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 37,
-    "delivered": 26,
-    "anulado": 11,
+    "total": 42,
+    "delivered": 28,
+    "anulado": 14,
     "cancelado": 0,
-    "effectiveness": 70.27
+    "effectiveness": 66.67
   },
   {
     "usuario": "NET_LLOBATONV",
@@ -4244,11 +4426,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 61,
-    "delivered": 48,
+    "total": 68,
+    "delivered": 55,
     "anulado": 11,
     "cancelado": 0,
-    "effectiveness": 78.69
+    "effectiveness": 80.88
   },
   {
     "usuario": "NET_LLOPEZM",
@@ -4257,11 +4439,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 46,
-    "delivered": 32,
-    "anulado": 6,
-    "cancelado": 4,
-    "effectiveness": 69.57
+    "total": 53,
+    "delivered": 36,
+    "anulado": 10,
+    "cancelado": 6,
+    "effectiveness": 67.92
   },
   {
     "usuario": "NET_LMACARLUPUP",
@@ -4272,7 +4454,7 @@
     "cargo": "N/A",
     "total": 12,
     "delivered": 9,
-    "anulado": 0,
+    "anulado": 1,
     "cancelado": 2,
     "effectiveness": 75.0
   },
@@ -4283,11 +4465,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 84,
-    "delivered": 69,
-    "anulado": 13,
+    "total": 97,
+    "delivered": 80,
+    "anulado": 15,
     "cancelado": 2,
-    "effectiveness": 82.14
+    "effectiveness": 82.47
   },
   {
     "usuario": "NET_LMANRIQUED",
@@ -4296,11 +4478,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 61,
-    "delivered": 47,
-    "anulado": 10,
+    "total": 76,
+    "delivered": 63,
+    "anulado": 12,
     "cancelado": 1,
-    "effectiveness": 77.05
+    "effectiveness": 82.89
   },
   {
     "usuario": "NET_LMARTINEZAR",
@@ -4309,11 +4491,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 22,
-    "delivered": 18,
+    "total": 25,
+    "delivered": 21,
     "anulado": 0,
-    "cancelado": 3,
-    "effectiveness": 81.82
+    "cancelado": 4,
+    "effectiveness": 84.0
   },
   {
     "usuario": "NET_LMCALDERONC",
@@ -4322,11 +4504,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 7,
-    "delivered": 3,
+    "total": 9,
+    "delivered": 5,
     "anulado": 2,
     "cancelado": 2,
-    "effectiveness": 42.86
+    "effectiveness": 55.56
   },
   {
     "usuario": "NET_LMONTANOB",
@@ -4348,11 +4530,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 38,
-    "delivered": 32,
-    "anulado": 3,
+    "total": 43,
+    "delivered": 38,
+    "anulado": 4,
     "cancelado": 1,
-    "effectiveness": 84.21
+    "effectiveness": 88.37
   },
   {
     "usuario": "NET_LMUSAYONS",
@@ -4361,11 +4543,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 48,
-    "delivered": 30,
-    "anulado": 14,
+    "total": 57,
+    "delivered": 39,
+    "anulado": 15,
     "cancelado": 3,
-    "effectiveness": 62.5
+    "effectiveness": 68.42
   },
   {
     "usuario": "NET_LNARVAEZR",
@@ -4374,11 +4556,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 47,
-    "delivered": 22,
+    "total": 52,
+    "delivered": 28,
     "anulado": 19,
-    "cancelado": 4,
-    "effectiveness": 46.81
+    "cancelado": 5,
+    "effectiveness": 53.85
   },
   {
     "usuario": "NET_LNECIOSUPC",
@@ -4387,11 +4569,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 109,
-    "delivered": 69,
-    "anulado": 27,
-    "cancelado": 11,
-    "effectiveness": 63.3
+    "total": 121,
+    "delivered": 77,
+    "anulado": 31,
+    "cancelado": 12,
+    "effectiveness": 63.64
   },
   {
     "usuario": "NET_LOPEZDI",
@@ -4400,11 +4582,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 74,
-    "delivered": 63,
+    "total": 81,
+    "delivered": 70,
     "anulado": 8,
     "cancelado": 3,
-    "effectiveness": 85.14
+    "effectiveness": 86.42
   },
   {
     "usuario": "NET_LPADILLAC",
@@ -4413,11 +4595,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 20,
-    "delivered": 18,
+    "total": 21,
+    "delivered": 19,
     "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 90.0
+    "effectiveness": 90.48
   },
   {
     "usuario": "NET_LPASCUALH",
@@ -4426,11 +4608,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 17,
-    "delivered": 8,
-    "anulado": 2,
-    "cancelado": 5,
-    "effectiveness": 47.06
+    "total": 20,
+    "delivered": 11,
+    "anulado": 3,
+    "cancelado": 6,
+    "effectiveness": 55.0
   },
   {
     "usuario": "NET_LPINTOH",
@@ -4439,11 +4621,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 18,
-    "delivered": 13,
-    "anulado": 3,
-    "cancelado": 0,
-    "effectiveness": 72.22
+    "total": 20,
+    "delivered": 15,
+    "anulado": 4,
+    "cancelado": 1,
+    "effectiveness": 75.0
   },
   {
     "usuario": "NET_LQUESQUENO",
@@ -4465,11 +4647,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 22,
-    "delivered": 19,
+    "total": 31,
+    "delivered": 29,
     "anulado": 1,
-    "cancelado": 0,
-    "effectiveness": 86.36
+    "cancelado": 1,
+    "effectiveness": 93.55
   },
   {
     "usuario": "NET_LRAMOSC",
@@ -4491,11 +4673,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 42,
-    "delivered": 27,
-    "anulado": 11,
+    "total": 52,
+    "delivered": 36,
+    "anulado": 12,
     "cancelado": 4,
-    "effectiveness": 64.29
+    "effectiveness": 69.23
   },
   {
     "usuario": "NET_LROSALESA",
@@ -4504,11 +4686,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 14,
-    "delivered": 10,
-    "anulado": 3,
+    "total": 24,
+    "delivered": 18,
+    "anulado": 5,
     "cancelado": 1,
-    "effectiveness": 71.43
+    "effectiveness": 75.0
   },
   {
     "usuario": "NET_LRSANCHEZ",
@@ -4543,11 +4725,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 49,
-    "delivered": 43,
-    "anulado": 5,
-    "cancelado": 0,
-    "effectiveness": 87.76
+    "total": 61,
+    "delivered": 52,
+    "anulado": 6,
+    "cancelado": 2,
+    "effectiveness": 85.25
   },
   {
     "usuario": "NET_LRUIZL",
@@ -4556,11 +4738,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 13,
-    "delivered": 8,
-    "anulado": 1,
+    "total": 17,
+    "delivered": 13,
+    "anulado": 2,
     "cancelado": 2,
-    "effectiveness": 61.54
+    "effectiveness": 76.47
   },
   {
     "usuario": "NET_LTAMAYOD",
@@ -4569,11 +4751,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 88,
-    "delivered": 72,
+    "total": 100,
+    "delivered": 82,
     "anulado": 6,
-    "cancelado": 9,
-    "effectiveness": 81.82
+    "cancelado": 10,
+    "effectiveness": 82.0
   },
   {
     "usuario": "NET_LTELLOC",
@@ -4582,11 +4764,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 25,
-    "delivered": 20,
+    "total": 27,
+    "delivered": 22,
     "anulado": 5,
     "cancelado": 0,
-    "effectiveness": 80.0
+    "effectiveness": 81.48
   },
   {
     "usuario": "NET_LTORRESPU",
@@ -4608,11 +4790,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 32,
-    "delivered": 19,
+    "total": 36,
+    "delivered": 22,
     "anulado": 10,
     "cancelado": 3,
-    "effectiveness": 59.38
+    "effectiveness": 61.11
   },
   {
     "usuario": "NET_LVASQUEZT",
@@ -4621,11 +4803,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 69,
-    "delivered": 59,
+    "total": 71,
+    "delivered": 61,
     "anulado": 7,
     "cancelado": 3,
-    "effectiveness": 85.51
+    "effectiveness": 85.92
   },
   {
     "usuario": "NET_LVIZCARRARO",
@@ -4634,11 +4816,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 59,
-    "delivered": 39,
-    "anulado": 11,
+    "total": 64,
+    "delivered": 43,
+    "anulado": 12,
     "cancelado": 9,
-    "effectiveness": 66.1
+    "effectiveness": 67.19
   },
   {
     "usuario": "NET_LYAIPENARRO",
@@ -4647,11 +4829,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 21,
-    "delivered": 11,
+    "total": 29,
+    "delivered": 16,
     "anulado": 4,
     "cancelado": 5,
-    "effectiveness": 52.38
+    "effectiveness": 55.17
   },
   {
     "usuario": "NET_LYESQUENP",
@@ -4660,11 +4842,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 27,
-    "delivered": 19,
-    "anulado": 3,
+    "total": 32,
+    "delivered": 23,
+    "anulado": 4,
     "cancelado": 5,
-    "effectiveness": 70.37
+    "effectiveness": 71.88
   },
   {
     "usuario": "NET_MALCANTARAV",
@@ -4673,11 +4855,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 19,
-    "delivered": 6,
+    "total": 25,
+    "delivered": 11,
     "anulado": 5,
     "cancelado": 8,
-    "effectiveness": 31.58
+    "effectiveness": 44.0
   },
   {
     "usuario": "NET_MASANCHEZC",
@@ -4686,11 +4868,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 29,
-    "delivered": 21,
-    "anulado": 6,
-    "cancelado": 2,
-    "effectiveness": 72.41
+    "total": 38,
+    "delivered": 27,
+    "anulado": 7,
+    "cancelado": 3,
+    "effectiveness": 71.05
   },
   {
     "usuario": "NET_MBARTURENO",
@@ -4712,11 +4894,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 57,
-    "delivered": 36,
-    "anulado": 19,
-    "cancelado": 1,
-    "effectiveness": 63.16
+    "total": 68,
+    "delivered": 46,
+    "anulado": 20,
+    "cancelado": 2,
+    "effectiveness": 67.65
   },
   {
     "usuario": "NET_MCELISG",
@@ -4725,11 +4907,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 51,
-    "delivered": 36,
-    "anulado": 12,
+    "total": 59,
+    "delivered": 42,
+    "anulado": 15,
     "cancelado": 2,
-    "effectiveness": 70.59
+    "effectiveness": 71.19
   },
   {
     "usuario": "NET_MCGARCIAG",
@@ -4738,11 +4920,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 13,
+    "total": 14,
     "delivered": 11,
     "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 84.62
+    "effectiveness": 78.57
   },
   {
     "usuario": "NET_MCHAMPIR",
@@ -4764,11 +4946,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 37,
-    "delivered": 31,
+    "total": 39,
+    "delivered": 34,
     "anulado": 4,
     "cancelado": 1,
-    "effectiveness": 83.78
+    "effectiveness": 87.18
   },
   {
     "usuario": "NET_MCORDOVACRU",
@@ -4777,11 +4959,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 95,
-    "delivered": 72,
-    "anulado": 13,
+    "total": 101,
+    "delivered": 79,
+    "anulado": 15,
     "cancelado": 7,
-    "effectiveness": 75.79
+    "effectiveness": 78.22
   },
   {
     "usuario": "NET_MCRUZS",
@@ -4790,11 +4972,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 42,
-    "delivered": 26,
+    "total": 43,
+    "delivered": 27,
     "anulado": 6,
-    "cancelado": 8,
-    "effectiveness": 61.9
+    "cancelado": 10,
+    "effectiveness": 62.79
   },
   {
     "usuario": "NET_MCSANCHEZ",
@@ -4803,11 +4985,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 33,
-    "delivered": 21,
-    "anulado": 8,
+    "total": 37,
+    "delivered": 24,
+    "anulado": 10,
     "cancelado": 3,
-    "effectiveness": 63.64
+    "effectiveness": 64.86
   },
   {
     "usuario": "NET_MCVASQUEZ",
@@ -4816,11 +4998,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 174,
-    "delivered": 153,
+    "total": 184,
+    "delivered": 163,
     "anulado": 12,
-    "cancelado": 7,
-    "effectiveness": 87.93
+    "cancelado": 9,
+    "effectiveness": 88.59
   },
   {
     "usuario": "NET_MDIAZJ",
@@ -4830,10 +5012,10 @@
     "cuartil": "N/A",
     "cargo": "N/A",
     "total": 7,
-    "delivered": 4,
+    "delivered": 6,
     "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 57.14
+    "effectiveness": 85.71
   },
   {
     "usuario": "NET_MDONAYRE",
@@ -4842,11 +5024,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 100,
-    "delivered": 63,
-    "anulado": 13,
-    "cancelado": 20,
-    "effectiveness": 63.0
+    "total": 120,
+    "delivered": 80,
+    "anulado": 14,
+    "cancelado": 25,
+    "effectiveness": 66.67
   },
   {
     "usuario": "NET_MEDIAZ",
@@ -4868,11 +5050,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 1,
+    "total": 2,
     "delivered": 1,
     "anulado": 0,
     "cancelado": 0,
-    "effectiveness": 100.0
+    "effectiveness": 50.0
   },
   {
     "usuario": "NET_MFERNANDEZL",
@@ -4881,11 +5063,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 64,
-    "delivered": 28,
+    "total": 59,
+    "delivered": 23,
     "anulado": 23,
     "cancelado": 13,
-    "effectiveness": 43.75
+    "effectiveness": 38.98
   },
   {
     "usuario": "NET_MFERRER",
@@ -4894,11 +5076,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 4,
-    "delivered": 1,
-    "anulado": 0,
-    "cancelado": 0,
-    "effectiveness": 25.0
+    "total": 40,
+    "delivered": 25,
+    "anulado": 11,
+    "cancelado": 2,
+    "effectiveness": 62.5
   },
   {
     "usuario": "NET_MFLORESD",
@@ -4907,11 +5089,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 56,
-    "delivered": 47,
-    "anulado": 5,
+    "total": 62,
+    "delivered": 51,
+    "anulado": 7,
     "cancelado": 3,
-    "effectiveness": 83.93
+    "effectiveness": 82.26
   },
   {
     "usuario": "NET_MGONZALESPE",
@@ -4920,11 +5102,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 58,
-    "delivered": 40,
+    "total": 62,
+    "delivered": 44,
     "anulado": 7,
-    "cancelado": 10,
-    "effectiveness": 68.97
+    "cancelado": 11,
+    "effectiveness": 70.97
   },
   {
     "usuario": "NET_MGONZALESR",
@@ -4933,11 +5115,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 28,
-    "delivered": 23,
+    "total": 32,
+    "delivered": 27,
     "anulado": 3,
-    "cancelado": 1,
-    "effectiveness": 82.14
+    "cancelado": 2,
+    "effectiveness": 84.38
   },
   {
     "usuario": "NET_MGSGRADOS",
@@ -4946,11 +5128,24 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 32,
-    "delivered": 27,
-    "anulado": 2,
+    "total": 42,
+    "delivered": 35,
+    "anulado": 3,
     "cancelado": 3,
-    "effectiveness": 84.38
+    "effectiveness": 83.33
+  },
+  {
+    "usuario": "NET_MGUZMANP",
+    "nombre": "NET_MGUZMANP",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 6,
+    "delivered": 5,
+    "anulado": 0,
+    "cancelado": 1,
+    "effectiveness": 83.33
   },
   {
     "usuario": "NET_MHOYOSV",
@@ -4959,11 +5154,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 22,
-    "delivered": 18,
+    "total": 24,
+    "delivered": 22,
     "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 81.82
+    "effectiveness": 91.67
   },
   {
     "usuario": "NET_MHUAPAYAQ",
@@ -4972,11 +5167,24 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 39,
-    "delivered": 12,
-    "anulado": 19,
+    "total": 44,
+    "delivered": 16,
+    "anulado": 21,
     "cancelado": 7,
-    "effectiveness": 30.77
+    "effectiveness": 36.36
+  },
+  {
+    "usuario": "NET_MJQUISPEM",
+    "nombre": "NET_MJQUISPEM",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 8,
+    "delivered": 0,
+    "anulado": 0,
+    "cancelado": 2,
+    "effectiveness": 0.0
   },
   {
     "usuario": "NET_MLANDAS",
@@ -4998,11 +5206,24 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 42,
+    "total": 45,
     "delivered": 37,
-    "anulado": 4,
+    "anulado": 5,
     "cancelado": 1,
-    "effectiveness": 88.1
+    "effectiveness": 82.22
+  },
+  {
+    "usuario": "NET_MLOPEZP",
+    "nombre": "NET_MLOPEZP",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 1,
+    "delivered": 1,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 100.0
   },
   {
     "usuario": "NET_MLOPEZS",
@@ -5011,11 +5232,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 9,
-    "delivered": 2,
+    "total": 10,
+    "delivered": 3,
     "anulado": 4,
     "cancelado": 3,
-    "effectiveness": 22.22
+    "effectiveness": 30.0
   },
   {
     "usuario": "NET_MMARTINEZV",
@@ -5037,11 +5258,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 21,
-    "delivered": 12,
-    "anulado": 8,
-    "cancelado": 1,
-    "effectiveness": 57.14
+    "total": 25,
+    "delivered": 13,
+    "anulado": 9,
+    "cancelado": 3,
+    "effectiveness": 52.0
   },
   {
     "usuario": "NET_MMREVILLA",
@@ -5050,11 +5271,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 105,
-    "delivered": 58,
-    "anulado": 32,
-    "cancelado": 10,
-    "effectiveness": 55.24
+    "total": 121,
+    "delivered": 66,
+    "anulado": 39,
+    "cancelado": 13,
+    "effectiveness": 54.55
   },
   {
     "usuario": "NET_MNEGRETE",
@@ -5066,7 +5287,7 @@
     "total": 59,
     "delivered": 31,
     "anulado": 13,
-    "cancelado": 13,
+    "cancelado": 15,
     "effectiveness": 52.54
   },
   {
@@ -5076,11 +5297,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 149,
-    "delivered": 131,
-    "anulado": 13,
-    "cancelado": 3,
-    "effectiveness": 87.92
+    "total": 189,
+    "delivered": 168,
+    "anulado": 16,
+    "cancelado": 4,
+    "effectiveness": 88.89
   },
   {
     "usuario": "NET_MPOSTILLONQ",
@@ -5094,6 +5315,19 @@
     "anulado": 4,
     "cancelado": 0,
     "effectiveness": 66.67
+  },
+  {
+    "usuario": "NET_MQUISPEQ",
+    "nombre": "NET_MQUISPEQ",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 5,
+    "delivered": 0,
+    "anulado": 5,
+    "cancelado": 0,
+    "effectiveness": 0.0
   },
   {
     "usuario": "NET_MQUISPITONO",
@@ -5115,11 +5349,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 24,
-    "delivered": 14,
-    "anulado": 7,
-    "cancelado": 1,
-    "effectiveness": 58.33
+    "total": 29,
+    "delivered": 17,
+    "anulado": 9,
+    "cancelado": 2,
+    "effectiveness": 58.62
   },
   {
     "usuario": "NET_MRIOSV",
@@ -5128,11 +5362,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 12,
-    "delivered": 8,
-    "anulado": 4,
+    "total": 14,
+    "delivered": 9,
+    "anulado": 5,
     "cancelado": 0,
-    "effectiveness": 66.67
+    "effectiveness": 64.29
   },
   {
     "usuario": "NET_MROJASS",
@@ -5141,11 +5375,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 56,
-    "delivered": 34,
-    "anulado": 13,
+    "total": 67,
+    "delivered": 44,
+    "anulado": 18,
     "cancelado": 4,
-    "effectiveness": 60.71
+    "effectiveness": 65.67
   },
   {
     "usuario": "NET_MRUIZSANCHC",
@@ -5154,11 +5388,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 26,
-    "delivered": 23,
-    "anulado": 2,
+    "total": 31,
+    "delivered": 27,
+    "anulado": 3,
     "cancelado": 1,
-    "effectiveness": 88.46
+    "effectiveness": 87.1
   },
   {
     "usuario": "NET_MSUAREZG",
@@ -5167,11 +5401,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 41,
-    "delivered": 15,
-    "anulado": 8,
+    "total": 44,
+    "delivered": 17,
+    "anulado": 9,
     "cancelado": 17,
-    "effectiveness": 36.59
+    "effectiveness": 38.64
   },
   {
     "usuario": "NET_MTELLOG",
@@ -5180,11 +5414,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 20,
-    "delivered": 13,
-    "anulado": 7,
+    "total": 23,
+    "delivered": 15,
+    "anulado": 8,
     "cancelado": 0,
-    "effectiveness": 65.0
+    "effectiveness": 65.22
   },
   {
     "usuario": "NET_MUBILLUSR",
@@ -5193,11 +5427,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 44,
-    "delivered": 26,
+    "total": 48,
+    "delivered": 28,
     "anulado": 8,
-    "cancelado": 8,
-    "effectiveness": 59.09
+    "cancelado": 10,
+    "effectiveness": 58.33
   },
   {
     "usuario": "NET_MVALIENTES",
@@ -5206,11 +5440,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 18,
-    "delivered": 7,
+    "total": 21,
+    "delivered": 9,
     "anulado": 10,
-    "cancelado": 0,
-    "effectiveness": 38.89
+    "cancelado": 1,
+    "effectiveness": 42.86
   },
   {
     "usuario": "NET_MVASQUEZV",
@@ -5219,11 +5453,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 28,
-    "delivered": 16,
+    "total": 34,
+    "delivered": 19,
     "anulado": 10,
-    "cancelado": 1,
-    "effectiveness": 57.14
+    "cancelado": 3,
+    "effectiveness": 55.88
   },
   {
     "usuario": "NET_MYANACCM",
@@ -5245,11 +5479,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 50,
-    "delivered": 38,
-    "anulado": 6,
-    "cancelado": 5,
-    "effectiveness": 76.0
+    "total": 58,
+    "delivered": 44,
+    "anulado": 7,
+    "cancelado": 6,
+    "effectiveness": 75.86
   },
   {
     "usuario": "NET_NBURGAR",
@@ -5258,11 +5492,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 66,
-    "delivered": 57,
+    "total": 79,
+    "delivered": 67,
     "anulado": 6,
-    "cancelado": 1,
-    "effectiveness": 86.36
+    "cancelado": 4,
+    "effectiveness": 84.81
   },
   {
     "usuario": "NET_NCANCHOP",
@@ -5271,11 +5505,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 41,
-    "delivered": 31,
-    "anulado": 7,
-    "cancelado": 0,
-    "effectiveness": 75.61
+    "total": 49,
+    "delivered": 40,
+    "anulado": 8,
+    "cancelado": 1,
+    "effectiveness": 81.63
   },
   {
     "usuario": "NET_NCASTILLOF",
@@ -5284,11 +5518,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 21,
-    "delivered": 19,
-    "anulado": 1,
+    "total": 25,
+    "delivered": 22,
+    "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 90.48
+    "effectiveness": 88.0
   },
   {
     "usuario": "NET_NDCAMPOSH",
@@ -5310,11 +5544,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 12,
-    "delivered": 9,
+    "total": 13,
+    "delivered": 10,
     "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 75.0
+    "effectiveness": 76.92
   },
   {
     "usuario": "NET_NPINAR",
@@ -5323,11 +5557,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 21,
-    "delivered": 18,
+    "total": 25,
+    "delivered": 22,
     "anulado": 0,
     "cancelado": 3,
-    "effectiveness": 85.71
+    "effectiveness": 88.0
   },
   {
     "usuario": "NET_NRUBIOMARCO",
@@ -5336,11 +5570,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 47,
-    "delivered": 38,
+    "total": 56,
+    "delivered": 42,
     "anulado": 2,
-    "cancelado": 6,
-    "effectiveness": 80.85
+    "cancelado": 7,
+    "effectiveness": 75.0
   },
   {
     "usuario": "NET_NSANTAMARIA",
@@ -5349,11 +5583,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 84,
-    "delivered": 57,
-    "anulado": 9,
+    "total": 100,
+    "delivered": 64,
+    "anulado": 13,
     "cancelado": 17,
-    "effectiveness": 67.86
+    "effectiveness": 64.0
   },
   {
     "usuario": "NET_NYROJASM",
@@ -5363,10 +5597,10 @@
     "cuartil": "N/A",
     "cargo": "N/A",
     "total": 27,
-    "delivered": 22,
+    "delivered": 23,
     "anulado": 3,
     "cancelado": 1,
-    "effectiveness": 81.48
+    "effectiveness": 85.19
   },
   {
     "usuario": "NET_OGUERREROR",
@@ -5375,11 +5609,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 15,
-    "delivered": 12,
-    "anulado": 2,
+    "total": 18,
+    "delivered": 14,
+    "anulado": 3,
     "cancelado": 1,
-    "effectiveness": 80.0
+    "effectiveness": 77.78
   },
   {
     "usuario": "NET_OLAVADOS",
@@ -5388,11 +5622,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 14,
-    "delivered": 9,
-    "anulado": 2,
+    "total": 18,
+    "delivered": 15,
+    "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 64.29
+    "effectiveness": 83.33
   },
   {
     "usuario": "NET_OSANCHEZP",
@@ -5427,11 +5661,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 47,
-    "delivered": 32,
-    "anulado": 3,
+    "total": 59,
+    "delivered": 42,
+    "anulado": 7,
     "cancelado": 9,
-    "effectiveness": 68.09
+    "effectiveness": 71.19
   },
   {
     "usuario": "NET_PHUAMANM",
@@ -5440,11 +5674,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 45,
-    "delivered": 33,
-    "anulado": 7,
+    "total": 51,
+    "delivered": 39,
+    "anulado": 10,
     "cancelado": 2,
-    "effectiveness": 73.33
+    "effectiveness": 76.47
   },
   {
     "usuario": "NET_POBANDOL",
@@ -5466,11 +5700,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 4,
+    "total": 5,
     "delivered": 3,
     "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 75.0
+    "effectiveness": 60.0
   },
   {
     "usuario": "NET_PSANCHEZE",
@@ -5479,11 +5713,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 57,
-    "delivered": 44,
-    "anulado": 10,
-    "cancelado": 2,
-    "effectiveness": 77.19
+    "total": 64,
+    "delivered": 47,
+    "anulado": 13,
+    "cancelado": 3,
+    "effectiveness": 73.44
   },
   {
     "usuario": "NET_PTORRESR",
@@ -5492,11 +5726,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 37,
-    "delivered": 27,
-    "anulado": 7,
+    "total": 47,
+    "delivered": 33,
+    "anulado": 11,
     "cancelado": 1,
-    "effectiveness": 72.97
+    "effectiveness": 70.21
   },
   {
     "usuario": "NET_PVEGAC",
@@ -5505,11 +5739,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 41,
-    "delivered": 31,
-    "anulado": 5,
-    "cancelado": 4,
-    "effectiveness": 75.61
+    "total": 49,
+    "delivered": 33,
+    "anulado": 9,
+    "cancelado": 6,
+    "effectiveness": 67.35
   },
   {
     "usuario": "NET_PYGARCIAG",
@@ -5518,11 +5752,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 26,
-    "delivered": 12,
-    "anulado": 9,
-    "cancelado": 4,
-    "effectiveness": 46.15
+    "total": 33,
+    "delivered": 17,
+    "anulado": 10,
+    "cancelado": 6,
+    "effectiveness": 51.52
   },
   {
     "usuario": "NET_RALARCONT",
@@ -5531,11 +5765,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 8,
+    "total": 9,
     "delivered": 5,
     "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 62.5
+    "effectiveness": 55.56
   },
   {
     "usuario": "NET_RALVAREZV",
@@ -5544,11 +5778,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 17,
-    "delivered": 13,
-    "anulado": 3,
+    "total": 19,
+    "delivered": 15,
+    "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 76.47
+    "effectiveness": 78.95
   },
   {
     "usuario": "NET_RAREVALOV",
@@ -5583,11 +5817,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 90,
-    "delivered": 71,
-    "anulado": 18,
+    "total": 101,
+    "delivered": 81,
+    "anulado": 20,
     "cancelado": 0,
-    "effectiveness": 78.89
+    "effectiveness": 80.2
   },
   {
     "usuario": "NET_RCARDENASH",
@@ -5596,11 +5830,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 38,
-    "delivered": 31,
-    "anulado": 3,
-    "cancelado": 3,
-    "effectiveness": 81.58
+    "total": 45,
+    "delivered": 36,
+    "anulado": 4,
+    "cancelado": 4,
+    "effectiveness": 80.0
   },
   {
     "usuario": "NET_RCASTANEDAR",
@@ -5609,11 +5843,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 66,
-    "delivered": 41,
-    "anulado": 23,
+    "total": 83,
+    "delivered": 57,
+    "anulado": 24,
     "cancelado": 1,
-    "effectiveness": 62.12
+    "effectiveness": 68.67
   },
   {
     "usuario": "NET_RCEVERINOL",
@@ -5622,11 +5856,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 50,
-    "delivered": 35,
-    "anulado": 11,
+    "total": 56,
+    "delivered": 41,
+    "anulado": 12,
     "cancelado": 3,
-    "effectiveness": 70.0
+    "effectiveness": 73.21
   },
   {
     "usuario": "NET_RCORDOVAC",
@@ -5635,11 +5869,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 37,
-    "delivered": 24,
+    "total": 42,
+    "delivered": 28,
     "anulado": 6,
     "cancelado": 7,
-    "effectiveness": 64.86
+    "effectiveness": 66.67
   },
   {
     "usuario": "NET_RDULANTORO",
@@ -5648,11 +5882,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 71,
-    "delivered": 54,
+    "total": 84,
+    "delivered": 69,
     "anulado": 6,
     "cancelado": 7,
-    "effectiveness": 76.06
+    "effectiveness": 82.14
   },
   {
     "usuario": "NET_RFIGUEROAR",
@@ -5661,11 +5895,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 15,
-    "delivered": 10,
+    "total": 25,
+    "delivered": 17,
     "anulado": 1,
     "cancelado": 4,
-    "effectiveness": 66.67
+    "effectiveness": 68.0
   },
   {
     "usuario": "NET_RGALVEZC",
@@ -5674,11 +5908,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 22,
-    "delivered": 18,
-    "anulado": 3,
-    "cancelado": 1,
-    "effectiveness": 81.82
+    "total": 29,
+    "delivered": 22,
+    "anulado": 4,
+    "cancelado": 2,
+    "effectiveness": 75.86
   },
   {
     "usuario": "NET_RGUTIERREZS",
@@ -5687,11 +5921,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 55,
-    "delivered": 49,
-    "anulado": 2,
+    "total": 65,
+    "delivered": 59,
+    "anulado": 3,
     "cancelado": 3,
-    "effectiveness": 89.09
+    "effectiveness": 90.77
   },
   {
     "usuario": "NET_RIZACUPEC",
@@ -5713,11 +5947,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 79,
-    "delivered": 49,
-    "anulado": 20,
-    "cancelado": 4,
-    "effectiveness": 62.03
+    "total": 98,
+    "delivered": 63,
+    "anulado": 28,
+    "cancelado": 5,
+    "effectiveness": 64.29
   },
   {
     "usuario": "NET_RNUNEZH",
@@ -5726,11 +5960,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 35,
-    "delivered": 22,
-    "anulado": 12,
+    "total": 38,
+    "delivered": 23,
+    "anulado": 13,
     "cancelado": 1,
-    "effectiveness": 62.86
+    "effectiveness": 60.53
   },
   {
     "usuario": "NET_RPOLOD",
@@ -5739,11 +5973,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 27,
-    "delivered": 17,
-    "anulado": 5,
+    "total": 32,
+    "delivered": 19,
+    "anulado": 9,
     "cancelado": 0,
-    "effectiveness": 62.96
+    "effectiveness": 59.38
   },
   {
     "usuario": "NET_RSTORRESP",
@@ -5778,11 +6012,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 70,
-    "delivered": 37,
-    "anulado": 21,
+    "total": 80,
+    "delivered": 48,
+    "anulado": 24,
     "cancelado": 8,
-    "effectiveness": 52.86
+    "effectiveness": 60.0
   },
   {
     "usuario": "NET_RURBINAG",
@@ -5791,11 +6025,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 70,
-    "delivered": 53,
-    "anulado": 8,
+    "total": 72,
+    "delivered": 55,
+    "anulado": 9,
     "cancelado": 8,
-    "effectiveness": 75.71
+    "effectiveness": 76.39
   },
   {
     "usuario": "NET_SANTONM",
@@ -5804,11 +6038,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 19,
-    "delivered": 15,
-    "anulado": 2,
-    "cancelado": 2,
-    "effectiveness": 78.95
+    "total": 23,
+    "delivered": 16,
+    "anulado": 3,
+    "cancelado": 3,
+    "effectiveness": 69.57
   },
   {
     "usuario": "NET_SAVILAC",
@@ -5817,11 +6051,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 43,
-    "delivered": 34,
-    "anulado": 5,
-    "cancelado": 2,
-    "effectiveness": 79.07
+    "total": 58,
+    "delivered": 42,
+    "anulado": 12,
+    "cancelado": 4,
+    "effectiveness": 72.41
   },
   {
     "usuario": "NET_SBACAD",
@@ -5830,11 +6064,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 66,
-    "delivered": 48,
+    "total": 69,
+    "delivered": 51,
     "anulado": 2,
-    "cancelado": 12,
-    "effectiveness": 72.73
+    "cancelado": 15,
+    "effectiveness": 73.91
   },
   {
     "usuario": "NET_SBENITESL",
@@ -5843,11 +6077,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 82,
-    "delivered": 72,
-    "anulado": 9,
+    "total": 96,
+    "delivered": 84,
+    "anulado": 11,
     "cancelado": 0,
-    "effectiveness": 87.8
+    "effectiveness": 87.5
   },
   {
     "usuario": "NET_SBENITOV",
@@ -5856,11 +6090,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 94,
-    "delivered": 64,
-    "anulado": 11,
-    "cancelado": 14,
-    "effectiveness": 68.09
+    "total": 118,
+    "delivered": 85,
+    "anulado": 13,
+    "cancelado": 18,
+    "effectiveness": 72.03
   },
   {
     "usuario": "NET_SCANTOT",
@@ -5869,11 +6103,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 49,
-    "delivered": 41,
+    "total": 51,
+    "delivered": 43,
     "anulado": 1,
     "cancelado": 7,
-    "effectiveness": 83.67
+    "effectiveness": 84.31
   },
   {
     "usuario": "NET_SCAVEROC",
@@ -5882,11 +6116,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 50,
-    "delivered": 45,
-    "anulado": 3,
-    "cancelado": 2,
-    "effectiveness": 90.0
+    "total": 59,
+    "delivered": 51,
+    "anulado": 4,
+    "cancelado": 3,
+    "effectiveness": 86.44
   },
   {
     "usuario": "NET_SCHUMIOQUEP",
@@ -5895,11 +6129,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 68,
-    "delivered": 52,
-    "anulado": 9,
+    "total": 84,
+    "delivered": 66,
+    "anulado": 12,
     "cancelado": 6,
-    "effectiveness": 76.47
+    "effectiveness": 78.57
   },
   {
     "usuario": "NET_SCOVENASC",
@@ -5908,11 +6142,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 42,
-    "delivered": 32,
+    "total": 50,
+    "delivered": 38,
     "anulado": 2,
-    "cancelado": 7,
-    "effectiveness": 76.19
+    "cancelado": 9,
+    "effectiveness": 76.0
   },
   {
     "usuario": "NET_SDEDIOSO",
@@ -5921,11 +6155,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 16,
-    "delivered": 9,
-    "anulado": 6,
+    "total": 23,
+    "delivered": 15,
+    "anulado": 8,
     "cancelado": 0,
-    "effectiveness": 56.25
+    "effectiveness": 65.22
   },
   {
     "usuario": "NET_SDIAZO",
@@ -5934,11 +6168,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 88,
-    "delivered": 79,
-    "anulado": 8,
+    "total": 110,
+    "delivered": 99,
+    "anulado": 9,
     "cancelado": 1,
-    "effectiveness": 89.77
+    "effectiveness": 90.0
   },
   {
     "usuario": "NET_SFARIASR",
@@ -5947,11 +6181,24 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 5,
-    "delivered": 2,
-    "anulado": 2,
+    "total": 9,
+    "delivered": 6,
+    "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 40.0
+    "effectiveness": 66.67
+  },
+  {
+    "usuario": "NET_SGALINDOM",
+    "nombre": "NET_SGALINDOM",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 1,
+    "delivered": 1,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 100.0
   },
   {
     "usuario": "NET_SGONZALESF",
@@ -5960,11 +6207,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 60,
-    "delivered": 33,
-    "anulado": 18,
-    "cancelado": 5,
-    "effectiveness": 55.0
+    "total": 70,
+    "delivered": 40,
+    "anulado": 19,
+    "cancelado": 7,
+    "effectiveness": 57.14
   },
   {
     "usuario": "NET_SGONZALESP",
@@ -5973,11 +6220,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 44,
-    "delivered": 39,
-    "anulado": 5,
+    "total": 51,
+    "delivered": 45,
+    "anulado": 6,
     "cancelado": 0,
-    "effectiveness": 88.64
+    "effectiveness": 88.24
   },
   {
     "usuario": "NET_SINGAC",
@@ -5986,11 +6233,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 59,
-    "delivered": 40,
-    "anulado": 14,
+    "total": 72,
+    "delivered": 51,
+    "anulado": 16,
     "cancelado": 4,
-    "effectiveness": 67.8
+    "effectiveness": 70.83
   },
   {
     "usuario": "NET_SLAZOB",
@@ -5999,11 +6246,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 11,
-    "delivered": 4,
-    "anulado": 1,
-    "cancelado": 4,
-    "effectiveness": 36.36
+    "total": 41,
+    "delivered": 23,
+    "anulado": 5,
+    "cancelado": 7,
+    "effectiveness": 56.1
   },
   {
     "usuario": "NET_SLIZARDOPER",
@@ -6012,11 +6259,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 100,
-    "delivered": 80,
+    "total": 116,
+    "delivered": 93,
     "anulado": 16,
-    "cancelado": 4,
-    "effectiveness": 80.0
+    "cancelado": 7,
+    "effectiveness": 80.17
   },
   {
     "usuario": "NET_SLUJANA",
@@ -6038,11 +6285,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 40,
-    "delivered": 29,
+    "total": 48,
+    "delivered": 35,
     "anulado": 8,
     "cancelado": 2,
-    "effectiveness": 72.5
+    "effectiveness": 72.92
   },
   {
     "usuario": "NET_SNIMAG",
@@ -6051,11 +6298,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 58,
-    "delivered": 32,
+    "total": 64,
+    "delivered": 37,
     "anulado": 13,
-    "cancelado": 7,
-    "effectiveness": 55.17
+    "cancelado": 11,
+    "effectiveness": 57.81
   },
   {
     "usuario": "NET_SPALACIOSA",
@@ -6064,9 +6311,9 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 24,
-    "delivered": 16,
-    "anulado": 8,
+    "total": 27,
+    "delivered": 18,
+    "anulado": 9,
     "cancelado": 0,
     "effectiveness": 66.67
   },
@@ -6116,11 +6363,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 23,
-    "delivered": 21,
-    "anulado": 1,
-    "cancelado": 0,
-    "effectiveness": 91.3
+    "total": 42,
+    "delivered": 31,
+    "anulado": 4,
+    "cancelado": 6,
+    "effectiveness": 73.81
   },
   {
     "usuario": "NET_SRODRIGUEZP",
@@ -6129,11 +6376,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 25,
-    "delivered": 16,
+    "total": 27,
+    "delivered": 20,
     "anulado": 4,
     "cancelado": 1,
-    "effectiveness": 64.0
+    "effectiveness": 74.07
   },
   {
     "usuario": "NET_SSALAZARV",
@@ -6142,11 +6389,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 87,
-    "delivered": 69,
-    "anulado": 9,
+    "total": 101,
+    "delivered": 78,
+    "anulado": 12,
     "cancelado": 9,
-    "effectiveness": 79.31
+    "effectiveness": 77.23
   },
   {
     "usuario": "NET_SSANGAYL",
@@ -6155,11 +6402,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 22,
-    "delivered": 18,
-    "anulado": 4,
+    "total": 25,
+    "delivered": 20,
+    "anulado": 5,
     "cancelado": 0,
-    "effectiveness": 81.82
+    "effectiveness": 80.0
   },
   {
     "usuario": "NET_SSERRUTOL",
@@ -6170,7 +6417,7 @@
     "cargo": "N/A",
     "total": 9,
     "delivered": 6,
-    "anulado": 1,
+    "anulado": 3,
     "cancelado": 0,
     "effectiveness": 66.67
   },
@@ -6194,11 +6441,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 38,
-    "delivered": 32,
+    "total": 46,
+    "delivered": 39,
     "anulado": 4,
-    "cancelado": 1,
-    "effectiveness": 84.21
+    "cancelado": 2,
+    "effectiveness": 84.78
   },
   {
     "usuario": "NET_SSUAREZG",
@@ -6207,11 +6454,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 14,
-    "delivered": 8,
-    "anulado": 0,
-    "cancelado": 3,
-    "effectiveness": 57.14
+    "total": 19,
+    "delivered": 13,
+    "anulado": 1,
+    "cancelado": 5,
+    "effectiveness": 68.42
   },
   {
     "usuario": "NET_STANANTAM",
@@ -6220,11 +6467,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 39,
-    "delivered": 36,
-    "anulado": 2,
-    "cancelado": 1,
-    "effectiveness": 92.31
+    "total": 46,
+    "delivered": 40,
+    "anulado": 4,
+    "cancelado": 2,
+    "effectiveness": 86.96
   },
   {
     "usuario": "NET_STAVARALIVI",
@@ -6233,8 +6480,8 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 18,
-    "delivered": 18,
+    "total": 20,
+    "delivered": 20,
     "anulado": 0,
     "cancelado": 0,
     "effectiveness": 100.0
@@ -6259,11 +6506,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 49,
-    "delivered": 32,
-    "anulado": 10,
+    "total": 60,
+    "delivered": 45,
+    "anulado": 11,
     "cancelado": 2,
-    "effectiveness": 65.31
+    "effectiveness": 75.0
   },
   {
     "usuario": "NET_SVILELAA",
@@ -6285,11 +6532,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 51,
-    "delivered": 45,
+    "total": 64,
+    "delivered": 58,
     "anulado": 3,
     "cancelado": 3,
-    "effectiveness": 88.24
+    "effectiveness": 90.62
   },
   {
     "usuario": "NET_TBECERRAC",
@@ -6298,11 +6545,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 56,
-    "delivered": 37,
-    "anulado": 7,
-    "cancelado": 11,
-    "effectiveness": 66.07
+    "total": 69,
+    "delivered": 44,
+    "anulado": 11,
+    "cancelado": 12,
+    "effectiveness": 63.77
   },
   {
     "usuario": "NET_TCONTRERASN",
@@ -6318,17 +6565,30 @@
     "effectiveness": 0.0
   },
   {
+    "usuario": "NET_TCRISANTOV",
+    "nombre": "NET_TCRISANTOV",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 5,
+    "delivered": 0,
+    "anulado": 2,
+    "cancelado": 0,
+    "effectiveness": 0.0
+  },
+  {
     "usuario": "NET_TDILAST",
     "nombre": "NET_TDILAST",
     "supervisor": "No registrado",
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 45,
-    "delivered": 41,
+    "total": 52,
+    "delivered": 47,
     "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 91.11
+    "effectiveness": 90.38
   },
   {
     "usuario": "NET_THUAMANIP",
@@ -6337,11 +6597,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 25,
-    "delivered": 18,
-    "anulado": 2,
-    "cancelado": 3,
-    "effectiveness": 72.0
+    "total": 40,
+    "delivered": 32,
+    "anulado": 4,
+    "cancelado": 4,
+    "effectiveness": 80.0
   },
   {
     "usuario": "NET_TMUNOZCALDE",
@@ -6350,11 +6610,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 60,
-    "delivered": 47,
-    "anulado": 9,
-    "cancelado": 3,
-    "effectiveness": 78.33
+    "total": 76,
+    "delivered": 61,
+    "anulado": 10,
+    "cancelado": 4,
+    "effectiveness": 80.26
   },
   {
     "usuario": "NET_TOLANOZ",
@@ -6402,11 +6662,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 51,
-    "delivered": 33,
+    "total": 59,
+    "delivered": 41,
     "anulado": 11,
     "cancelado": 6,
-    "effectiveness": 64.71
+    "effectiveness": 69.49
   },
   {
     "usuario": "NET_VALEMANR",
@@ -6428,11 +6688,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 20,
-    "delivered": 9,
+    "total": 22,
+    "delivered": 11,
     "anulado": 3,
-    "cancelado": 6,
-    "effectiveness": 45.0
+    "cancelado": 8,
+    "effectiveness": 50.0
   },
   {
     "usuario": "NET_VAYALA",
@@ -6441,11 +6701,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 46,
-    "delivered": 35,
-    "anulado": 8,
-    "cancelado": 1,
-    "effectiveness": 76.09
+    "total": 65,
+    "delivered": 50,
+    "anulado": 11,
+    "cancelado": 2,
+    "effectiveness": 76.92
   },
   {
     "usuario": "NET_VAYALAS",
@@ -6454,11 +6714,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 9,
+    "total": 10,
     "delivered": 3,
-    "anulado": 6,
+    "anulado": 7,
     "cancelado": 0,
-    "effectiveness": 33.33
+    "effectiveness": 30.0
   },
   {
     "usuario": "NET_VCARMENG",
@@ -6467,11 +6727,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 24,
-    "delivered": 20,
-    "anulado": 1,
+    "total": 30,
+    "delivered": 26,
+    "anulado": 3,
     "cancelado": 1,
-    "effectiveness": 83.33
+    "effectiveness": 86.67
   },
   {
     "usuario": "NET_VCARRILLOV",
@@ -6493,11 +6753,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 28,
-    "delivered": 10,
-    "anulado": 8,
-    "cancelado": 8,
-    "effectiveness": 35.71
+    "total": 35,
+    "delivered": 13,
+    "anulado": 11,
+    "cancelado": 10,
+    "effectiveness": 37.14
   },
   {
     "usuario": "NET_VCISNEROSG",
@@ -6506,11 +6766,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 17,
+    "total": 18,
     "delivered": 12,
-    "anulado": 3,
+    "anulado": 4,
     "cancelado": 2,
-    "effectiveness": 70.59
+    "effectiveness": 66.67
   },
   {
     "usuario": "NET_VHUAMANQ",
@@ -6519,11 +6779,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 36,
-    "delivered": 30,
-    "anulado": 4,
-    "cancelado": 2,
-    "effectiveness": 83.33
+    "total": 41,
+    "delivered": 33,
+    "anulado": 5,
+    "cancelado": 3,
+    "effectiveness": 80.49
   },
   {
     "usuario": "NET_VJAUREGUIM",
@@ -6532,11 +6792,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 61,
-    "delivered": 44,
-    "anulado": 14,
+    "total": 63,
+    "delivered": 45,
+    "anulado": 15,
     "cancelado": 2,
-    "effectiveness": 72.13
+    "effectiveness": 71.43
   },
   {
     "usuario": "NET_VMEJIAC",
@@ -6545,11 +6805,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 59,
-    "delivered": 57,
+    "total": 69,
+    "delivered": 67,
     "anulado": 1,
     "cancelado": 1,
-    "effectiveness": 96.61
+    "effectiveness": 97.1
   },
   {
     "usuario": "NET_VNAPANB",
@@ -6571,11 +6831,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 33,
-    "delivered": 20,
-    "anulado": 10,
+    "total": 36,
+    "delivered": 21,
+    "anulado": 14,
     "cancelado": 0,
-    "effectiveness": 60.61
+    "effectiveness": 58.33
   },
   {
     "usuario": "NET_VRAMOSC",
@@ -6597,11 +6857,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 5,
+    "total": 6,
     "delivered": 5,
-    "anulado": 0,
+    "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 100.0
+    "effectiveness": 83.33
   },
   {
     "usuario": "NET_VSANTISTEBV",
@@ -6610,11 +6870,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 43,
-    "delivered": 35,
-    "anulado": 5,
+    "total": 50,
+    "delivered": 43,
+    "anulado": 6,
     "cancelado": 1,
-    "effectiveness": 81.4
+    "effectiveness": 86.0
   },
   {
     "usuario": "NET_VTURKOWSKYG",
@@ -6623,11 +6883,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 19,
-    "delivered": 14,
+    "total": 23,
+    "delivered": 18,
     "anulado": 3,
-    "cancelado": 1,
-    "effectiveness": 73.68
+    "cancelado": 2,
+    "effectiveness": 78.26
   },
   {
     "usuario": "NET_VZEGARRAAGU",
@@ -6636,11 +6896,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 80,
-    "delivered": 73,
-    "anulado": 4,
+    "total": 105,
+    "delivered": 95,
+    "anulado": 6,
     "cancelado": 3,
-    "effectiveness": 91.25
+    "effectiveness": 90.48
   },
   {
     "usuario": "NET_WBENITESA",
@@ -6649,11 +6909,24 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 74,
-    "delivered": 56,
-    "anulado": 10,
+    "total": 91,
+    "delivered": 70,
+    "anulado": 13,
     "cancelado": 7,
-    "effectiveness": 75.68
+    "effectiveness": 76.92
+  },
+  {
+    "usuario": "NET_WLINOD",
+    "nombre": "NET_WLINOD",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 1,
+    "delivered": 0,
+    "anulado": 0,
+    "cancelado": 1,
+    "effectiveness": 0.0
   },
   {
     "usuario": "NET_WSMILIANA",
@@ -6665,7 +6938,7 @@
     "total": 16,
     "delivered": 11,
     "anulado": 1,
-    "cancelado": 3,
+    "cancelado": 4,
     "effectiveness": 68.75
   },
   {
@@ -6691,7 +6964,7 @@
     "total": 21,
     "delivered": 16,
     "anulado": 1,
-    "cancelado": 3,
+    "cancelado": 4,
     "effectiveness": 76.19
   },
   {
@@ -6702,10 +6975,23 @@
     "cuartil": "N/A",
     "cargo": "N/A",
     "total": 45,
-    "delivered": 34,
+    "delivered": 35,
     "anulado": 6,
     "cancelado": 4,
-    "effectiveness": 75.56
+    "effectiveness": 77.78
+  },
+  {
+    "usuario": "NET_YCASTILLOO_BAJA_20260805",
+    "nombre": "NET_YCASTILLOO_BAJA_20260805",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 5,
+    "delivered": 3,
+    "anulado": 1,
+    "cancelado": 0,
+    "effectiveness": 60.0
   },
   {
     "usuario": "NET_YCASTROH",
@@ -6714,11 +7000,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 31,
-    "delivered": 15,
-    "anulado": 10,
+    "total": 33,
+    "delivered": 16,
+    "anulado": 13,
     "cancelado": 4,
-    "effectiveness": 48.39
+    "effectiveness": 48.48
   },
   {
     "usuario": "NET_YCHAVEZ",
@@ -6727,11 +7013,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 47,
-    "delivered": 40,
-    "anulado": 5,
+    "total": 61,
+    "delivered": 50,
+    "anulado": 9,
     "cancelado": 1,
-    "effectiveness": 85.11
+    "effectiveness": 81.97
   },
   {
     "usuario": "NET_YCORNEJOA",
@@ -6740,11 +7026,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 24,
-    "delivered": 18,
+    "total": 28,
+    "delivered": 20,
     "anulado": 5,
-    "cancelado": 1,
-    "effectiveness": 75.0
+    "cancelado": 3,
+    "effectiveness": 71.43
   },
   {
     "usuario": "NET_YENCARNACIH",
@@ -6753,11 +7039,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 7,
-    "delivered": 3,
+    "total": 8,
+    "delivered": 4,
     "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 42.86
+    "effectiveness": 50.0
   },
   {
     "usuario": "NET_YFALCONP",
@@ -6766,11 +7052,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 17,
-    "delivered": 14,
+    "total": 20,
+    "delivered": 16,
     "anulado": 0,
-    "cancelado": 2,
-    "effectiveness": 82.35
+    "cancelado": 3,
+    "effectiveness": 80.0
   },
   {
     "usuario": "NET_YFERNANDEZF",
@@ -6792,11 +7078,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 60,
-    "delivered": 39,
-    "anulado": 15,
+    "total": 75,
+    "delivered": 49,
+    "anulado": 20,
     "cancelado": 5,
-    "effectiveness": 65.0
+    "effectiveness": 65.33
   },
   {
     "usuario": "NET_YGIRONL",
@@ -6818,11 +7104,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 59,
-    "delivered": 47,
-    "anulado": 6,
+    "total": 71,
+    "delivered": 59,
+    "anulado": 8,
     "cancelado": 4,
-    "effectiveness": 79.66
+    "effectiveness": 83.1
   },
   {
     "usuario": "NET_YMILLA",
@@ -6831,11 +7117,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 126,
-    "delivered": 103,
-    "anulado": 12,
-    "cancelado": 7,
-    "effectiveness": 81.75
+    "total": 149,
+    "delivered": 121,
+    "anulado": 13,
+    "cancelado": 12,
+    "effectiveness": 81.21
   },
   {
     "usuario": "NET_YPAREDESG",
@@ -6844,11 +7130,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 10,
+    "total": 14,
     "delivered": 5,
-    "anulado": 2,
+    "anulado": 4,
     "cancelado": 3,
-    "effectiveness": 50.0
+    "effectiveness": 35.71
   },
   {
     "usuario": "NET_YPEREZC",
@@ -6857,11 +7143,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 10,
-    "delivered": 8,
-    "anulado": 1,
+    "total": 12,
+    "delivered": 9,
+    "anulado": 2,
     "cancelado": 1,
-    "effectiveness": 80.0
+    "effectiveness": 75.0
   },
   {
     "usuario": "NET_YRAMOSA",
@@ -6870,11 +7156,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 29,
-    "delivered": 23,
-    "anulado": 5,
+    "total": 32,
+    "delivered": 25,
+    "anulado": 6,
     "cancelado": 1,
-    "effectiveness": 79.31
+    "effectiveness": 78.12
   },
   {
     "usuario": "NET_YRAYMUNDOTA",
@@ -6883,11 +7169,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 16,
-    "delivered": 9,
-    "anulado": 4,
+    "total": 18,
+    "delivered": 10,
+    "anulado": 5,
     "cancelado": 2,
-    "effectiveness": 56.25
+    "effectiveness": 55.56
   },
   {
     "usuario": "NET_YRUEDAMONDR",
@@ -6896,11 +7182,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 44,
-    "delivered": 36,
-    "anulado": 5,
+    "total": 51,
+    "delivered": 39,
+    "anulado": 7,
     "cancelado": 3,
-    "effectiveness": 81.82
+    "effectiveness": 76.47
   },
   {
     "usuario": "NET_YUCEDAB",
@@ -6909,11 +7195,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 139,
-    "delivered": 85,
-    "anulado": 29,
-    "cancelado": 18,
-    "effectiveness": 61.15
+    "total": 163,
+    "delivered": 108,
+    "anulado": 32,
+    "cancelado": 22,
+    "effectiveness": 66.26
   },
   {
     "usuario": "NET_YVALDIVIAP",
@@ -6935,11 +7221,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 59,
-    "delivered": 50,
-    "anulado": 4,
+    "total": 66,
+    "delivered": 56,
+    "anulado": 5,
     "cancelado": 5,
-    "effectiveness": 84.75
+    "effectiveness": 84.85
   },
   {
     "usuario": "RSB_MSEMINARIOR",
@@ -6974,11 +7260,24 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 3,
+    "total": 4,
     "delivered": 0,
     "anulado": 0,
-    "cancelado": 3,
+    "cancelado": 4,
     "effectiveness": 0.0
+  },
+  {
+    "usuario": "STE_LRAMIREZC",
+    "nombre": "STE_LRAMIREZC",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 2,
+    "delivered": 2,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 100.0
   },
   {
     "usuario": "TLV_NET_AALVARE",
@@ -6987,11 +7286,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 4,
-    "delivered": 3,
+    "total": 5,
+    "delivered": 5,
     "anulado": 0,
     "cancelado": 0,
-    "effectiveness": 75.0
+    "effectiveness": 100.0
   },
   {
     "usuario": "TLV_NET_AARRASC",
@@ -7026,24 +7325,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 77,
-    "delivered": 63,
-    "anulado": 9,
-    "cancelado": 4,
-    "effectiveness": 81.82
-  },
-  {
-    "usuario": "TLV_NET_ACUEVAC",
-    "nombre": "TLV_NET_ACUEVAC",
-    "supervisor": "No registrado",
-    "coordinador": "No registrado",
-    "cuartil": "N/A",
-    "cargo": "N/A",
-    "total": 2,
-    "delivered": 0,
-    "anulado": 0,
-    "cancelado": 0,
-    "effectiveness": 0.0
+    "total": 90,
+    "delivered": 75,
+    "anulado": 10,
+    "cancelado": 5,
+    "effectiveness": 83.33
   },
   {
     "usuario": "TLV_NET_ALANDAS",
@@ -7053,10 +7339,10 @@
     "cuartil": "N/A",
     "cargo": "N/A",
     "total": 26,
-    "delivered": 12,
+    "delivered": 13,
     "anulado": 9,
     "cancelado": 4,
-    "effectiveness": 46.15
+    "effectiveness": 50.0
   },
   {
     "usuario": "TLV_NET_APINTAD",
@@ -7065,11 +7351,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 81,
-    "delivered": 68,
-    "anulado": 12,
+    "total": 98,
+    "delivered": 82,
+    "anulado": 13,
     "cancelado": 1,
-    "effectiveness": 83.95
+    "effectiveness": 83.67
   },
   {
     "usuario": "TLV_NET_BCHAVEZ",
@@ -7078,11 +7364,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 143,
-    "delivered": 113,
-    "anulado": 24,
-    "cancelado": 4,
-    "effectiveness": 79.02
+    "total": 153,
+    "delivered": 123,
+    "anulado": 25,
+    "cancelado": 5,
+    "effectiveness": 80.39
   },
   {
     "usuario": "TLV_NET_BRAMIRE",
@@ -7091,11 +7377,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 40,
-    "delivered": 30,
-    "anulado": 6,
-    "cancelado": 3,
-    "effectiveness": 75.0
+    "total": 49,
+    "delivered": 36,
+    "anulado": 9,
+    "cancelado": 4,
+    "effectiveness": 73.47
   },
   {
     "usuario": "TLV_NET_BREYESR",
@@ -7104,11 +7390,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 36,
-    "delivered": 26,
-    "anulado": 7,
+    "total": 45,
+    "delivered": 34,
+    "anulado": 8,
     "cancelado": 2,
-    "effectiveness": 72.22
+    "effectiveness": 75.56
   },
   {
     "usuario": "TLV_NET_CACEVED",
@@ -7117,11 +7403,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 100,
-    "delivered": 82,
-    "anulado": 10,
+    "total": 124,
+    "delivered": 105,
+    "anulado": 12,
     "cancelado": 6,
-    "effectiveness": 82.0
+    "effectiveness": 84.68
   },
   {
     "usuario": "TLV_NET_CSILVAP",
@@ -7130,11 +7416,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 80,
-    "delivered": 58,
-    "anulado": 13,
+    "total": 83,
+    "delivered": 59,
+    "anulado": 15,
     "cancelado": 9,
-    "effectiveness": 72.5
+    "effectiveness": 71.08
   },
   {
     "usuario": "TLV_NET_CURCIAR",
@@ -7143,11 +7429,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 58,
-    "delivered": 44,
-    "anulado": 11,
-    "cancelado": 1,
-    "effectiveness": 75.86
+    "total": 68,
+    "delivered": 51,
+    "anulado": 14,
+    "cancelado": 3,
+    "effectiveness": 75.0
   },
   {
     "usuario": "TLV_NET_CZEGARR",
@@ -7156,11 +7442,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 55,
-    "delivered": 36,
-    "anulado": 16,
+    "total": 66,
+    "delivered": 46,
+    "anulado": 19,
     "cancelado": 1,
-    "effectiveness": 65.45
+    "effectiveness": 69.7
   },
   {
     "usuario": "TLV_NET_DBARTET",
@@ -7169,11 +7455,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 57,
-    "delivered": 34,
+    "total": 66,
+    "delivered": 40,
     "anulado": 15,
-    "cancelado": 8,
-    "effectiveness": 59.65
+    "cancelado": 9,
+    "effectiveness": 60.61
   },
   {
     "usuario": "TLV_NET_DCABEZU",
@@ -7195,11 +7481,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 24,
-    "delivered": 21,
-    "anulado": 3,
+    "total": 46,
+    "delivered": 35,
+    "anulado": 8,
     "cancelado": 0,
-    "effectiveness": 87.5
+    "effectiveness": 76.09
   },
   {
     "usuario": "TLV_NET_DGARCIA",
@@ -7208,11 +7494,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 36,
-    "delivered": 29,
-    "anulado": 7,
+    "total": 39,
+    "delivered": 31,
+    "anulado": 8,
     "cancelado": 0,
-    "effectiveness": 80.56
+    "effectiveness": 79.49
   },
   {
     "usuario": "TLV_NET_DSANC",
@@ -7221,24 +7507,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 45,
-    "delivered": 32,
-    "anulado": 6,
+    "total": 49,
+    "delivered": 35,
+    "anulado": 8,
     "cancelado": 6,
-    "effectiveness": 71.11
-  },
-  {
-    "usuario": "TLV_NET_DSANCHG",
-    "nombre": "TLV_NET_DSANCHG",
-    "supervisor": "No registrado",
-    "coordinador": "No registrado",
-    "cuartil": "N/A",
-    "cargo": "N/A",
-    "total": 1,
-    "delivered": 1,
-    "anulado": 0,
-    "cancelado": 0,
-    "effectiveness": 100.0
+    "effectiveness": 71.43
   },
   {
     "usuario": "TLV_NET_DVALOI",
@@ -7247,11 +7520,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 192,
-    "delivered": 139,
-    "anulado": 26,
-    "cancelado": 23,
-    "effectiveness": 72.4
+    "total": 226,
+    "delivered": 165,
+    "anulado": 31,
+    "cancelado": 26,
+    "effectiveness": 73.01
   },
   {
     "usuario": "TLV_NET_EBULNES",
@@ -7260,11 +7533,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 64,
-    "delivered": 39,
-    "anulado": 11,
-    "cancelado": 11,
-    "effectiveness": 60.94
+    "total": 78,
+    "delivered": 50,
+    "anulado": 12,
+    "cancelado": 14,
+    "effectiveness": 64.1
   },
   {
     "usuario": "TLV_NET_ECODARL",
@@ -7273,11 +7546,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 31,
-    "delivered": 23,
+    "total": 33,
+    "delivered": 25,
     "anulado": 5,
     "cancelado": 2,
-    "effectiveness": 74.19
+    "effectiveness": 75.76
   },
   {
     "usuario": "TLV_NET_ECUROS",
@@ -7286,11 +7559,24 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 56,
-    "delivered": 45,
+    "total": 60,
+    "delivered": 49,
     "anulado": 8,
     "cancelado": 3,
-    "effectiveness": 80.36
+    "effectiveness": 81.67
+  },
+  {
+    "usuario": "TLV_NET_FVALQUI",
+    "nombre": "TLV_NET_FVALQUI",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 8,
+    "delivered": 7,
+    "anulado": 0,
+    "cancelado": 1,
+    "effectiveness": 87.5
   },
   {
     "usuario": "TLV_NET_GANACLE",
@@ -7299,11 +7585,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 38,
-    "delivered": 27,
-    "anulado": 9,
+    "total": 45,
+    "delivered": 32,
+    "anulado": 10,
     "cancelado": 2,
-    "effectiveness": 71.05
+    "effectiveness": 71.11
   },
   {
     "usuario": "TLV_NET_GCUEVAC",
@@ -7312,11 +7598,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 61,
-    "delivered": 39,
-    "anulado": 8,
-    "cancelado": 13,
-    "effectiveness": 63.93
+    "total": 75,
+    "delivered": 46,
+    "anulado": 9,
+    "cancelado": 17,
+    "effectiveness": 61.33
   },
   {
     "usuario": "TLV_NET_GJQUISP",
@@ -7325,11 +7611,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 94,
-    "delivered": 63,
-    "anulado": 26,
+    "total": 107,
+    "delivered": 73,
+    "anulado": 28,
     "cancelado": 4,
-    "effectiveness": 67.02
+    "effectiveness": 68.22
   },
   {
     "usuario": "TLV_NET_GQUISP",
@@ -7338,11 +7624,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 8,
-    "delivered": 5,
+    "total": 10,
+    "delivered": 7,
     "anulado": 2,
     "cancelado": 1,
-    "effectiveness": 62.5
+    "effectiveness": 70.0
   },
   {
     "usuario": "TLV_NET_JASALDE",
@@ -7358,30 +7644,17 @@
     "effectiveness": 87.5
   },
   {
-    "usuario": "TLV_NET_JCAMPOS",
-    "nombre": "TLV_NET_JCAMPOS",
-    "supervisor": "No registrado",
-    "coordinador": "No registrado",
-    "cuartil": "N/A",
-    "cargo": "N/A",
-    "total": 1,
-    "delivered": 0,
-    "anulado": 0,
-    "cancelado": 0,
-    "effectiveness": 0.0
-  },
-  {
     "usuario": "TLV_NET_JMORO",
     "nombre": "TLV_NET_JMORO",
     "supervisor": "No registrado",
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 97,
-    "delivered": 77,
-    "anulado": 13,
-    "cancelado": 4,
-    "effectiveness": 79.38
+    "total": 113,
+    "delivered": 92,
+    "anulado": 15,
+    "cancelado": 5,
+    "effectiveness": 81.42
   },
   {
     "usuario": "TLV_NET_JPENAM",
@@ -7390,24 +7663,24 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 27,
-    "delivered": 20,
+    "total": 34,
+    "delivered": 27,
     "anulado": 2,
     "cancelado": 5,
-    "effectiveness": 74.07
+    "effectiveness": 79.41
   },
   {
-    "usuario": "TLV_NET_JSIADEN",
-    "nombre": "TLV_NET_JSIADEN",
+    "usuario": "TLV_NET_JSILVAT",
+    "nombre": "TLV_NET_JSILVAT",
     "supervisor": "No registrado",
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 2,
-    "delivered": 2,
-    "anulado": 0,
+    "total": 13,
+    "delivered": 11,
+    "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 100.0
+    "effectiveness": 84.62
   },
   {
     "usuario": "TLV_NET_JSOTOZ",
@@ -7416,11 +7689,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 63,
-    "delivered": 47,
-    "anulado": 14,
+    "total": 70,
+    "delivered": 50,
+    "anulado": 15,
     "cancelado": 2,
-    "effectiveness": 74.6
+    "effectiveness": 71.43
   },
   {
     "usuario": "TLV_NET_KARANDA",
@@ -7429,11 +7702,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 112,
-    "delivered": 90,
-    "anulado": 13,
+    "total": 129,
+    "delivered": 109,
+    "anulado": 14,
     "cancelado": 3,
-    "effectiveness": 80.36
+    "effectiveness": 84.5
   },
   {
     "usuario": "TLV_NET_KCARBOV",
@@ -7442,11 +7715,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 20,
+    "total": 21,
     "delivered": 11,
-    "anulado": 7,
+    "anulado": 8,
     "cancelado": 2,
-    "effectiveness": 55.0
+    "effectiveness": 52.38
   },
   {
     "usuario": "TLV_NET_KCHAVEZ",
@@ -7455,11 +7728,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 37,
-    "delivered": 29,
+    "total": 42,
+    "delivered": 33,
     "anulado": 7,
     "cancelado": 1,
-    "effectiveness": 78.38
+    "effectiveness": 78.57
   },
   {
     "usuario": "TLV_NET_KGABRI",
@@ -7468,10 +7741,10 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 1,
+    "total": 2,
     "delivered": 0,
     "anulado": 0,
-    "cancelado": 1,
+    "cancelado": 2,
     "effectiveness": 0.0
   },
   {
@@ -7481,11 +7754,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 45,
-    "delivered": 36,
-    "anulado": 3,
+    "total": 54,
+    "delivered": 42,
+    "anulado": 5,
     "cancelado": 5,
-    "effectiveness": 80.0
+    "effectiveness": 77.78
   },
   {
     "usuario": "TLV_NET_LPULIDO",
@@ -7494,11 +7767,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 34,
-    "delivered": 24,
+    "total": 40,
+    "delivered": 28,
     "anulado": 9,
     "cancelado": 0,
-    "effectiveness": 70.59
+    "effectiveness": 70.0
   },
   {
     "usuario": "TLV_NET_LSANCHA",
@@ -7507,11 +7780,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 54,
-    "delivered": 51,
-    "anulado": 3,
+    "total": 61,
+    "delivered": 56,
+    "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 94.44
+    "effectiveness": 91.8
   },
   {
     "usuario": "TLV_NET_LVILLLA",
@@ -7520,11 +7793,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 55,
-    "delivered": 50,
-    "anulado": 4,
-    "cancelado": 1,
-    "effectiveness": 90.91
+    "total": 63,
+    "delivered": 54,
+    "anulado": 7,
+    "cancelado": 2,
+    "effectiveness": 85.71
   },
   {
     "usuario": "TLV_NET_MAYALAM",
@@ -7533,11 +7806,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 35,
-    "delivered": 31,
-    "anulado": 3,
+    "total": 42,
+    "delivered": 37,
+    "anulado": 5,
     "cancelado": 0,
-    "effectiveness": 88.57
+    "effectiveness": 88.1
   },
   {
     "usuario": "TLV_NET_MCHAMBI",
@@ -7546,11 +7819,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 66,
-    "delivered": 50,
-    "anulado": 6,
-    "cancelado": 7,
-    "effectiveness": 75.76
+    "total": 83,
+    "delivered": 63,
+    "anulado": 9,
+    "cancelado": 10,
+    "effectiveness": 75.9
   },
   {
     "usuario": "TLV_NET_MFARFAN",
@@ -7559,24 +7832,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 106,
-    "delivered": 80,
+    "total": 125,
+    "delivered": 100,
     "anulado": 19,
-    "cancelado": 3,
-    "effectiveness": 75.47
-  },
-  {
-    "usuario": "TLV_NET_MFERRER",
-    "nombre": "TLV_NET_MFERRER",
-    "supervisor": "No registrado",
-    "coordinador": "No registrado",
-    "cuartil": "N/A",
-    "cargo": "N/A",
-    "total": 2,
-    "delivered": 1,
-    "anulado": 0,
-    "cancelado": 0,
-    "effectiveness": 50.0
+    "cancelado": 5,
+    "effectiveness": 80.0
   },
   {
     "usuario": "TLV_NET_MLANDAR",
@@ -7585,11 +7845,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 226,
-    "delivered": 167,
-    "anulado": 21,
-    "cancelado": 35,
-    "effectiveness": 73.89
+    "total": 270,
+    "delivered": 207,
+    "anulado": 24,
+    "cancelado": 38,
+    "effectiveness": 76.67
   },
   {
     "usuario": "TLV_NET_MMAURIC",
@@ -7598,11 +7858,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 203,
-    "delivered": 142,
-    "anulado": 35,
-    "cancelado": 16,
-    "effectiveness": 69.95
+    "total": 202,
+    "delivered": 143,
+    "anulado": 40,
+    "cancelado": 19,
+    "effectiveness": 70.79
   },
   {
     "usuario": "TLV_NET_MMURGAF",
@@ -7611,11 +7871,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 51,
-    "delivered": 44,
+    "total": 62,
+    "delivered": 56,
     "anulado": 2,
     "cancelado": 4,
-    "effectiveness": 86.27
+    "effectiveness": 90.32
   },
   {
     "usuario": "TLV_NET_MRONCAL",
@@ -7624,11 +7884,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 31,
-    "delivered": 27,
-    "anulado": 3,
+    "total": 33,
+    "delivered": 28,
+    "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 87.1
+    "effectiveness": 84.85
   },
   {
     "usuario": "TLV_NET_MSLLUC",
@@ -7637,11 +7897,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 4,
-    "delivered": 2,
+    "total": 5,
+    "delivered": 3,
     "anulado": 1,
     "cancelado": 1,
-    "effectiveness": 50.0
+    "effectiveness": 60.0
   },
   {
     "usuario": "TLV_NET_NHUAMAA",
@@ -7650,11 +7910,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 83,
-    "delivered": 50,
-    "anulado": 17,
+    "total": 88,
+    "delivered": 52,
+    "anulado": 18,
     "cancelado": 15,
-    "effectiveness": 60.24
+    "effectiveness": 59.09
   },
   {
     "usuario": "TLV_NET_OCCONA",
@@ -7663,11 +7923,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 56,
-    "delivered": 45,
+    "total": 63,
+    "delivered": 49,
     "anulado": 5,
-    "cancelado": 6,
-    "effectiveness": 80.36
+    "cancelado": 9,
+    "effectiveness": 77.78
   },
   {
     "usuario": "TLV_NET_RBARRAZ",
@@ -7676,11 +7936,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 54,
-    "delivered": 36,
-    "anulado": 9,
+    "total": 57,
+    "delivered": 39,
+    "anulado": 10,
     "cancelado": 7,
-    "effectiveness": 66.67
+    "effectiveness": 68.42
   },
   {
     "usuario": "TLV_NET_RBURGOS",
@@ -7689,11 +7949,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 88,
-    "delivered": 72,
+    "total": 90,
+    "delivered": 74,
     "anulado": 14,
     "cancelado": 2,
-    "effectiveness": 81.82
+    "effectiveness": 82.22
   },
   {
     "usuario": "TLV_NET_RSORIAH",
@@ -7702,11 +7962,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 68,
-    "delivered": 54,
-    "anulado": 12,
+    "total": 77,
+    "delivered": 61,
+    "anulado": 15,
     "cancelado": 0,
-    "effectiveness": 79.41
+    "effectiveness": 79.22
   },
   {
     "usuario": "TLV_NET_SFERNAN",
@@ -7715,11 +7975,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 45,
-    "delivered": 27,
+    "total": 50,
+    "delivered": 32,
     "anulado": 11,
     "cancelado": 6,
-    "effectiveness": 60.0
+    "effectiveness": 64.0
   },
   {
     "usuario": "TLV_NET_SVALDEZ",
@@ -7728,11 +7988,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 44,
-    "delivered": 44,
-    "anulado": 0,
+    "total": 50,
+    "delivered": 49,
+    "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 100.0
+    "effectiveness": 98.0
   },
   {
     "usuario": "TLV_NET_VCHNGO",
@@ -7741,11 +8001,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 53,
-    "delivered": 39,
+    "total": 59,
+    "delivered": 44,
     "anulado": 8,
-    "cancelado": 4,
-    "effectiveness": 73.58
+    "cancelado": 5,
+    "effectiveness": 74.58
   },
   {
     "usuario": "TLV_NET_VNAPAH",
@@ -7767,11 +8027,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 66,
-    "delivered": 53,
-    "anulado": 11,
+    "total": 72,
+    "delivered": 60,
+    "anulado": 12,
     "cancelado": 0,
-    "effectiveness": 80.3
+    "effectiveness": 83.33
   },
   {
     "usuario": "TLV_NET_YQUITOV",
@@ -7780,10 +8040,10 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 54,
-    "delivered": 44,
+    "total": 60,
+    "delivered": 49,
     "anulado": 10,
     "cancelado": 0,
-    "effectiveness": 81.48
+    "effectiveness": 81.67
   }
 ]
