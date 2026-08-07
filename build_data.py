@@ -32,12 +32,12 @@ def process_data():
     if not csv_files:
         raise FileNotFoundError("No se encontraron archivos CSV de Dashboard Outbound.")
     
-    # Latest CSV (in-progress July month) for Advisor stats
+    # Latest CSV (in-progress active month) for Advisor stats
     latest_csv_path = max(csv_files, key=os.path.getmtime)
-    print(f"Latest CSV (July in-progress) selected for Advisor Ranking: {latest_csv_path}")
-    df_july_csv = pd.read_csv(latest_csv_path, encoding='utf-8', encoding_errors='ignore')
+    print(f"Latest CSV (in-progress month) selected for Advisor Ranking: {latest_csv_path}")
+    df_ranking_csv = pd.read_csv(latest_csv_path, encoding='utf-8', encoding_errors='ignore')
     
-    # Combined CSV (June + July) for overall effectiveness
+    # Combined CSV files for overall effectiveness
     df_list = []
     for f in csv_files:
         print(f"Loading CSV for combined effectiveness: {f}")
@@ -190,13 +190,14 @@ def process_data():
             "effectiveness": round(s_eff, 2)
         }
         
-    # Load user padron if exists
+    # Load user padron if exists (supports Padrón Usuario and NOMINA_NETCALL formats)
     user_pattern = r"REPORTERIA_PROYECTO_COBERTURERO\Padrón Usuario_*.xlsx"
-    user_files = glob.glob(user_pattern)
+    user_pattern_alt = r"REPORTERIA_PROYECTO_COBERTURERO\NOMINA_NETCALL_*.xlsx"
+    user_files = glob.glob(user_pattern) + glob.glob(user_pattern_alt)
     padron_users = {}
     if user_files:
         user_path = max(user_files, key=os.path.getmtime)
-        print(f"Loading Padrón Usuario from: {user_path}")
+        print(f"Loading User Roster from: {user_path}")
         try:
             df_padron = pd.read_excel(user_path, sheet_name=0)
             for _, row in df_padron.iterrows():
@@ -212,10 +213,10 @@ def process_data():
         except Exception as e:
             print(f"Error loading Padrón Usuario: {e}")
 
-    # Advisor effectiveness (July only)
+    # Advisor effectiveness (Active month ranking only)
     advisor_stats = []
-    df_july_csv['FRM_N_DNI_Asesor'] = df_july_csv['FRM_N_DNI_Asesor'].fillna("No especificado")
-    for adv, group in df_july_csv.groupby('FRM_N_DNI_Asesor'):
+    df_ranking_csv['FRM_N_DNI_Asesor'] = df_ranking_csv['FRM_N_DNI_Asesor'].fillna("No especificado")
+    for adv, group in df_ranking_csv.groupby('FRM_N_DNI_Asesor'):
         a_total = len(group)
         a_counts = group['Estado_T'].value_counts().to_dict()
         a_delivered = a_counts.get('Entregado', 0)
