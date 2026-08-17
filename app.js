@@ -994,31 +994,40 @@ function setupCoordinateSearch() {
   };
 
   const showFinalPopup = (lat, lng, addressText, geoData = null) => {
-    // Check coverage
+    // Check if point is inside a Leaflet coverage polygon
     let coverage = findCoverageForLatLng(lat, lng);
     
-    // If no polygon matches, we default to standard Celeste coverage
-    if (!coverage) {
-      coverage = {
-        nombre_comercial: "Cobertura Estándar",
-        distrito: "Dirección de Envío",
-        departamento: "Lima - Callao",
-        tipo_rango: "CELESTE",
-        horario_cobertura: "24 Horas",
-        color_default: "#00d2ff"
-      };
-    }
-    
-    // Override default/missing district with the matched district from reverse geocoding
+    // Resolve the district from coordinates
     const matchedDistrict = findDistrictForLatLng(lat, lng, geoData);
-    if (matchedDistrict) {
-      if (coverage.distrito === "Dirección de Envío" || !coverage.distrito) {
-        coverage.distrito = matchedDistrict;
+    const normDist = matchedDistrict ? normalizeJS(matchedDistrict) : null;
+    const excelInfo = (deliveryData && normDist) ? deliveryData[normDist] : null;
+
+    // If no polygon matches, validate against our Excel covered districts
+    if (!coverage) {
+      if (excelInfo) {
+        coverage = {
+          nombre_comercial: "Cobertura Estándar",
+          distrito: matchedDistrict,
+          departamento: excelInfo.departamento || "Lima - Callao",
+          tipo_rango: excelInfo.rango_tipo || "CELESTE",
+          horario_cobertura: excelInfo.rango_exp && excelInfo.rango_exp !== "No especificado" ? excelInfo.rango_exp : "24 Horas",
+          color_default: excelInfo.rango_tipo === "VERDE" ? "#10b981" : "#00d2ff"
+        };
+      } else {
+        // Not in polygon and not in a covered district -> Fuera de Cobertura!
+        coverage = {
+          nombre_comercial: "Sin Cobertura",
+          distrito: matchedDistrict || "Dirección de Envío",
+          departamento: "",
+          tipo_rango: "ROJO (Sin Acceso)",
+          horario_cobertura: "Sin Cobertura / Zona Insegura o Remota",
+          color_default: "#ef4444"
+        };
       }
     }
 
-    const resolvedDistrict = matchedDistrict || coverage.distrito || coverage.departamento || "";
-    const normDist = normalizeJS(resolvedDistrict);
+    const resolvedDistrict = matchedDistrict || coverage.distrito || "";
+    const normDistResolved = normalizeJS(resolvedDistrict);
 
     let colorHeader = "linear-gradient(135deg, #ef4444, #dc2626)";
     let titleHeader = "❌ Fuera de Cobertura";
@@ -1027,7 +1036,7 @@ function setupCoordinateSearch() {
     let diasText = "No disponible";
     let badgeColor = "#ef4444";
 
-    // Check specific ranges of the matched polygon first to apply safety and delivery type priorities
+    // Apply properties based on range type
     if (coverage && coverage.tipo_rango === "ROJO (Sin Acceso)") {
       colorHeader = "linear-gradient(135deg, #ef4444, #dc2626)";
       titleHeader = "❌ Fuera de Cobertura";
@@ -1051,31 +1060,31 @@ function setupCoordinateSearch() {
       diasText = "Lunes a Sábado";
     } else {
       // Fallback: Check if we have Excel info for this district (general coverage)
-      const excelInfo = (deliveryData && normDist) ? deliveryData[normDist] : null;
-      if (excelInfo) {
-        if (excelInfo.rango_tipo === "CELESTE") {
+      const excelInfoResolved = (deliveryData && normDistResolved) ? deliveryData[normDistResolved] : null;
+      if (excelInfoResolved) {
+        if (excelInfoResolved.rango_tipo === "CELESTE") {
           colorHeader = "linear-gradient(135deg, #10b981, #059669)";
           titleHeader = "✔️ Dirección Con Cobertura";
           rangoLabel = "Rango Express";
           badgeColor = "#10b981";
           
           let schedules = [];
-          if (excelInfo.rango_exp && excelInfo.rango_exp !== "No especificado") {
-            schedules.push(`Express: ${excelInfo.rango_exp}${excelInfo.corte_exp ? ' (Corte: ' + excelInfo.corte_exp + ')' : ''}`);
+          if (excelInfoResolved.rango_exp && excelInfoResolved.rango_exp !== "No especificado") {
+            schedules.push(`Express: ${excelInfoResolved.rango_exp}${excelInfoResolved.corte_exp ? ' (Corte: ' + excelInfoResolved.corte_exp + ')' : ''}`);
           }
-          if (excelInfo.rango_prog && excelInfo.rango_prog !== "No especificado") {
-            schedules.push(`Reg: ${excelInfo.rango_prog}${excelInfo.corte_prog ? ' (Corte: ' + excelInfo.corte_prog + ')' : ''}`);
+          if (excelInfoResolved.rango_prog && excelInfoResolved.rango_prog !== "No especificado") {
+            schedules.push(`Reg: ${excelInfoResolved.rango_prog}${excelInfoResolved.corte_prog ? ' (Corte: ' + excelInfoResolved.corte_prog + ')' : ''}`);
           }
           horarioText = schedules.length > 0 ? schedules.join(" / ") : "Horario regular registrado";
-          diasText = excelInfo.dias_entrega || "No registrado";
-        } else if (excelInfo.rango_tipo === "VERDE") {
+          diasText = excelInfoResolved.dias_entrega || "No registrado";
+        } else if (excelInfoResolved.rango_tipo === "VERDE") {
           colorHeader = "linear-gradient(135deg, #10b981, #059669)";
           titleHeader = "✔️ Dirección Con Cobertura";
           rangoLabel = "VERDE";
           badgeColor = "#10b981";
           
-          horarioText = `Reg: ${excelInfo.rango_prog}${excelInfo.corte_prog ? ' (Corte: ' + excelInfo.corte_prog + ')' : ''}`;
-          diasText = excelInfo.dias_entrega || "No registrado";
+          horarioText = `Reg: ${excelInfoResolved.rango_prog}${excelInfoResolved.corte_prog ? ' (Corte: ' + excelInfoResolved.corte_prog + ')' : ''}`;
+          diasText = excelInfoResolved.dias_entrega || "No registrado";
         } else {
           colorHeader = "linear-gradient(135deg, #ef4444, #dc2626)";
           titleHeader = "❌ Fuera de Cobertura";
@@ -1085,13 +1094,13 @@ function setupCoordinateSearch() {
           diasText = "No disponible";
         }
       } else {
-        // Fallback to basic Express
-        colorHeader = "linear-gradient(135deg, #10b981, #059669)";
-        titleHeader = "✔️ Dirección Con Cobertura";
-        rangoLabel = "Rango Express";
-        badgeColor = "#10b981";
-        horarioText = (coverage && coverage.horario_cobertura) || "24 Horas";
-        diasText = "Lunes a Sábado";
+        // No excel info -> Out of Coverage
+        colorHeader = "linear-gradient(135deg, #ef4444, #dc2626)";
+        titleHeader = "❌ Fuera de Cobertura";
+        rangoLabel = "ROJO (Sin Acceso)";
+        badgeColor = "#ef4444";
+        horarioText = "Sin Cobertura / Zona Insegura o Remota";
+        diasText = "No disponible";
       }
     }
 
@@ -1320,7 +1329,8 @@ function findDistrictForLatLng(lat, lng, geoData) {
     }
   });
   
-  if (closestDistrict) {
+  // Limit closest store distance check (max 0.04 degrees squared, roughly 20km)
+  if (closestDistrict && closestDist < 0.04) {
     const match = findMatchingDistrictOption(closestDistrict);
     if (match) return match;
   }
