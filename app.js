@@ -957,14 +957,13 @@ function setupCoordinateSearch() {
       .then(geoData => {
         const addressText = geoData.display_name || "Dirección no identificada";
         showFinalPopup(lat, lng, addressText, geoData);
-        
-        // Update the district filter automatically
+        // Update the district filter automatically (skipping zoom reset)
         const matchedDistrict = findDistrictForLatLng(lat, lng, geoData);
         if (matchedDistrict) {
           const select = document.getElementById("map-dept-select");
           if (select) {
             select.value = matchedDistrict;
-            handleMapFiltersChange();
+            handleMapFiltersChange(true);
           }
         }
       })
@@ -978,7 +977,7 @@ function setupCoordinateSearch() {
           const select = document.getElementById("map-dept-select");
           if (select) {
             select.value = matchedDistrict;
-            handleMapFiltersChange();
+            handleMapFiltersChange(true);
           }
         }
       });
