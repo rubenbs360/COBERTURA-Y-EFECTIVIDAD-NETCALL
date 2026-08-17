@@ -49,9 +49,22 @@ def process_data():
     
     # 1. Process Advisors (Lima + Prov)
     print("Processing Advisors...")
-    adv_lima_sheet = "PADRON LIMA" if "PADRON LIMA" in xl.sheet_names else ("Padrón Asesores LIMA" if "Padrón Asesores LIMA" in xl.sheet_names else "ASESORES LIMA")
-    adv_prov_sheet = "PADRON PROV" if "PADRON PROV" in xl.sheet_names else ("Padrón Asesores Prov" if "Padrón Asesores Prov" in xl.sheet_names else "ASESORES PROV")
-    
+    adv_lima_sheet = None
+    adv_prov_sheet = None
+    for name in xl.sheet_names:
+        norm_name = name.upper().strip()
+        if "LIMA" in norm_name and ("ASESOR" in norm_name or "PADRON" in norm_name):
+            adv_lima_sheet = name
+        elif "PROV" in norm_name and ("ASESOR" in norm_name or "PADRON" in norm_name):
+            adv_prov_sheet = name
+            
+    # Fallback if not detected
+    if not adv_lima_sheet:
+        adv_lima_sheet = "PADRON LIMA"
+    if not adv_prov_sheet:
+        adv_prov_sheet = "PADRON PROV"
+        
+    print(f"Detected Lima sheet: '{adv_lima_sheet}', Prov sheet: '{adv_prov_sheet}'")
     df_adv_lima = xl.parse(adv_lima_sheet)
     df_adv_prov = xl.parse(adv_prov_sheet)
     df_adv = pd.concat([df_adv_lima, df_adv_prov], ignore_index=True)
