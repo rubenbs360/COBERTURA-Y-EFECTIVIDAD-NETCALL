@@ -101,9 +101,22 @@ def process_data():
 
     # 2. Process Stores (Directorio LIMA + Directorio Provincia)
     print("Processing Stores...")
-    dir_lima_sheet = "SUP LIMA" if "SUP LIMA" in xl.sheet_names else ("Directorio LIMA " if "Directorio LIMA " in xl.sheet_names else "LIMA SUP")
-    dir_prov_sheet = "SUP PROV" if "SUP PROV" in xl.sheet_names else ("Directorio Provincia" if "Directorio Provincia" in xl.sheet_names else "PROV SUP")
-    
+    dir_lima_sheet = None
+    dir_prov_sheet = None
+    for name in xl.sheet_names:
+        norm_name = name.upper().strip()
+        if "LIMA" in norm_name and ("SUPER" in norm_name or "SUP" in norm_name):
+            dir_lima_sheet = name
+        elif "PROV" in norm_name and ("SUPER" in norm_name or "SUP" in norm_name):
+            dir_prov_sheet = name
+            
+    # Fallback if not detected
+    if not dir_lima_sheet:
+        dir_lima_sheet = "SUP LIMA"
+    if not dir_prov_sheet:
+        dir_prov_sheet = "SUP PROV"
+        
+    print(f"Detected Lima Directory sheet: '{dir_lima_sheet}', Prov Directory sheet: '{dir_prov_sheet}'")
     df_sup_lima = xl.parse(dir_lima_sheet)
     df_sup_prov = xl.parse(dir_prov_sheet)
     
