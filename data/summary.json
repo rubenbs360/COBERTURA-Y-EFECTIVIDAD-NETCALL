@@ -1,21 +1,21 @@
 {
-  "total_orders": 63317,
-  "delivered": 45896,
-  "anulado": 11009,
-  "cancelado": 5357,
-  "pendiente": 964,
-  "no_bop": 91,
-  "effectiveness": 72.49,
+  "total_orders": 67663,
+  "delivered": 48866,
+  "anulado": 11775,
+  "cancelado": 5814,
+  "pendiente": 1109,
+  "no_bop": 99,
+  "effectiveness": 72.22,
   "dispatch_types": {
-    "EXPRESS": 34996,
-    "PROGRAMADO": 15365,
-    "RETIRO EN TIENDA": 12897,
-    "No bop": 51,
+    "EXPRESS": 37346,
+    "PROGRAMADO": 16430,
+    "RETIRO EN TIENDA": 13819,
+    "No bop": 60,
     "EXPRESS PROGRAMADO": 8
   },
   "negocios": {
-    "Portabilidad Postpago": 55670,
-    "Portabilidad Prepago": 4804,
-    "Venta Regular / Alta": 2843
+    "Portabilidad Postpago": 59511,
+    "Portabilidad Prepago": 5102,
+    "Venta Regular / Alta": 3050
   }
 }
