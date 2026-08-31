@@ -124,8 +124,8 @@ function setupThemeToggler() {
       // Update tile layer if map initialized
       if (map && tileLayer) {
         map.removeLayer(tileLayer);
-        tileLayer = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
-          attribution: '&copy; CartoDB'
+        tileLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+          attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
         }).addTo(map);
       }
     } else {
@@ -136,8 +136,8 @@ function setupThemeToggler() {
       // Update tile layer if map initialized
       if (map && tileLayer) {
         map.removeLayer(tileLayer);
-        tileLayer = L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
-          attribution: '&copy; CartoDB'
+        tileLayer = L.tileLayer('https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png', {
+          attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
         }).addTo(map);
       }
     }
@@ -151,9 +151,9 @@ function initMap() {
   // Center in Peru
   map = L.map('map').setView([-9.19, -75.01], 6);
 
-  // Set CartoDB voyager as default tile layer (Light Theme)
-  tileLayer = L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
-    attribution: '&copy; CartoDB'
+  // Set OpenStreetMap standard as default tile layer (Light Theme)
+  tileLayer = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
   }).addTo(map);
 
   // Layer groups for markers
@@ -1396,9 +1396,9 @@ function initEditorMap() {
   // Create Editor Map
   editorMap = L.map('editor-map').setView([-9.19, -75.01], 6);
 
-  // Set CartoDB voyager tile layer
-  L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
-    attribution: '&copy; CartoDB'
+  // Set OpenStreetMap tile layer
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
   }).addTo(editorMap);
 
   editorGeoJsonGroup = L.featureGroup().addTo(editorMap);

@@ -357,16 +357,33 @@ def process_data():
         if jefe_comercial_email in ['', '-', 'nan']:
             jefe_comercial_email = "No especificado"
 
+        # Address and location fallbacks
+        addr_val = row.get('DIRECCION')
+        if pd.isna(addr_val) or str(addr_val).strip() in ['', 'nan', '-']:
+            addr_val = row.get('DIRECCION ')
+        if pd.isna(addr_val) or str(addr_val).strip() in ['', 'nan', '-']:
+            addr_val = row.get('DIRECCIÓN')
+        if pd.isna(addr_val) or str(addr_val).strip() in ['', 'nan', '-']:
+            addr_val = row.get('DIRECCION PDV')
+        addr_str = str(addr_val).strip() if pd.notna(addr_val) and str(addr_val).strip() not in ['', 'nan', '-'] else ""
+
+        prov_val = row.get('PROVINCIA')
+        if pd.isna(prov_val) or str(prov_val).strip() in ['', 'nan', '-']:
+            prov_val = row.get('PROVINCIA ')
+        if pd.isna(prov_val) or str(prov_val).strip() in ['', 'nan', '-']:
+            prov_val = row.get('REGION')
+        prov_str = str(prov_val).strip() if pd.notna(prov_val) and str(prov_val).strip() not in ['', 'nan', '-'] else ""
+
         store_data = {
             "id_pdv": sid,
             "nombre": str(row.get('PDV', f"PDV {sid}")).strip(),
             "canal": str(row.get('CANAL', '')).strip(),
             "subcanal": str(row.get('SUBCANAL', '')).strip(),
             "departamento": str(row.get('DEPARTAMENTO', '')).strip(),
-            "provincia": str(row.get('PROVINCIA', '')).strip() if pd.notna(row.get('PROVINCIA')) else "",
+            "provincia": prov_str,
             "distrito": str(row.get('DISTRITO', '')).strip() if pd.notna(row.get('DISTRITO')) else "",
-            "direccion": str(row.get('DIRECCION ', '')).strip() if pd.notna(row.get('DIRECCION ')) else "",
-            "referencia": str(row.get('REFERENCIA', '')).strip() if pd.notna(row.get('REFERENCIA')) else "",
+            "direccion": addr_str,
+            "referencia": str(row.get('REFERENCIA', '')).strip() if pd.notna(row.get('REFERENCIA')) and str(row.get('REFERENCIA')).strip() not in ['-', 'nan'] else "",
             "latitud": lat,
             "longitud": lng,
             "horario_lv": hours_lv,
