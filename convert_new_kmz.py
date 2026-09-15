@@ -211,8 +211,9 @@ def convert_kmz():
                     features.append(feature)
                 
     # Enrich Puntos de Encuentro with OT Addresses from Excel if present
-    pe_excel_path = 'REPORTERIA_PROYECTO_COBERTURERO/Puntos_de_Encuentros_Actualizado Agosto 2026.xlsx'
-    if os.path.exists(pe_excel_path):
+    pe_files = glob.glob('REPORTERIA_PROYECTO_COBERTURERO/Puntos*.xlsx')
+    pe_excel_path = max(pe_files, key=os.path.getmtime) if pe_files else None
+    if pe_excel_path and os.path.exists(pe_excel_path):
         try:
             print(f"Cargando direcciones OT desde: {pe_excel_path}...")
             xl = pd.ExcelFile(pe_excel_path)
