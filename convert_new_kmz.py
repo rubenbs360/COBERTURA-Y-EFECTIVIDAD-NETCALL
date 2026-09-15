@@ -5,6 +5,7 @@ import re
 import os
 import glob
 import unicodedata
+import pandas as pd
 
 KMZ_PATH = r"C:\Users\USUARIO\Downloads\NUEVO COBERTURERO LOGIXTAL - ENTEL.kmz"
 GEOJSON_PATH = r"data/cobertura.json"

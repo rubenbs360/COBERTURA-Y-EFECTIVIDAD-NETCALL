@@ -9800,7 +9800,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Cruce de av. Del Paradero y calle Los Rosales.",
+        "referencia_ot": "Frente a Hostal Sol Dorado.",
+        "distrito_ot": "SECHURA"
       },
       "geometry": {
         "type": "Point",
@@ -9821,7 +9824,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "Calle Patapo 290 - San miguel"
+        "description": "Calle Patapo 290 - San miguel",
+        "direccion_ot": "Calle Patapo 290 Urbanizacion Maranga Et.3",
+        "referencia_ot": "CRUCE DE AV PATAPO CON AV CARLOS GONZALES POSADA",
+        "distrito_ot": "SAN MIGUEL"
       },
       "geometry": {
         "type": "Point",
@@ -9842,7 +9848,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE JOSE ORENGO CON JR. RIO ICA"
+        "description": "CRUCE DE JOSE ORENGO CON JR. RIO ICA",
+        "direccion_ot": "Calle Jose Orengo 908",
+        "referencia_ot": "CRUCE DE JOSE ORENGO CON JR. RIO ICA",
+        "distrito_ot": "SAN LUIS"
       },
       "geometry": {
         "type": "Point",
@@ -9863,7 +9872,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Calle Los Eucaliptos S/N.",
+        "referencia_ot": "Costado de parque infantil de Sechura.",
+        "distrito_ot": "SECHURA"
       },
       "geometry": {
         "type": "Point",
@@ -9884,7 +9896,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Calle Tupac Amaru S/N Paita.",
+        "referencia_ot": "Ovalo Mundo.",
+        "distrito_ot": "PAITA"
       },
       "geometry": {
         "type": "Point",
@@ -9905,7 +9920,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Av. Simon Bolivar cuadra 10.",
+        "referencia_ot": "Frente a Hospedaje El Pescador.",
+        "distrito_ot": "SECHURA"
       },
       "geometry": {
         "type": "Point",
@@ -9926,7 +9944,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "P.E A 2 CDRAS DE LA UNIVERSIDAD INGIENERIA."
+        "description": "P.E A 2 CDRAS DE LA UNIVERSIDAD INGIENERIA.",
+        "direccion_ot": "Av. Eduardo de Habich 592, San Martín de Porres 15102",
+        "referencia_ot": "P.E A 2 CDRAS DE LA UNIVERSIDAD INGIENERIA.",
+        "distrito_ot": "SMP"
       },
       "geometry": {
         "type": "Point",
@@ -9947,7 +9968,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "P.E CRUCE DE PAN. NORTE CON AV JOSE GRANDA"
+        "description": "P.E CRUCE DE PAN. NORTE CON AV JOSE GRANDA",
+        "direccion_ot": "AVENIDA ALFREDO MENDIOLA 169 URBANIZACION INGENIERIA",
+        "referencia_ot": "P.E CRUCE DE PAN. NORTE CON AV JOSE GRANDA",
+        "distrito_ot": "SMP"
       },
       "geometry": {
         "type": "Point",
@@ -9968,7 +9992,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "P.E CRUCE DE JR EL CHACO CON AV EL SALVADOR"
+        "description": "P.E CRUCE DE JR EL CHACO CON AV EL SALVADOR",
+        "direccion_ot": "AVENIDA SAN SALVADOR 432 URBANIZACION PERU",
+        "referencia_ot": "P.E CRUCE DE JR EL CHACO CON AV EL SALVADOR",
+        "distrito_ot": "SMP"
       },
       "geometry": {
         "type": "Point",
@@ -10010,7 +10037,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "P.E CRUCE DE AV CANTA CON AV CENTRAL"
+        "description": "P.E CRUCE DE AV CANTA CON AV CENTRAL",
+        "direccion_ot": "AVENIDA CANTA CALLAO 3005",
+        "referencia_ot": "CRUCE DE AV CANTA CALLAO CON AV CENTRAL",
+        "distrito_ot": "SMP"
       },
       "geometry": {
         "type": "Point",
@@ -10031,7 +10061,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "P.E A ESPALDAS DE LA CDRA 5 DE AV HABICH"
+        "description": "P.E A ESPALDAS DE LA CDRA 5 DE AV HABICH",
+        "direccion_ot": "AVENIDA HONORIO DELGADO 430 URBANIZACION INGENIERIA",
+        "referencia_ot": "P.E A ESPALDAS DE LA CDRA 5 DE AV HABICH",
+        "distrito_ot": "SMP"
       },
       "geometry": {
         "type": "Point",
@@ -10073,7 +10106,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "P.E ALTU DE LA CDRA 6 DE AV 17 DE NOVIEMBRE"
+        "description": "P.E ALTU DE LA CDRA 6 DE AV 17 DE NOVIEMBRE",
+        "direccion_ot": "CALLE 1 DE MAYO 331",
+        "referencia_ot": "P.E ALTU DE LA CDRA 6 DE AV 17 DE NOVIEMBRE",
+        "distrito_ot": "INDEPENDENCIA"
       },
       "geometry": {
         "type": "Point",
@@ -10094,7 +10130,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "P.E CRUCE DE PAN NORTE CON CLL. LAS ALMENDRAS"
+        "description": "P.E CRUCE DE PAN NORTE CON CLL. LAS ALMENDRAS",
+        "direccion_ot": "Av. Alfredo Mendiola 3900, San Martín de Porres 15311",
+        "referencia_ot": "P.E CRUCE DE PAN NORTE CON CLL. LAS ALMENDRAS",
+        "distrito_ot": "SMP"
       },
       "geometry": {
         "type": "Point",
@@ -10115,7 +10154,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "P.E CRUCE DE AV TUPAC AMARU CON AV CARLOS IZAGUIRRE"
+        "description": "P.E CRUCE DE AV TUPAC AMARU CON AV CARLOS IZAGUIRRE",
+        "direccion_ot": "AVENIDA CARLOS ALBERTO IZAGUIRRE 126 URBANIZACION EL NARANJAL",
+        "referencia_ot": "CRUCE DE AV TUPAC AMARU CON AV CARLOS IZAGUIRRE",
+        "distrito_ot": "INDEPENDENCIA"
       },
       "geometry": {
         "type": "Point",
@@ -10136,7 +10178,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE JR CAJABAMBA CON AV JOSE GABRIEL CONDORCANQUI"
+        "description": "CRUCE DE JR CAJABAMBA CON AV JOSE GABRIEL CONDORCANQUI",
+        "direccion_ot": "CALLE PALLCAMARCA 591",
+        "referencia_ot": "CRUCE DE JR CAJABAMBA CON AV JOSE GABRIEL CONDORCANQUI",
+        "distrito_ot": "INDEPENDENCIA"
       },
       "geometry": {
         "type": "Point",
@@ -10157,7 +10202,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "A ESPALDA DE LA PARROQUIA Y COLEGIO SEÑORA DEL ROSARIO"
+        "description": "A ESPALDA DE LA PARROQUIA Y COLEGIO SEÑORA DEL ROSARIO",
+        "direccion_ot": "URBANIZACION TAHUANTINSUYO ZN.3, MZ J3, LT 19, CALLE OLLANTAYTAMBO",
+        "referencia_ot": "A ESPALDA DE LA PARROQUIA Y COLEGIO SEÑORA DEL ROSARIO",
+        "distrito_ot": "INDEPENDENCIA"
       },
       "geometry": {
         "type": "Point",
@@ -10178,7 +10226,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV NARANJAL CON PAN NORTE - RECTA DEL HUARALINO"
+        "description": "CRUCE DE AV NARANJAL CON PAN NORTE - RECTA DEL HUARALINO",
+        "direccion_ot": "AVENIDA EL NARANJAL 318",
+        "referencia_ot": "CRUCE DE AV NARANJAL CON PAN NORTE - RECTA DEL HUARALINO",
+        "distrito_ot": "LOS OLIVOS"
       },
       "geometry": {
         "type": "Point",
@@ -10199,7 +10250,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV ALFA CON AV TOMAS VALLE"
+        "description": "CRUCE DE AV ALFA CON AV TOMAS VALLE",
+        "direccion_ot": "JIRON CABO ANTONIO 809, LOS OLIVOS, LIMA",
+        "referencia_ot": "CRUCE DE AV ALFA CON AV TOMAS VALLE",
+        "distrito_ot": "LOS OLIVOS"
       },
       "geometry": {
         "type": "Point",
@@ -10220,7 +10274,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV UNIVERSITARIA CON AV TOMAS VALLE"
+        "description": "CRUCE DE AV UNIVERSITARIA CON AV TOMAS VALLE",
+        "direccion_ot": "ASENTAMIENTO HUMANO DANIEL ALCIDES CARRION MZ T1 LT 36 CALLE SANTA ROSA",
+        "referencia_ot": "CRUCE DE AV UNIVERSITARIA CON AV TOMAS VALLE",
+        "distrito_ot": "LOS OLIVOS"
       },
       "geometry": {
         "type": "Point",
@@ -10241,7 +10298,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "A ESPALDA DE LA PAN NORTE"
+        "description": "A ESPALDA DE LA PAN NORTE",
+        "direccion_ot": "- URBANIZACION SOL DE ORO MZ W 51",
+        "referencia_ot": "A ESPALDA DE LA PAN NORTE",
+        "distrito_ot": "LOS OLIVOS"
       },
       "geometry": {
         "type": "Point",
@@ -10262,7 +10322,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV ANTUNEZ DE MAYOLO CON AV CARLOS IZAGUIRRE"
+        "description": "CRUCE DE AV ANTUNEZ DE MAYOLO CON AV CARLOS IZAGUIRRE",
+        "direccion_ot": "AVENIDA CARLOS ALBERTO IZAGUIRRE 813 URBANIZACION MERCURIO",
+        "referencia_ot": "CRUCE DE AV ANTUNEZ DE MAYOLO CON AV CARLOS IZAGUIRRE",
+        "distrito_ot": "LOS OLIVOS"
       },
       "geometry": {
         "type": "Point",
@@ -10283,7 +10346,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CDRA 09 DE ANTUNEZ DE MAYOLO"
+        "description": "CDRA 09 DE ANTUNEZ DE MAYOLO",
+        "direccion_ot": "AVENIDA SANTIAGO ANTUNEZ DE MAYOLO 1008",
+        "referencia_ot": "CDRA 09 DE ANTUNEZ DE MAYOLO",
+        "distrito_ot": "LOS OLIVOS"
       },
       "geometry": {
         "type": "Point",
@@ -10304,7 +10370,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE CALLE MARAÑON CON CALLE 18"
+        "description": "CRUCE DE CALLE MARAÑON CON CALLE 18",
+        "direccion_ot": "ASENTAMIENTO HUMANO LAURA CALLER IBERICO MZ 10A 37",
+        "referencia_ot": "CRUCE DE CALLE MARAÑON CON CALLE 18",
+        "distrito_ot": "LOS OLIVOS"
       },
       "geometry": {
         "type": "Point",
@@ -10325,7 +10394,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PLAZA CIVICA DE PRO"
+        "description": "PLAZA CIVICA DE PRO",
+        "direccion_ot": "CALLE LA CONFRATERNIDAD 719",
+        "referencia_ot": "PLAZA CIVICA DE PRO",
+        "distrito_ot": "LOS OLIVOS"
       },
       "geometry": {
         "type": "Point",
@@ -10346,7 +10418,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE AV CHINCHAYSUYO CON AV TÚPAC AMARU"
+        "description": "CRUCE AV CHINCHAYSUYO CON AV TÚPAC AMARU",
+        "direccion_ot": "AVENIDA GERARDO UNGER 4567 URBANIZACION EL NARANJAL INDUSTRIAL",
+        "referencia_ot": "CRUCE AV CHINCHAYSUYO CON AV TÚPAC AMARU",
+        "distrito_ot": "LOS OLIVOS"
       },
       "geometry": {
         "type": "Point",
@@ -10367,7 +10442,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV TUPA AMARU CON CLL PUNO"
+        "description": "CRUCE DE AV TUPA AMARU CON CLL PUNO",
+        "direccion_ot": "AVENIDA PUNO 148, COMAS, LIMA",
+        "referencia_ot": "CRUCE DE AV TUPA AMARU CON CLL PUNO",
+        "distrito_ot": "COMAS"
       },
       "geometry": {
         "type": "Point",
@@ -10388,7 +10466,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "KM 11 DE AV TUPAC AMARU - A 2 CDRAS DEL BANCO BCP"
+        "description": "KM 11 DE AV TUPAC AMARU - A 2 CDRAS DEL BANCO BCP",
+        "direccion_ot": "OK Av. Túpac Amaru 1121, Lima 15311, Perú",
+        "referencia_ot": "KM 11 DE AV TUPAC AMARU - A 2 CDRAS DEL BANCO BCP",
+        "distrito_ot": "COMAS"
       },
       "geometry": {
         "type": "Point",
@@ -10409,7 +10490,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "FRENTE DE LA 1ERA CDRA DE AV REVOLUCION CRUCE CON TUPAC AMARU"
+        "description": "FRENTE DE LA 1ERA CDRA DE AV REVOLUCION CRUCE CON TUPAC AMARU",
+        "direccion_ot": "AVENIDA LOS INCAS 201 COOPERATIVA PABLO VI - SOLO REGISTRA DIRECCIÓN A UNA CUADRA",
+        "referencia_ot": "FRENTE DE LA 1ERA CDRA DE AV REVOLUCION CRUCE CON TUPAC AMARU",
+        "distrito_ot": "COMAS"
       },
       "geometry": {
         "type": "Point",
@@ -10430,7 +10514,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV UNIVERSITARIA CON AV SAN FELIPE"
+        "description": "CRUCE DE AV UNIVERSITARIA CON AV SAN FELIPE",
+        "direccion_ot": "AVENIDA UNIVERSITARIA NORTE 10561, COMAS, LIMA",
+        "referencia_ot": "CRUCE DE AV UNIVERSITARIA CON AV SAN FELIPE",
+        "distrito_ot": "COMAS"
       },
       "geometry": {
         "type": "Point",
@@ -10451,7 +10538,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV CHIMPUCOLLCO CON TUPAC"
+        "description": "CRUCE DE AV CHIMPUCOLLCO CON TUPAC",
+        "direccion_ot": "AVENIDA ISABEL CHIMPU OCLLO 168, CARABAYLLO",
+        "referencia_ot": "CRUCE DE AV CHIMPUCOLLCO CON TUPAC",
+        "distrito_ot": "CARABAYLLO"
       },
       "geometry": {
         "type": "Point",
@@ -10472,7 +10562,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV TUPAC AMARU CON AV MARIATEGUI KM 17"
+        "description": "CRUCE DE AV TUPAC AMARU CON AV MARIATEGUI KM 17",
+        "direccion_ot": "ASENTAMIENTO HUMANO MI PERU SC.G, MZ G7, LT 27, AVENIDA AYACUCHO",
+        "referencia_ot": "HASTA LAS 6PM",
+        "distrito_ot": "VENTANILLA"
       },
       "geometry": {
         "type": "Point",
@@ -10493,7 +10586,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "KM 20 DE LA AV TUPAC AMARU - A 3 CRAS DE AV MANUEL PRADO"
+        "description": "KM 20 DE LA AV TUPAC AMARU - A 3 CRAS DE AV MANUEL PRADO",
+        "direccion_ot": "Av. Túpac Amaru 246, Carabayllo 15318, Perú",
+        "referencia_ot": "A 3 CRAS DE AV MANUEL PRADO",
+        "distrito_ot": "CARABAYLLO"
       },
       "geometry": {
         "type": "Point",
@@ -10535,7 +10631,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "A 1 CDRA DE COMISARIA CARABAYLLO CRUCE CON AV SAN JUAN"
+        "description": "A 1 CDRA DE COMISARIA CARABAYLLO CRUCE CON AV SAN JUAN",
+        "direccion_ot": "AVENIDA JOSE SACO ROJAS ASOCIACION SAN PEDRO DE CARABAYLLO MZ E 49",
+        "referencia_ot": "A 1 CDRA DE COMISARIA CARABAYLLO CRUCE CON AV SAN JUAN",
+        "distrito_ot": "CARABAYLLO"
       },
       "geometry": {
         "type": "Point",
@@ -10556,7 +10655,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "KM 22 DE AV TUPAC AMARU - FRENTE AL PARQUE STA ROSA"
+        "description": "KM 22 DE AV TUPAC AMARU - FRENTE AL PARQUE STA ROSA",
+        "direccion_ot": "AVENIDA TUPAC AMARU 3540 URBANIZACION EL PROGRESO SC.3",
+        "referencia_ot": "FRENTE AL PARQUE STA ROSA / KM 22",
+        "distrito_ot": "CARABAYLLO"
       },
       "geometry": {
         "type": "Point",
@@ -10577,7 +10679,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "ENTRE AV PAN NORTE CON LOS ROSALES"
+        "description": "ENTRE AV PAN NORTE CON LOS ROSALES",
+        "direccion_ot": "URBANIZACION LAS PALMAS REALES, AVENIDA SANTIAGO ANTUNEZ DE MAYOLO, 1650",
+        "referencia_ot": "ENTRE AV PAN NORTE CON LOS ROSALES",
+        "distrito_ot": "LOS OLIVOS"
       },
       "geometry": {
         "type": "Point",
@@ -10598,7 +10703,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "AV PAUCARTAMBO CON AV LOS PINOS"
+        "description": "AV PAUCARTAMBO CON AV LOS PINOS",
+        "direccion_ot": "AVENIDA LOS PINOS 626",
+        "referencia_ot": "AV PAUCARTAMBO CON AV LOS PINOS",
+        "distrito_ot": "PUENTE PIEDRA"
       },
       "geometry": {
         "type": "Point",
@@ -10619,7 +10727,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "AV DEFENSORES DEL MORRO CON PROL. HUAYLAS"
+        "description": "AV DEFENSORES DEL MORRO CON PROL. HUAYLAS",
+        "direccion_ot": "Av. Defensores del Morro 1350, Chorrillos 15067",
+        "referencia_ot": "AV DEFENSORES DEL MORRO CON PROL. HUAYLAS",
+        "distrito_ot": "CHORRILLOS"
       },
       "geometry": {
         "type": "Point",
@@ -10640,7 +10751,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "AV DEFENSORES DEL MORRO CON PROL. MATELLINI"
+        "description": "AV DEFENSORES DEL MORRO CON PROL. MATELLINI",
+        "direccion_ot": "Av. Defensores del Morro 2070, Chorrillos 15067",
+        "referencia_ot": "AV DEFENSORES DEL MORRO CON PROL. MATELLINI",
+        "distrito_ot": "CHORRILLOS"
       },
       "geometry": {
         "type": "Point",
@@ -10661,7 +10775,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV PASEO DE LA REPUBLICA CON MATELLINI"
+        "description": "CRUCE DE AV PASEO DE LA REPUBLICA CON MATELLINI",
+        "direccion_ot": "CRUCE DE AV PASEO DE LA REPUBLICA CON MATELLINI",
+        "referencia_ot": "CRUCE DE AV PASEO DE LA REPUBLICA CON MATELLINI",
+        "distrito_ot": "CHORRILLOS"
       },
       "geometry": {
         "type": "Point",
@@ -10682,7 +10799,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV MALECON GRAU CON AV DEFENSORES DEL MORRO"
+        "description": "CRUCE DE AV MALECON GRAU CON AV DEFENSORES DEL MORRO",
+        "direccion_ot": "Av. Defensores del Morro 298, Lima 15064",
+        "referencia_ot": "CRUCE DE AV MALECON GRAU CON AV DEFENSORES DEL MORRO",
+        "distrito_ot": "CHORRILLOS"
       },
       "geometry": {
         "type": "Point",
@@ -10703,7 +10823,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV STA ANITA CON AV DEFENSORES DEL MORRO"
+        "description": "CRUCE DE AV STA ANITA CON AV DEFENSORES DEL MORRO",
+        "direccion_ot": "Av. Defensores del Morro 16, Chorrillos 15067",
+        "referencia_ot": "CRUCE DE AV STA ANITA CON AV DEFENSORES DEL MORRO",
+        "distrito_ot": "CHORRILLOS"
       },
       "geometry": {
         "type": "Point",
@@ -10724,7 +10847,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE CIRCUNVALACION CON CANTERA"
+        "description": "CRUCE DE CIRCUNVALACION CON CANTERA",
+        "direccion_ot": "Estacionamiento Open Pl. Atocongo, San Juan de Miraflores 15803",
+        "referencia_ot": "CRUCE DE CIRCUNVALACION CON CANTERA",
+        "distrito_ot": "SAN JUAN DE MIRAFLORES"
       },
       "geometry": {
         "type": "Point",
@@ -10745,7 +10871,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE CON AV BILLINGHURST"
+        "description": "CRUCE CON AV BILLINGHURST",
+        "direccion_ot": "JR. BILLINGURTHS CDRA. 1",
+        "referencia_ot": "CRUCE CON AV BILLINGHURST",
+        "distrito_ot": "SAN JUAN DE MIRAFLORES"
       },
       "geometry": {
         "type": "Point",
@@ -10766,7 +10895,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV BELISARIO SUAREZ CON CLL BALTAZAR GRADOS"
+        "description": "CRUCE DE AV BELISARIO SUAREZ CON CLL BALTAZAR GRADOS",
+        "direccion_ot": "Av. Belisario Suarez 1075",
+        "referencia_ot": "CRUCE DE AV BELISARIO SUAREZ CON CLL BALTAZAR GRADOS",
+        "distrito_ot": "SAN JUAN DE MIRAFLORES"
       },
       "geometry": {
         "type": "Point",
@@ -10787,7 +10919,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV PEDRO DE MIOTTA CON LIRIOS"
+        "description": "CRUCE DE AV PEDRO DE MIOTTA CON LIRIOS",
+        "direccion_ot": "Av Pedro Miotta, San Juan de Miraflores 15801",
+        "referencia_ot": "CRUCE DE AV PEDRO DE MIOTTA CON LIRIOS",
+        "distrito_ot": "SAN JUAN DE MIRAFLORES"
       },
       "geometry": {
         "type": "Point",
@@ -10808,7 +10943,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE JR GALVEZ CON AV EL TRIUNFO"
+        "description": "CRUCE DE JR GALVEZ CON AV EL TRIUNFO",
+        "direccion_ot": "Jirón José Galvez 895, Villa María del Triunfo 15817",
+        "referencia_ot": "CRUCE DE JR GALVEZ CON AV EL TRIUNFO",
+        "distrito_ot": "VILLA MARIA DEL TRIUNFO"
       },
       "geometry": {
         "type": "Point",
@@ -10829,7 +10967,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV PACHACUTEC CON AV LOS CEDROS"
+        "description": "CRUCE DE AV PACHACUTEC CON AV LOS CEDROS",
+        "direccion_ot": "Avenida Pachacútec 6321, Villa María del Triunfo 15816",
+        "referencia_ot": "CRUCE DE AV PACHACUTEC CON AV LOS CEDROS",
+        "distrito_ot": "VILLA MARIA DEL TRIUNFO"
       },
       "geometry": {
         "type": "Point",
@@ -10850,7 +10991,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV PACHACUTEC CON AV MARIA PARADO DE BELLIDO"
+        "description": "CRUCE DE AV PACHACUTEC CON AV MARIA PARADO DE BELLIDO",
+        "direccion_ot": "Av Pachacutec, Villa María del Triunfo 15809",
+        "referencia_ot": "CRUCE DE AV PACHACUTEC CON AV MARIA PARADO DE BELLIDO",
+        "distrito_ot": "VILLA MARIA DEL TRIUNFO"
       },
       "geometry": {
         "type": "Point",
@@ -10871,7 +11015,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "ENTRE AV NICOLAS DE PIEROLA CON AV PACHACUTEC"
+        "description": "ENTRE AV NICOLAS DE PIEROLA CON AV PACHACUTEC",
+        "direccion_ot": "Av Salvador Allende 5, Villa María del Triunfo 15809",
+        "referencia_ot": "ENTRE AV NICOLAS DE PIEROLA CON AV PACHACUTEC",
+        "distrito_ot": "VILLA MARIA DEL TRIUNFO"
       },
       "geometry": {
         "type": "Point",
@@ -10892,7 +11039,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE CLL CHAVEZ CON CLL CAÑETE"
+        "description": "CRUCE DE CLL CHAVEZ CON CLL CAÑETE",
+        "direccion_ot": "Chavez 181, Villa María del Triunfo 15811",
+        "referencia_ot": "CRUCE DE CLL CHAVEZ CON CLL CAÑETE",
+        "distrito_ot": "VILLA MARIA DEL TRIUNFO"
       },
       "geometry": {
         "type": "Point",
@@ -10913,7 +11063,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV 26 DE NOVIEMBRE CON AV PACHACUTEC"
+        "description": "CRUCE DE AV 26 DE NOVIEMBRE CON AV PACHACUTEC",
+        "direccion_ot": "Av. Pachacútec intersection with, Av 26 de Noviembre sn, Villa María del Triunfo",
+        "referencia_ot": "CRUCE DE AV 26 DE NOVIEMBRE CON AV PACHACUTEC",
+        "distrito_ot": "VILLA MARIA DEL TRIUNFO"
       },
       "geometry": {
         "type": "Point",
@@ -10934,7 +11087,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV CESAR VALLEJO CON AV REVOLUCION"
+        "description": "CRUCE DE AV CESAR VALLEJO CON AV REVOLUCION",
+        "direccion_ot": "Sector 2, Grupo 15, Avenida Revolucion S/N cruce con, Villa EL Salvador 15834",
+        "referencia_ot": "CRUCE DE AV CESAR VALLEJO CON AV REVOLUCION",
+        "distrito_ot": "VILLA EL SALVADOR"
       },
       "geometry": {
         "type": "Point",
@@ -10955,7 +11111,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV SOLIDARIDAD CON AV JUAN VELASCO ALVARADO"
+        "description": "CRUCE DE AV SOLIDARIDAD CON AV JUAN VELASCO ALVARADO",
+        "direccion_ot": "Av. Juan Velasco Alvarado s/n",
+        "referencia_ot": "CRUCE DE AV SOLIDARIDAD CON AV JUAN VELASCO ALVARADO",
+        "distrito_ot": "VILLA EL SALVADOR"
       },
       "geometry": {
         "type": "Point",
@@ -10976,7 +11135,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "FRENTE AL PARQUE 25 DE LA PRIMAVERA"
+        "description": "FRENTE AL PARQUE 25 DE LA PRIMAVERA",
+        "direccion_ot": "FRENTE AL PARQUE 25 DE LA PRIMAVERA",
+        "referencia_ot": "FRENTE AL PARQUE 25 DE LA PRIMAVERA",
+        "distrito_ot": "VILLA EL SALVADOR"
       },
       "geometry": {
         "type": "Point",
@@ -10997,7 +11159,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV 1ERO DE MAYO CON FORESTALES Y LOS ALGARROBOS"
+        "description": "CRUCE DE AV 1ERO DE MAYO CON FORESTALES Y LOS ALGARROBOS",
+        "direccion_ot": "Zona Agropecuaria Mz D Lote 3 LIMA, 15852",
+        "referencia_ot": "CRUCE DE AV 1ERO DE MAYO CON FORESTALES Y LOS ALGARROBOS",
+        "distrito_ot": "VILLA EL SALVADOR"
       },
       "geometry": {
         "type": "Point",
@@ -11018,7 +11183,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV MARIA PASTOR SEVILLA CON AV 1ERO DE MAYO"
+        "description": "CRUCE DE AV MARIA PASTOR SEVILLA CON AV 1ERO DE MAYO",
+        "direccion_ot": "Av. Mariano Pastor Sevilla s/n",
+        "referencia_ot": "CRUCE DE AV MARIA PASTOR SEVILLA CON AV 1ERO DE MAYO",
+        "distrito_ot": "VILLA EL SALVADOR"
       },
       "geometry": {
         "type": "Point",
@@ -11039,7 +11207,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AUX PAN SUR CON AV SAN PEDRO"
+        "description": "CRUCE DE AUX PAN SUR CON AV SAN PEDRO",
+        "direccion_ot": "CARRETERA PANAMERICANA SUR KM-25",
+        "referencia_ot": "CRUCE DE AUX PAN SUR CON AV SAN PEDRO",
+        "distrito_ot": "LURIN"
       },
       "geometry": {
         "type": "Point",
@@ -11060,7 +11231,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV MANUEL VALLE CON AUX PAN SUR"
+        "description": "CRUCE DE AV MANUEL VALLE CON AUX PAN SUR",
+        "direccion_ot": "Av. Manuel Valle 1088, Pachacamac 15823",
+        "referencia_ot": "CRUCE DE AV MANUEL VALLE CON AUX PAN SUR",
+        "distrito_ot": "LURIN"
       },
       "geometry": {
         "type": "Point",
@@ -11081,7 +11255,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV JULIO C TELLO CON JR MIGUEL GRAU"
+        "description": "CRUCE DE AV JULIO C TELLO CON JR MIGUEL GRAU",
+        "direccion_ot": "Carretera Antigua Panamericana Sur s/n",
+        "referencia_ot": "CRUCE DE AV JULIO C TELLO CON JR MIGUEL GRAU",
+        "distrito_ot": "LURIN"
       },
       "geometry": {
         "type": "Point",
@@ -11102,7 +11279,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AUX PAN SUR CON CALLE B"
+        "description": "CRUCE DE AUX PAN SUR CON CALLE B",
+        "direccion_ot": "La Urbanización Las Virreynas., Asociación De Propietarios De, Lima",
+        "referencia_ot": "CRUCE DE AUX PAN SUR CON CALLE B",
+        "distrito_ot": "LURIN"
       },
       "geometry": {
         "type": "Point",
@@ -11144,7 +11324,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "AV LA CAPITANA CRUCE CON AV CAJAMARQUILLA"
+        "description": "AV LA CAPITANA CRUCE CON AV CAJAMARQUILLA",
+        "direccion_ot": "Avenida Cajamarquilla 11107",
+        "referencia_ot": "AV LA CAPITANA CRUCE CON AV CAJAMARQUILLA",
+        "distrito_ot": "LURIGANCHO / CHOSICA"
       },
       "geometry": {
         "type": "Point",
@@ -11165,7 +11348,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "AV LAS TORRES CON AV HUACHIPA"
+        "description": "AV LAS TORRES CON AV HUACHIPA",
+        "direccion_ot": "av las torres 1245",
+        "referencia_ot": "AV LAS TORRES CON AV HUACHIPA",
+        "distrito_ot": "LURIGANCHO / CHOSICA"
       },
       "geometry": {
         "type": "Point",
@@ -11186,7 +11372,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "RAMIRO PRIALLE CON AV LOS LAURELES"
+        "description": "RAMIRO PRIALLE CON AV LOS LAURELES",
+        "direccion_ot": "Au. Ramiro Prialé Km. 7.5, Lurigancho-Chosica",
+        "referencia_ot": "RAMIRO PRIALLE CON AV LOS LAURELES",
+        "distrito_ot": "LURIGANCHO / CHOSICA"
       },
       "geometry": {
         "type": "Point",
@@ -11207,7 +11396,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PISTA ALEGRE CON PROLONGACIÓN JAVIER PRADO"
+        "description": "PISTA ALEGRE CON PROLONGACIÓN JAVIER PRADO",
+        "direccion_ot": "Av. Prol. Javier Prado Este 8680, Ate 15494",
+        "referencia_ot": "PISTA ALEGRE CON PROLONGACIÓN JAVIER PRADO",
+        "distrito_ot": "ATE"
       },
       "geometry": {
         "type": "Point",
@@ -11228,7 +11420,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "KM 16 DE LA CARRETERA CENTRAL"
+        "description": "KM 16 DE LA CARRETERA CENTRAL",
+        "direccion_ot": "Mz A 8 Lote 7, Puente Ñaña",
+        "referencia_ot": "KM 16 DE LA CARRETERA CENTRAL",
+        "distrito_ot": "LURIGANCHO / CHOSICA"
       },
       "geometry": {
         "type": "Point",
@@ -11249,7 +11444,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "KM 28 DE LA CARRETERA CENTRAL"
+        "description": "KM 28 DE LA CARRETERA CENTRAL",
+        "direccion_ot": "Av. Nicolas ayllon 2811",
+        "referencia_ot": "KM 28 DE LA CARRETERA CENTRAL",
+        "distrito_ot": "CHACLACAYO"
       },
       "geometry": {
         "type": "Point",
@@ -11270,7 +11468,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE NICOLAS AYLLON CON EVITAMIENTO"
+        "description": "CRUCE DE NICOLAS AYLLON CON EVITAMIENTO",
+        "direccion_ot": "Av. Nicolás Ayllón,1250",
+        "referencia_ot": "CRUCE DE NICOLAS AYLLON CON EVITAMIENTO",
+        "distrito_ot": "SANTA ANITA"
       },
       "geometry": {
         "type": "Point",
@@ -11291,7 +11492,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "AV LA MOLINA CON JAVIER PRADO"
+        "description": "AV LA MOLINA CON JAVIER PRADO",
+        "direccion_ot": "Av. la Molina 1068",
+        "referencia_ot": "AV LA MOLINA CON JAVIER PRADO",
+        "distrito_ot": "LA MOLINA"
       },
       "geometry": {
         "type": "Point",
@@ -11312,7 +11516,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CUADRA 16 DE CANTO GRANDE CRUCE CON AV LAS NACIONES"
+        "description": "CUADRA 16 DE CANTO GRANDE CRUCE CON AV LAS NACIONES",
+        "direccion_ot": "AAHH Arriba Perú Mz. 18 Lotes 01",
+        "referencia_ot": "CUADRA 16 DE CANTO GRANDE CRUCE CON AV LAS NACIONES",
+        "distrito_ot": "SAN JUAN DE LURIGANCHO"
       },
       "geometry": {
         "type": "Point",
@@ -11333,7 +11540,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "AV PRIMERO DE MAYO"
+        "description": "AV PRIMERO DE MAYO",
+        "direccion_ot": "AV PRIMERO DE MAYO",
+        "referencia_ot": "AV PRIMERO DE MAYO",
+        "distrito_ot": "SAN JUAN DE LURIGANCHO"
       },
       "geometry": {
         "type": "Point",
@@ -11354,7 +11564,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV LOS ALAMOS CON AV DEL PARQUE."
+        "description": "CRUCE DE AV LOS ALAMOS CON AV DEL PARQUE.",
+        "direccion_ot": "ALT. PARADERO 21 AV LAS FLORES",
+        "referencia_ot": "CRUCE DE AV LOS ALAMOS CON AV DEL PARQUE.",
+        "distrito_ot": "SAN JUAN DE LURIGANCHO"
       },
       "geometry": {
         "type": "Point",
@@ -11375,7 +11588,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV EL SOL CON AV LOS ALAMOS"
+        "description": "CRUCE DE AV EL SOL CON AV LOS ALAMOS",
+        "direccion_ot": "av los alamos 187",
+        "referencia_ot": "CRUCE DE AV EL SOL CON AV LOS ALAMOS",
+        "distrito_ot": "SAN JUAN DE LURIGANCHO"
       },
       "geometry": {
         "type": "Point",
@@ -11396,7 +11612,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "ULTIMA CUADRA DE AV WIESE"
+        "description": "ULTIMA CUADRA DE AV WIESE",
+        "direccion_ot": "Av. Fernando Wiesse, San Juan de Lurigancho",
+        "referencia_ot": "ULTIMA CUADRA DE AV WIESE",
+        "distrito_ot": "SAN JUAN DE LURIGANCHO"
       },
       "geometry": {
         "type": "Point",
@@ -11417,7 +11636,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "ALTURA DE LA CDRA 17 DE AV RIVA AGUERO"
+        "description": "ALTURA DE LA CDRA 17 DE AV RIVA AGUERO",
+        "direccion_ot": "Riva Aguero 1849",
+        "referencia_ot": "ALTURA DE LA CDRA 17 DE AV RIVA AGUERO",
+        "distrito_ot": "EL AGUSTINO"
       },
       "geometry": {
         "type": "Point",
@@ -11438,7 +11660,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "Av. César Vallejo CUADRA 13 - ENTRE AV CESAR VALLEJO Y VIA EVITAMIENTO"
+        "description": "Av. César Vallejo CUADRA 13 - ENTRE AV CESAR VALLEJO Y VIA EVITAMIENTO",
+        "direccion_ot": "cesar vallejo 247",
+        "referencia_ot": "ENTRE AV CESAR VALLEJO Y VIA EVITAMIENTO",
+        "distrito_ot": "EL AGUSTINO"
       },
       "geometry": {
         "type": "Point",
@@ -11459,7 +11684,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "A LA ALTURA DE LA CUADRA 5 DE PIZARRO"
+        "description": "A LA ALTURA DE LA CUADRA 5 DE PIZARRO",
+        "direccion_ot": "Avenida Francisco Pizarro 589 Agrupacion Francisco Pizarro",
+        "referencia_ot": "A LA ALTURA DE LA CUADRA 5 DE PIZARRO",
+        "distrito_ot": "RIMAC"
       },
       "geometry": {
         "type": "Point",
@@ -11480,7 +11708,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV. FRANCISCO PIZARRO CON JR. TRUJILLO"
+        "description": "CRUCE DE AV. FRANCISCO PIZARRO CON JR. TRUJILLO",
+        "direccion_ot": "Jiron Trujillo 414",
+        "referencia_ot": "CRUCE DE AV. FRANCISCO PIZARRO CON JR. TRUJILLO",
+        "distrito_ot": "RIMAC"
       },
       "geometry": {
         "type": "Point",
@@ -11501,7 +11732,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CUADRA 5 ABANCAY"
+        "description": "CUADRA 5 ABANCAY",
+        "direccion_ot": "Jiron Cusco 426 Urbanizacion Cercado De Lima (Colegio Juana Dammert)",
+        "referencia_ot": "ALTURA DE LA CDRA 5 DE AV ABANCAY",
+        "distrito_ot": "LIMA"
       },
       "geometry": {
         "type": "Point",
@@ -11522,7 +11756,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CUADRA 2 DE CUZCO"
+        "description": "CUADRA 2 DE CUZCO",
+        "direccion_ot": "Avenida Emancipacion 153 Urbanizacion Cercado De Lima Mz 53",
+        "referencia_ot": "CUADRA 2 DE CUZCO",
+        "distrito_ot": "LIMA"
       },
       "geometry": {
         "type": "Point",
@@ -11543,7 +11780,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CUADRA 1 DE LAMPA"
+        "description": "CUADRA 1 DE LAMPA",
+        "direccion_ot": "Jiron Amazonas 168",
+        "referencia_ot": "CUADRA 1 DE LAMPA",
+        "distrito_ot": "LIMA"
       },
       "geometry": {
         "type": "Point",
@@ -11564,7 +11804,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "AV ANGAMOS CON REPUBLICA DE PANAMA AL FRENTE DE MAESTRO"
+        "description": "AV ANGAMOS CON REPUBLICA DE PANAMA AL FRENTE DE MAESTRO",
+        "direccion_ot": "Avenida Angamos Este 1450",
+        "referencia_ot": "AV ANGAMOS CON REPUBLICA DE PANAMA AL FRENTE DE MAESTRO",
+        "distrito_ot": "SURQUILLO"
       },
       "geometry": {
         "type": "Point",
@@ -11606,7 +11849,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "ANGAMOS CON VIA EXPRESA"
+        "description": "ANGAMOS CON VIA EXPRESA",
+        "direccion_ot": "Avenida Angamos Este 609",
+        "referencia_ot": "ANGAMOS CON VIA EXPRESA",
+        "distrito_ot": "SURQUILLO"
       },
       "geometry": {
         "type": "Point",
@@ -11627,7 +11873,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "AV DEL AIRE CON AV AVIACIÓN"
+        "description": "AV DEL AIRE CON AV AVIACIÓN",
+        "direccion_ot": "Avenida Del Aire 1025 Condominio Del Aire Et.2",
+        "referencia_ot": "AV DEL AIRE CON AV AVIACIÓN",
+        "distrito_ot": "SAN LUIS"
       },
       "geometry": {
         "type": "Point",
@@ -11648,7 +11897,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV. DEL AIRE CON JIRON ALMUDENA"
+        "description": "CRUCE DE AV. DEL AIRE CON JIRON ALMUDENA",
+        "direccion_ot": "Avenida Del Aire 1560 Urbanizacion Villa Jardin",
+        "referencia_ot": "CRUCE DE AV. DEL AIRE CON JIRON ALMUDENA",
+        "distrito_ot": "SAN LUIS"
       },
       "geometry": {
         "type": "Point",
@@ -11669,7 +11921,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CANADA C/AVIACION"
+        "description": "CANADA C/AVIACION",
+        "direccion_ot": "Avenida Canada 1764 Asentamiento Humano San Juan Masias",
+        "referencia_ot": "CANADA C/AVIACION",
+        "distrito_ot": "SAN BORJA"
       },
       "geometry": {
         "type": "Point",
@@ -11690,7 +11945,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "AV JOAQUIN DE LA MADRID CON AVIACIÓN"
+        "description": "AV JOAQUIN DE LA MADRID CON AVIACIÓN",
+        "direccion_ot": "Avenida Joaquin De La Madrid 200",
+        "referencia_ot": "AV JOAQUIN DE LA MADRID CON AVIACIÓN",
+        "distrito_ot": "SAN BORJA"
       },
       "geometry": {
         "type": "Point",
@@ -11711,7 +11969,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "ESPALDAS DE CUADRA 24 DE AVIACIÓN"
+        "description": "ESPALDAS DE CUADRA 24 DE AVIACIÓN",
+        "direccion_ot": "Avenida  Javier Prado Este 2010",
+        "referencia_ot": "ESPALDAS DE CUADRA 24 DE AVIACIÓN",
+        "distrito_ot": "SAN BORJA"
       },
       "geometry": {
         "type": "Point",
@@ -11732,7 +11993,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "AV 3 DE FEBRERO"
+        "description": "AV 3 DE FEBRERO",
+        "direccion_ot": "Jiron 3 De Febrero 1052 Urbanizacion Apolo",
+        "referencia_ot": "AV 3 DE FEBRERO",
+        "distrito_ot": "LA VICTORIA"
       },
       "geometry": {
         "type": "Point",
@@ -11753,7 +12017,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "AL FRENTE DE LA PLAZA MANCO CAPAC // AV MANCO CAPAC CRUCE CON BAUSATE Y MEZA"
+        "description": "AL FRENTE DE LA PLAZA MANCO CAPAC // AV MANCO CAPAC CRUCE CON BAUSATE Y MEZA",
+        "direccion_ot": "Avenida Manco Capac 493",
+        "referencia_ot": "AL FRENTE DE LA PLAZA MANCO CAPAC // AV MANCO CAPAC CRUCE CON BAUSATE Y MEZA",
+        "distrito_ot": "LA VICTORIA"
       },
       "geometry": {
         "type": "Point",
@@ -11774,7 +12041,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "A 3 CUADRAS DEL PUENTE PRIMAVERA"
+        "description": "A 3 CUADRAS DEL PUENTE PRIMAVERA",
+        "direccion_ot": "Av. La Encalada cuadra 5, Av. Angamos cuadra 15, Santiago de Surco",
+        "referencia_ot": "A 3 CUADRAS DEL PUENTE PRIMAVERA",
+        "distrito_ot": "SANTIAGO DE SURCO"
       },
       "geometry": {
         "type": "Point",
@@ -11795,7 +12065,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "AL FRENTE DE LA EMBAJADA DE ESTADOS UNIDOS"
+        "description": "AL FRENTE DE LA EMBAJADA DE ESTADOS UNIDOS",
+        "direccion_ot": "El Polo 670, Santiago de Surco 15023",
+        "referencia_ot": "AL FRENTE DE LA EMBAJADA DE ESTADOS UNIDOS",
+        "distrito_ot": "SANTIAGO DE SURCO"
       },
       "geometry": {
         "type": "Point",
@@ -11816,7 +12089,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "ENTRE AV PRIMAVERA CON CAMINOS DEL INCA"
+        "description": "ENTRE AV PRIMAVERA CON CAMINOS DEL INCA",
+        "direccion_ot": "Av. Primavera 264, Santiago de Surco 15038",
+        "referencia_ot": "ENTRE AV PRIMAVERA CON CAMINOS DEL INCA",
+        "distrito_ot": "SANTIAGO DE SURCO"
       },
       "geometry": {
         "type": "Point",
@@ -11837,7 +12113,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PANAMERICANA CON PUENTE BENAVIDES"
+        "description": "PANAMERICANA CON PUENTE BENAVIDES",
+        "direccion_ot": "Av. Alfredo Benavides 5440, Santiago de Surco 15039",
+        "referencia_ot": "PANAMERICANA CON PUENTE BENAVIDES",
+        "distrito_ot": "SANTIAGO DE SURCO"
       },
       "geometry": {
         "type": "Point",
@@ -11858,7 +12137,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "OVALO LOS ALAMOS"
+        "description": "OVALO LOS ALAMOS",
+        "direccion_ot": "Prolongación Primavera 2390, Santiago de Surco 15023",
+        "referencia_ot": "OVALO LOS ALAMOS",
+        "distrito_ot": "SANTIAGO DE SURCO"
       },
       "geometry": {
         "type": "Point",
@@ -11879,7 +12161,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "AV PROCERES PASANDO LA CRUCETA"
+        "description": "AV PROCERES PASANDO LA CRUCETA",
+        "direccion_ot": "Avenida Las Begonias 747",
+        "referencia_ot": "AV PROCERES PASANDO LA CRUCETA",
+        "distrito_ot": "SAN ISIDRO"
       },
       "geometry": {
         "type": "Point",
@@ -11900,7 +12185,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CUADRA 1 CANAVAL Y MOREYRA"
+        "description": "CUADRA 1 CANAVAL Y MOREYRA",
+        "direccion_ot": "Avenida Enrique Canaval Moreyra 535 Urbanizacion El Palomar",
+        "referencia_ot": "CUADRA 1 CANAVAL Y MOREYRA",
+        "distrito_ot": "SAN ISIDRO"
       },
       "geometry": {
         "type": "Point",
@@ -11921,7 +12209,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CUADRA 1 DE AV LARCO"
+        "description": "CUADRA 1 DE AV LARCO",
+        "direccion_ot": "Calle Berlin 153 Urbanizacion Cercado De Miraflores",
+        "referencia_ot": "CUADRA 1 DE AV LARCO",
+        "distrito_ot": "MIRAFLORES"
       },
       "geometry": {
         "type": "Point",
@@ -11942,7 +12233,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CUADRA 3 DE RICARDO PALMA"
+        "description": "CUADRA 3 DE RICARDO PALMA",
+        "direccion_ot": "Avenida Ricardo Palma 461",
+        "referencia_ot": "ESTACION DE METROPOLITANO",
+        "distrito_ot": "SURQUILLO"
       },
       "geometry": {
         "type": "Point",
@@ -11963,7 +12257,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CUADRA 10 DE 28 DE JULIO - CRUCE DE 28 DE JULIO CON PASEO DE LA REPUBLICA"
+        "description": "CUADRA 10 DE 28 DE JULIO - CRUCE DE 28 DE JULIO CON PASEO DE LA REPUBLICA",
+        "direccion_ot": "Avenida 28 De Julio 1044 Urbanizacion San Antonio",
+        "referencia_ot": "CUADRA 10 DE 28 DE JULIO - CRUCE DE 28 DE JULIO CON PASEO DE LA REPUBLICA",
+        "distrito_ot": "MIRAFLORES"
       },
       "geometry": {
         "type": "Point",
@@ -11984,7 +12281,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "LEONCIO PRADO CON BOLOGNESI"
+        "description": "LEONCIO PRADO CON BOLOGNESI",
+        "direccion_ot": "Jiron Coronel Francisco Bolognesi 504 Urbanizacion Orbea",
+        "referencia_ot": "LEONCIO PRADO CON BOLOGNESI",
+        "distrito_ot": "MAGDALENA DEL MAR"
       },
       "geometry": {
         "type": "Point",
@@ -12005,7 +12305,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "GARZON CON LUZURIAGA"
+        "description": "GARZON CON LUZURIAGA",
+        "direccion_ot": "Avenida General Garzon 1308 Fundo Oyague",
+        "referencia_ot": "GARZON CON LUZURIAGA",
+        "distrito_ot": "JESUS MARÍA"
       },
       "geometry": {
         "type": "Point",
@@ -12026,7 +12329,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "REBAGLIATI CON SALAVERRY"
+        "description": "REBAGLIATI CON SALAVERRY",
+        "direccion_ot": "Avenida Edgardo Rebagliati 490 Urbanizacion Santa Beatriz",
+        "referencia_ot": "REBAGLIATI CON SALAVERRY",
+        "distrito_ot": "JESUS MARÍA"
       },
       "geometry": {
         "type": "Point",
@@ -12047,7 +12353,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "AV ARICA CON VARELA"
+        "description": "AV ARICA CON VARELA",
+        "direccion_ot": "Avenida Arica 552 Urbanizacion Breña",
+        "referencia_ot": "AV ARICA CON VARELA",
+        "distrito_ot": "BREÑA"
       },
       "geometry": {
         "type": "Point",
@@ -12068,7 +12377,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "ALFONSO UGARTE CON VENEZUELA"
+        "description": "ALFONSO UGARTE CON VENEZUELA",
+        "direccion_ot": "Avenida Venezuela 636 Urbanizacion Chacra Colorada",
+        "referencia_ot": "ALFONSO UGARTE CON VENEZUELA",
+        "distrito_ot": "BREÑA"
       },
       "geometry": {
         "type": "Point",
@@ -12089,7 +12401,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "VARELA CON PEDRO RUIZ"
+        "description": "VARELA CON PEDRO RUIZ",
+        "direccion_ot": "Jiron General Felipe Varela 1978 Urbanizacion Azcona",
+        "referencia_ot": "VARELA CON PEDRO RUIZ",
+        "distrito_ot": "BREÑA"
       },
       "geometry": {
         "type": "Point",
@@ -12110,7 +12425,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CUADRA 6 AV BRASIL"
+        "description": "CUADRA 6 AV BRASIL",
+        "direccion_ot": "Avenida Brasil 702 Urbanizacion Breña",
+        "referencia_ot": "CUADRA 6 AV BRASIL",
+        "distrito_ot": "BREÑA"
       },
       "geometry": {
         "type": "Point",
@@ -12131,7 +12449,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "AV ARICA CON CHAVEZ"
+        "description": "AV ARICA CON CHAVEZ",
+        "direccion_ot": "Avenida Arica 552 Urbanizacion Breña",
+        "referencia_ot": "AV ARICA CON CHAVEZ",
+        "distrito_ot": "BREÑA"
       },
       "geometry": {
         "type": "Point",
@@ -12152,7 +12473,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "SUCRE CON BOLIVAR"
+        "description": "SUCRE CON BOLIVAR",
+        "direccion_ot": "Avenida Simon Bolivar 903",
+        "referencia_ot": "SUCRE CON BOLIVAR",
+        "distrito_ot": "PUEBLO LIBRE"
       },
       "geometry": {
         "type": "Point",
@@ -12173,7 +12497,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "AV BRASIL CON VIVANCO"
+        "description": "AV BRASIL CON VIVANCO",
+        "direccion_ot": "Avenida Brasil 2163",
+        "referencia_ot": "AV BRASIL CON VIVANCO",
+        "distrito_ot": "PUEBLO LIBRE"
       },
       "geometry": {
         "type": "Point",
@@ -12194,7 +12521,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "LA MARINA CON ESCARDO"
+        "description": "LA MARINA CON ESCARDO",
+        "direccion_ot": "Avenida De La Marina 2599 Urbanizacion Maranga Et.1",
+        "referencia_ot": "LA MARINA CON RAFAEL ESCARDÓ",
+        "distrito_ot": "SAN MIGUEL"
       },
       "geometry": {
         "type": "Point",
@@ -12215,7 +12545,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CUADRA 18 AV UNIVERSITARIA"
+        "description": "CUADRA 18 AV UNIVERSITARIA",
+        "direccion_ot": "Avenida Universitaria 1801 Fundo Pando",
+        "referencia_ot": "CRUCE DE AV UNIVERSITARIA CON AV MARIANO H CORNEJO",
+        "distrito_ot": "SAN MIGUEL"
       },
       "geometry": {
         "type": "Point",
@@ -12257,7 +12590,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PRECURSORES CON PARQUE DE LAS LEYENDAS"
+        "description": "PRECURSORES CON PARQUE DE LAS LEYENDAS",
+        "direccion_ot": "Avenida Parque De Las Leyendas 580 Fundo Pando",
+        "referencia_ot": "PRECURSORES CON PARQUE DE LAS LEYENDAS",
+        "distrito_ot": "SAN MIGUEL"
       },
       "geometry": {
         "type": "Point",
@@ -12278,7 +12614,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CUADRA 20 AV LA MARINA"
+        "description": "CUADRA 20 AV LA MARINA",
+        "direccion_ot": "Avenida De La Marina 2000 Urbanizacion Pando Et.6",
+        "referencia_ot": "CUADRA 20 AV LA MARINA",
+        "distrito_ot": "SAN MIGUEL"
       },
       "geometry": {
         "type": "Point",
@@ -12299,7 +12638,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "AV SAENZ PEÑA CUADRA 12 - ENTRE AV SAENZ PEÑA Y JORGE CHAVEZ"
+        "description": "AV SAENZ PEÑA CUADRA 12 - ENTRE AV SAENZ PEÑA Y JORGE CHAVEZ",
+        "direccion_ot": "Avenida Roque Saenz Peña 1250 Urbanizacion Cercado De Bellavista",
+        "referencia_ot": "ENTRE AV SAENZ PEÑA Y JORGE CHAVEZ",
+        "distrito_ot": "BELLAVISTA"
       },
       "geometry": {
         "type": "Point",
@@ -12320,7 +12662,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "AV ARGENTINA CUADRA 30 - ENTRE AV. ARGENTINA Y AV. UNO"
+        "description": "AV ARGENTINA CUADRA 30 - ENTRE AV. ARGENTINA Y AV. UNO",
+        "direccion_ot": "Avenida Argentina 3093 Urbanizacion Parque Industrial",
+        "referencia_ot": "CRUCE DE AV. ARGENTINA CON AV. TRES",
+        "distrito_ot": "CALLAO"
       },
       "geometry": {
         "type": "Point",
@@ -12341,7 +12686,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "JR FRANCISCO BOLOGNESI CUADRA 4 - ENTRE JR FRANCISCO BOLOGNESI Y COLINA"
+        "description": "JR FRANCISCO BOLOGNESI CUADRA 4 - ENTRE JR FRANCISCO BOLOGNESI Y COLINA",
+        "direccion_ot": "Jiron Coronel Francisco Bolognesi 498 Urbanizacion Cercado De Bellavista",
+        "referencia_ot": "AV FRANCISCO BOLOGNESI 498 BELLAVISTA",
+        "distrito_ot": "BELLAVISTA"
       },
       "geometry": {
         "type": "Point",
@@ -12362,7 +12710,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "JR. BRASIL CUADRA 6 - ENTRE BRASIL Y JR. ATAHUALPA"
+        "description": "JR. BRASIL CUADRA 6 - ENTRE BRASIL Y JR. ATAHUALPA",
+        "direccion_ot": "Calle Brasil 267 Urbanizacion La Perla Baja",
+        "referencia_ot": "ENTRE BRASIL Y JR. ATAHUALPA",
+        "distrito_ot": "LA PERLA"
       },
       "geometry": {
         "type": "Point",
@@ -12383,7 +12734,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "Jr Francisco Bolognesi 359<br>FRENTE A LA IGLESIA DE MOCHE"
+        "description": "Jr Francisco Bolognesi 359<br>FRENTE A LA IGLESIA DE MOCHE",
+        "direccion_ot": "Jr Francisco Bolognesi 359",
+        "referencia_ot": "FRENTE A LA IGLESIA DE MOCHE",
+        "distrito_ot": "MOCHE SALAVERRY DELICIAS"
       },
       "geometry": {
         "type": "Point",
@@ -12404,7 +12758,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "Ca. Alan García 267<br>CRUCE CON CALLE CESAR VALLEJO Y ALAN GARCIA, FRENTE A COLEGIO WIESSE"
+        "description": "Ca. Alan García 267<br>CRUCE CON CALLE CESAR VALLEJO Y ALAN GARCIA, FRENTE A COLEGIO WIESSE",
+        "direccion_ot": "Ca. Alan García 267",
+        "referencia_ot": "CRUCE CON CALLE CESAR VALLEJO Y ALAN GARCIA, FRENTE A COLEGIO WIESSE",
+        "distrito_ot": "CHAO Y VIRU"
       },
       "geometry": {
         "type": "Point",
@@ -12425,7 +12782,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "Ca. Alfonso Ugarte 370, Ca. Independencia 508<br>CRUCE CALLE LARCO CON CALLE ALFONSO UGARTE"
+        "description": "Ca. Alfonso Ugarte 370, Ca. Independencia 508<br>CRUCE CALLE LARCO CON CALLE ALFONSO UGARTE",
+        "direccion_ot": "Ca. Alfonso Ugarte 370, Ca. Independencia 508",
+        "referencia_ot": "CRUCE CALLE LARCO CON CALLE ALFONSO UGARTE",
+        "distrito_ot": "CHAO Y VIRU"
       },
       "geometry": {
         "type": "Point",
@@ -12446,7 +12806,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "Av. Virú 2178<br>CRUCE PANAMERICANA CON AV VIRU <br>9:30 A 10:30 PM (LLEGADA PARA P.E.)<br>3:00 - 4:00 PM (RETORNO A TRUJILLO)"
+        "description": "Av. Virú 2178<br>CRUCE PANAMERICANA CON AV VIRU <br>9:30 A 10:30 PM (LLEGADA PARA P.E.)<br>3:00 - 4:00 PM (RETORNO A TRUJILLO)",
+        "direccion_ot": "Av. Virú 2178",
+        "referencia_ot": "CRUCE PANAMERICANA CON AV VIRU",
+        "distrito_ot": "CHAO Y VIRU"
       },
       "geometry": {
         "type": "Point",
@@ -12467,7 +12830,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "Prol. Cesar Vallejo 1340<br>CRUCE PROLONGACION CESAR VALLEJO CON AV FATIMA"
+        "description": "Prol. Cesar Vallejo 1340<br>CRUCE PROLONGACION CESAR VALLEJO CON AV FATIMA",
+        "direccion_ot": "Prol. Cesar Vallejo 1340",
+        "referencia_ot": "CRUCE PROLONGACION CESAR VALLEJO CON AV FATIVA",
+        "distrito_ot": "VICTOR LARCO"
       },
       "geometry": {
         "type": "Point",
@@ -12488,7 +12854,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "Av. Moche 990 - Óvalo Grau<br>CRUCE AV AMERICA SUR CON AV MOCHE"
+        "description": "Av. Moche 990 - Óvalo Grau<br>CRUCE AV AMERICA SUR CON AV MOCHE",
+        "direccion_ot": "Av. Moche 990 - Óvalo Grau",
+        "referencia_ot": "AVENIDA MOCHE, 896, LA LIBERTAD, TRUJILLO, TRUJILLO",
+        "distrito_ot": "VICTOR LARCO"
       },
       "geometry": {
         "type": "Point",
@@ -12509,7 +12878,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "Av. Larco 690<br>CRUCE AV LARCO CON ca. SAN MARTIN 132"
+        "description": "Av. Larco 690<br>CRUCE AV LARCO CON ca. SAN MARTIN 132",
+        "direccion_ot": "Av. Larco 690",
+        "referencia_ot": "CRUCE AV LARCO CON SAN MARTIN 132",
+        "distrito_ot": "VICTOR LARCO"
       },
       "geometry": {
         "type": "Point",
@@ -12530,7 +12902,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "Av. Juan Pablo II 891 y Av. América Oeste<br>CRUCE AV AMERICA OESTE CON AV JUAN PABLO II"
+        "description": "Av. Juan Pablo II 891 y Av. América Oeste<br>CRUCE AV AMERICA OESTE CON AV JUAN PABLO II",
+        "direccion_ot": "Av. Juan Pablo II 891 y Av. América Oeste",
+        "referencia_ot": "AVENIDA JUAN PABLO II, 798,",
+        "distrito_ot": "VICTOR LARCO"
       },
       "geometry": {
         "type": "Point",
@@ -12551,7 +12926,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "Jr Orbegoso 451, Jr Independencia 453, Jr Diego De Almagro 442, Jr Francisco Pizarro 428<br>CRUCE FR. PIZARRO CON JR. INDEPENDENCIA"
+        "description": "Jr Orbegoso 451, Jr Independencia 453, Jr Diego De Almagro 442, Jr Francisco Pizarro 428<br>CRUCE FR. PIZARRO CON JR. INDEPENDENCIA",
+        "direccion_ot": "Jr Orbegoso 451, Jr Independencia 453, Jr Diego De Almagro 442, Jr Francisco Pizarro 428",
+        "referencia_ot": "CRUCE FR. PIZARRO CON JR. INDEPENDENCIA",
+        "distrito_ot": "TRUJILLO"
       },
       "geometry": {
         "type": "Point",
@@ -12572,7 +12950,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "Av. Mansiche 2142, Av. América Oeste 695<br>CRUCE AV MANSICHE CON AV AMERICA OESTE"
+        "description": "Av. Mansiche 2142, Av. América Oeste 695<br>CRUCE AV MANSICHE CON AV AMERICA OESTE",
+        "direccion_ot": "Av. Mansiche 2142, Av. América Oeste 695",
+        "referencia_ot": "AVENIDA MANSICHE 1773",
+        "distrito_ot": "TRUJILLO"
       },
       "geometry": {
         "type": "Point",
@@ -12593,7 +12974,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "Av. América Norte 1245<br>CRUCE CON AV AMERICA NORTE Y PSJE CHIRIBOGA, A 1 CDRA DE MERCADO LA HERMELINDA"
+        "description": "Av. América Norte 1245<br>CRUCE CON AV AMERICA NORTE Y PSJE CHIRIBOGA, A 1 CDRA DE MERCADO LA HERMELINDA",
+        "direccion_ot": "Av. América Norte 1245",
+        "referencia_ot": "AV. 9 DE OCTUBRE 1395",
+        "distrito_ot": "TRUJILLO"
       },
       "geometry": {
         "type": "Point",
@@ -12614,7 +12998,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "18 De Mayo 1384<br>18 DE MAYO CDRA 13"
+        "description": "18 De Mayo 1384<br>18 DE MAYO CDRA 13",
+        "direccion_ot": "18 De Mayo 1384",
+        "referencia_ot": "18 DE MAYO CDRA 13",
+        "distrito_ot": "FLORENCIA DE MORA"
       },
       "geometry": {
         "type": "Point",
@@ -12635,7 +13022,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "Tito CondeMayta 1048<br>CDRA 11 DE AV HUAYNA CAPAC"
+        "description": "Tito CondeMayta 1048<br>CDRA 11 DE AV HUAYNA CAPAC",
+        "direccion_ot": "Tito Condemayta 1048",
+        "referencia_ot": "CDRA 11 DE AV HUAYNA CAPAC",
+        "distrito_ot": "PORVENIR"
       },
       "geometry": {
         "type": "Point",
@@ -12656,7 +13046,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "Prol. Unión 2273 Trujillo<br>CRUCE PROLONGACION UNION CON AV PESQUEDA"
+        "description": "Prol. Unión 2273 Trujillo<br>CRUCE PROLONGACION UNION CON AV PESQUEDA",
+        "direccion_ot": "Prol. Unión 2273 Trujillo",
+        "referencia_ot": "PROLONGACION LA UNION  2293",
+        "distrito_ot": "TRUJILLO"
       },
       "geometry": {
         "type": "Point",
@@ -12677,7 +13070,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "Av. José Gabriel Condorcanqui 2198<br>CRUCE CALLE JHORDAN CDRA 1 CON CALLE DORREGO CDRA 8"
+        "description": "Av. José Gabriel Condorcanqui 2198<br>CRUCE CALLE JHORDAN CDRA 1 CON CALLE DORREGO CDRA 8",
+        "direccion_ot": "Av. José Gabriel Condorcanqui 2198",
+        "referencia_ot": "CRUCE CALLE JHORDAN CDRA 1 CON CALLE DORREGO CDRA 8",
+        "distrito_ot": "ESPERANZA"
       },
       "geometry": {
         "type": "Point",
@@ -12698,7 +13094,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "Av José Gabriel Condorcanqui Cdra 30 (No tiene numeración)<br>AV CONDORCANQUI CDRA 30"
+        "description": "Av José Gabriel Condorcanqui Cdra 30 (No tiene numeración)<br>AV CONDORCANQUI CDRA 30",
+        "direccion_ot": "Av José Gabriel Condorcanqui Cdra 30 (No tiene numeración)",
+        "referencia_ot": "CDRA 30 AV CONDORCANQUI",
+        "distrito_ot": "ESPERANZA"
       },
       "geometry": {
         "type": "Point",
@@ -12719,7 +13118,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Virrey Toledo 1098",
+        "referencia_ot": "Esquina Virrey y Toledo y 27 de Julio",
+        "distrito_ot": "JOSE LEONARDO ORTIZ"
       },
       "geometry": {
         "type": "Point",
@@ -12740,7 +13142,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Av. Haya de la Torre, Chiclayo 14008",
+        "referencia_ot": "Esquina Av. Inca Garcilazo y Av. Victor Raul",
+        "distrito_ot": "LA VICTORIA"
       },
       "geometry": {
         "type": "Point",
@@ -12761,7 +13166,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "av Panamericana Norte 926",
+        "referencia_ot": "Pan. Norte - Carretera a Monsefu",
+        "distrito_ot": "MONSEFU"
       },
       "geometry": {
         "type": "Point",
@@ -12782,7 +13190,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Diego Ferré 232",
+        "referencia_ot": "Av. San Martin y Elias Aguirre",
+        "distrito_ot": "REQUE"
       },
       "geometry": {
         "type": "Point",
@@ -12803,7 +13214,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "ESPALDA DE AV LOS ROSALES CRUCE CON AV SAN REMO"
+        "description": "ESPALDA DE AV LOS ROSALES CRUCE CON AV SAN REMO",
+        "direccion_ot": "- ASOCIACION MILAGROSA CRUZ DE MOTUPE MZ B LT 60",
+        "referencia_ot": "ESPALDA DE AV LOS ROSALES CRUCE CON AV SAN REMO",
+        "distrito_ot": "PUENTE PIEDRA"
       },
       "geometry": {
         "type": "Point",
@@ -12824,7 +13238,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Calle 02 de Mayo cuadra 5 S/N.",
+        "referencia_ot": "Frente a plaza de armas de Sechura.",
+        "distrito_ot": "SECHURA"
       },
       "geometry": {
         "type": "Point",
@@ -12845,7 +13262,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Calle 02 de Mayo cuadra 5 S/N.",
+        "referencia_ot": "Frente a Municipalidad de Sechura.",
+        "distrito_ot": "SECHURA"
       },
       "geometry": {
         "type": "Point",
@@ -12866,7 +13286,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Calle Comercio 413.",
+        "referencia_ot": "Frente a plaza de armas.",
+        "distrito_ot": "CATACAOS"
       },
       "geometry": {
         "type": "Point",
@@ -12887,7 +13310,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Calle Ica 825.",
+        "referencia_ot": "Cruce de av. Cayetano Heredia y calle Trujillo.",
+        "distrito_ot": "CATACAOS"
       },
       "geometry": {
         "type": "Point",
@@ -12908,7 +13334,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Calle Comercio 540.",
+        "referencia_ot": "Calle Comercio 540.",
+        "distrito_ot": "CATACAOS"
       },
       "geometry": {
         "type": "Point",
@@ -12929,7 +13358,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Av. Cayetano Heredia 537.",
+        "referencia_ot": "Av. Cayetano Heredia 537.",
+        "distrito_ot": "CATACAOS"
       },
       "geometry": {
         "type": "Point",
@@ -12950,7 +13382,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Cruce de av. Progreso y calle San Pablo.",
+        "referencia_ot": "Cruce de av. Progreso y calle San Pablo.",
+        "distrito_ot": "CATACAOS"
       },
       "geometry": {
         "type": "Point",
@@ -12992,7 +13427,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Av. Ayacucho 20003.",
+        "referencia_ot": "Frente a Plazuela Montero.",
+        "distrito_ot": "CASTILLA"
       },
       "geometry": {
         "type": "Point",
@@ -13013,7 +13451,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Cruce de av. Progreso con av. Corpac.",
+        "referencia_ot": "Frente a colegio Niño Jesús de Praga.",
+        "distrito_ot": "CASTILLA"
       },
       "geometry": {
         "type": "Point",
@@ -13034,7 +13475,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Cruce de av. Luis Montero y av. Guardia Civil.",
+        "referencia_ot": "Frente al Cantarito.",
+        "distrito_ot": "CASTILLA"
       },
       "geometry": {
         "type": "Point",
@@ -13055,7 +13499,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Cruce de av. Guillermo Irazola y av. Andres Avelino Caceres 147.",
+        "referencia_ot": "Frente a Urb. Miraflores/Rivera del Rio Piura.",
+        "distrito_ot": "CASTILLA"
       },
       "geometry": {
         "type": "Point",
@@ -13076,7 +13523,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Cruce de av.sanchez cerro 234",
+        "referencia_ot": "Frente a discoteca Lilith",
+        "distrito_ot": "PIURA- 26 DE OCTUBRE"
       },
       "geometry": {
         "type": "Point",
@@ -13097,7 +13547,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Cruce de av. Mata  la Cruz S/N y av. Integracion Norte.",
+        "referencia_ot": "Costado de Grigo Ava.",
+        "distrito_ot": "PIURA- 26 DE OCTUBRE"
       },
       "geometry": {
         "type": "Point",
@@ -13139,7 +13592,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Cruce de av. Grau 4830",
+        "referencia_ot": "Diagonal a ex municipalidad 26 de Octubre.",
+        "distrito_ot": "PIURA- 26 DE OCTUBRE"
       },
       "geometry": {
         "type": "Point",
@@ -13160,7 +13616,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Auxiliar av. Panamericana Norte 461.",
+        "referencia_ot": "Frente a Ovalo Sullana.",
+        "distrito_ot": "SULLANA"
       },
       "geometry": {
         "type": "Point",
@@ -13181,7 +13640,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Carretera Paita-Piura Km 2.",
+        "referencia_ot": "Costado de Terminal de Paita.",
+        "distrito_ot": "PAITA"
       },
       "geometry": {
         "type": "Point",
@@ -13202,7 +13664,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Jr. Independencia 389-499.",
+        "referencia_ot": "Atrás de Marina Mercante.",
+        "distrito_ot": "PAITA"
       },
       "geometry": {
         "type": "Point",
@@ -13223,7 +13688,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Malecon Jorge Chavez y jr. Junin.",
+        "referencia_ot": "Frente a Municipalidad de Paita.",
+        "distrito_ot": "PAITA"
       },
       "geometry": {
         "type": "Point",
@@ -13244,7 +13712,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Malecon Jorge Chavez y jr. Junin.",
+        "referencia_ot": "Frente a plaza de armas de Paita.",
+        "distrito_ot": "PAITA"
       },
       "geometry": {
         "type": "Point",
@@ -13265,7 +13736,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "CARRETERA A YURA KM 9",
+        "referencia_ot": "SANTA MARIA MZ C LT 7, CERRO COLORADO, AREQUIPA, AREQUIPA, PERÚ",
+        "distrito_ot": "CERRO COLORADO"
       },
       "geometry": {
         "type": "Point",
@@ -13286,7 +13760,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "AV. CHARCANI S/N",
+        "referencia_ot": "AV. CHARCANI FRENTE AL RESTAURANT EL MESON DEL LABRIEGO",
+        "distrito_ot": "CAYMA"
       },
       "geometry": {
         "type": "Point",
@@ -13307,7 +13784,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "AV. BOLOGNESI CUADRA 11",
+        "referencia_ot": "AV. BOLOGNESI ESQUINA CON AV. AMAZONAS",
+        "distrito_ot": "CAYMA"
       },
       "geometry": {
         "type": "Point",
@@ -13328,7 +13808,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "AV, RAMON CASTILLA CUADRA 4",
+        "referencia_ot": "AVENIDA MARISCAL RAMON CASTILLA 598",
+        "distrito_ot": "CAYMA"
       },
       "geometry": {
         "type": "Point",
@@ -13349,7 +13832,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "AV. AVIACION 602 CERRO COLORADO",
+        "referencia_ot": "AV. AVIACION A 2 CUADRAS DE LA PLAZA LAS AMERICAS",
+        "distrito_ot": "CERRO COLORADO"
       },
       "geometry": {
         "type": "Point",
@@ -13370,7 +13856,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "AV. AREQUIPA 313",
+        "referencia_ot": "AVENIDA AREQUIPA 313, ALTO SELVA ALEGRE, AREQUIPA",
+        "distrito_ot": "ALTO SELVA ALEGRE"
       },
       "geometry": {
         "type": "Point",
@@ -13391,7 +13880,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "AV. SEPULVEDA S/N",
+        "referencia_ot": "AL FINAL DE LA AV. LIMA",
+        "distrito_ot": "MARIANO MELGAR"
       },
       "geometry": {
         "type": "Point",
@@ -13412,7 +13904,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "AMPLIACION ATALAYA MARIANO MELGAR",
+        "referencia_ot": "ATALAYA ZONA B MZ KD LT 43, MARIANO MELGAR, AREQUIPA, AREQUIPA, PERÚ",
+        "distrito_ot": "MARIANO MELGAR"
       },
       "geometry": {
         "type": "Point",
@@ -13433,7 +13928,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "AV. JESUS S/N ALTURA DE CAJA AREQUIPA PAUCARPATA",
+        "referencia_ot": "AV. JESUS, A 2 CUADRAS DEL MERCADO DE ALTO PORONGOCHE",
+        "distrito_ot": "PAUCARPATA"
       },
       "geometry": {
         "type": "Point",
@@ -13454,7 +13952,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "AV. PORONGOCHE 500",
+        "referencia_ot": "AV. PORONGOCHE 500",
+        "distrito_ot": "PAUCARPATA"
       },
       "geometry": {
         "type": "Point",
@@ -13475,7 +13976,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "AV. CARACAS 629",
+        "referencia_ot": "AVENIDA CARACAS 629, JOSE LUIS BUSTAMANTE Y RIVERO.\nAREQUIPA.",
+        "distrito_ot": "SOCABAYA"
       },
       "geometry": {
         "type": "Point",
@@ -13496,7 +14000,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "AV. CARACAS S/N",
+        "referencia_ot": "AV. CARACAS A LA ALTURA DEL MERCADO 3 DE OCTUBRE",
+        "distrito_ot": "SOCABAYA"
       },
       "geometry": {
         "type": "Point",
@@ -13517,7 +14024,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "CALLE OROYA 100",
+        "referencia_ot": "AV. SOCABAYA CRUCE CON OROYA",
+        "distrito_ot": "SOCABAYA"
       },
       "geometry": {
         "type": "Point",
@@ -13538,7 +14048,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "AV, JUAN VELAZCO ALVARADO N-11",
+        "referencia_ot": "Avenida General Juan Velasco Alvarado 550",
+        "distrito_ot": "HUNTER"
       },
       "geometry": {
         "type": "Point",
@@ -13559,7 +14072,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "AV. MARISCAL URETA CRUCE CON BATANEROS",
+        "referencia_ot": "AV. MARISCAL URETA 107",
+        "distrito_ot": "HUNTER"
       },
       "geometry": {
         "type": "Point",
@@ -13601,7 +14117,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "AV. 2 DE MAYO S/N TINGO",
+        "referencia_ot": "EN EL MALECON 2 DE MAYO",
+        "distrito_ot": "CERCADO AREQUIPA"
       },
       "geometry": {
         "type": "Point",
@@ -13622,7 +14141,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "AV. FERNANDINI S/N SACHACA",
+        "referencia_ot": "CRUCE CON CALLE PLAZA BOLOGNESI",
+        "distrito_ot": "SACHACA"
       },
       "geometry": {
         "type": "Point",
@@ -13643,7 +14165,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "CALLE LA FLORIDA 204 UB. HUARANGUILLO",
+        "referencia_ot": "AV. LA FLORIDA A 2 CUADRAS DEL GRIFO DOMINIC",
+        "distrito_ot": "SACHACA"
       },
       "geometry": {
         "type": "Point",
@@ -13664,7 +14189,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "VARIANTE DE UCHUMAYO KM 4",
+        "referencia_ot": "VARIANTE DE UCHUMAYO CON VIA DE EVITAMIENTO",
+        "distrito_ot": "CERRO COLORADO"
       },
       "geometry": {
         "type": "Point",
@@ -13685,7 +14213,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS - DE 8:30AM-4:30PM"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS - DE 8:30AM-4:30PM",
+        "direccion_ot": "Cruce de av. Sullana con av. Don Bosco",
+        "referencia_ot": "Frente a AAHH 18 de Mayo",
+        "distrito_ot": "PIURA- 26 DE OCTUBRE"
       },
       "geometry": {
         "type": "Point",
@@ -13706,7 +14237,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "Av. Federico Villarreal 220"
+        "description": "Av. Federico Villarreal 220",
+        "direccion_ot": "Av. Federico Villarreal 220",
+        "referencia_ot": "PASAJE SANTA LUISA, 279 (COMO PUNTO DE ENCUENTRO)",
+        "distrito_ot": "TRUJILLO"
       },
       "geometry": {
         "type": "Point",
@@ -13727,7 +14261,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "San Martín Mz W Lte 1<br>ENTRE CROLUNGO Y SAN MARTIN (MIRAMAR)"
+        "description": "San Martín Mz W Lte 1<br>ENTRE CROLUNGO Y SAN MARTIN (MIRAMAR)",
+        "direccion_ot": "San Martín Mz W Lte 1",
+        "referencia_ot": "ENTRE CROLUNGO Y SAN MARTIN",
+        "distrito_ot": "MOCHE SALAVERRY DELICIAS"
       },
       "geometry": {
         "type": "Point",
@@ -13748,7 +14285,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "San Andrés 457<br>FRENTE A LA IGLESIA DE MIRAMAR"
+        "description": "San Andrés 457<br>FRENTE A LA IGLESIA DE MIRAMAR",
+        "direccion_ot": "San Andrés 457",
+        "referencia_ot": "FRENTE A LA IGLESIA DE MIRAMAR",
+        "distrito_ot": "MOCHE SALAVERRY DELICIAS"
       },
       "geometry": {
         "type": "Point",
@@ -13769,7 +14309,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "Av. Vallejo 202<br>CRUCE AV. EGUREN Y AV. VALLEJO"
+        "description": "Av. Vallejo 202<br>CRUCE AV. EGUREN Y AV. VALLEJO",
+        "direccion_ot": "Av. Vallejo 202",
+        "referencia_ot": "CRUCE AV. EGUREN Y AV. VALLEJO",
+        "distrito_ot": "TRUJILLO"
       },
       "geometry": {
         "type": "Point",
@@ -13790,7 +14333,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "Av. España 1800, Trujillo<br>EN LA MISMA AV ESPAÑA FRENTE A CC. EL METRO"
+        "description": "Av. España 1800, Trujillo<br>EN LA MISMA AV ESPAÑA FRENTE A CC. EL METRO",
+        "direccion_ot": "Av. España 1800, Trujillo",
+        "referencia_ot": "AVENIDA ESPAÑA, 1874",
+        "distrito_ot": "TRUJILLO"
       },
       "geometry": {
         "type": "Point",
@@ -13811,7 +14357,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "Av. Larco 1770, Trujillo<br>CRUCE CON LARCO Y JJ GANOZA"
+        "description": "Av. Larco 1770, Trujillo<br>CRUCE CON LARCO Y JJ GANOZA",
+        "direccion_ot": "Av. Larco 1770, Trujillo",
+        "referencia_ot": "CRUCE CON LARCO Y JJ GANOZA",
+        "distrito_ot": "VICTOR LARCO"
       },
       "geometry": {
         "type": "Point",
@@ -13832,7 +14381,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "30 de Mayo 1530, (Víctor Larco Herrera)<br>ENTRE 30 DE MAYO Y 9 DE OCTUBRE"
+        "description": "30 de Mayo 1530, (Víctor Larco Herrera)<br>ENTRE 30 DE MAYO Y 9 DE OCTUBRE",
+        "direccion_ot": "30 de Mayo 1530, (Víctor Larco Herrera)",
+        "referencia_ot": "ENTRE 30 DE MAYO Y 9 DE OCTUBRE",
+        "distrito_ot": "FLORENCIA DE MORA"
       },
       "geometry": {
         "type": "Point",
@@ -13853,7 +14405,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS - DE 8:30AM-3:30PM"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS - DE 8:30AM-3:30PM",
+        "direccion_ot": "Av. Progreso",
+        "referencia_ot": "Costado de Urb. Galilea",
+        "distrito_ot": "CASTILLA"
       },
       "geometry": {
         "type": "Point",
@@ -13874,7 +14429,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": ""
+        "description": "",
+        "direccion_ot": "Av. 54 S/N",
+        "referencia_ot": "Av. 54 S/N Cerro colorado",
+        "distrito_ot": "CERRO COLORADO"
       },
       "geometry": {
         "type": "Point",
@@ -13895,7 +14453,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "SOLO HASTA LAS 5PM"
+        "description": "SOLO HASTA LAS 5PM",
+        "direccion_ot": "Sector 6 de ciudad municipal",
+        "referencia_ot": "Sector 6 de ciudad municipal",
+        "distrito_ot": "CERRO COLORADO"
       },
       "geometry": {
         "type": "Point",
@@ -13916,7 +14477,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": ""
+        "description": "",
+        "direccion_ot": "SECTOR 6 DE DEAN VALDIVIA CAYMA",
+        "referencia_ot": "dean valdivia 407",
+        "distrito_ot": "CAYMA"
       },
       "geometry": {
         "type": "Point",
@@ -13937,7 +14501,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": ""
+        "description": "",
+        "direccion_ot": "Calle Marañon S/N",
+        "referencia_ot": "Calle Marañon cruce con yaravi",
+        "distrito_ot": "CERRO COLORADO"
       },
       "geometry": {
         "type": "Point",
@@ -13958,7 +14525,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": ""
+        "description": "",
+        "direccion_ot": "AV. EVITAMIENTO KM 3",
+        "referencia_ot": "AL COSTADO DEL CAMAL DON GOYO",
+        "distrito_ot": "CERRO COLORADO"
       },
       "geometry": {
         "type": "Point",
@@ -13979,7 +14549,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": ""
+        "description": "",
+        "direccion_ot": "AH. La Chiriguana sachaca",
+        "referencia_ot": "A una cuadra del Jr. Teresa de calcuta",
+        "distrito_ot": "SACHACA"
       },
       "geometry": {
         "type": "Point",
@@ -14000,7 +14573,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "MIERCOLES Y SABADOS HORARIOS AM"
+        "description": "MIERCOLES Y SABADOS HORARIOS AM",
+        "direccion_ot": "Av. Horacio Zevallos Socabaya",
+        "referencia_ot": "ENTRE CALLE LAS MALVINAS Y TUPAC AMARU",
+        "distrito_ot": "SOCABAYA"
       },
       "geometry": {
         "type": "Point",
@@ -14021,7 +14597,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "SOLO MIERCOLES Y SABADOS"
+        "description": "SOLO MIERCOLES Y SABADOS",
+        "direccion_ot": "Calle Pl. Principal Characato",
+        "referencia_ot": "Calle Yumina 338, Characato, Arequipa, Arequipa, Perú",
+        "distrito_ot": "CHARACATO"
       },
       "geometry": {
         "type": "Point",
@@ -14042,7 +14621,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "SOLO MIERCOLES Y SABADOS HORARIO AM"
+        "description": "SOLO MIERCOLES Y SABADOS HORARIO AM",
+        "direccion_ot": "AV. SABANDIA S/N SABANDIA",
+        "referencia_ot": "AV. SABANDIA CRUCE CON EL MOLINO DE SABANDIA",
+        "distrito_ot": "SABANDIA"
       },
       "geometry": {
         "type": "Point",
@@ -14063,7 +14645,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS - PE MERCADO LOS PATOS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS - PE MERCADO LOS PATOS",
+        "direccion_ot": "Venezuela 3490 - Mercado los Patos",
+        "referencia_ot": "Cruce Av. Venezuela, Av. Lora y Lora y Despensa",
+        "distrito_ot": "JOSE LEONARDO ORTIZ"
       },
       "geometry": {
         "type": "Point",
@@ -14084,7 +14669,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Prol Av Bolognesi 1530, Chiclayo",
+        "referencia_ot": "Cruce  Prol Av Bolognesi y Luis Heysen",
+        "distrito_ot": "CHICLAYO"
       },
       "geometry": {
         "type": "Point",
@@ -14105,7 +14693,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "JUAN TOMIS STACK 1202",
+        "referencia_ot": "Frente a SENATI",
+        "distrito_ot": "CHICLAYO"
       },
       "geometry": {
         "type": "Point",
@@ -14126,7 +14717,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Prolongación Bolognesi y, Cajamarca, Chiclayo",
+        "referencia_ot": "Frente a cevicheria Jhon",
+        "distrito_ot": "CHICLAYO"
       },
       "geometry": {
         "type": "Point",
@@ -14147,7 +14741,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "AV JOSE LEONARDO ORTIZ 108",
+        "referencia_ot": "Cruce Robles y Soberania",
+        "distrito_ot": "CHICLAYO"
       },
       "geometry": {
         "type": "Point",
@@ -14168,7 +14765,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Av del Progreso 180 Chiclayo",
+        "referencia_ot": "Espaldas Centro recreativo La Foresta",
+        "distrito_ot": "CHICLAYO"
       },
       "geometry": {
         "type": "Point",
@@ -14189,7 +14789,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Av. Augusto B. Leguía 1282-1304, José Leonardo O",
+        "referencia_ot": "Cruce Av. Belaunde y Av. B. Leguia",
+        "distrito_ot": "JOSE LEONARDO ORTIZ"
       },
       "geometry": {
         "type": "Point",
@@ -14210,7 +14813,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Santos Atahualpa 408, José Leonardo Ortiz",
+        "referencia_ot": "Entre Rosales y Intihuana",
+        "distrito_ot": "JOSE LEONARDO ORTIZ"
       },
       "geometry": {
         "type": "Point",
@@ -14231,7 +14837,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Av. México 1100, José Leonardo Ortiz",
+        "referencia_ot": "Frente a D'mar restaurant cevicheria",
+        "distrito_ot": "JOSE LEONARDO ORTIZ"
       },
       "geometry": {
         "type": "Point",
@@ -14252,7 +14861,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV LA PAZ CON EMANCIPACION"
+        "description": "CRUCE DE AV LA PAZ CON EMANCIPACION",
+        "direccion_ot": "Avenida La Paz 2900",
+        "referencia_ot": "CRUCE DE AV LA PAZ CON EMANCIPACION",
+        "distrito_ot": "SAN MIGUEL"
       },
       "geometry": {
         "type": "Point",
@@ -14273,7 +14885,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV RAZURI CON AV LA LIBERTAD."
+        "description": "CRUCE DE AV RAZURI CON AV LA LIBERTAD.",
+        "direccion_ot": "Avenida Libertad 1561 Urbanizacion Miramar Mz 15",
+        "referencia_ot": "CRUCE DE AV LA LIBERTAD CON AV RAFAEL ESCARDÓ",
+        "distrito_ot": "SAN MIGUEL"
       },
       "geometry": {
         "type": "Point",
@@ -14294,7 +14909,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PE"
+        "description": "PE",
+        "direccion_ot": "Calle Andres Castelo 115 Cooperativa Rafael Escardo",
+        "referencia_ot": "CRUCE DE AV RAFAEL ESCARDÓ CON AV LA LIBERTAD",
+        "distrito_ot": "SAN MIGUEL"
       },
       "geometry": {
         "type": "Point",
@@ -14315,7 +14933,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV. SANTA ROSA CON TUPAC AMARU"
+        "description": "CRUCE DE AV. SANTA ROSA CON TUPAC AMARU",
+        "direccion_ot": "Sta. Rosa 448, La Perla",
+        "referencia_ot": "CRUCE DE AV. SANTA ROSA CON TUPAC AMARU",
+        "distrito_ot": "LA PERLA"
       },
       "geometry": {
         "type": "Point",
@@ -14336,7 +14957,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE AV. MIGUEL GRAU CON JORGE CHAVEZ"
+        "description": "CRUCE AV. MIGUEL GRAU CON JORGE CHAVEZ",
+        "direccion_ot": "Avenida Roque Saenz Peña 1250 Urbanizacion Cercado De Bellavista",
+        "referencia_ot": "CRUCE AV. MIGUEL GRAU CON JORGE CHAVEZ",
+        "distrito_ot": "CALLAO"
       },
       "geometry": {
         "type": "Point",
@@ -14357,7 +14981,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PE"
+        "description": "PE",
+        "direccion_ot": "Avenida Guardia Chalaca 1548 Urbanizacion Cercado De Bellavista",
+        "referencia_ot": "A 2 CUADRAS DE CRUCE CON SAENZ PEÑA",
+        "distrito_ot": "BELLAVISTA"
       },
       "geometry": {
         "type": "Point",
@@ -14378,7 +15005,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "AV. ARGENTINA"
+        "description": "AV. ARGENTINA",
+        "direccion_ot": "Avenida Argentina 1661  - Comisaria La Chalaca",
+        "referencia_ot": "AV. ARGENTINA",
+        "distrito_ot": "CALLAO"
       },
       "geometry": {
         "type": "Point",
@@ -14399,7 +15029,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "FRENTE AL Estadio Municipal Carlos A. Moscoso"
+        "description": "FRENTE AL Estadio Municipal Carlos A. Moscoso",
+        "direccion_ot": "Avenida Tomas Marsano 1163",
+        "referencia_ot": "FRENTE AL Estadio Municipal Carlos A. Moscoso",
+        "distrito_ot": "SURQUILLO"
       },
       "geometry": {
         "type": "Point",
@@ -14420,7 +15053,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "JR. SANTA ROSA CON AV. ANGAMOS ESTE"
+        "description": "JR. SANTA ROSA CON AV. ANGAMOS ESTE",
+        "direccion_ot": "Avenida Angamos Este 734",
+        "referencia_ot": "JR. SANTA ROSA CON AV. ANGAMOS ESTE",
+        "distrito_ot": "SURQUILLO"
       },
       "geometry": {
         "type": "Point",
@@ -14441,7 +15077,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV. REPUBLICA DE PANAMÁ CON AV. AMGAMOS ESTE"
+        "description": "CRUCE DE AV. REPUBLICA DE PANAMÁ CON AV. AMGAMOS ESTE",
+        "direccion_ot": "Avenida Angamos Este 1353",
+        "referencia_ot": "CRUCE DE AV. REPUBLICA DE PANAMÁ CON AV. AMGAMOS ESTE",
+        "distrito_ot": "SURQUILLO"
       },
       "geometry": {
         "type": "Point",
@@ -14462,7 +15101,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE JR. LEONCIO PRADO CON AV. REPUBLICA DE PANAMA"
+        "description": "CRUCE JR. LEONCIO PRADO CON AV. REPUBLICA DE PANAMA",
+        "direccion_ot": "Avenida Republica De Panama 5300",
+        "referencia_ot": "CRUCE JR. LEONCIO PRADO CON AV. REPUBLICA DE PANAMA",
+        "distrito_ot": "SURQUILLO"
       },
       "geometry": {
         "type": "Point",
@@ -14483,7 +15125,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "ALTURA DE LA CDRA 5 DE AV REPUBLICA DE PANAMA."
+        "description": "ALTURA DE LA CDRA 5 DE AV REPUBLICA DE PANAMA.",
+        "direccion_ot": "Av. República de Panamá 6901, Santiago de Surco 15049",
+        "referencia_ot": "ALTURA DE LA CDRA 5 DE AV REPUBLICA DE PANAMA.",
+        "distrito_ot": "SANTIAGO DE SURCO"
       },
       "geometry": {
         "type": "Point",
@@ -14504,7 +15149,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PE HASTA LAS 6PM"
+        "description": "PE HASTA LAS 6PM",
+        "direccion_ot": "Ovalo Balta N° 1198 - 1102",
+        "referencia_ot": "PE HASTA LAS 6PM",
+        "distrito_ot": "BARRANCO"
       },
       "geometry": {
         "type": "Point",
@@ -14525,7 +15173,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV LOS ALISOS CON AV JORGE CHAVEZ."
+        "description": "CRUCE DE AV LOS ALISOS CON AV JORGE CHAVEZ.",
+        "direccion_ot": "Av. Jorge Chavez 1209, Santiago de Surco 15049",
+        "referencia_ot": "CRUCE DE AV LOS ALISOS CON AV JORGE CHAVEZ.",
+        "distrito_ot": "SANTIAGO DE SURCO"
       },
       "geometry": {
         "type": "Point",
@@ -14546,7 +15197,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV JORGE CHAVEZ CON FERNANDO FAUSTOR."
+        "description": "CRUCE DE AV JORGE CHAVEZ CON FERNANDO FAUSTOR.",
+        "direccion_ot": "Av. Jorge Chavez 1519, Santiago de Surco 15049",
+        "referencia_ot": "CRUCE DE AV JORGE CHAVEZ CON FERNANDO FAUSTOR.",
+        "distrito_ot": "SANTIAGO DE SURCO"
       },
       "geometry": {
         "type": "Point",
@@ -14567,7 +15221,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "FRENTE AL RESTAURANTE EL ROSEDAL."
+        "description": "FRENTE AL RESTAURANTE EL ROSEDAL.",
+        "direccion_ot": "Jirón Batalla de Ayacucho 399-325, Cercado de Lima 15049",
+        "referencia_ot": "FRENTE AL RESTAURANTE EL ROSEDAL.",
+        "distrito_ot": "SANTIAGO DE SURCO"
       },
       "geometry": {
         "type": "Point",
@@ -14588,7 +15245,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE JR. DOÑA DELMIRA CON JR BATALLA DE AYACUCHO."
+        "description": "CRUCE DE JR. DOÑA DELMIRA CON JR BATALLA DE AYACUCHO.",
+        "direccion_ot": "Jirón Batalla de Ayacucho 572, Lima 15049",
+        "referencia_ot": "CRUCE DE JR. DOÑA DELMIRA CON JR BATALLA DE AYACUCHO.",
+        "distrito_ot": "SANTIAGO DE SURCO"
       },
       "geometry": {
         "type": "Point",
@@ -14609,7 +15269,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV MIGUEL GRAU CON PARQUE MUNICIPAL."
+        "description": "CRUCE DE AV MIGUEL GRAU CON PARQUE MUNICIPAL.",
+        "direccion_ot": "Av. Pedro de Osma 102, Barranco 15063",
+        "referencia_ot": "CRUCE DE AV MIGUEL GRAU CON PARQUE MUNICIPAL.",
+        "distrito_ot": "BARRANCO"
       },
       "geometry": {
         "type": "Point",
@@ -14630,7 +15293,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE AV LAS GAVIOTAS CON AV EL SOL"
+        "description": "CRUCE AV LAS GAVIOTAS CON AV EL SOL",
+        "direccion_ot": "Cipreses, Chorrillos 15064",
+        "referencia_ot": "CRUCE AV LAS GAVIOTAS CON AV EL SOL",
+        "distrito_ot": "CHORRILLOS"
       },
       "geometry": {
         "type": "Point",
@@ -14651,7 +15317,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PE"
+        "description": "PE",
+        "direccion_ot": "Jr. Guardia Civil Sur 352A, Cercado de Lima 15057",
+        "referencia_ot": "CRUCE AV. GUARDIA PERUANA CON JR, GUARDIA CIVIL SUR",
+        "distrito_ot": "CHORRILLOS"
       },
       "geometry": {
         "type": "Point",
@@ -14672,7 +15341,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE AV. GUARDIA PERUANA CON JR, GUARDIA CIVIL SUR"
+        "description": "CRUCE AV. GUARDIA PERUANA CON JR, GUARDIA CIVIL SUR",
+        "direccion_ot": "Jr. Guardia Civil Sur, Chorrillos 15056",
+        "referencia_ot": "CRUCE AV. GUARDIA PERUANA CON JR, GUARDIA CIVIL SUR",
+        "distrito_ot": "CHORRILLOS"
       },
       "geometry": {
         "type": "Point",
@@ -14693,7 +15365,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "FRENTE A POLICLINICO FAOZ"
+        "description": "FRENTE A POLICLINICO FAOZ",
+        "direccion_ot": "Av Alameda San Marcos 11, Chorrillos 15067",
+        "referencia_ot": "FRENTE A POLICLINICO FAOZ",
+        "distrito_ot": "CHORRILLOS"
       },
       "geometry": {
         "type": "Point",
@@ -14714,7 +15389,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "HASTA LAS 4PM <br>AV. PERU // AV. BELAUNDE TERRY"
+        "description": "HASTA LAS 4PM <br>AV. PERU // AV. BELAUNDE TERRY",
+        "direccion_ot": "Cruce de av Belaunde Terry con Av Peru",
+        "referencia_ot": "HASTA LAS 4PM / AV. PERU // AV. BELAUNDE TERRY",
+        "distrito_ot": "CHORRILLOS"
       },
       "geometry": {
         "type": "Point",
@@ -14735,7 +15413,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "Av. Sta. Rosa con Pumacahua"
+        "description": "Av. Sta. Rosa con Pumacahua",
+        "direccion_ot": "Av. Sta. Rosa s/n, Santiago de Surco 15058",
+        "referencia_ot": "Av. Sta. Rosa con Pumacahua",
+        "distrito_ot": "CHORRILLOS"
       },
       "geometry": {
         "type": "Point",
@@ -14756,7 +15437,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "ENTRE AV OSCAR R BENAVIDES CON JR ZORRITOS."
+        "description": "ENTRE AV OSCAR R BENAVIDES CON JR ZORRITOS.",
+        "direccion_ot": "Avenida Mariscal Oscar R Benavides 1291",
+        "referencia_ot": "ENTRE AV OSCAR R BENAVIDES CON JR ZORRITOS.",
+        "distrito_ot": "LIMA"
       },
       "geometry": {
         "type": "Point",
@@ -14777,7 +15461,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PE HASTA LAS 4PM"
+        "description": "PE HASTA LAS 4PM",
+        "direccion_ot": "Avenida Mariscal Oscar R Benavides 639 Urbanizacion Lima Industrial",
+        "referencia_ot": "PE HASTA LAS 4PM",
+        "distrito_ot": "LIMA"
       },
       "geometry": {
         "type": "Point",
@@ -14798,7 +15485,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "FRENTE A LA COMISARIA DE MONSERRAT."
+        "description": "FRENTE A LA COMISARIA DE MONSERRAT.",
+        "direccion_ot": "Jiron Tayacaja 264",
+        "referencia_ot": "FRENTE A LA COMISARIA MONSERRAT.",
+        "distrito_ot": "LIMA"
       },
       "geometry": {
         "type": "Point",
@@ -14819,7 +15509,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "FRENTE A PLAZA RAMON CASTILLA."
+        "description": "FRENTE A PLAZA RAMON CASTILLA.",
+        "direccion_ot": "Avenida Alfonso Ugarte 259 Barrio Monserrate",
+        "referencia_ot": "FRENTE A PLAZA RAMON CASTILLA.",
+        "distrito_ot": "LIMA"
       },
       "geometry": {
         "type": "Point",
@@ -14840,7 +15533,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "ENTRE REP. DE PANAMA CON ROSENDO VIDAURRE."
+        "description": "ENTRE REP. DE PANAMA CON ROSENDO VIDAURRE.",
+        "direccion_ot": "Av. Paseo de la Republica, Barranco 15063",
+        "referencia_ot": "ENTRE REP. DE PANAMA CON ROSENDO VIDAURRE.",
+        "distrito_ot": "BARRANCO"
       },
       "geometry": {
         "type": "Point",
@@ -14861,7 +15557,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE JUAN SOTO BERMEO CON  ALFREDO ICAZA."
+        "description": "CRUCE DE JUAN SOTO BERMEO CON  ALFREDO ICAZA.",
+        "direccion_ot": "Av. Soto Bermeo 602",
+        "referencia_ot": "CRUCE DE JUAN SOTO BERMEO CON  ALFREDO ICAZA.",
+        "distrito_ot": "SANTIAGO DE SURCO"
       },
       "geometry": {
         "type": "Point",
@@ -14882,7 +15581,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "ENTRE AV TOMAS MARZANO CON AV ANDRES TINOCO."
+        "description": "ENTRE AV TOMAS MARZANO CON AV ANDRES TINOCO.",
+        "direccion_ot": "Av. Santiago de Surco, Santiago de Surco 15039",
+        "referencia_ot": "ENTRE AV TOMAS MARZANO CON AV ANDRES TINOCO.",
+        "distrito_ot": "SANTIAGO DE SURCO"
       },
       "geometry": {
         "type": "Point",
@@ -14903,7 +15605,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "A ESPALDA DE AV LOS PROCERES"
+        "description": "A ESPALDA DE AV LOS PROCERES",
+        "direccion_ot": "Av Tomás Marsano 5000, Santiago de Surco 15054",
+        "referencia_ot": "A ESPALDA DE AV LOS PROCERES",
+        "distrito_ot": "SANTIAGO DE SURCO"
       },
       "geometry": {
         "type": "Point",
@@ -14924,7 +15629,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "Antigua Panamerica Sur"
+        "description": "Antigua Panamerica Sur",
+        "direccion_ot": "Antigua Panamericana Sur 36/5, Lurín 15823",
+        "referencia_ot": "Antigua Panamerica Sur",
+        "distrito_ot": "LURIN"
       },
       "geometry": {
         "type": "Point",
@@ -14945,7 +15653,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "HASTA LAS 6PM"
+        "description": "HASTA LAS 6PM",
+        "direccion_ot": "ASENTAMIENTO HUMANO PACHACUTEC SC.E GR.6, MZ V3, LT 19 AV CAMINOS DEL INCA IZQUIERDO",
+        "referencia_ot": "HASTA LAS 6PM",
+        "distrito_ot": "VENTANILLA"
       },
       "geometry": {
         "type": "Point",
@@ -14966,7 +15677,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "HASTA LAS 4PM"
+        "description": "HASTA LAS 4PM",
+        "direccion_ot": "ASENTAMIENTO HUMANO SOL Y MAR SC.1, MZ F, LT 17 (A 3 CUADRAS)",
+        "referencia_ot": "HASTA LAS 4PM",
+        "distrito_ot": "VENTANILLA"
       },
       "geometry": {
         "type": "Point",
@@ -14987,7 +15701,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "HASTA LAS 4PM"
+        "description": "HASTA LAS 4PM",
+        "direccion_ot": "ASENTAMIENTO HUMANO BALNEARIO DE VENTANILLA SC.4, MZ C, LT 11",
+        "referencia_ot": "HASTA LAS 4PM",
+        "distrito_ot": "VENTANILLA"
       },
       "geometry": {
         "type": "Point",
@@ -15008,7 +15725,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "HASTA LAS 6PM"
+        "description": "HASTA LAS 6PM",
+        "direccion_ot": "ASENTAMIENTO HUMANO MI PERU SC.G, MZ G7, LT 27, AVENIDA AYACUCHO",
+        "referencia_ot": "HASTA LAS 6PM",
+        "distrito_ot": "VENTANILLA"
       },
       "geometry": {
         "type": "Point",
@@ -15029,7 +15749,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "HASTA LAS 6PM"
+        "description": "HASTA LAS 6PM",
+        "direccion_ot": "ASENTAMIENTO HUMANO SANTA ROSA DE PACHACUTEC, MZ I, LT 52, AVENIDA LOS TOPOGRAFOS",
+        "referencia_ot": "HASTA LAS 6PM",
+        "distrito_ot": "VENTANILLA"
       },
       "geometry": {
         "type": "Point",
@@ -15050,7 +15773,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "Av Topografos y Av Profesionales."
+        "description": "Av Topografos y Av Profesionales.",
+        "direccion_ot": "ASENTAMIENTO HUMANO VILLA LOS REYES SC.1, MZ C, LT 6",
+        "referencia_ot": "Av Topografos y Av Profesionales.",
+        "distrito_ot": "VENTANILLA"
       },
       "geometry": {
         "type": "Point",
@@ -15071,7 +15797,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "HASTA LAS 6PM"
+        "description": "HASTA LAS 6PM",
+        "direccion_ot": "ASENTAMIENTO HUMANO NUEVO PROGRESO, MZ P, LT 18",
+        "referencia_ot": "HASTA LAS 6PM",
+        "distrito_ot": "VENTANILLA"
       },
       "geometry": {
         "type": "Point",
@@ -15092,7 +15821,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "MZ. S 1 LT. 01 SECTOR C 4 AA. HH, Ventanilla 07066"
+        "description": "MZ. S 1 LT. 01 SECTOR C 4 AA. HH, Ventanilla 07066",
+        "direccion_ot": "URBANIZACION ZONA INDUSTRIAL, MZ I15, LT 1 AVENIDA PEDRO BELTRAN",
+        "referencia_ot": "MZ. S 1 LT. 01 SECTOR C 4 AA. HH, Ventanilla 07066",
+        "distrito_ot": "VENTANILLA"
       },
       "geometry": {
         "type": "Point",
@@ -15113,7 +15845,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "HASTA LAS 6PM"
+        "description": "HASTA LAS 6PM",
+        "direccion_ot": "ASENTAMIENTO HUMANO NUEVO PROGRESO, MZ P, LT 18",
+        "referencia_ot": "HASTA LAS 6PM",
+        "distrito_ot": "VENTANILLA"
       },
       "geometry": {
         "type": "Point",
@@ -15134,7 +15869,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "HASTA LAS 4PM"
+        "description": "HASTA LAS 4PM",
+        "direccion_ot": "ASENTAMIENTO HUMANO LA UNION, MZ A1, LT 59, CALLE 125 DERECHA",
+        "referencia_ot": "HASTA LAS 4PM",
+        "distrito_ot": "VENTANILLA"
       },
       "geometry": {
         "type": "Point",
@@ -15155,7 +15893,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "HASTA LAS 4PM"
+        "description": "HASTA LAS 4PM",
+        "direccion_ot": "AVENIDA JUPITER 100 URBANIZACION PEDRO CUEVA VASQUEZ",
+        "referencia_ot": "HASTA LAS 4PM",
+        "distrito_ot": "VENTANILLA"
       },
       "geometry": {
         "type": "Point",
@@ -15176,7 +15917,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS - DE 8:30AM - 5:00PM"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS - DE 8:30AM - 5:00PM",
+        "direccion_ot": "Cruce de Calle 5 con Jiron E",
+        "referencia_ot": "Frente al mercado de San Jose",
+        "distrito_ot": "PIURA- 26 DE OCTUBRE"
       },
       "geometry": {
         "type": "Point",
@@ -15197,7 +15941,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE GUARDIA CIVIL SUR CON GUARDIA PERUANA"
+        "description": "CRUCE DE GUARDIA CIVIL SUR CON GUARDIA PERUANA",
+        "direccion_ot": "Jr. Guardia Civil Sur 547, Lima 15056",
+        "referencia_ot": "CRUCE DE GUARDIA CIVIL SUR CON GUARDIA PERUANA",
+        "distrito_ot": "CHORRILLOS"
       },
       "geometry": {
         "type": "Point",
@@ -15218,7 +15965,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "ALT DEL ESTADIO COCHARCAS"
+        "description": "ALT DEL ESTADIO COCHARCAS",
+        "direccion_ot": "Av El Sol C-16, Chorrillos 9",
+        "referencia_ot": "ALT DEL ESTADIO COCHARCAS",
+        "distrito_ot": "CHORRILLOS"
       },
       "geometry": {
         "type": "Point",
@@ -15239,7 +15989,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "Frente al Centro Médico Especializado San Antonio de Padua."
+        "description": "Frente al Centro Médico Especializado San Antonio de Padua.",
+        "direccion_ot": "Jr. Guardia Civil Sur 1031, Chorrillos 15056",
+        "referencia_ot": "Frente al Centro Médico Especializado San Antonio de Padua.",
+        "distrito_ot": "CHORRILLOS"
       },
       "geometry": {
         "type": "Point",
@@ -15260,7 +16013,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Juan Velasco 710",
+        "referencia_ot": "Av. Juan Velasco",
+        "distrito_ot": "PIMENTEL"
       },
       "geometry": {
         "type": "Point",
@@ -15281,7 +16037,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Manuel Seoane, Pimentel",
+        "referencia_ot": "Por Av. Quiñoñes",
+        "distrito_ot": "PIMENTEL"
       },
       "geometry": {
         "type": "Point",
@@ -15302,7 +16061,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "calle Leoncio Prado 138",
+        "referencia_ot": "Esquina Leoncio Prado y Torres Paz",
+        "distrito_ot": "PIMENTEL"
       },
       "geometry": {
         "type": "Point",
@@ -15323,7 +16085,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Grau Nº 126",
+        "referencia_ot": "Esquina av. Emiliano Niño y Huamachuco",
+        "distrito_ot": "LAMBAYEQUE"
       },
       "geometry": {
         "type": "Point",
@@ -15344,7 +16109,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Av Leoncio Prado Nro 143",
+        "referencia_ot": "En la Misma cuadra esta Comisaria y Epsel",
+        "distrito_ot": "PIMENTEL"
       },
       "geometry": {
         "type": "Point",
@@ -15365,7 +16133,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Avenida Ramon Castilla 898",
+        "referencia_ot": "Esquina av. Emiliano Niño y Ramon Castilla",
+        "distrito_ot": "LAMBAYEQUE"
       },
       "geometry": {
         "type": "Point",
@@ -15386,7 +16157,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Ramon Castilla 597",
+        "referencia_ot": "Esquina Av. Alamos y Ramon Castilla",
+        "distrito_ot": "LAMBAYEQUE"
       },
       "geometry": {
         "type": "Point",
@@ -15407,7 +16181,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Manuel María Izaga 615",
+        "referencia_ot": "Av. 28 de julio y Ramon Castilla",
+        "distrito_ot": "MONSEFU"
       },
       "geometry": {
         "type": "Point",
@@ -15428,7 +16205,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "calle Atahualpa 423",
+        "referencia_ot": "Cruce Junin y Belen",
+        "distrito_ot": "LAMBAYEQUE"
       },
       "geometry": {
         "type": "Point",
@@ -15449,7 +16229,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Manuel María Izaga 615 - ARCO",
+        "referencia_ot": "Av. Venezuela Cuadra 1",
+        "distrito_ot": "MONSEFU"
       },
       "geometry": {
         "type": "Point",
@@ -15470,7 +16253,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "calle Mariscal Ureta 100",
+        "referencia_ot": "Por el Malecon Viña",
+        "distrito_ot": "LAMBAYEQUE"
       },
       "geometry": {
         "type": "Point",
@@ -15491,7 +16277,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "Av. Paseo de la Republica 144 piso 1 Lima"
+        "description": "Av. Paseo de la Republica 144 piso 1 Lima",
+        "direccion_ot": "Avenida Paseo De La Republica 144",
+        "referencia_ot": "Afuera de la Tienda Entel Centro Civico",
+        "distrito_ot": "LIMA"
       },
       "geometry": {
         "type": "Point",
@@ -15512,7 +16301,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "av Miguel Grau 2198",
+        "referencia_ot": "Cruce Via de Evitamiento y Av. Grau",
+        "distrito_ot": "LA VICTORIA"
       },
       "geometry": {
         "type": "Point",
@@ -15533,7 +16325,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "AV PACHACUTEC 1303",
+        "referencia_ot": "Esquina Pachacutec y Tambos",
+        "distrito_ot": "LA VICTORIA"
       },
       "geometry": {
         "type": "Point",
@@ -15554,7 +16349,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Av. Chinchaysuyo 1297",
+        "referencia_ot": "Cruce Chinchaysuyo y Antenor Orrego",
+        "distrito_ot": "LA VICTORIA"
       },
       "geometry": {
         "type": "Point",
@@ -15575,7 +16373,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Av. Andrés Avelino Cáceres N° 222 P.J. Muro",
+        "referencia_ot": "Cuadra 3 de Av. Miguel de Cervantes",
+        "distrito_ot": "CHICLAYO"
       },
       "geometry": {
         "type": "Point",
@@ -15596,7 +16397,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Av. Salaverry, 901",
+        "referencia_ot": "Esquina Av. Arequipa y Av. Salaverry",
+        "distrito_ot": "CHICLAYO"
       },
       "geometry": {
         "type": "Point",
@@ -15617,7 +16421,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "México 61",
+        "referencia_ot": "Esquina Av. Keneddy y Av. Dorado",
+        "distrito_ot": "JOSE LEONARDO ORTIZ"
       },
       "geometry": {
         "type": "Point",
@@ -15638,7 +16445,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CARRETERA CENTRAL CON AV LA ESTRELLA"
+        "description": "CARRETERA CENTRAL CON AV LA ESTRELLA",
+        "direccion_ot": "Av. La Estrella. 133, Av. Nicolás Ayllón 8694, Ate 15487",
+        "referencia_ot": "CARRETERA CENTRAL CON AV LA ESTRELLA",
+        "distrito_ot": "ATE"
       },
       "geometry": {
         "type": "Point",
@@ -15659,7 +16469,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE JOSE GALVEZ CONPABLO BERMUDEZ"
+        "description": "CRUCE DE JOSE GALVEZ CONPABLO BERMUDEZ",
+        "direccion_ot": "JIRON GUILLERMO BILLINGHURST 3720",
+        "referencia_ot": "CRUCE DE JOSE GALVEZ CONPABLO BERMUDEZ",
+        "distrito_ot": "SMP"
       },
       "geometry": {
         "type": "Point",
@@ -15680,7 +16493,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV. LIZARDO MONTERO CON JR. DANTE"
+        "description": "CRUCE DE AV. LIZARDO MONTERO CON JR. DANTE",
+        "direccion_ot": "Jiron Contralmirante Lizardo Montero 734",
+        "referencia_ot": "CRUCE DE AV. LIZARDO MONTERO CON JR. DANTE",
+        "distrito_ot": "SURQUILLO"
       },
       "geometry": {
         "type": "Point",
@@ -15701,7 +16517,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Av. Elías Aguirre 250",
+        "referencia_ot": "Calle San Jose, cuadra 3",
+        "distrito_ot": "CHICLAYO"
       },
       "geometry": {
         "type": "Point",
@@ -15722,7 +16541,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Av. Santa Teresa 501.",
+        "referencia_ot": "Av. Santa Teresa 501.",
+        "distrito_ot": "SULLANA"
       },
       "geometry": {
         "type": "Point",
@@ -15743,7 +16565,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Transversal 13 de diciembre 222.",
+        "referencia_ot": "Transversal 13 de diciembre 222.",
+        "distrito_ot": "SULLANA"
       },
       "geometry": {
         "type": "Point",
@@ -15764,7 +16589,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Real 456",
+        "referencia_ot": "Av. Ramon Castilla y Av. Balta",
+        "distrito_ot": "REQUE"
       },
       "geometry": {
         "type": "Point",
@@ -15785,7 +16613,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Av. Sáenz Peña 1120",
+        "referencia_ot": "Esquina Leoncio Prado y Saenz Peña",
+        "distrito_ot": "CHICLAYO"
       },
       "geometry": {
         "type": "Point",
@@ -15806,7 +16637,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Elías Aguirre 641 (Calle Colón)",
+        "referencia_ot": "Esquina Colon y Elias Aguirre",
+        "distrito_ot": "CHICLAYO"
       },
       "geometry": {
         "type": "Point",
@@ -15827,7 +16661,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "AV. Sáenz Peña N° 2151",
+        "referencia_ot": "Esquina Libertdores y Saenz Peña",
+        "distrito_ot": "JOSE LEONARDO ORTIZ"
       },
       "geometry": {
         "type": "Point",
@@ -15848,7 +16685,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "AV AGRICULTURA 1101, A H VILLA HERMOSA",
+        "referencia_ot": "Cruce Av. Chiclayo y Av. Agricultura",
+        "distrito_ot": "JOSE LEONARDO ORTIZ"
       },
       "geometry": {
         "type": "Point",
@@ -15869,7 +16709,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "TERMINAL DE FLORES HNOS - AV. MIGUEL FORGA CON AV LOS INCAS",
+        "referencia_ot": "CRC CON AV LOS INCAS",
+        "distrito_ot": "CERCADO AREQUIPA"
       },
       "geometry": {
         "type": "Point",
@@ -15890,7 +16733,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "AV. ARGENTINA CRC CON GONZALES PRADA",
+        "referencia_ot": "Avenida Argentina 1302, Paucarpata, Arequipa, Arequipa, Perú",
+        "distrito_ot": "PAUCARPATA"
       },
       "geometry": {
         "type": "Point",
@@ -15911,7 +16757,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "AV. ARGENTINA S/N",
+        "referencia_ot": "Arias Araguez 215, Mariano Melgar, AREQUIPA",
+        "distrito_ot": "MARIANO MELGAR"
       },
       "geometry": {
         "type": "Point",
@@ -15932,7 +16781,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "AV. FRANCISCO MOSTAJO PARALELA A JOSE CARLOS MARIATEGUI",
+        "referencia_ot": "JIRON FRANCISCO MOSTAJO 601, ALTO SELVA ALEGRE, AREQUIPA",
+        "distrito_ot": "ALTO SELVA ALEGRE"
       },
       "geometry": {
         "type": "Point",
@@ -15953,7 +16805,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "CALLE UGARTE CON BALLON",
+        "referencia_ot": "PARALELA A CA GONZALES",
+        "distrito_ot": "ALTO SELVA ALEGRE"
       },
       "geometry": {
         "type": "Point",
@@ -15974,7 +16829,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "AV. SAN MARTIN 4103",
+        "referencia_ot": "CRUC CON CA TUMBES",
+        "distrito_ot": "MIRAFLORES"
       },
       "geometry": {
         "type": "Point",
@@ -15995,7 +16853,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "RESTAURANT TRADICIONAL LAS ESTERITAS - AV. PROGRESO CON SAN MARTIN HUARANGILLO",
+        "referencia_ot": "AV PROGRESO 802",
+        "distrito_ot": "SACHACA"
       },
       "geometry": {
         "type": "Point",
@@ -16016,7 +16877,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Prolongacion  Grau cuadra 32",
+        "referencia_ot": "CRUCE CON RAUL MATA DE LA CRUZ",
+        "distrito_ot": "PIURA- 26 DE OCTUBRE"
       },
       "geometry": {
         "type": "Point",
@@ -16037,7 +16901,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Av. Jose de Lama 494",
+        "referencia_ot": "CRUCE CON TRANS. TACNA",
+        "distrito_ot": "SULLANA"
       },
       "geometry": {
         "type": "Point",
@@ -16058,7 +16925,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTO DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTO DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Calle, Trans. Callao 930",
+        "referencia_ot": "Costado de Maxi Ahorro",
+        "distrito_ot": "SULLANA"
       },
       "geometry": {
         "type": "Point",
@@ -16079,7 +16949,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "Cordova 259, Trujillo 182, Ca. Aduana 100<br>FRENTE AL BANCO DE LA NACION"
+        "description": "Cordova 259, Trujillo 182, Ca. Aduana 100<br>FRENTE AL BANCO DE LA NACION",
+        "direccion_ot": "Cordova 259, Trujillo 182, Ca. Aduana 100",
+        "referencia_ot": "FRENTE AL BANCO DE LA NACION",
+        "distrito_ot": "MOCHE SALAVERRY DELICIAS"
       },
       "geometry": {
         "type": "Point",
@@ -16100,7 +16973,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "ENTRE AV TUPAC AMARU CON AV INDUSTRIAL"
+        "description": "ENTRE AV TUPAC AMARU CON AV INDUSTRIAL",
+        "direccion_ot": "Av. Alfredo Mendiola 25017, San Martín de Porres 15311",
+        "referencia_ot": "ENTRE AV TUPAC AMARU CON AV INDUSTRIAL",
+        "distrito_ot": "SMP"
       },
       "geometry": {
         "type": "Point",
@@ -16121,7 +16997,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "CARRETERA A YURA CRUCE CON AUTOPISTA LA JOYA",
+        "referencia_ot": "INDUSTRIAL LAS CANTERAS MZ A LT 45, CERRO COLORADO, AREQUIPA, AREQUIPA, PERÚ",
+        "distrito_ot": "CERRO COLORADO"
       },
       "geometry": {
         "type": "Point",
@@ -16142,7 +17021,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "AV. BOLOGNESI CRUCE CON CALLE ICA",
+        "referencia_ot": "EL PORVENIR MZ 56 LT 57, MIRAFLORES, AREQUIPA, AREQUIPA, PERÚ",
+        "distrito_ot": "MIRAFLORES"
       },
       "geometry": {
         "type": "Point",
@@ -16163,7 +17045,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "CALLE ACOSTA 103",
+        "referencia_ot": "AV. SALAVERRY CON CALLE ACOSTA",
+        "distrito_ot": "SOCABAYA"
       },
       "geometry": {
         "type": "Point",
@@ -16184,7 +17069,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "AV. SANCHEZ TRUJILLO CUADRA 2",
+        "referencia_ot": "AVENIDA HIPOLITO SANCHEZ TRUJILLO 401",
+        "distrito_ot": "SACHACA"
       },
       "geometry": {
         "type": "Point",
@@ -16205,7 +17093,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "AV. JESUS KM 5 PAUCARPATA",
+        "referencia_ot": "ALTURA DE LA TIENDA BITEL Y GRIFO PETROPERU",
+        "distrito_ot": "PAUCARPATA"
       },
       "geometry": {
         "type": "Point",
@@ -16226,7 +17117,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "AV. SANTO DOMINGO S/N",
+        "referencia_ot": "CALLE MEXICO 214, MARIANO MELGAR. AREQUIPA",
+        "distrito_ot": "MARIANO MELGAR"
       },
       "geometry": {
         "type": "Point",
@@ -16247,7 +17141,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "AV. MIGUEL GRAU MZ. 39 LTE. 14",
+        "referencia_ot": "AV. MIGUEL GRAU A LA ALTURA DE LA COMISARIA",
+        "distrito_ot": "PAUCARPATA"
       },
       "geometry": {
         "type": "Point",
@@ -16268,7 +17165,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Cruce de  av. Raul Mata de la Cruz y av, Circunvalacion.",
+        "referencia_ot": "Cruce de  av. Raul Mata de la Cruz y av, Circunvalacion.",
+        "distrito_ot": "PIURA- 26 DE OCTUBRE"
       },
       "geometry": {
         "type": "Point",
@@ -16289,7 +17189,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Cruce de av. Aguilar Santiestebancon y av. Prolongacion Chulucanas.",
+        "referencia_ot": "Cruce de av. Aguilar Santiestebancon y av. Prolongacion Chulucanas.",
+        "distrito_ot": "PIURA- 26 DE OCTUBRE"
       },
       "geometry": {
         "type": "Point",
@@ -16310,7 +17213,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "AAHH El Indio",
+        "referencia_ot": "Frente a la Plaza Pachacutec",
+        "distrito_ot": "CASTILLA"
       },
       "geometry": {
         "type": "Point",
@@ -16331,7 +17237,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Via a Tacala S/N.",
+        "referencia_ot": "Frente al colegio Pedro Ruiz Gallo.",
+        "distrito_ot": "CASTILLA"
       },
       "geometry": {
         "type": "Point",
@@ -16352,7 +17261,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Cruce calle Ugarteche y calle Enrique Palacios.",
+        "referencia_ot": "Cruce calle Ugarteche y calle Enrique Palacios.",
+        "distrito_ot": "SULLANA"
       },
       "geometry": {
         "type": "Point",
@@ -16373,7 +17285,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Calle Jorge Chavez 131.",
+        "referencia_ot": "Calle Jorge Chavez 131.",
+        "distrito_ot": "SULLANA"
       },
       "geometry": {
         "type": "Point",
@@ -16394,7 +17309,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Av. Sánchez Carrión 1100",
+        "referencia_ot": "CRUCE AV SANCHEZ CARRION CON CALLE SIMON BOLIVAR",
+        "distrito_ot": "PORVENIR"
       },
       "geometry": {
         "type": "Point",
@@ -16415,7 +17333,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS",
+        "direccion_ot": "Carlos Alvear 941, 22 De Febrero 966, Francisco de Miranda 988, Av. Gran Chimu 972",
+        "referencia_ot": "CRUCE CALLE MARIA ALVEAR CON CALLE GRAN CHIMU",
+        "distrito_ot": "ESPERANZA"
       },
       "geometry": {
         "type": "Point",
@@ -16436,7 +17357,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS - PE COLEGIO JORGE BASADRE"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS - PE COLEGIO JORGE BASADRE",
+        "direccion_ot": "Calle 12 De Noviembre 1792",
+        "referencia_ot": "CALLE 12 DE NOVIEMBRE CDRA 17",
+        "distrito_ot": "FLORENCIA DE MORA"
       },
       "geometry": {
         "type": "Point",
@@ -16457,7 +17381,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS - Av. Revolución 2001-2099"
+        "description": "PUNTOS DE ENCUENTRO DE LIMA Y PROVINCIAS - Av. Revolución 2001-2099",
+        "direccion_ot": "Av. Revolución 2001-2099",
+        "referencia_ot": "AV. REVOLUCION CDRA 20 Y SAN LUCAS",
+        "distrito_ot": "PORVENIR"
       },
       "geometry": {
         "type": "Point",
@@ -16478,7 +17405,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "FRENTE DE LA 1ERA CDRA DE AV REVOLUCION CRUCE CON TUPAC AMARU"
+        "description": "FRENTE DE LA 1ERA CDRA DE AV REVOLUCION CRUCE CON TUPAC AMARU",
+        "direccion_ot": "AVENIDA LOS INCAS 201 COOPERATIVA PABLO VI - SOLO REGISTRA DIRECCIÓN A UNA CUADRA",
+        "referencia_ot": "FRENTE DE LA 1ERA CDRA DE AV REVOLUCION CRUCE CON TUPAC AMARU",
+        "distrito_ot": "COMAS"
       },
       "geometry": {
         "type": "Point",
@@ -16499,7 +17429,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV MICAELA BASTIDAS CON AV TUPAC AMARU"
+        "description": "CRUCE DE AV MICAELA BASTIDAS CON AV TUPAC AMARU",
+        "direccion_ot": "AVENIDA TUPAC AMARU 3864 / Av. Micaela Bastidas 115",
+        "referencia_ot": "CRUCE DE AV MICAELA BASTIDAS CON AV TUPAC AMARU",
+        "distrito_ot": "COMAS"
       },
       "geometry": {
         "type": "Point",
@@ -16520,7 +17453,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE CLL CONFRATERNIDAD CON CLL REFLEXION - PLAZA CIVICA DE PRO"
+        "description": "CRUCE DE CLL CONFRATERNIDAD CON CLL REFLEXION - PLAZA CIVICA DE PRO",
+        "direccion_ot": "AVENIDA ALFREDO MENDIOLA 7042 URBANIZACION PRO INDUSTRIAL",
+        "referencia_ot": "CRUCE DE CLL CONFRATERNIDAD CON CLL REFLEXION - PLAZA CIVICA DE PRO",
+        "distrito_ot": "COMAS"
       },
       "geometry": {
         "type": "Point",
@@ -16541,7 +17477,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "PARADERO HOGAR"
+        "description": "PARADERO HOGAR",
+        "direccion_ot": "ASENTAMIENTO HUMANO VILLA LOS REYES SC.1, MZ A, LT 13",
+        "referencia_ot": "PARADERO HOGAR",
+        "distrito_ot": "VENTANILLA"
       },
       "geometry": {
         "type": "Point",
@@ -16562,7 +17501,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "POR EL MERCADO 3 REGIONES"
+        "description": "POR EL MERCADO 3 REGIONES",
+        "direccion_ot": "ASOCIACION EL PORVENIR DE PUENTE PIEDRA, MZ A, 6, LT AVENIDA PUENTE PIEDRA (DISTRITO: PUENTE PIEDRA)",
+        "referencia_ot": "POR EL MERCADO 3 REGIONES",
+        "distrito_ot": "VENTANILLA"
       },
       "geometry": {
         "type": "Point",
@@ -16583,7 +17525,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "ENTRE PEDRO BELTRAN CON AV DE LA REVOLUCIÓN"
+        "description": "ENTRE PEDRO BELTRAN CON AV DE LA REVOLUCIÓN",
+        "direccion_ot": "URBANIZACION ZONA INDUSTRIAL, CALLE LOS TROMPETEROS, 202",
+        "referencia_ot": "AV PEDRO BELTRÁN CUADRA 1 - ENTRE PEDRO BELTRAN CON AV DE LA REVOLUCIÓN",
+        "distrito_ot": "VENTANILLA"
       },
       "geometry": {
         "type": "Point",
@@ -16604,7 +17549,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "AV LA PLAYA, FRENTE A METRO DE VENTANILLA"
+        "description": "AV LA PLAYA, FRENTE A METRO DE VENTANILLA",
+        "direccion_ot": "URBANIZACION EX ZONA COMERCIAL MZ C10 LT 47 CALLE 13",
+        "referencia_ot": "AV LA PLAYA, FRENTE A METRO DE VENTANILLA",
+        "distrito_ot": "VENTANILLA"
       },
       "geometry": {
         "type": "Point",
@@ -16625,7 +17573,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "HASTA LAS 6PM"
+        "description": "HASTA LAS 6PM",
+        "direccion_ot": "ASENTAMIENTO HUMANO HEROES DEL CENEPA, MZ S, LT 10 CALLE LOS ECOLOGOS",
+        "referencia_ot": "HASTA LAS 6PM",
+        "distrito_ot": "VENTANILLA"
       },
       "geometry": {
         "type": "Point",
@@ -16646,7 +17597,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "AV NESTOR GAMBETA, FRENTE A MUN. DE VENTANILLA - INTERSENNCIÓN DE NESTOR GAMBETA CON AV LA PLAYA"
+        "description": "AV NESTOR GAMBETA, FRENTE A MUN. DE VENTANILLA - INTERSENNCIÓN DE NESTOR GAMBETA CON AV LA PLAYA",
+        "direccion_ot": "URBANIZACION PEDRO CUEVA VASQUEZ MZ S LT 32",
+        "referencia_ot": "AV NESTOR GAMBETA, FRENTE A MUN. DE VENTANILLA - INTERSENNCIÓN DE NESTOR GAMBETA CON AV LA PLAYA",
+        "distrito_ot": "VENTANILLA"
       },
       "geometry": {
         "type": "Point",
@@ -16667,7 +17621,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "AV NESTOR GAMBETA CUADRA 70"
+        "description": "AV NESTOR GAMBETA CUADRA 70",
+        "direccion_ot": "AVENIDA PRECURSORES DE LA INDEPENDENCIA URBANIZACION ZONA INDUSTRIAL L 15 37",
+        "referencia_ot": "AV NESTOR GAMBETA CUADRA 70",
+        "distrito_ot": "VENTANILLA"
       },
       "geometry": {
         "type": "Point",
@@ -16688,7 +17645,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "OVALO ZAPALLAL CON GLORIA BAMBA"
+        "description": "OVALO ZAPALLAL CON GLORIA BAMBA",
+        "direccion_ot": "AVENIDA REPUBLICA DE CROACIA, 510, LIMA, LIMA, PUENTE PIEDRA",
+        "referencia_ot": "A ESPALDA DE CALLE AGUA DULCE",
+        "distrito_ot": "PUENTE PIEDRA"
       },
       "geometry": {
         "type": "Point",
@@ -16709,7 +17669,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "OVALO ZAPALLAL CON GLORIA BAMBA"
+        "description": "OVALO ZAPALLAL CON GLORIA BAMBA",
+        "direccion_ot": "AVENIDA SAN JUAN 133",
+        "referencia_ot": "OVALO ZAPALLAL CON GLORIA BAMBA",
+        "distrito_ot": "PUENTE PIEDRA"
       },
       "geometry": {
         "type": "Point",
@@ -16730,7 +17693,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE REPUBLICA DE CROACIA CON PAN. NORTE"
+        "description": "CRUCE DE REPUBLICA DE CROACIA CON PAN. NORTE",
+        "direccion_ot": "Av, Republica de Croacia N° 505",
+        "referencia_ot": "CRUCE DE REPUBLICA DE CROACIA CON PAN. NORTE",
+        "distrito_ot": "PUENTE PIEDRA"
       },
       "geometry": {
         "type": "Point",
@@ -16751,7 +17717,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "ESPALDA AV ANCON"
+        "description": "ESPALDA AV ANCON",
+        "direccion_ot": "AVENIDA REPUBLICA DE CROACIA 505",
+        "referencia_ot": "ESPALDA AV ANCON",
+        "distrito_ot": "PUENTE PIEDRA"
       },
       "geometry": {
         "type": "Point",
@@ -16772,7 +17741,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV SAN JUAN DE DIOS CON PANAMERICANA NORTE"
+        "description": "CRUCE DE AV SAN JUAN DE DIOS CON PANAMERICANA NORTE",
+        "direccion_ot": "- ASOCIACION LAS VEGAS MZ A lt 1",
+        "referencia_ot": "CRUCE DE AV SAN JUAN DE DIOS CON PANAMERICANA NORTE",
+        "distrito_ot": "PUENTE PIEDRA"
       },
       "geometry": {
         "type": "Point",
@@ -16793,7 +17765,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "FRENTE A CONDOMINIO CIUDAD VERDE"
+        "description": "FRENTE A CONDOMINIO CIUDAD VERDE",
+        "direccion_ot": "PASAJE ASHANINKA 220",
+        "referencia_ot": "FRENTE A CONDOMINIO CIUDAD VERDE",
+        "distrito_ot": "PUENTE PIEDRA"
       },
       "geometry": {
         "type": "Point",
@@ -16814,7 +17789,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CDRA 01 DE AV SANTA ROSA"
+        "description": "CDRA 01 DE AV SANTA ROSA",
+        "direccion_ot": "CALLE JOSE BALTA ASOCIACION LOS PARRALES MZ F lt 14",
+        "referencia_ot": "CDRA 01 DE AV SANTA ROSA",
+        "distrito_ot": "PUENTE PIEDRA"
       },
       "geometry": {
         "type": "Point",
@@ -16835,7 +17813,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV ROSA LUZ CON PAN NORTE"
+        "description": "CRUCE DE AV ROSA LUZ CON PAN NORTE",
+        "direccion_ot": "- ASOCIACION ROSA LUZ ET.1 MZ L lt 22",
+        "referencia_ot": "CRUCE DE AV ROSA LUZ CON PAN NORTE",
+        "distrito_ot": "PUENTE PIEDRA"
       },
       "geometry": {
         "type": "Point",
@@ -16856,7 +17837,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "Av. los Pinos 626"
+        "description": "Av. los Pinos 626",
+        "direccion_ot": "AVENIDA LOS PINOS 626",
+        "referencia_ot": "AV PAUCARTAMBO CON AV LOS PINOS",
+        "distrito_ot": "PUENTE PIEDRA"
       },
       "geometry": {
         "type": "Point",
@@ -16877,7 +17861,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "ENTRE AV MIGUEL GRAU CON AV TUPAC AMARU"
+        "description": "ENTRE AV MIGUEL GRAU CON AV TUPAC AMARU",
+        "direccion_ot": "AVENIDA PUENTE PIEDRA 322 URBANIZACION CERCADO DE PUENTE PIEDRA",
+        "referencia_ot": "ENTRE AV MIGUEL GRAU CON AV TUPAC AMARU",
+        "distrito_ot": "PUENTE PIEDRA"
       },
       "geometry": {
         "type": "Point",
@@ -16898,7 +17885,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE CALLE JACARANDA CON CLL ACACIAS"
+        "description": "CRUCE DE CALLE JACARANDA CON CLL ACACIAS",
+        "direccion_ot": "LOTIZACION CHILLON MZ B LT 51",
+        "referencia_ot": "CRUCE DE CALLE JACARANDA CON CLL ACACIAS",
+        "distrito_ot": "PUENTE PIEDRA"
       },
       "geometry": {
         "type": "Point",
@@ -16919,7 +17909,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV SAN JUAN CON AV PERIMETRICA"
+        "description": "CRUCE DE AV SAN JUAN CON AV PERIMETRICA",
+        "direccion_ot": "AVENIDA JOSE SACO ROJAS 1149 ASOCIACION SANTA INES",
+        "referencia_ot": "CRUCE DE AV SAN JUAN CON AV PERIMETRICA",
+        "distrito_ot": "CARABAYLLO"
       },
       "geometry": {
         "type": "Point",
@@ -16940,7 +17933,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE PAN. NORTE CON AV TOMAS VALLE"
+        "description": "CRUCE DE PAN. NORTE CON AV TOMAS VALLE",
+        "direccion_ot": "AVENIDA ALFREDO MENDIOLA 1400 URBANIZACION INDEPENDENCIA",
+        "referencia_ot": "CRUCE DE PAN. NORTE CON AV TOMAS VALLE",
+        "distrito_ot": "INDEPENDENCIA"
       },
       "geometry": {
         "type": "Point",
@@ -16961,7 +17957,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV LOS PINOS CON AV TUPAC AMARU - COSTADO DE PLAZA CIVICA"
+        "description": "CRUCE DE AV LOS PINOS CON AV TUPAC AMARU - COSTADO DE PLAZA CIVICA",
+        "direccion_ot": "Av. Tupac Amaru 11025, Lima 15333, Perú",
+        "referencia_ot": "CRUCE DE AV LOS PINOS CON AV TUPAC AMARU - COSTADO DE PLAZA CIVICA",
+        "distrito_ot": "INDEPENDENCIA"
       },
       "geometry": {
         "type": "Point",
@@ -16982,7 +17981,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV CANTA CON AV JAPON"
+        "description": "CRUCE DE AV CANTA CON AV JAPON",
+        "direccion_ot": "AVENIDA CANTA CALLAO 378",
+        "referencia_ot": "CRUCE DE AV CANTA CON AV JAPON",
+        "distrito_ot": "SMP"
       },
       "geometry": {
         "type": "Point",
@@ -17003,7 +18005,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV MARISCAL RAMON CASTILLA CON REPL. DE PANAMA."
+        "description": "CRUCE DE AV MARISCAL RAMON CASTILLA CON REPL. DE PANAMA.",
+        "direccion_ot": "Av. República de Panamá 515, Barranco 15047",
+        "referencia_ot": "CRUCE DE AV MARISCAL RAMON CASTILLA CON REPL. DE PANAMA.",
+        "distrito_ot": "BARRANCO"
       },
       "geometry": {
         "type": "Point",
@@ -17024,7 +18029,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "ANGAMOS CON TOMAS MARSANO, AL COSTADO DEL CENTRO FERRETERO"
+        "description": "ANGAMOS CON TOMAS MARSANO, AL COSTADO DEL CENTRO FERRETERO",
+        "direccion_ot": "Avenida Angamos Este 1803",
+        "referencia_ot": "ANGAMOS CON TOMAS MARSANO, AL COSTADO DEL CENTRO FERRETERO",
+        "distrito_ot": "SURQUILLO"
       },
       "geometry": {
         "type": "Point",
@@ -17045,7 +18053,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "MISMO CRUCE DE ISABEL LA CATOLICA CON JR HUANUCO"
+        "description": "MISMO CRUCE DE ISABEL LA CATOLICA CON JR HUANUCO",
+        "direccion_ot": "Avenida Isabel La Catolica 1506",
+        "referencia_ot": "CRUCE DE JR HUANUCO CON ISABEL LA CATOLICA",
+        "distrito_ot": "LA VICTORIA"
       },
       "geometry": {
         "type": "Point",
@@ -17066,7 +18077,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": ""
+        "description": "",
+        "direccion_ot": "Avenida Mexico 1609 Urbanizacion San Pablo",
+        "referencia_ot": "CRUCE DE AGUSTIN GAMARRA CON AV MEXICO",
+        "distrito_ot": "LA VICTORIA"
       },
       "geometry": {
         "type": "Point",
@@ -17087,7 +18101,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AGUSTIN GAMARRA CON AV MEXICO"
+        "description": "CRUCE DE AGUSTIN GAMARRA CON AV MEXICO",
+        "direccion_ot": "Avenida Mexico 1609 Urbanizacion San Pablo",
+        "referencia_ot": "CRUCE DE AGUSTIN GAMARRA CON AV MEXICO",
+        "distrito_ot": "LA VICTORIA"
       },
       "geometry": {
         "type": "Point",
@@ -17108,7 +18125,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": "CRUCE DE AV AVIACION CON JR ITALIA"
+        "description": "CRUCE DE AV AVIACION CON JR ITALIA",
+        "direccion_ot": "Avenida Aviacion 888 Urbanizacion San Pablo",
+        "referencia_ot": "CRUCE DE AV AVIACION CON JR ITALIA",
+        "distrito_ot": "LA VICTORIA"
       },
       "geometry": {
         "type": "Point",
@@ -17192,7 +18212,10 @@
         "color_default": "#0288d1",
         "tipo_rango": "PUNTO DE ENCUENTRO",
         "horario_cobertura": "Punto de Encuentro Aprobado",
-        "description": ""
+        "description": "",
+        "direccion_ot": "Avenida 28 De Julio 1044 Urbanizacion San Antonio",
+        "referencia_ot": "CUADRA 10 DE 28 DE JULIO - CRUCE DE 28 DE JULIO CON PASEO DE LA REPUBLICA",
+        "distrito_ot": "MIRAFLORES"
       },
       "geometry": {
         "type": "Point",
