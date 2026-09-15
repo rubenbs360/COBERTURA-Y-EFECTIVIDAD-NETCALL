@@ -240,22 +240,35 @@ function renderPolygons() {
         // Create speech text
         const speechText = `Estimado cliente, le confirmo que tenemos cobertura en la zona de ${props.nombre_comercial} (${props.distrito}). El despacho para esta zona es de tipo ${props.tipo_rango} con un horario de ${props.horario_cobertura}.`;
 
+        const otBox = props.direccion_ot ? `
+          <div style="background:#e0f2fe; border: 1.5px solid #0288d1; padding: 0.5rem; border-radius: 8px; margin-top: 0.5rem; color: #0369a1;">
+            <div style="font-weight: 800; font-size: 0.78rem; text-transform: uppercase; margin-bottom: 3px; color: #0288d1; display:flex; align-items:center; gap:4px;">
+              📝 DIRECCIÓN OBLIGATORIA PARA LA OT
+            </div>
+            <div style="font-size: 0.76rem; color: #0f172a; line-height: 1.3;">
+              <b>Dirección:</b> ${props.direccion_ot}
+            </div>
+            ${props.referencia_ot ? `<div style="font-size: 0.74rem; color: #334155; margin-top: 3px; line-height: 1.2;"><b>Referencia:</b> ${props.referencia_ot}</div>` : ''}
+          </div>
+        ` : '';
+
         const popupContent = `
           <div class="map-popup-container">
             <div class="map-popup-header">📍 ${props.nombre_comercial}</div>
             <div class="map-popup-row">
               <span class="map-popup-lbl">Distrito:</span>
-              <span class="map-popup-val">${props.distrito} (${props.provincia})</span>
+              <span class="map-popup-val">${props.distrito} ${props.provincia ? '(' + props.provincia + ')' : ''}</span>
             </div>
             <div class="map-popup-row">
               <span class="map-popup-lbl">Rango Cobertura:</span>
               <span class="map-popup-val highlight">${props.tipo_rango}</span>
             </div>
             <div class="map-popup-row">
-              <span class="map-popup-lbl">Horario de Atención:</span>
+              <span class="map-popup-lbl">Estado / Horario:</span>
               <span class="map-popup-val">${props.horario_cobertura}</span>
             </div>
-            <div class="map-popup-row" style="border-top: 1px solid var(--border-color); padding-top:0.3rem; margin-top:0.25rem;">
+            ${otBox}
+            <div class="map-popup-row" style="border-top: 1px solid var(--border-color); padding-top:0.3rem; margin-top:0.4rem;">
               <span class="map-popup-lbl">Efectividad ${deptName}:</span>
               <span class="map-popup-val text-success">${effPercent}</span>
             </div>

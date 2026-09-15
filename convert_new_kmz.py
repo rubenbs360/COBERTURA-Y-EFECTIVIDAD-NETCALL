@@ -209,6 +209,92 @@ def convert_kmz():
                     }
                     features.append(feature)
                 
+    # Enrich Puntos de Encuentro with OT Addresses from Excel if present
+    pe_excel_path = 'REPORTERIA_PROYECTO_COBERTURERO/Puntos_de_Encuentros_Actualizado Agosto 2026.xlsx'
+    if os.path.exists(pe_excel_path):
+        try:
+            print(f"Cargando direcciones OT desde: {pe_excel_path}...")
+            xl = pd.ExcelFile(pe_excel_path)
+            all_excel_pes = []
+            for sheet in xl.sheet_names:
+                df_raw = xl.parse(sheet)
+                header_idx = 0
+                for idx, row in df_raw.iterrows():
+                    row_vals = [str(v).upper() for v in row.values]
+                    if any('DIRECCION' in v for v in row_vals) or any('PE' in v for v in row_vals):
+                        header_idx = idx
+                        break
+                df = xl.parse(sheet, skiprows=header_idx + 1)
+                df.columns = [str(c).strip().upper() for c in df.columns]
+                
+                pe_col = [c for c in df.columns if 'PE' in c or 'PUNTO' in c]
+                dir_col = [c for c in df.columns if 'DIR' in c]
+                dist_col = [c for c in df.columns if 'DIST' in c]
+                ref_col = [c for c in df.columns if 'REF' in c]
+                
+                pe_name = pe_col[0] if pe_col else df.columns[1] if len(df.columns) > 1 else df.columns[0]
+                dir_name = dir_col[0] if dir_col else df.columns[2] if len(df.columns) > 2 else df.columns[0]
+                dist_name = dist_col[0] if dist_col else df.columns[0]
+                ref_name = ref_col[0] if ref_col else (df.columns[3] if len(df.columns) > 3 else None)
+                
+                curr_dist = ""
+                for _, row in df.iterrows():
+                    dist_val = str(row.get(dist_name, '')).strip()
+                    if dist_val and dist_val.upper() not in ['NAN', 'UNNAMED: 0', '0', 'DISTRITO', 'ZONAS P.E']:
+                        curr_dist = dist_val
+                        
+                    pe_val = str(row.get(pe_name, '')).strip()
+                    dir_val = str(row.get(dir_name, '')).strip()
+                    ref_val = str(row.get(ref_name, '')).strip() if ref_name else ""
+                    
+                    if pe_val and pe_val.upper() not in ['NAN', 'PE', '0', 'NONE', 'PUNTO DE ENCUENTRO']:
+                        if dir_val and dir_val.upper() not in ['NAN', '0', 'DIRECCION', 'NONE']:
+                            all_excel_pes.append({
+                                "sheet": sheet,
+                                "distrito": curr_dist,
+                                "pe_nombre": pe_val,
+                                "direccion": dir_val,
+                                "referencia": ref_val if ref_val.upper() not in ['NAN', '0', 'NONE', 'REFERENCIA', 'UNNAMED: 4', 'UNNAMED: 5'] else ""
+                            })
+                            
+            def clean_txt(s):
+                if not s: return ""
+                s = str(s).upper()
+                s = ''.join(c for c in unicodedata.normalize('NFD', s) if unicodedata.category(c) != 'Mn')
+                s = re.sub(r'\b(P\.?E\.?|PUNTO DE ENCUENTRO|PARADERO|ESTACION)\b', '', s)
+                s = re.sub(r'[^A-Z0-9]', '', s)
+                return s.strip()
+
+            map_puntos_indices = [idx for idx, feat in enumerate(features) if feat.get('properties', {}).get('is_punto_encuentro') or feat.get('geometry', {}).get('type') == 'Point']
+            matched_count = 0
+            
+            for idx_m in map_puntos_indices:
+                feat = features[idx_m]
+                m_name = feat['properties'].get('distrito', '') or feat['properties'].get('nombre_comercial', '')
+                m_clean = clean_txt(m_name)
+                
+                best_match = None
+                for idx_e, e_item in enumerate(all_excel_pes):
+                    e_clean = clean_txt(e_item['pe_nombre'])
+                    if e_clean and e_clean == m_clean:
+                        best_match = e_item
+                        break
+                if not best_match:
+                    for idx_e, e_item in enumerate(all_excel_pes):
+                        e_clean = clean_txt(e_item['pe_nombre'])
+                        if e_clean and len(e_clean) > 3 and (e_clean in m_clean or m_clean in e_clean):
+                            best_match = e_item
+                            break
+                            
+                if best_match:
+                    matched_count += 1
+                    feat['properties']['direccion_ot'] = best_match['direccion']
+                    feat['properties']['referencia_ot'] = best_match['referencia']
+                    feat['properties']['distrito_ot'] = best_match['distrito']
+            print(f"Éxito: {matched_count} Puntos de Encuentro enriquecidos con Dirección y Referencia OT.")
+        except Exception as ex:
+            print(f"Error procesando Puntos de Encuentro Excel: {ex}")
+
     geojson = {
         "type": "FeatureCollection",
         "features": features
