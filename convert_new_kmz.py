@@ -3,6 +3,7 @@ import json
 import xml.etree.ElementTree as ET
 import re
 import os
+import glob
 import unicodedata
 
 KMZ_PATH = r"C:\Users\USUARIO\Downloads\NUEVO COBERTURERO LOGIXTAL - ENTEL.kmz"
@@ -41,14 +42,37 @@ def get_department(name, desc):
     if any(k in full_text for k in libertad_keys): return "La Libertad"
     return "Lima - Callao"
 
+def find_kmz_path():
+    possible_dirs = [
+        r"C:\Users\USUARIO\Downloads",
+        r"REPORTERIA_PROYECTO_COBERTURERO",
+        "."
+    ]
+    kmz_files = []
+    for d in possible_dirs:
+        if os.path.exists(d):
+            kmz_files.extend(glob.glob(os.path.join(d, "*.kmz")))
+            kmz_files.extend(glob.glob(os.path.join(d, "*.kml")))
+    if kmz_files:
+        return max(kmz_files, key=os.path.getmtime)
+    return None
+
 def convert_kmz():
-    if not os.path.exists(KMZ_PATH):
-        print(f"Error: No se encontró el archivo KMZ en: {KMZ_PATH}")
+    target_path = find_kmz_path()
+    if not target_path:
+        print(f"Error: No se encontró ningún archivo KMZ o KML en Downloads o REPORTERIA_PROYECTO_COBERTURERO.")
         return
 
-    print(f"Abriendo archivo KMZ en: {KMZ_PATH}")
-    with zipfile.ZipFile(KMZ_PATH) as z:
-        kml_data = z.read("doc.kml")
+    print(f"Abriendo archivo de mapa en: {target_path}")
+    kml_data = None
+    if target_path.lower().endswith(".kmz"):
+        with zipfile.ZipFile(target_path) as z:
+            # Find the main kml file inside zip
+            kml_filename = [name for name in z.namelist() if name.endswith('.kml')][0]
+            kml_data = z.read(kml_filename)
+    else:
+        with open(target_path, "rb") as f:
+            kml_data = f.read()
         
     print("Analizando KML...")
     root = ET.fromstring(kml_data)
@@ -80,9 +104,10 @@ def convert_kmz():
                         
     features = []
     placemarks = root.findall('.//kml:Placemark', ns)
-    print(f"Se encontraron {len(placemarks)} marcadores/polígonos en el KML.")
+    print(f"Se encontraron {len(placemarks)} elementos (polígonos/puntos) en el KML.")
     
     polygon_count = 0
+    point_count = 0
     for p in placemarks:
         name_el = p.find('kml:name', ns)
         name = name_el.text.strip() if name_el is not None and name_el.text else "Zona Sin Nombre"
@@ -91,6 +116,8 @@ def convert_kmz():
         desc = desc_el.text.strip() if desc_el is not None and desc_el.text else ""
         
         polygon_el = p.find('.//kml:Polygon', ns)
+        point_el = p.find('.//kml:Point', ns)
+        
         if polygon_el is not None:
             polygon_count += 1
             outer_el = polygon_el.find('.//kml:outerBoundaryIs//kml:coordinates', ns)
@@ -108,7 +135,6 @@ def convert_kmz():
                     kml_color = styles.get(actual_style_id)
                     if kml_color:
                         if len(kml_color) == 8:
-                            # Convert KML aabbggrr hex format to standard rrggbb hex
                             a, b, g, r = kml_color[0:2], kml_color[2:4], kml_color[4:6], kml_color[6:8]
                             color_hex = f"#{r}{g}{b}"
                 
@@ -155,13 +181,40 @@ def convert_kmz():
                             feature["geometry"]["coordinates"].append(inner_coords)
                             
                 features.append(feature)
+
+        elif point_el is not None:
+            point_count += 1
+            coords_el = point_el.find('kml:coordinates', ns)
+            if coords_el is not None and coords_el.text:
+                pt_coords = clean_coords(coords_el.text)
+                if pt_coords:
+                    lng, lat = pt_coords[0]
+                    feature = {
+                        "type": "Feature",
+                        "properties": {
+                            "id_zona": f"PUNTO_{point_count:04d}",
+                            "is_punto_encuentro": True,
+                            "departamento": get_department(name, desc),
+                            "distrito": name,
+                            "nombre_comercial": f"📍 Punto de Encuentro: {name}",
+                            "color_default": "#0288d1",
+                            "tipo_rango": "PUNTO DE ENCUENTRO",
+                            "horario_cobertura": "Punto de Encuentro Aprobado",
+                            "description": desc
+                        },
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [lng, lat]
+                        }
+                    }
+                    features.append(feature)
                 
     geojson = {
         "type": "FeatureCollection",
         "features": features
     }
     
-    print(f"Conversión finalizada. Se procesaron {len(features)} polígonos.")
+    print(f"Conversión finalizada. Se procesaron {polygon_count} polígonos y {point_count} Puntos de Encuentro.")
     os.makedirs(os.path.dirname(GEOJSON_PATH), exist_ok=True)
     with open(GEOJSON_PATH, "w", encoding="utf-8") as f:
         json.dump(geojson, f, ensure_ascii=False, indent=2)

@@ -179,6 +179,19 @@ function renderPolygons() {
   if (!coberturaData) return;
 
   geoJsonLayer = L.geoJSON(coberturaData, {
+    pointToLayer: function (feature, latlng) {
+      const isPunto = feature.properties && (feature.properties.is_punto_encuentro || feature.geometry.type === "Point");
+      if (isPunto) {
+        const icon = L.divIcon({
+          className: 'punto-encuentro-icon',
+          html: `<div style="background-color: #0288d1; color: white; border-radius: 50%; width: 28px; height: 28px; display: flex; align-items: center; justify-content: center; font-size: 14px; border: 2px solid white; box-shadow: 0 2px 6px rgba(0,0,0,0.4);" title="${feature.properties.nombre_comercial || 'Punto de Encuentro'}">📍</div>`,
+          iconSize: [28, 28],
+          iconAnchor: [14, 14]
+        });
+        return L.marker(latlng, { icon: icon });
+      }
+      return L.marker(latlng);
+    },
     style: function (feature) {
       const isInvisible = feature.properties.invisible === true;
       const isNoColor = feature.properties.no_color === true;
@@ -194,13 +207,15 @@ function renderPolygons() {
       const isInvisible = feature.properties.invisible === true;
       if (isInvisible) return; // Skip bind hover/clicks for invisible layers in user map
 
-      // Hover effects
-      layer.on('mouseover', function () {
-        layer.setStyle({ fillOpacity: 0.65, weight: 3 });
-      });
-      layer.on('mouseout', function () {
-        layer.setStyle({ fillOpacity: 0.35, weight: 2 });
-      });
+      if (feature.geometry && feature.geometry.type !== "Point") {
+        // Hover effects for Polygons
+        layer.on('mouseover', function () {
+          layer.setStyle({ fillOpacity: 0.65, weight: 3 });
+        });
+        layer.on('mouseout', function () {
+          layer.setStyle({ fillOpacity: 0.35, weight: 2 });
+        });
+      }
 
       // Bind interactive popup
       layer.on('click', function (e) {
