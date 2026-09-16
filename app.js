@@ -294,11 +294,8 @@ function updateMapMarkers() {
   const selectedDept = document.getElementById("map-dept-select").value.toLowerCase();
   
   storesData.forEach(store => {
-    // Check if coordinates exist and matches department filter
+    // Check if coordinates exist
     if (store.latitud && store.longitud) {
-      if (selectedDept !== "todos" && store.distrito.toLowerCase() !== selectedDept) {
-        return;
-      }
       
       const markerColor = store.metricas && store.metricas.effectiveness !== null 
         ? getEffectivenessColorClass(store.metricas.effectiveness) 
