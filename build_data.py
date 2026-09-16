@@ -53,16 +53,22 @@ def process_data():
     adv_prov_sheet = None
     for name in xl.sheet_names:
         norm_name = name.upper().strip()
-        if "LIMA" in norm_name and ("ASESOR" in norm_name or "PADRON" in norm_name):
+        if "LIMA" in norm_name and not ("SUP" in norm_name or "SUPER" in norm_name or "DIRECTORIO TEX" in norm_name):
             adv_lima_sheet = name
-        elif "PROV" in norm_name and ("ASESOR" in norm_name or "PADRON" in norm_name):
+        elif ("PROV" in norm_name or "PROVINCIA" in norm_name) and not ("SUP" in norm_name or "SUPER" in norm_name):
             adv_prov_sheet = name
             
-    # Fallback if not detected
+    # Fallback search if not detected
     if not adv_lima_sheet:
-        adv_lima_sheet = "PADRON LIMA"
+        for name in xl.sheet_names:
+            if "LIMA" in name.upper() and "SUP" not in name.upper():
+                adv_lima_sheet = name
+                break
     if not adv_prov_sheet:
-        adv_prov_sheet = "PADRON PROV"
+        for name in xl.sheet_names:
+            if "PROV" in name.upper() and "SUP" not in name.upper():
+                adv_prov_sheet = name
+                break
         
     print(f"Detected Lima sheet: '{adv_lima_sheet}', Prov sheet: '{adv_prov_sheet}'")
     df_adv_lima = xl.parse(adv_lima_sheet)
@@ -75,12 +81,12 @@ def process_data():
     df_adv['ID_PDV'] = df_adv['ID_PDV'].astype(int)
     
     # Clean email and phone
-    df_adv['CORREO'] = df_adv['CORREO'].fillna("").astype(str).str.strip()
-    df_adv['CELULAR'] = df_adv['CELULAR'].fillna("").astype(str).str.strip()
-    df_adv['NOMBRES_APELLIDOS'] = df_adv['NOMBRES_APELLIDOS'].fillna("").astype(str).str.strip()
-    df_adv['PUESTO'] = df_adv['PUESTO'].fillna("ASESOR").astype(str).str.strip()
-    df_adv['ESTADO'] = df_adv['ESTADO'].fillna("").astype(str).str.upper().str.strip()
-    df_adv['USUARIO_PORTAL'] = df_adv['USUARIO_PORTAL'].fillna("").astype(str).str.strip()
+    df_adv['CORREO'] = df_adv.get('CORREO', pd.Series()).fillna("").astype(str).str.strip() if 'CORREO' in df_adv.columns else ""
+    df_adv['CELULAR'] = df_adv.get('CELULAR', pd.Series()).fillna("").astype(str).str.strip() if 'CELULAR' in df_adv.columns else ""
+    df_adv['NOMBRES_APELLIDOS'] = df_adv.get('NOMBRES_APELLIDOS', pd.Series()).fillna("").astype(str).str.strip() if 'NOMBRES_APELLIDOS' in df_adv.columns else ""
+    df_adv['PUESTO'] = df_adv.get('PUESTO', pd.Series()).fillna("ASESOR").astype(str).str.strip() if 'PUESTO' in df_adv.columns else "ASESOR"
+    df_adv['ESTADO'] = df_adv.get('ESTADO', pd.Series()).fillna("ACTIVO").astype(str).str.upper().str.strip() if 'ESTADO' in df_adv.columns else "ACTIVO"
+    df_adv['USUARIO_PORTAL'] = df_adv.get('USUARIO_PORTAL', pd.Series()).fillna("").astype(str).str.strip() if 'USUARIO_PORTAL' in df_adv.columns else ""
     
     # Group advisors by store (active only)
     advisors_by_store = {}
@@ -89,11 +95,11 @@ def process_data():
     for _, row in active_advs.iterrows():
         store_id = int(row['ID_PDV'])
         adv_info = {
-            "nombre": row['NOMBRES_APELLIDOS'],
-            "puesto": row['PUESTO'],
-            "celular": row['CELULAR'],
-            "correo": row['CORREO'],
-            "usuario": row['USUARIO_PORTAL']
+            "nombre": row.get('NOMBRES_APELLIDOS', ''),
+            "puesto": row.get('PUESTO', 'ASESOR'),
+            "celular": row.get('CELULAR', ''),
+            "correo": row.get('CORREO', ''),
+            "usuario": row.get('USUARIO_PORTAL', '')
         }
         if store_id not in advisors_by_store:
             advisors_by_store[store_id] = []
@@ -107,14 +113,20 @@ def process_data():
         norm_name = name.upper().strip()
         if "LIMA" in norm_name and ("SUPER" in norm_name or "SUP" in norm_name):
             dir_lima_sheet = name
-        elif "PROV" in norm_name and ("SUPER" in norm_name or "SUP" in norm_name):
+        elif ("PROV" in norm_name or "PROVINCIA" in norm_name) and ("SUPER" in norm_name or "SUP" in norm_name):
             dir_prov_sheet = name
             
     # Fallback if not detected
     if not dir_lima_sheet:
-        dir_lima_sheet = "SUP LIMA"
+        for name in xl.sheet_names:
+            if "SUP" in name.upper() and "LIMA" in name.upper():
+                dir_lima_sheet = name
+                break
     if not dir_prov_sheet:
-        dir_prov_sheet = "SUP PROV"
+        for name in xl.sheet_names:
+            if "SUP" in name.upper() and "PROV" in name.upper():
+                dir_prov_sheet = name
+                break
         
     print(f"Detected Lima Directory sheet: '{dir_lima_sheet}', Prov Directory sheet: '{dir_prov_sheet}'")
     df_sup_lima = xl.parse(dir_lima_sheet)
