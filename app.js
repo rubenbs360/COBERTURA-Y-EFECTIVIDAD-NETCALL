@@ -417,13 +417,23 @@ function updateRegionalPerformance() {
     
     document.getElementById("perf-dept-name").textContent = "Todo el País";
   } else {
-    // Find matching department
+    // Find matching department / district
     const dept = departmentsData.find(d => d.departamento.toLowerCase() === selectedDept.toLowerCase());
     if (dept) {
-      // Always show overall district metrics to avoid showing 0.0% for districts with different dispatch types in CSV (like Talara with Retiro en Tienda)
-      total = dept.total;
-      delivered = dept.delivered;
-      failed = dept.anulado + dept.cancelado;
+      if (selectedType === "ALL") {
+        total = dept.total;
+        delivered = dept.delivered;
+        failed = dept.anulado + dept.cancelado;
+      } else if (dept.dispatch && dept.dispatch[selectedType]) {
+        const dInfo = dept.dispatch[selectedType];
+        total = dInfo.total;
+        delivered = dInfo.delivered;
+        failed = dInfo.anulado + dInfo.cancelado;
+      } else {
+        total = dept.total;
+        delivered = dept.delivered;
+        failed = dept.anulado + dept.cancelado;
+      }
       document.getElementById("perf-dept-name").textContent = dept.departamento;
     } else {
       document.getElementById("perf-dept-name").textContent = selectedDept;
