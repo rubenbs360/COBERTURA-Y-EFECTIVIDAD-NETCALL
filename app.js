@@ -376,10 +376,22 @@ function populateDeptSelect() {
   // Clear other options
   select.innerHTML = '<option value="todos">Todos los Distritos</option>';
   
-  // Extract unique districts from data and sort
-  const depts = departmentsData.map(d => d.departamento)
-    .filter(d => d && d !== "No especificado")
-    .sort((a, b) => a.localeCompare(b));
+  // Extract unique districts from departmentsData and deliveryData
+  const deptSet = new Set();
+  departmentsData.forEach(d => {
+    if (d.departamento && d.departamento !== "No especificado") {
+      deptSet.add(d.departamento);
+    }
+  });
+  if (deliveryData) {
+    Object.keys(deliveryData).forEach(k => {
+      if (deliveryData[k] && deliveryData[k].distrito) {
+        deptSet.add(deliveryData[k].distrito);
+      }
+    });
+  }
+
+  const depts = Array.from(deptSet).sort((a, b) => a.localeCompare(b));
     
   depts.forEach(dept => {
     const opt = document.createElement("option");
