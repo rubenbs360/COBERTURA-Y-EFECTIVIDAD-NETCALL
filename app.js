@@ -459,7 +459,11 @@ function renderStoresList() {
     if (!activeSubcanales.includes(store.subcanal)) {
       return false;
     }
-    
+
+    // Skip stores with no orders or N/A effectiveness (0 orders registered in history)
+    if (store.metricas.effectiveness === null || store.metricas.total === 0) {
+      return false;
+    }
 
     // Search query filter (matches ID, name, department, provincia)
     if (searchQuery) {
