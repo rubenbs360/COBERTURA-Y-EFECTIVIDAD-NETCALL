@@ -1323,16 +1323,17 @@ function findDistrictForLatLng(lat, lng, geoData) {
     if (match) return match;
   }
   
-  // 2. Try to find the district from Nominatim geodata address
+  // 2. Try to find the district from Nominatim geodata address (order by official district/town first)
   if (geoData && geoData.address) {
     const addr = geoData.address;
     const possibleFields = [
-      addr.suburb, 
-      addr.city_district, 
       addr.district, 
       addr.town, 
-      addr.neighborhood, 
-      addr.city
+      addr.city_district, 
+      addr.city,
+      addr.county,
+      addr.suburb, 
+      addr.neighborhood
     ];
     for (const val of possibleFields) {
       if (val) {
@@ -1348,7 +1349,6 @@ function findDistrictForLatLng(lat, lng, geoData) {
   
   storesData.forEach(store => {
     if (store.latitud && store.longitud && store.distrito) {
-      // Basic euclidean distance (accurate enough for city proximity check)
       const d = Math.pow(store.latitud - lat, 2) + Math.pow(store.longitud - lng, 2);
       if (d < closestDist) {
         closestDist = d;
@@ -1366,39 +1366,57 @@ function findDistrictForLatLng(lat, lng, geoData) {
   return null;
 }
 
-// Helper to search dropdown options for a matching string
+// Helper to search dropdown options for a matching string with strict word boundary protection
 function findMatchingDistrictOption(searchStr) {
   if (!searchStr) return null;
   const normalizedSearch = searchStr.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").trim();
   
   const select = document.getElementById("map-dept-select");
   if (!select) return null;
-  
+
+  // 1. Exact match
+  for (let i = 0; i < select.options.length; i++) {
+    const optVal = select.options[i].value;
+    const normalizedOpt = optVal.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").trim();
+    if (normalizedOpt === normalizedSearch) {
+      return optVal;
+    }
+  }
+
+  // 2. Whole-word boundary match (prevents "Ate" from matching inside "ConfrATErnidad")
+  for (let i = 0; i < select.options.length; i++) {
+    const optVal = select.options[i].value;
+    const normalizedOpt = optVal.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").trim();
+    if (normalizedOpt.length >= 3) {
+      const safeOpt = normalizedOpt.replace(/[-[\]{}()*+?.,\\^$|#\s]/g, '\\$&');
+      const regex = new RegExp(`\\b${safeOpt}\\b`, 'i');
+      if (regex.test(normalizedSearch)) {
+        return optVal;
+      }
+    }
+  }
+
+  // 3. Substring match ONLY for longer district names (>= 5 chars)
   let partialMatches = [];
-  
-  // Iterate options
   for (let i = 0; i < select.options.length; i++) {
     const optVal = select.options[i].value;
     const normalizedOpt = optVal.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").trim();
     
-    if (normalizedOpt === normalizedSearch) {
-      return optVal; // Exact match: return immediately
-    }
-    
-    if (normalizedOpt.includes(normalizedSearch) || normalizedSearch.includes(normalizedOpt)) {
-      partialMatches.push({
-        value: optVal,
-        lengthDiff: Math.abs(normalizedOpt.length - normalizedSearch.length)
-      });
+    if (normalizedOpt.length >= 5) {
+      if (normalizedSearch.includes(normalizedOpt) || normalizedOpt.includes(normalizedSearch)) {
+        partialMatches.push({
+          value: optVal,
+          lengthDiff: Math.abs(normalizedOpt.length - normalizedSearch.length)
+        });
+      }
     }
   }
-  
-  // Return closest match by length difference
+
   if (partialMatches.length > 0) {
     partialMatches.sort((a, b) => a.lengthDiff - b.lengthDiff);
     return partialMatches[0].value;
   }
-  
+
   return null;
 }
 
