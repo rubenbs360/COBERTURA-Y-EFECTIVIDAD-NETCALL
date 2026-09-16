@@ -70,11 +70,11 @@
       }
     ],
     "metricas": {
-      "total": 2,
-      "delivered": 1,
+      "total": 0,
+      "delivered": 0,
       "anulado": 0,
-      "cancelado": 1,
-      "effectiveness": 50.0
+      "cancelado": 0,
+      "effectiveness": null
     }
   },
   {
@@ -355,11 +355,11 @@
       }
     ],
     "metricas": {
-      "total": 2,
+      "total": 0,
       "delivered": 0,
       "anulado": 0,
-      "cancelado": 2,
-      "effectiveness": 0.0
+      "cancelado": 0,
+      "effectiveness": null
     }
   },
   {
@@ -469,11 +469,11 @@
       }
     ],
     "metricas": {
-      "total": 6,
-      "delivered": 1,
+      "total": 0,
+      "delivered": 0,
       "anulado": 0,
-      "cancelado": 5,
-      "effectiveness": 16.67
+      "cancelado": 0,
+      "effectiveness": null
     }
   },
   {
@@ -661,11 +661,11 @@
       }
     ],
     "metricas": {
-      "total": 8,
-      "delivered": 6,
+      "total": 3,
+      "delivered": 2,
       "anulado": 0,
-      "cancelado": 2,
-      "effectiveness": 75.0
+      "cancelado": 1,
+      "effectiveness": 66.67
     }
   },
   {
@@ -718,11 +718,11 @@
       }
     ],
     "metricas": {
-      "total": 44,
-      "delivered": 22,
+      "total": 19,
+      "delivered": 9,
       "anulado": 0,
-      "cancelado": 21,
-      "effectiveness": 50.0
+      "cancelado": 9,
+      "effectiveness": 47.37
     }
   },
   {
@@ -867,11 +867,11 @@
     },
     "asesores": [],
     "metricas": {
-      "total": 5,
-      "delivered": 2,
+      "total": 2,
+      "delivered": 0,
       "anulado": 0,
-      "cancelado": 3,
-      "effectiveness": 40.0
+      "cancelado": 2,
+      "effectiveness": 0.0
     }
   },
   {
@@ -1130,11 +1130,11 @@
       }
     ],
     "metricas": {
-      "total": 34,
-      "delivered": 14,
+      "total": 7,
+      "delivered": 4,
       "anulado": 0,
-      "cancelado": 20,
-      "effectiveness": 41.18
+      "cancelado": 3,
+      "effectiveness": 57.14
     }
   },
   {
@@ -1187,11 +1187,11 @@
       }
     ],
     "metricas": {
-      "total": 11,
-      "delivered": 1,
+      "total": 2,
+      "delivered": 0,
       "anulado": 0,
-      "cancelado": 10,
-      "effectiveness": 9.09
+      "cancelado": 2,
+      "effectiveness": 0.0
     }
   },
   {
@@ -1372,11 +1372,11 @@
       }
     ],
     "metricas": {
-      "total": 57,
-      "delivered": 44,
+      "total": 33,
+      "delivered": 22,
       "anulado": 0,
-      "cancelado": 12,
-      "effectiveness": 77.19
+      "cancelado": 10,
+      "effectiveness": 66.67
     }
   },
   {
@@ -1507,11 +1507,11 @@
       }
     ],
     "metricas": {
-      "total": 1,
+      "total": 0,
       "delivered": 0,
       "anulado": 0,
-      "cancelado": 1,
-      "effectiveness": 0.0
+      "cancelado": 0,
+      "effectiveness": null
     }
   },
   {
@@ -1571,11 +1571,11 @@
       }
     ],
     "metricas": {
-      "total": 14,
-      "delivered": 1,
+      "total": 5,
+      "delivered": 0,
       "anulado": 0,
-      "cancelado": 13,
-      "effectiveness": 7.14
+      "cancelado": 5,
+      "effectiveness": 0.0
     }
   },
   {
@@ -1642,11 +1642,11 @@
       }
     ],
     "metricas": {
-      "total": 75,
-      "delivered": 31,
+      "total": 27,
+      "delivered": 9,
       "anulado": 0,
-      "cancelado": 44,
-      "effectiveness": 41.33
+      "cancelado": 18,
+      "effectiveness": 33.33
     }
   },
   {
@@ -1955,11 +1955,11 @@
       }
     ],
     "metricas": {
-      "total": 5,
-      "delivered": 3,
+      "total": 3,
+      "delivered": 2,
       "anulado": 0,
-      "cancelado": 2,
-      "effectiveness": 60.0
+      "cancelado": 1,
+      "effectiveness": 66.67
     }
   },
   {
@@ -2268,11 +2268,11 @@
       }
     ],
     "metricas": {
-      "total": 82,
-      "delivered": 44,
+      "total": 37,
+      "delivered": 21,
       "anulado": 0,
-      "cancelado": 38,
-      "effectiveness": 53.66
+      "cancelado": 16,
+      "effectiveness": 56.76
     }
   },
   {
@@ -2645,11 +2645,11 @@
       }
     ],
     "metricas": {
-      "total": 4,
-      "delivered": 3,
+      "total": 0,
+      "delivered": 0,
       "anulado": 0,
-      "cancelado": 1,
-      "effectiveness": 75.0
+      "cancelado": 0,
+      "effectiveness": null
     }
   },
   {
@@ -2709,11 +2709,11 @@
       }
     ],
     "metricas": {
-      "total": 44,
-      "delivered": 28,
+      "total": 15,
+      "delivered": 11,
       "anulado": 0,
-      "cancelado": 16,
-      "effectiveness": 63.64
+      "cancelado": 4,
+      "effectiveness": 73.33
     }
   },
   {
@@ -2887,11 +2887,11 @@
       }
     ],
     "metricas": {
-      "total": 4,
+      "total": 2,
       "delivered": 2,
       "anulado": 0,
-      "cancelado": 2,
-      "effectiveness": 50.0
+      "cancelado": 0,
+      "effectiveness": 100.0
     }
   },
   {
@@ -2965,10 +2965,10 @@
       }
     ],
     "metricas": {
-      "total": 3,
+      "total": 1,
       "delivered": 0,
       "anulado": 0,
-      "cancelado": 3,
+      "cancelado": 1,
       "effectiveness": 0.0
     }
   },
@@ -3471,11 +3471,11 @@
       }
     ],
     "metricas": {
-      "total": 88,
-      "delivered": 55,
+      "total": 30,
+      "delivered": 19,
       "anulado": 0,
-      "cancelado": 32,
-      "effectiveness": 62.5
+      "cancelado": 10,
+      "effectiveness": 63.33
     }
   },
   {
@@ -3578,11 +3578,11 @@
       }
     ],
     "metricas": {
-      "total": 9,
-      "delivered": 4,
+      "total": 3,
+      "delivered": 1,
       "anulado": 0,
-      "cancelado": 5,
-      "effectiveness": 44.44
+      "cancelado": 2,
+      "effectiveness": 33.33
     }
   },
   {
@@ -3899,11 +3899,11 @@
       }
     ],
     "metricas": {
-      "total": 64,
-      "delivered": 43,
+      "total": 38,
+      "delivered": 28,
       "anulado": 0,
-      "cancelado": 21,
-      "effectiveness": 67.19
+      "cancelado": 10,
+      "effectiveness": 73.68
     }
   },
   {
@@ -4091,11 +4091,11 @@
       }
     ],
     "metricas": {
-      "total": 2,
+      "total": 0,
       "delivered": 0,
       "anulado": 0,
-      "cancelado": 2,
-      "effectiveness": 0.0
+      "cancelado": 0,
+      "effectiveness": null
     }
   },
   {
@@ -4354,11 +4354,11 @@
       }
     ],
     "metricas": {
-      "total": 14,
-      "delivered": 9,
+      "total": 9,
+      "delivered": 8,
       "anulado": 0,
-      "cancelado": 5,
-      "effectiveness": 64.29
+      "cancelado": 1,
+      "effectiveness": 88.89
     }
   },
   {
@@ -4461,10 +4461,10 @@
       }
     ],
     "metricas": {
-      "total": 6,
-      "delivered": 4,
+      "total": 3,
+      "delivered": 2,
       "anulado": 0,
-      "cancelado": 2,
+      "cancelado": 1,
       "effectiveness": 66.67
     }
   },
@@ -4568,11 +4568,11 @@
       }
     ],
     "metricas": {
-      "total": 10,
-      "delivered": 2,
+      "total": 3,
+      "delivered": 1,
       "anulado": 0,
-      "cancelado": 8,
-      "effectiveness": 20.0
+      "cancelado": 2,
+      "effectiveness": 33.33
     }
   },
   {
@@ -4717,11 +4717,11 @@
       }
     ],
     "metricas": {
-      "total": 114,
-      "delivered": 66,
+      "total": 50,
+      "delivered": 23,
       "anulado": 0,
-      "cancelado": 45,
-      "effectiveness": 57.89
+      "cancelado": 24,
+      "effectiveness": 46.0
     }
   },
   {
@@ -4837,11 +4837,11 @@
       }
     ],
     "metricas": {
-      "total": 36,
-      "delivered": 17,
+      "total": 18,
+      "delivered": 10,
       "anulado": 0,
-      "cancelado": 19,
-      "effectiveness": 47.22
+      "cancelado": 8,
+      "effectiveness": 55.56
     }
   },
   {
@@ -5069,11 +5069,11 @@
       }
     ],
     "metricas": {
-      "total": 136,
-      "delivered": 74,
+      "total": 50,
+      "delivered": 26,
       "anulado": 0,
-      "cancelado": 61,
-      "effectiveness": 54.41
+      "cancelado": 23,
+      "effectiveness": 52.0
     }
   },
   {
@@ -5210,11 +5210,11 @@
       }
     ],
     "metricas": {
-      "total": 70,
-      "delivered": 40,
+      "total": 39,
+      "delivered": 19,
       "anulado": 0,
-      "cancelado": 28,
-      "effectiveness": 57.14
+      "cancelado": 18,
+      "effectiveness": 48.72
     }
   },
   {
@@ -5400,11 +5400,11 @@
       }
     ],
     "metricas": {
-      "total": 167,
-      "delivered": 101,
+      "total": 84,
+      "delivered": 40,
       "anulado": 0,
-      "cancelado": 65,
-      "effectiveness": 60.48
+      "cancelado": 43,
+      "effectiveness": 47.62
     }
   },
   {
@@ -5499,11 +5499,11 @@
       }
     ],
     "metricas": {
-      "total": 154,
-      "delivered": 102,
+      "total": 57,
+      "delivered": 39,
       "anulado": 0,
-      "cancelado": 51,
-      "effectiveness": 66.23
+      "cancelado": 17,
+      "effectiveness": 68.42
     }
   },
   {
@@ -5703,11 +5703,11 @@
       }
     ],
     "metricas": {
-      "total": 52,
-      "delivered": 38,
+      "total": 24,
+      "delivered": 19,
       "anulado": 0,
-      "cancelado": 12,
-      "effectiveness": 73.08
+      "cancelado": 3,
+      "effectiveness": 79.17
     }
   },
   {
@@ -5823,11 +5823,11 @@
       }
     ],
     "metricas": {
-      "total": 22,
-      "delivered": 16,
+      "total": 10,
+      "delivered": 9,
       "anulado": 0,
-      "cancelado": 5,
-      "effectiveness": 72.73
+      "cancelado": 0,
+      "effectiveness": 90.0
     }
   },
   {
@@ -6258,11 +6258,11 @@
       }
     ],
     "metricas": {
-      "total": 261,
-      "delivered": 171,
+      "total": 110,
+      "delivered": 67,
       "anulado": 0,
-      "cancelado": 89,
-      "effectiveness": 65.52
+      "cancelado": 42,
+      "effectiveness": 60.91
     }
   },
   {
@@ -6441,11 +6441,11 @@
       }
     ],
     "metricas": {
-      "total": 124,
-      "delivered": 79,
+      "total": 64,
+      "delivered": 38,
       "anulado": 0,
-      "cancelado": 43,
-      "effectiveness": 63.71
+      "cancelado": 24,
+      "effectiveness": 59.38
     }
   },
   {
@@ -6778,11 +6778,11 @@
       }
     ],
     "metricas": {
-      "total": 133,
-      "delivered": 77,
+      "total": 52,
+      "delivered": 30,
       "anulado": 0,
-      "cancelado": 56,
-      "effectiveness": 57.89
+      "cancelado": 22,
+      "effectiveness": 57.69
     }
   },
   {
@@ -6996,11 +6996,11 @@
       }
     ],
     "metricas": {
-      "total": 142,
-      "delivered": 77,
+      "total": 78,
+      "delivered": 43,
       "anulado": 0,
-      "cancelado": 60,
-      "effectiveness": 54.23
+      "cancelado": 30,
+      "effectiveness": 55.13
     }
   },
   {
@@ -7193,11 +7193,11 @@
       }
     ],
     "metricas": {
-      "total": 37,
-      "delivered": 23,
+      "total": 19,
+      "delivered": 13,
       "anulado": 0,
-      "cancelado": 14,
-      "effectiveness": 62.16
+      "cancelado": 6,
+      "effectiveness": 68.42
     }
   },
   {
@@ -7586,11 +7586,11 @@
       }
     ],
     "metricas": {
-      "total": 147,
-      "delivered": 91,
+      "total": 70,
+      "delivered": 42,
       "anulado": 0,
-      "cancelado": 56,
-      "effectiveness": 61.9
+      "cancelado": 28,
+      "effectiveness": 60.0
     }
   },
   {
@@ -7853,11 +7853,11 @@
       }
     ],
     "metricas": {
-      "total": 62,
-      "delivered": 49,
+      "total": 28,
+      "delivered": 23,
       "anulado": 0,
-      "cancelado": 13,
-      "effectiveness": 79.03
+      "cancelado": 5,
+      "effectiveness": 82.14
     }
   },
   {
@@ -8008,11 +8008,11 @@
       }
     ],
     "metricas": {
-      "total": 127,
-      "delivered": 62,
+      "total": 56,
+      "delivered": 36,
       "anulado": 0,
-      "cancelado": 65,
-      "effectiveness": 48.82
+      "cancelado": 20,
+      "effectiveness": 64.29
     }
   },
   {
@@ -8156,11 +8156,11 @@
       }
     ],
     "metricas": {
-      "total": 295,
-      "delivered": 183,
+      "total": 127,
+      "delivered": 62,
       "anulado": 0,
-      "cancelado": 111,
-      "effectiveness": 62.03
+      "cancelado": 64,
+      "effectiveness": 48.82
     }
   },
   {
@@ -8318,11 +8318,11 @@
       }
     ],
     "metricas": {
-      "total": 21,
-      "delivered": 7,
+      "total": 14,
+      "delivered": 4,
       "anulado": 0,
-      "cancelado": 14,
-      "effectiveness": 33.33
+      "cancelado": 10,
+      "effectiveness": 28.57
     }
   },
   {
@@ -8606,11 +8606,11 @@
       }
     ],
     "metricas": {
-      "total": 28,
-      "delivered": 18,
+      "total": 13,
+      "delivered": 9,
       "anulado": 0,
-      "cancelado": 10,
-      "effectiveness": 64.29
+      "cancelado": 4,
+      "effectiveness": 69.23
     }
   },
   {
@@ -8775,11 +8775,11 @@
       }
     ],
     "metricas": {
-      "total": 177,
-      "delivered": 115,
+      "total": 89,
+      "delivered": 59,
       "anulado": 0,
-      "cancelado": 62,
-      "effectiveness": 64.97
+      "cancelado": 30,
+      "effectiveness": 66.29
     }
   },
   {
@@ -8958,11 +8958,11 @@
       }
     ],
     "metricas": {
-      "total": 89,
-      "delivered": 53,
+      "total": 44,
+      "delivered": 24,
       "anulado": 0,
-      "cancelado": 34,
-      "effectiveness": 59.55
+      "cancelado": 18,
+      "effectiveness": 54.55
     }
   },
   {
@@ -9022,11 +9022,11 @@
       }
     ],
     "metricas": {
-      "total": 95,
-      "delivered": 17,
+      "total": 37,
+      "delivered": 3,
       "anulado": 0,
-      "cancelado": 78,
-      "effectiveness": 17.89
+      "cancelado": 34,
+      "effectiveness": 8.11
     }
   },
   {
@@ -9093,11 +9093,11 @@
       }
     ],
     "metricas": {
-      "total": 219,
-      "delivered": 125,
+      "total": 97,
+      "delivered": 50,
       "anulado": 0,
-      "cancelado": 89,
-      "effectiveness": 57.08
+      "cancelado": 42,
+      "effectiveness": 51.55
     }
   },
   {
@@ -9284,11 +9284,11 @@
       }
     ],
     "metricas": {
-      "total": 96,
-      "delivered": 61,
+      "total": 38,
+      "delivered": 27,
       "anulado": 0,
-      "cancelado": 35,
-      "effectiveness": 63.54
+      "cancelado": 11,
+      "effectiveness": 71.05
     }
   },
   {
@@ -9433,11 +9433,11 @@
       }
     ],
     "metricas": {
-      "total": 157,
-      "delivered": 101,
+      "total": 51,
+      "delivered": 31,
       "anulado": 0,
-      "cancelado": 54,
-      "effectiveness": 64.33
+      "cancelado": 18,
+      "effectiveness": 60.78
     }
   },
   {
@@ -9568,11 +9568,11 @@
       }
     ],
     "metricas": {
-      "total": 68,
-      "delivered": 38,
+      "total": 41,
+      "delivered": 26,
       "anulado": 0,
-      "cancelado": 30,
-      "effectiveness": 55.88
+      "cancelado": 15,
+      "effectiveness": 63.41
     }
   },
   {
@@ -9739,11 +9739,11 @@
       }
     ],
     "metricas": {
-      "total": 10,
-      "delivered": 1,
+      "total": 5,
+      "delivered": 0,
       "anulado": 0,
-      "cancelado": 9,
-      "effectiveness": 10.0
+      "cancelado": 5,
+      "effectiveness": 0.0
     }
   },
   {
@@ -9796,10 +9796,10 @@
       }
     ],
     "metricas": {
-      "total": 10,
+      "total": 1,
       "delivered": 0,
       "anulado": 0,
-      "cancelado": 10,
+      "cancelado": 1,
       "effectiveness": 0.0
     }
   },
@@ -9853,10 +9853,10 @@
       }
     ],
     "metricas": {
-      "total": 9,
+      "total": 6,
       "delivered": 0,
       "anulado": 0,
-      "cancelado": 9,
+      "cancelado": 6,
       "effectiveness": 0.0
     }
   },
@@ -9981,10 +9981,10 @@
       }
     ],
     "metricas": {
-      "total": 36,
+      "total": 16,
       "delivered": 0,
       "anulado": 0,
-      "cancelado": 34,
+      "cancelado": 14,
       "effectiveness": 0.0
     }
   },
@@ -10045,11 +10045,11 @@
       }
     ],
     "metricas": {
-      "total": 13,
-      "delivered": 1,
+      "total": 9,
+      "delivered": 0,
       "anulado": 0,
-      "cancelado": 12,
-      "effectiveness": 7.69
+      "cancelado": 9,
+      "effectiveness": 0.0
     }
   },
   {
@@ -10166,10 +10166,10 @@
       }
     ],
     "metricas": {
-      "total": 11,
+      "total": 1,
       "delivered": 0,
       "anulado": 0,
-      "cancelado": 11,
+      "cancelado": 1,
       "effectiveness": 0.0
     }
   },
@@ -10216,11 +10216,11 @@
       }
     ],
     "metricas": {
-      "total": 2,
+      "total": 0,
       "delivered": 0,
       "anulado": 0,
-      "cancelado": 2,
-      "effectiveness": 0.0
+      "cancelado": 0,
+      "effectiveness": null
     }
   },
   {
@@ -10380,11 +10380,11 @@
       }
     ],
     "metricas": {
-      "total": 1,
+      "total": 0,
       "delivered": 0,
       "anulado": 0,
-      "cancelado": 1,
-      "effectiveness": 0.0
+      "cancelado": 0,
+      "effectiveness": null
     }
   },
   {
@@ -10437,10 +10437,10 @@
       }
     ],
     "metricas": {
-      "total": 27,
+      "total": 5,
       "delivered": 0,
       "anulado": 0,
-      "cancelado": 27,
+      "cancelado": 5,
       "effectiveness": 0.0
     }
   },
@@ -10814,11 +10814,11 @@
       }
     ],
     "metricas": {
-      "total": 111,
-      "delivered": 36,
+      "total": 31,
+      "delivered": 10,
       "anulado": 0,
-      "cancelado": 73,
-      "effectiveness": 32.43
+      "cancelado": 19,
+      "effectiveness": 32.26
     }
   },
   {
@@ -11248,11 +11248,11 @@
       }
     ],
     "metricas": {
-      "total": 4,
+      "total": 0,
       "delivered": 0,
       "anulado": 0,
-      "cancelado": 4,
-      "effectiveness": 0.0
+      "cancelado": 0,
+      "effectiveness": null
     }
   },
   {
@@ -11305,11 +11305,11 @@
       }
     ],
     "metricas": {
-      "total": 125,
-      "delivered": 88,
+      "total": 76,
+      "delivered": 56,
       "anulado": 0,
-      "cancelado": 35,
-      "effectiveness": 70.4
+      "cancelado": 18,
+      "effectiveness": 73.68
     }
   },
   {
@@ -11426,11 +11426,11 @@
       }
     ],
     "metricas": {
-      "total": 6,
-      "delivered": 4,
+      "total": 2,
+      "delivered": 2,
       "anulado": 0,
-      "cancelado": 2,
-      "effectiveness": 66.67
+      "cancelado": 0,
+      "effectiveness": 100.0
     }
   },
   {
@@ -11576,11 +11576,11 @@
       }
     ],
     "metricas": {
-      "total": 11,
-      "delivered": 5,
+      "total": 5,
+      "delivered": 2,
       "anulado": 0,
-      "cancelado": 6,
-      "effectiveness": 45.45
+      "cancelado": 3,
+      "effectiveness": 40.0
     }
   },
   {
@@ -11676,11 +11676,11 @@
       }
     ],
     "metricas": {
-      "total": 33,
-      "delivered": 19,
+      "total": 14,
+      "delivered": 7,
       "anulado": 0,
-      "cancelado": 12,
-      "effectiveness": 57.58
+      "cancelado": 5,
+      "effectiveness": 50.0
     }
   },
   {
@@ -11726,11 +11726,11 @@
       }
     ],
     "metricas": {
-      "total": 48,
-      "delivered": 33,
+      "total": 25,
+      "delivered": 19,
       "anulado": 0,
-      "cancelado": 13,
-      "effectiveness": 68.75
+      "cancelado": 4,
+      "effectiveness": 76.0
     }
   },
   {
@@ -11840,11 +11840,11 @@
       }
     ],
     "metricas": {
-      "total": 28,
-      "delivered": 15,
+      "total": 11,
+      "delivered": 6,
       "anulado": 0,
-      "cancelado": 13,
-      "effectiveness": 53.57
+      "cancelado": 5,
+      "effectiveness": 54.55
     }
   },
   {
@@ -11975,11 +11975,11 @@
       }
     ],
     "metricas": {
-      "total": 1,
+      "total": 0,
       "delivered": 0,
       "anulado": 0,
-      "cancelado": 1,
-      "effectiveness": 0.0
+      "cancelado": 0,
+      "effectiveness": null
     }
   },
   {
@@ -12032,11 +12032,11 @@
       }
     ],
     "metricas": {
-      "total": 1,
+      "total": 0,
       "delivered": 0,
       "anulado": 0,
-      "cancelado": 1,
-      "effectiveness": 0.0
+      "cancelado": 0,
+      "effectiveness": null
     }
   },
   {
@@ -12210,10 +12210,10 @@
       }
     ],
     "metricas": {
-      "total": 3,
+      "total": 1,
       "delivered": 0,
       "anulado": 0,
-      "cancelado": 3,
+      "cancelado": 1,
       "effectiveness": 0.0
     }
   },
@@ -12338,11 +12338,11 @@
       }
     ],
     "metricas": {
-      "total": 102,
-      "delivered": 54,
+      "total": 36,
+      "delivered": 12,
       "anulado": 0,
-      "cancelado": 46,
-      "effectiveness": 52.94
+      "cancelado": 22,
+      "effectiveness": 33.33
     }
   },
   {
@@ -12395,10 +12395,10 @@
       }
     ],
     "metricas": {
-      "total": 42,
-      "delivered": 14,
+      "total": 33,
+      "delivered": 11,
       "anulado": 0,
-      "cancelado": 25,
+      "cancelado": 19,
       "effectiveness": 33.33
     }
   },
@@ -12445,11 +12445,11 @@
       }
     ],
     "metricas": {
-      "total": 33,
-      "delivered": 16,
+      "total": 5,
+      "delivered": 0,
       "anulado": 0,
-      "cancelado": 17,
-      "effectiveness": 48.48
+      "cancelado": 5,
+      "effectiveness": 0.0
     }
   },
   {
@@ -12673,11 +12673,11 @@
       }
     ],
     "metricas": {
-      "total": 28,
-      "delivered": 17,
+      "total": 15,
+      "delivered": 7,
       "anulado": 0,
-      "cancelado": 11,
-      "effectiveness": 60.71
+      "cancelado": 8,
+      "effectiveness": 46.67
     }
   },
   {
@@ -12787,11 +12787,11 @@
       }
     ],
     "metricas": {
-      "total": 18,
-      "delivered": 12,
+      "total": 5,
+      "delivered": 3,
       "anulado": 0,
-      "cancelado": 6,
-      "effectiveness": 66.67
+      "cancelado": 2,
+      "effectiveness": 60.0
     }
   },
   {
@@ -12914,11 +12914,11 @@
       }
     ],
     "metricas": {
-      "total": 335,
-      "delivered": 205,
+      "total": 138,
+      "delivered": 78,
       "anulado": 0,
-      "cancelado": 128,
-      "effectiveness": 61.19
+      "cancelado": 58,
+      "effectiveness": 56.52
     }
   },
   {
@@ -13055,11 +13055,11 @@
       }
     ],
     "metricas": {
-      "total": 125,
-      "delivered": 81,
+      "total": 67,
+      "delivered": 45,
       "anulado": 0,
-      "cancelado": 42,
-      "effectiveness": 64.8
+      "cancelado": 20,
+      "effectiveness": 67.16
     }
   },
   {
@@ -13097,11 +13097,11 @@
     },
     "asesores": [],
     "metricas": {
-      "total": 39,
-      "delivered": 13,
+      "total": 12,
+      "delivered": 0,
       "anulado": 0,
-      "cancelado": 26,
-      "effectiveness": 33.33
+      "cancelado": 12,
+      "effectiveness": 0.0
     }
   },
   {
@@ -13217,11 +13217,11 @@
       }
     ],
     "metricas": {
-      "total": 160,
-      "delivered": 101,
+      "total": 82,
+      "delivered": 51,
       "anulado": 0,
-      "cancelado": 57,
-      "effectiveness": 63.12
+      "cancelado": 29,
+      "effectiveness": 62.2
     }
   },
   {
@@ -13288,11 +13288,11 @@
       }
     ],
     "metricas": {
-      "total": 221,
-      "delivered": 110,
+      "total": 74,
+      "delivered": 33,
       "anulado": 0,
-      "cancelado": 111,
-      "effectiveness": 49.77
+      "cancelado": 41,
+      "effectiveness": 44.59
     }
   },
   {
@@ -13387,11 +13387,11 @@
       }
     ],
     "metricas": {
-      "total": 40,
-      "delivered": 23,
+      "total": 19,
+      "delivered": 10,
       "anulado": 0,
-      "cancelado": 16,
-      "effectiveness": 57.5
+      "cancelado": 8,
+      "effectiveness": 52.63
     }
   },
   {
@@ -13444,11 +13444,11 @@
       }
     ],
     "metricas": {
-      "total": 56,
-      "delivered": 22,
+      "total": 31,
+      "delivered": 15,
       "anulado": 0,
-      "cancelado": 34,
-      "effectiveness": 39.29
+      "cancelado": 16,
+      "effectiveness": 48.39
     }
   },
   {
@@ -13508,11 +13508,11 @@
       }
     ],
     "metricas": {
-      "total": 48,
-      "delivered": 13,
+      "total": 27,
+      "delivered": 5,
       "anulado": 0,
-      "cancelado": 35,
-      "effectiveness": 27.08
+      "cancelado": 22,
+      "effectiveness": 18.52
     }
   },
   {
@@ -13579,11 +13579,11 @@
       }
     ],
     "metricas": {
-      "total": 2,
+      "total": 1,
       "delivered": 1,
       "anulado": 0,
-      "cancelado": 1,
-      "effectiveness": 50.0
+      "cancelado": 0,
+      "effectiveness": 100.0
     }
   },
   {
@@ -13707,11 +13707,11 @@
       }
     ],
     "metricas": {
-      "total": 10,
-      "delivered": 6,
+      "total": 5,
+      "delivered": 2,
       "anulado": 0,
-      "cancelado": 4,
-      "effectiveness": 60.0
+      "cancelado": 3,
+      "effectiveness": 40.0
     }
   },
   {
@@ -13771,11 +13771,11 @@
       }
     ],
     "metricas": {
-      "total": 19,
-      "delivered": 2,
+      "total": 6,
+      "delivered": 0,
       "anulado": 0,
-      "cancelado": 17,
-      "effectiveness": 10.53
+      "cancelado": 6,
+      "effectiveness": 0.0
     }
   },
   {
@@ -13885,10 +13885,10 @@
       }
     ],
     "metricas": {
-      "total": 6,
+      "total": 1,
       "delivered": 0,
       "anulado": 0,
-      "cancelado": 6,
+      "cancelado": 1,
       "effectiveness": 0.0
     }
   },
@@ -14070,11 +14070,11 @@
       }
     ],
     "metricas": {
-      "total": 26,
-      "delivered": 18,
+      "total": 14,
+      "delivered": 10,
       "anulado": 0,
-      "cancelado": 8,
-      "effectiveness": 69.23
+      "cancelado": 4,
+      "effectiveness": 71.43
     }
   },
   {
@@ -14248,10 +14248,10 @@
       }
     ],
     "metricas": {
-      "total": 5,
+      "total": 2,
       "delivered": 0,
       "anulado": 0,
-      "cancelado": 5,
+      "cancelado": 2,
       "effectiveness": 0.0
     }
   },
@@ -14312,10 +14312,10 @@
       }
     ],
     "metricas": {
-      "total": 9,
+      "total": 6,
       "delivered": 0,
       "anulado": 0,
-      "cancelado": 9,
+      "cancelado": 6,
       "effectiveness": 0.0
     }
   },
@@ -14376,10 +14376,10 @@
       }
     ],
     "metricas": {
-      "total": 6,
+      "total": 4,
       "delivered": 0,
       "anulado": 0,
-      "cancelado": 6,
+      "cancelado": 4,
       "effectiveness": 0.0
     }
   },
@@ -14504,10 +14504,10 @@
       }
     ],
     "metricas": {
-      "total": 3,
+      "total": 1,
       "delivered": 0,
       "anulado": 0,
-      "cancelado": 3,
+      "cancelado": 1,
       "effectiveness": 0.0
     }
   },
@@ -14639,11 +14639,11 @@
       }
     ],
     "metricas": {
-      "total": 146,
-      "delivered": 106,
+      "total": 65,
+      "delivered": 40,
       "anulado": 0,
-      "cancelado": 37,
-      "effectiveness": 72.6
+      "cancelado": 22,
+      "effectiveness": 61.54
     }
   },
   {
@@ -14696,11 +14696,11 @@
       }
     ],
     "metricas": {
-      "total": 7,
-      "delivered": 3,
+      "total": 3,
+      "delivered": 0,
       "anulado": 0,
-      "cancelado": 4,
-      "effectiveness": 42.86
+      "cancelado": 3,
+      "effectiveness": 0.0
     }
   },
   {
@@ -14810,10 +14810,10 @@
       }
     ],
     "metricas": {
-      "total": 4,
+      "total": 1,
       "delivered": 0,
       "anulado": 0,
-      "cancelado": 4,
+      "cancelado": 1,
       "effectiveness": 0.0
     }
   },
@@ -15195,11 +15195,11 @@
       }
     ],
     "metricas": {
-      "total": 3,
+      "total": 1,
       "delivered": 1,
       "anulado": 0,
-      "cancelado": 2,
-      "effectiveness": 33.33
+      "cancelado": 0,
+      "effectiveness": 100.0
     }
   },
   {
@@ -15544,11 +15544,11 @@
       }
     ],
     "metricas": {
-      "total": 37,
-      "delivered": 17,
+      "total": 14,
+      "delivered": 6,
       "anulado": 0,
-      "cancelado": 19,
-      "effectiveness": 45.95
+      "cancelado": 7,
+      "effectiveness": 42.86
     }
   },
   {
@@ -15750,11 +15750,11 @@
       }
     ],
     "metricas": {
-      "total": 179,
-      "delivered": 98,
+      "total": 83,
+      "delivered": 49,
       "anulado": 0,
-      "cancelado": 76,
-      "effectiveness": 54.75
+      "cancelado": 29,
+      "effectiveness": 59.04
     }
   },
   {
@@ -15814,11 +15814,11 @@
       }
     ],
     "metricas": {
-      "total": 76,
-      "delivered": 51,
+      "total": 39,
+      "delivered": 23,
       "anulado": 0,
-      "cancelado": 23,
-      "effectiveness": 67.11
+      "cancelado": 14,
+      "effectiveness": 58.97
     }
   },
   {
@@ -15878,11 +15878,11 @@
       }
     ],
     "metricas": {
-      "total": 143,
-      "delivered": 101,
+      "total": 60,
+      "delivered": 42,
       "anulado": 0,
-      "cancelado": 42,
-      "effectiveness": 70.63
+      "cancelado": 18,
+      "effectiveness": 70.0
     }
   },
   {
@@ -16089,11 +16089,11 @@
       }
     ],
     "metricas": {
-      "total": 259,
-      "delivered": 179,
+      "total": 128,
+      "delivered": 81,
       "anulado": 0,
-      "cancelado": 75,
-      "effectiveness": 69.11
+      "cancelado": 42,
+      "effectiveness": 63.28
     }
   },
   {
@@ -16195,11 +16195,11 @@
       }
     ],
     "metricas": {
-      "total": 206,
-      "delivered": 123,
+      "total": 88,
+      "delivered": 50,
       "anulado": 0,
-      "cancelado": 79,
-      "effectiveness": 59.71
+      "cancelado": 34,
+      "effectiveness": 56.82
     }
   },
   {
@@ -16294,11 +16294,11 @@
       }
     ],
     "metricas": {
-      "total": 22,
-      "delivered": 11,
+      "total": 7,
+      "delivered": 4,
       "anulado": 0,
-      "cancelado": 11,
-      "effectiveness": 50.0
+      "cancelado": 3,
+      "effectiveness": 57.14
     }
   },
   {
@@ -16505,11 +16505,11 @@
       }
     ],
     "metricas": {
-      "total": 68,
-      "delivered": 42,
+      "total": 33,
+      "delivered": 16,
       "anulado": 0,
-      "cancelado": 25,
-      "effectiveness": 61.76
+      "cancelado": 16,
+      "effectiveness": 48.48
     }
   },
   {
@@ -16583,11 +16583,11 @@
       }
     ],
     "metricas": {
-      "total": 42,
-      "delivered": 34,
+      "total": 32,
+      "delivered": 25,
       "anulado": 0,
-      "cancelado": 7,
-      "effectiveness": 80.95
+      "cancelado": 6,
+      "effectiveness": 78.12
     }
   },
   {
@@ -16640,11 +16640,11 @@
       }
     ],
     "metricas": {
-      "total": 180,
-      "delivered": 119,
+      "total": 70,
+      "delivered": 45,
       "anulado": 0,
-      "cancelado": 60,
-      "effectiveness": 66.11
+      "cancelado": 24,
+      "effectiveness": 64.29
     }
   },
   {
@@ -16718,11 +16718,11 @@
       }
     ],
     "metricas": {
-      "total": 249,
-      "delivered": 152,
+      "total": 119,
+      "delivered": 71,
       "anulado": 0,
-      "cancelado": 88,
-      "effectiveness": 61.04
+      "cancelado": 39,
+      "effectiveness": 59.66
     }
   },
   {
@@ -16796,11 +16796,11 @@
       }
     ],
     "metricas": {
-      "total": 366,
-      "delivered": 225,
+      "total": 167,
+      "delivered": 96,
       "anulado": 0,
-      "cancelado": 129,
-      "effectiveness": 61.48
+      "cancelado": 59,
+      "effectiveness": 57.49
     }
   },
   {
@@ -16853,11 +16853,11 @@
       }
     ],
     "metricas": {
-      "total": 84,
-      "delivered": 43,
+      "total": 32,
+      "delivered": 17,
       "anulado": 0,
-      "cancelado": 40,
-      "effectiveness": 51.19
+      "cancelado": 14,
+      "effectiveness": 53.12
     }
   },
   {
@@ -16910,11 +16910,11 @@
       }
     ],
     "metricas": {
-      "total": 101,
-      "delivered": 74,
+      "total": 41,
+      "delivered": 26,
       "anulado": 0,
-      "cancelado": 27,
-      "effectiveness": 73.27
+      "cancelado": 15,
+      "effectiveness": 63.41
     }
   },
   {
@@ -16988,11 +16988,11 @@
       }
     ],
     "metricas": {
-      "total": 116,
-      "delivered": 60,
+      "total": 48,
+      "delivered": 30,
       "anulado": 0,
-      "cancelado": 56,
-      "effectiveness": 51.72
+      "cancelado": 18,
+      "effectiveness": 62.5
     }
   },
   {
@@ -17094,11 +17094,11 @@
       }
     ],
     "metricas": {
-      "total": 44,
-      "delivered": 30,
+      "total": 19,
+      "delivered": 12,
       "anulado": 0,
-      "cancelado": 14,
-      "effectiveness": 68.18
+      "cancelado": 7,
+      "effectiveness": 63.16
     }
   },
   {
@@ -17193,11 +17193,11 @@
       }
     ],
     "metricas": {
-      "total": 80,
-      "delivered": 44,
+      "total": 34,
+      "delivered": 20,
       "anulado": 0,
-      "cancelado": 35,
-      "effectiveness": 55.0
+      "cancelado": 13,
+      "effectiveness": 58.82
     }
   },
   {
@@ -17442,11 +17442,11 @@
       }
     ],
     "metricas": {
-      "total": 82,
-      "delivered": 61,
+      "total": 46,
+      "delivered": 32,
       "anulado": 0,
-      "cancelado": 20,
-      "effectiveness": 74.39
+      "cancelado": 13,
+      "effectiveness": 69.57
     }
   },
   {
@@ -17520,11 +17520,11 @@
       }
     ],
     "metricas": {
-      "total": 123,
-      "delivered": 79,
+      "total": 65,
+      "delivered": 39,
       "anulado": 0,
-      "cancelado": 43,
-      "effectiveness": 64.23
+      "cancelado": 25,
+      "effectiveness": 60.0
     }
   },
   {
@@ -17641,11 +17641,11 @@
       }
     ],
     "metricas": {
-      "total": 54,
-      "delivered": 25,
+      "total": 30,
+      "delivered": 13,
       "anulado": 0,
-      "cancelado": 26,
-      "effectiveness": 46.3
+      "cancelado": 14,
+      "effectiveness": 43.33
     }
   },
   {
@@ -17691,11 +17691,11 @@
       }
     ],
     "metricas": {
-      "total": 48,
-      "delivered": 25,
+      "total": 20,
+      "delivered": 9,
       "anulado": 0,
-      "cancelado": 22,
-      "effectiveness": 52.08
+      "cancelado": 10,
+      "effectiveness": 45.0
     }
   },
   {
@@ -17755,11 +17755,11 @@
       }
     ],
     "metricas": {
-      "total": 39,
-      "delivered": 23,
+      "total": 28,
+      "delivered": 17,
       "anulado": 0,
-      "cancelado": 16,
-      "effectiveness": 58.97
+      "cancelado": 11,
+      "effectiveness": 60.71
     }
   },
   {
@@ -17897,11 +17897,11 @@
       }
     ],
     "metricas": {
-      "total": 60,
-      "delivered": 32,
+      "total": 26,
+      "delivered": 18,
       "anulado": 0,
-      "cancelado": 28,
-      "effectiveness": 53.33
+      "cancelado": 8,
+      "effectiveness": 69.23
     }
   },
   {
@@ -17989,11 +17989,11 @@
       }
     ],
     "metricas": {
-      "total": 3,
+      "total": 2,
       "delivered": 2,
       "anulado": 0,
-      "cancelado": 1,
-      "effectiveness": 66.67
+      "cancelado": 0,
+      "effectiveness": 100.0
     }
   },
   {
@@ -18060,11 +18060,11 @@
       }
     ],
     "metricas": {
-      "total": 10,
+      "total": 8,
       "delivered": 4,
       "anulado": 0,
-      "cancelado": 6,
-      "effectiveness": 40.0
+      "cancelado": 4,
+      "effectiveness": 50.0
     }
   },
   {
@@ -18117,11 +18117,11 @@
       }
     ],
     "metricas": {
-      "total": 25,
-      "delivered": 5,
+      "total": 12,
+      "delivered": 1,
       "anulado": 0,
-      "cancelado": 20,
-      "effectiveness": 20.0
+      "cancelado": 11,
+      "effectiveness": 8.33
     }
   },
   {
@@ -18245,11 +18245,11 @@
       }
     ],
     "metricas": {
-      "total": 54,
-      "delivered": 31,
+      "total": 31,
+      "delivered": 12,
       "anulado": 0,
-      "cancelado": 23,
-      "effectiveness": 57.41
+      "cancelado": 19,
+      "effectiveness": 38.71
     }
   },
   {
@@ -18302,11 +18302,11 @@
       }
     ],
     "metricas": {
-      "total": 33,
-      "delivered": 8,
+      "total": 18,
+      "delivered": 5,
       "anulado": 0,
-      "cancelado": 25,
-      "effectiveness": 24.24
+      "cancelado": 13,
+      "effectiveness": 27.78
     }
   },
   {
@@ -18658,11 +18658,11 @@
       }
     ],
     "metricas": {
-      "total": 49,
-      "delivered": 17,
+      "total": 19,
+      "delivered": 8,
       "anulado": 0,
-      "cancelado": 31,
-      "effectiveness": 34.69
+      "cancelado": 10,
+      "effectiveness": 42.11
     }
   },
   {
@@ -18729,10 +18729,10 @@
       }
     ],
     "metricas": {
-      "total": 4,
+      "total": 3,
       "delivered": 0,
       "anulado": 0,
-      "cancelado": 3,
+      "cancelado": 2,
       "effectiveness": 0.0
     }
   },
@@ -18829,11 +18829,11 @@
       }
     ],
     "metricas": {
-      "total": 13,
-      "delivered": 6,
+      "total": 5,
+      "delivered": 2,
       "anulado": 0,
-      "cancelado": 7,
-      "effectiveness": 46.15
+      "cancelado": 3,
+      "effectiveness": 40.0
     }
   },
   {
@@ -18886,11 +18886,11 @@
       }
     ],
     "metricas": {
-      "total": 53,
-      "delivered": 28,
+      "total": 35,
+      "delivered": 18,
       "anulado": 0,
-      "cancelado": 22,
-      "effectiveness": 52.83
+      "cancelado": 14,
+      "effectiveness": 51.43
     }
   },
   {
@@ -18943,10 +18943,10 @@
       }
     ],
     "metricas": {
-      "total": 3,
+      "total": 1,
       "delivered": 0,
       "anulado": 0,
-      "cancelado": 3,
+      "cancelado": 1,
       "effectiveness": 0.0
     }
   },
@@ -19185,11 +19185,11 @@
       }
     ],
     "metricas": {
-      "total": 10,
-      "delivered": 5,
+      "total": 7,
+      "delivered": 3,
       "anulado": 0,
-      "cancelado": 5,
-      "effectiveness": 50.0
+      "cancelado": 4,
+      "effectiveness": 42.86
     }
   },
   {
@@ -19263,11 +19263,11 @@
       }
     ],
     "metricas": {
-      "total": 9,
-      "delivered": 5,
+      "total": 1,
+      "delivered": 0,
       "anulado": 0,
-      "cancelado": 4,
-      "effectiveness": 55.56
+      "cancelado": 1,
+      "effectiveness": 0.0
     }
   },
   {
@@ -19334,11 +19334,11 @@
       }
     ],
     "metricas": {
-      "total": 113,
-      "delivered": 13,
+      "total": 49,
+      "delivered": 3,
       "anulado": 0,
-      "cancelado": 95,
-      "effectiveness": 11.5
+      "cancelado": 41,
+      "effectiveness": 6.12
     }
   },
   {
@@ -19448,11 +19448,11 @@
       }
     ],
     "metricas": {
-      "total": 2,
+      "total": 0,
       "delivered": 0,
       "anulado": 0,
-      "cancelado": 2,
-      "effectiveness": 0.0
+      "cancelado": 0,
+      "effectiveness": null
     }
   },
   {
@@ -19583,11 +19583,11 @@
       }
     ],
     "metricas": {
-      "total": 40,
-      "delivered": 20,
+      "total": 23,
+      "delivered": 12,
       "anulado": 0,
-      "cancelado": 19,
-      "effectiveness": 50.0
+      "cancelado": 10,
+      "effectiveness": 52.17
     }
   },
   {
@@ -19704,11 +19704,11 @@
       }
     ],
     "metricas": {
-      "total": 3,
+      "total": 1,
       "delivered": 1,
       "anulado": 0,
-      "cancelado": 2,
-      "effectiveness": 33.33
+      "cancelado": 0,
+      "effectiveness": 100.0
     }
   },
   {
@@ -19754,11 +19754,11 @@
       }
     ],
     "metricas": {
-      "total": 84,
-      "delivered": 47,
+      "total": 49,
+      "delivered": 28,
       "anulado": 0,
-      "cancelado": 37,
-      "effectiveness": 55.95
+      "cancelado": 21,
+      "effectiveness": 57.14
     }
   },
   {
@@ -20017,11 +20017,11 @@
       }
     ],
     "metricas": {
-      "total": 79,
-      "delivered": 55,
+      "total": 38,
+      "delivered": 29,
       "anulado": 0,
-      "cancelado": 23,
-      "effectiveness": 69.62
+      "cancelado": 8,
+      "effectiveness": 76.32
     }
   },
   {
@@ -20173,11 +20173,11 @@
       }
     ],
     "metricas": {
-      "total": 51,
-      "delivered": 34,
+      "total": 34,
+      "delivered": 22,
       "anulado": 0,
-      "cancelado": 17,
-      "effectiveness": 66.67
+      "cancelado": 12,
+      "effectiveness": 64.71
     }
   },
   {
@@ -20230,11 +20230,11 @@
       }
     ],
     "metricas": {
-      "total": 50,
-      "delivered": 36,
+      "total": 23,
+      "delivered": 16,
       "anulado": 0,
-      "cancelado": 14,
-      "effectiveness": 72.0
+      "cancelado": 7,
+      "effectiveness": 69.57
     }
   },
   {
@@ -20308,11 +20308,11 @@
       }
     ],
     "metricas": {
-      "total": 5,
+      "total": 4,
       "delivered": 2,
       "anulado": 0,
-      "cancelado": 3,
-      "effectiveness": 40.0
+      "cancelado": 2,
+      "effectiveness": 50.0
     }
   },
   {
@@ -20365,11 +20365,11 @@
       }
     ],
     "metricas": {
-      "total": 102,
-      "delivered": 71,
+      "total": 62,
+      "delivered": 41,
       "anulado": 0,
-      "cancelado": 30,
-      "effectiveness": 69.61
+      "cancelado": 20,
+      "effectiveness": 66.13
     }
   },
   {
@@ -20485,11 +20485,11 @@
       }
     ],
     "metricas": {
-      "total": 113,
-      "delivered": 72,
+      "total": 59,
+      "delivered": 34,
       "anulado": 0,
-      "cancelado": 40,
-      "effectiveness": 63.72
+      "cancelado": 24,
+      "effectiveness": 57.63
     }
   },
   {
@@ -20542,11 +20542,11 @@
       }
     ],
     "metricas": {
-      "total": 108,
-      "delivered": 67,
+      "total": 52,
+      "delivered": 25,
       "anulado": 0,
-      "cancelado": 41,
-      "effectiveness": 62.04
+      "cancelado": 27,
+      "effectiveness": 48.08
     }
   },
   {
@@ -20648,11 +20648,11 @@
       }
     ],
     "metricas": {
-      "total": 132,
-      "delivered": 88,
+      "total": 54,
+      "delivered": 40,
       "anulado": 0,
-      "cancelado": 44,
-      "effectiveness": 66.67
+      "cancelado": 14,
+      "effectiveness": 74.07
     }
   },
   {
@@ -20726,11 +20726,11 @@
       }
     ],
     "metricas": {
-      "total": 446,
-      "delivered": 313,
+      "total": 182,
+      "delivered": 126,
       "anulado": 0,
-      "cancelado": 129,
-      "effectiveness": 70.18
+      "cancelado": 52,
+      "effectiveness": 69.23
     }
   },
   {
@@ -20804,11 +20804,11 @@
       }
     ],
     "metricas": {
-      "total": 165,
-      "delivered": 117,
+      "total": 79,
+      "delivered": 50,
       "anulado": 0,
-      "cancelado": 47,
-      "effectiveness": 70.91
+      "cancelado": 28,
+      "effectiveness": 63.29
     }
   },
   {
@@ -20939,11 +20939,11 @@
       }
     ],
     "metricas": {
-      "total": 92,
-      "delivered": 67,
+      "total": 43,
+      "delivered": 30,
       "anulado": 0,
-      "cancelado": 23,
-      "effectiveness": 72.83
+      "cancelado": 11,
+      "effectiveness": 69.77
     }
   },
   {
@@ -21052,11 +21052,11 @@
       }
     ],
     "metricas": {
-      "total": 33,
-      "delivered": 14,
+      "total": 16,
+      "delivered": 6,
       "anulado": 0,
-      "cancelado": 19,
-      "effectiveness": 42.42
+      "cancelado": 10,
+      "effectiveness": 37.5
     }
   },
   {
@@ -21193,11 +21193,11 @@
       }
     ],
     "metricas": {
-      "total": 375,
-      "delivered": 194,
+      "total": 145,
+      "delivered": 75,
       "anulado": 0,
-      "cancelado": 178,
-      "effectiveness": 51.73
+      "cancelado": 67,
+      "effectiveness": 51.72
     }
   },
   {
@@ -21285,11 +21285,11 @@
       }
     ],
     "metricas": {
-      "total": 156,
-      "delivered": 104,
+      "total": 77,
+      "delivered": 45,
       "anulado": 0,
-      "cancelado": 52,
-      "effectiveness": 66.67
+      "cancelado": 32,
+      "effectiveness": 58.44
     }
   },
   {
@@ -21370,11 +21370,11 @@
       }
     ],
     "metricas": {
-      "total": 138,
-      "delivered": 90,
+      "total": 77,
+      "delivered": 42,
       "anulado": 0,
-      "cancelado": 46,
-      "effectiveness": 65.22
+      "cancelado": 33,
+      "effectiveness": 54.55
     }
   },
   {
@@ -21791,11 +21791,11 @@
       }
     ],
     "metricas": {
-      "total": 204,
-      "delivered": 145,
+      "total": 101,
+      "delivered": 71,
       "anulado": 0,
-      "cancelado": 57,
-      "effectiveness": 71.08
+      "cancelado": 28,
+      "effectiveness": 70.3
     }
   },
   {
@@ -21883,11 +21883,11 @@
       }
     ],
     "metricas": {
-      "total": 59,
-      "delivered": 34,
+      "total": 6,
+      "delivered": 4,
       "anulado": 0,
-      "cancelado": 25,
-      "effectiveness": 57.63
+      "cancelado": 2,
+      "effectiveness": 66.67
     }
   },
   {
@@ -22024,11 +22024,11 @@
       }
     ],
     "metricas": {
-      "total": 142,
-      "delivered": 97,
+      "total": 61,
+      "delivered": 44,
       "anulado": 0,
-      "cancelado": 42,
-      "effectiveness": 68.31
+      "cancelado": 14,
+      "effectiveness": 72.13
     }
   },
   {
@@ -22116,11 +22116,11 @@
       }
     ],
     "metricas": {
-      "total": 110,
-      "delivered": 39,
+      "total": 55,
+      "delivered": 17,
       "anulado": 0,
-      "cancelado": 67,
-      "effectiveness": 35.45
+      "cancelado": 34,
+      "effectiveness": 30.91
     }
   },
   {
@@ -22308,11 +22308,11 @@
       }
     ],
     "metricas": {
-      "total": 13,
-      "delivered": 3,
+      "total": 8,
+      "delivered": 2,
       "anulado": 0,
-      "cancelado": 10,
-      "effectiveness": 23.08
+      "cancelado": 6,
+      "effectiveness": 25.0
     }
   },
   {
@@ -22386,10 +22386,10 @@
       }
     ],
     "metricas": {
-      "total": 10,
-      "delivered": 2,
+      "total": 5,
+      "delivered": 1,
       "anulado": 0,
-      "cancelado": 7,
+      "cancelado": 3,
       "effectiveness": 20.0
     }
   },
@@ -22542,11 +22542,11 @@
       }
     ],
     "metricas": {
-      "total": 159,
-      "delivered": 97,
+      "total": 69,
+      "delivered": 41,
       "anulado": 0,
-      "cancelado": 61,
-      "effectiveness": 61.01
+      "cancelado": 27,
+      "effectiveness": 59.42
     }
   },
   {
@@ -22613,11 +22613,11 @@
       }
     ],
     "metricas": {
-      "total": 130,
-      "delivered": 101,
+      "total": 20,
+      "delivered": 15,
       "anulado": 0,
-      "cancelado": 29,
-      "effectiveness": 77.69
+      "cancelado": 5,
+      "effectiveness": 75.0
     }
   },
   {
@@ -22663,11 +22663,11 @@
       }
     ],
     "metricas": {
-      "total": 171,
-      "delivered": 112,
+      "total": 29,
+      "delivered": 22,
       "anulado": 0,
-      "cancelado": 57,
-      "effectiveness": 65.5
+      "cancelado": 5,
+      "effectiveness": 75.86
     }
   },
   {
@@ -22783,11 +22783,11 @@
       }
     ],
     "metricas": {
-      "total": 396,
-      "delivered": 253,
+      "total": 206,
+      "delivered": 112,
       "anulado": 0,
-      "cancelado": 133,
-      "effectiveness": 63.89
+      "cancelado": 84,
+      "effectiveness": 54.37
     }
   },
   {
@@ -22917,11 +22917,11 @@
       }
     ],
     "metricas": {
-      "total": 192,
-      "delivered": 106,
+      "total": 71,
+      "delivered": 31,
       "anulado": 0,
-      "cancelado": 84,
-      "effectiveness": 55.21
+      "cancelado": 38,
+      "effectiveness": 43.66
     }
   },
   {
@@ -22981,11 +22981,11 @@
       }
     ],
     "metricas": {
-      "total": 212,
-      "delivered": 151,
+      "total": 84,
+      "delivered": 57,
       "anulado": 1,
-      "cancelado": 59,
-      "effectiveness": 71.23
+      "cancelado": 25,
+      "effectiveness": 67.86
     }
   },
   {
@@ -23129,11 +23129,11 @@
       }
     ],
     "metricas": {
-      "total": 133,
-      "delivered": 77,
+      "total": 52,
+      "delivered": 32,
       "anulado": 0,
-      "cancelado": 55,
-      "effectiveness": 57.89
+      "cancelado": 19,
+      "effectiveness": 61.54
     }
   },
   {
@@ -23298,11 +23298,11 @@
       }
     ],
     "metricas": {
-      "total": 507,
-      "delivered": 333,
+      "total": 232,
+      "delivered": 154,
       "anulado": 0,
-      "cancelado": 166,
-      "effectiveness": 65.68
+      "cancelado": 70,
+      "effectiveness": 66.38
     }
   },
   {
@@ -23467,11 +23467,11 @@
       }
     ],
     "metricas": {
-      "total": 440,
-      "delivered": 277,
+      "total": 207,
+      "delivered": 128,
       "anulado": 0,
-      "cancelado": 160,
-      "effectiveness": 62.95
+      "cancelado": 76,
+      "effectiveness": 61.84
     }
   },
   {
@@ -23524,11 +23524,11 @@
       }
     ],
     "metricas": {
-      "total": 130,
-      "delivered": 70,
+      "total": 52,
+      "delivered": 27,
       "anulado": 0,
-      "cancelado": 60,
-      "effectiveness": 53.85
+      "cancelado": 25,
+      "effectiveness": 51.92
     }
   },
   {
@@ -23686,11 +23686,11 @@
       }
     ],
     "metricas": {
-      "total": 214,
-      "delivered": 145,
+      "total": 101,
+      "delivered": 69,
       "anulado": 0,
-      "cancelado": 65,
-      "effectiveness": 67.76
+      "cancelado": 28,
+      "effectiveness": 68.32
     }
   },
   {
@@ -23835,11 +23835,11 @@
       }
     ],
     "metricas": {
-      "total": 191,
-      "delivered": 122,
+      "total": 89,
+      "delivered": 49,
       "anulado": 0,
-      "cancelado": 63,
-      "effectiveness": 63.87
+      "cancelado": 34,
+      "effectiveness": 55.06
     }
   },
   {
@@ -23913,11 +23913,11 @@
       }
     ],
     "metricas": {
-      "total": 141,
-      "delivered": 104,
+      "total": 78,
+      "delivered": 51,
       "anulado": 0,
-      "cancelado": 32,
-      "effectiveness": 73.76
+      "cancelado": 22,
+      "effectiveness": 65.38
     }
   },
   {
@@ -23970,11 +23970,11 @@
       }
     ],
     "metricas": {
-      "total": 214,
-      "delivered": 22,
+      "total": 80,
+      "delivered": 11,
       "anulado": 6,
-      "cancelado": 182,
-      "effectiveness": 10.28
+      "cancelado": 59,
+      "effectiveness": 13.75
     }
   },
   {
@@ -24027,11 +24027,11 @@
       }
     ],
     "metricas": {
-      "total": 182,
-      "delivered": 94,
+      "total": 84,
+      "delivered": 45,
       "anulado": 0,
-      "cancelado": 85,
-      "effectiveness": 51.65
+      "cancelado": 36,
+      "effectiveness": 53.57
     }
   },
   {
@@ -24112,11 +24112,11 @@
       }
     ],
     "metricas": {
-      "total": 237,
-      "delivered": 144,
+      "total": 104,
+      "delivered": 65,
       "anulado": 0,
-      "cancelado": 88,
-      "effectiveness": 60.76
+      "cancelado": 34,
+      "effectiveness": 62.5
     }
   },
   {
@@ -24169,10 +24169,10 @@
       }
     ],
     "metricas": {
-      "total": 26,
+      "total": 13,
       "delivered": 0,
       "anulado": 0,
-      "cancelado": 26,
+      "cancelado": 13,
       "effectiveness": 0.0
     }
   },
@@ -24233,11 +24233,11 @@
       }
     ],
     "metricas": {
-      "total": 31,
-      "delivered": 25,
+      "total": 25,
+      "delivered": 19,
       "anulado": 0,
       "cancelado": 6,
-      "effectiveness": 80.65
+      "effectiveness": 76.0
     }
   },
   {
@@ -24360,11 +24360,11 @@
       }
     ],
     "metricas": {
-      "total": 2,
+      "total": 0,
       "delivered": 0,
       "anulado": 0,
-      "cancelado": 2,
-      "effectiveness": 0.0
+      "cancelado": 0,
+      "effectiveness": null
     }
   },
   {
@@ -24410,11 +24410,11 @@
       }
     ],
     "metricas": {
-      "total": 17,
-      "delivered": 3,
+      "total": 9,
+      "delivered": 0,
       "anulado": 0,
-      "cancelado": 14,
-      "effectiveness": 17.65
+      "cancelado": 9,
+      "effectiveness": 0.0
     }
   },
   {
@@ -24474,11 +24474,11 @@
       }
     ],
     "metricas": {
-      "total": 30,
-      "delivered": 9,
+      "total": 6,
+      "delivered": 3,
       "anulado": 0,
-      "cancelado": 21,
-      "effectiveness": 30.0
+      "cancelado": 3,
+      "effectiveness": 50.0
     }
   },
   {
@@ -24744,11 +24744,11 @@
       }
     ],
     "metricas": {
-      "total": 7,
+      "total": 0,
       "delivered": 0,
       "anulado": 0,
-      "cancelado": 7,
-      "effectiveness": 0.0
+      "cancelado": 0,
+      "effectiveness": null
     }
   },
   {
@@ -25285,11 +25285,11 @@
       }
     ],
     "metricas": {
-      "total": 11,
-      "delivered": 3,
+      "total": 7,
+      "delivered": 2,
       "anulado": 0,
-      "cancelado": 8,
-      "effectiveness": 27.27
+      "cancelado": 5,
+      "effectiveness": 28.57
     }
   },
   {
@@ -25504,11 +25504,11 @@
       }
     ],
     "metricas": {
-      "total": 61,
-      "delivered": 40,
+      "total": 31,
+      "delivered": 18,
       "anulado": 0,
-      "cancelado": 19,
-      "effectiveness": 65.57
+      "cancelado": 11,
+      "effectiveness": 58.06
     }
   },
   {
@@ -25631,11 +25631,11 @@
       }
     ],
     "metricas": {
-      "total": 782,
-      "delivered": 543,
+      "total": 293,
+      "delivered": 202,
       "anulado": 0,
-      "cancelado": 237,
-      "effectiveness": 69.44
+      "cancelado": 89,
+      "effectiveness": 68.94
     }
   },
   {
@@ -25933,11 +25933,11 @@
       }
     ],
     "metricas": {
-      "total": 300,
-      "delivered": 201,
+      "total": 142,
+      "delivered": 86,
       "anulado": 0,
-      "cancelado": 99,
-      "effectiveness": 67.0
+      "cancelado": 56,
+      "effectiveness": 60.56
     }
   },
   {
@@ -26046,11 +26046,11 @@
       }
     ],
     "metricas": {
-      "total": 203,
-      "delivered": 114,
+      "total": 100,
+      "delivered": 47,
       "anulado": 0,
-      "cancelado": 85,
-      "effectiveness": 56.16
+      "cancelado": 49,
+      "effectiveness": 47.0
     }
   },
   {
@@ -26138,11 +26138,11 @@
       }
     ],
     "metricas": {
-      "total": 231,
-      "delivered": 173,
+      "total": 99,
+      "delivered": 73,
       "anulado": 0,
-      "cancelado": 56,
-      "effectiveness": 74.89
+      "cancelado": 24,
+      "effectiveness": 73.74
     }
   },
   {
@@ -26237,11 +26237,11 @@
       }
     ],
     "metricas": {
-      "total": 151,
-      "delivered": 108,
+      "total": 70,
+      "delivered": 46,
       "anulado": 0,
-      "cancelado": 39,
-      "effectiveness": 71.52
+      "cancelado": 20,
+      "effectiveness": 65.71
     }
   },
   {
@@ -26301,11 +26301,11 @@
       }
     ],
     "metricas": {
-      "total": 117,
-      "delivered": 77,
+      "total": 24,
+      "delivered": 13,
       "anulado": 0,
-      "cancelado": 40,
-      "effectiveness": 65.81
+      "cancelado": 11,
+      "effectiveness": 54.17
     }
   },
   {
@@ -26365,11 +26365,11 @@
       }
     ],
     "metricas": {
-      "total": 267,
-      "delivered": 180,
+      "total": 66,
+      "delivered": 42,
       "anulado": 0,
-      "cancelado": 87,
-      "effectiveness": 67.42
+      "cancelado": 24,
+      "effectiveness": 63.64
     }
   },
   {
@@ -26485,11 +26485,11 @@
       }
     ],
     "metricas": {
-      "total": 92,
-      "delivered": 53,
+      "total": 44,
+      "delivered": 24,
       "anulado": 0,
-      "cancelado": 37,
-      "effectiveness": 57.61
+      "cancelado": 18,
+      "effectiveness": 54.55
     }
   }
 ]

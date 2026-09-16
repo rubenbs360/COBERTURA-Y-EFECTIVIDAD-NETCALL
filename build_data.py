@@ -32,15 +32,19 @@ def process_data():
     if not csv_files:
         raise FileNotFoundError("No se encontraron archivos CSV de Dashboard Outbound.")
     
+    # Sort CSV files by modification date (newest first)
+    sorted_csv_files = sorted(csv_files, key=os.path.getmtime, reverse=True)
+    
     # Latest CSV (in-progress active month) for Advisor stats
-    latest_csv_path = max(csv_files, key=os.path.getmtime)
+    latest_csv_path = sorted_csv_files[0]
     print(f"Latest CSV (in-progress month) selected for Advisor Ranking: {latest_csv_path}")
     df_ranking_csv = pd.read_csv(latest_csv_path, encoding='utf-8', encoding_errors='ignore')
     
-    # Combined CSV files for overall effectiveness
+    # Combined CSV files for overall effectiveness: Current month (month 0) + Previous month (month -1) only
+    eff_csv_files = sorted_csv_files[:2]
     df_list = []
-    for f in csv_files:
-        print(f"Loading CSV for combined effectiveness: {f}")
+    for f in eff_csv_files:
+        print(f"Loading CSV for combined effectiveness (Mes Actual & Mes Pasado): {f}")
         df_list.append(pd.read_csv(f, encoding='utf-8', encoding_errors='ignore'))
     df_csv = pd.concat(df_list, ignore_index=True)
     
