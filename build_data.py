@@ -328,8 +328,13 @@ def process_data():
             if lat > 0:
                 lat = -abs(lat)
 
-            # 3. Handle extreme invalid coordinates (e.g. -13655885.0 for VES 7154 -> invalid Mercator conversion)
-            if lat < -25 or lat > 0 or lng > -60 or lng < -85:
+            # 3. Handle specific known bad coordinates in Excel
+            if sid == 8037: # TE SATELITE CAÑETE - Jr. Jorge Chavez 371, Imperial, Cañete
+                lat = -13.05948
+                lng = -76.35334
+
+            # 4. Handle extreme invalid coordinates outside Peru bounding box (Lat: -19 to 0, Lng: -82 to -68)
+            if lat < -19 or lat > 0 or lng > -68 or lng < -82:
                 lat = None
                 lng = None
             
