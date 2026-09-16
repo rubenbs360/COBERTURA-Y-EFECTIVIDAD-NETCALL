@@ -120,6 +120,10 @@ def convert_kmz():
         point_el = p.find('.//kml:Point', ns)
         
         if polygon_el is not None:
+            # Skip Jaen polygon requested by user
+            if name.upper().strip() in ["JAEN", "JAÉN", "ZONA JAEN", "ZONA JAÉN"]:
+                continue
+
             polygon_count += 1
             outer_el = polygon_el.find('.//kml:outerBoundaryIs//kml:coordinates', ns)
             if outer_el is not None and outer_el.text:
