@@ -151,29 +151,29 @@
               </div>
 
               <!-- Active Month Breakdown Card (Express, Programado, Tienda) -->
-              <div class="performance-card" style="margin-top: 0.75rem; background: rgba(30, 41, 59, 0.4); border: 1px solid rgba(255, 255, 255, 0.08); padding: 0.85rem;">
-                <div class="perf-title" style="font-size: 0.78rem; color: var(--text-muted); display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.6rem;">
-                  <span>⚡ EFECTIVIDAD MES ACTUAL</span>
-                  <span style="font-size: 0.65rem; background: rgba(37, 99, 235, 0.2); color: #60a5fa; padding: 2px 6px; border-radius: 4px; font-weight: 700;">EN CURSO</span>
+              <div class="performance-card month-breakdown-card" style="margin-top: 0.75rem; padding: 0.85rem; border-radius: 16px;">
+                <div class="perf-title" style="font-size: 0.78rem; display: flex; align-items: center; justify-content: space-between; margin-bottom: 0.6rem; font-weight: 700;">
+                  <span style="color: var(--text-active);">⚡ EFECTIVIDAD MES ACTUAL</span>
+                  <span style="font-size: 0.65rem; background: rgba(37, 99, 235, 0.15); color: #2563eb; padding: 2px 8px; border-radius: 6px; font-weight: 800; border: 1px solid rgba(37, 99, 235, 0.3);">EN CURSO</span>
                 </div>
 
-                <div style="display: flex; flex-direction: column; gap: 0.45rem;">
+                <div style="display: flex; flex-direction: column; gap: 0.5rem;">
                   <!-- Express Row -->
-                  <div style="display: flex; align-items: center; justify-content: space-between; padding: 0.4rem 0.6rem; background: rgba(16, 185, 129, 0.08); border-left: 3px solid #10b981; border-radius: 4px;">
-                    <span style="font-size: 0.78rem; font-weight: 700; color: #34d399;">🟢 Express:</span>
-                    <span style="font-size: 0.95rem; font-weight: 800; color: #10b981;" id="month-eff-express">0.0%</span>
+                  <div style="display: flex; align-items: center; justify-content: space-between; padding: 0.5rem 0.75rem; background: rgba(16, 185, 129, 0.12); border-left: 4px solid #10b981; border-radius: 8px;">
+                    <span style="font-size: 0.82rem; font-weight: 700; color: #047857;">🟢 Express:</span>
+                    <span style="font-size: 1.05rem; font-weight: 800; color: #059669;" id="month-eff-express">0.0%</span>
                   </div>
 
                   <!-- Programado Row -->
-                  <div style="display: flex; align-items: center; justify-content: space-between; padding: 0.4rem 0.6rem; background: rgba(245, 158, 11, 0.08); border-left: 3px solid #f59e0b; border-radius: 4px;">
-                    <span style="font-size: 0.78rem; font-weight: 700; color: #fbbf24;">🟡 Programado:</span>
-                    <span style="font-size: 0.95rem; font-weight: 800; color: #f59e0b;" id="month-eff-prog">0.0%</span>
+                  <div style="display: flex; align-items: center; justify-content: space-between; padding: 0.5rem 0.75rem; background: rgba(245, 158, 11, 0.12); border-left: 4px solid #f59e0b; border-radius: 8px;">
+                    <span style="font-size: 0.82rem; font-weight: 700; color: #b45309;">🟡 Programado:</span>
+                    <span style="font-size: 1.05rem; font-weight: 800; color: #d97706;" id="month-eff-prog">0.0%</span>
                   </div>
 
                   <!-- Retiro en Tienda Row -->
-                  <div style="display: flex; align-items: center; justify-content: space-between; padding: 0.4rem 0.6rem; background: rgba(239, 68, 68, 0.08); border-left: 3px solid #ef4444; border-radius: 4px;">
-                    <span style="font-size: 0.78rem; font-weight: 700; color: #f87171;">🔴 Tienda (Retiro):</span>
-                    <span style="font-size: 0.95rem; font-weight: 800; color: #ef4444;" id="month-eff-tienda">0.0%</span>
+                  <div style="display: flex; align-items: center; justify-content: space-between; padding: 0.5rem 0.75rem; background: rgba(239, 68, 68, 0.12); border-left: 4px solid #ef4444; border-radius: 8px;">
+                    <span style="font-size: 0.82rem; font-weight: 700; color: #b91c1c;">🔴 Tienda (Retiro):</span>
+                    <span style="font-size: 1.05rem; font-weight: 800; color: #dc2626;" id="month-eff-tienda">0.0%</span>
                   </div>
                 </div>
               </div>
@@ -675,6 +675,6 @@
      crossorigin=""></script>
   <script src="https://unpkg.com/@geoman-io/leaflet-geoman-free@latest/dist/leaflet-geoman.min.js"></script>
   <!-- App JS -->
-  <script src="app.js?v=2026-09-16T0035"></script>
+  <script src="app.js?v=2026-09-16T0045"></script>
 </body>
 </html>
