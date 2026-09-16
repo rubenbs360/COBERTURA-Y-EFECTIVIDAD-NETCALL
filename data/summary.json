@@ -18,5 +18,37 @@
     "Portabilidad Prepago": 2857,
     "Venta Regular / Alta": 2387,
     "Renovación": 8
+  },
+  "current_month_dispatch": {
+    "EXPRESS": {
+      "total": 7091,
+      "delivered": 5611,
+      "failed": 1392,
+      "effectiveness": 80.1
+    },
+    "EXPRESS PROGRAMADO": {
+      "total": 4,
+      "delivered": 4,
+      "failed": 0,
+      "effectiveness": 100.0
+    },
+    "No bop": {
+      "total": 310,
+      "delivered": 0,
+      "failed": 0,
+      "effectiveness": 0.0
+    },
+    "PROGRAMADO": {
+      "total": 3054,
+      "delivered": 1837,
+      "failed": 721,
+      "effectiveness": 71.8
+    },
+    "RETIRO EN TIENDA": {
+      "total": 2797,
+      "delivered": 1363,
+      "failed": 1163,
+      "effectiveness": 54.0
+    }
   }
 }

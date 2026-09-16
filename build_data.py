@@ -159,6 +159,21 @@ def process_data():
     
     global_effectiveness = (delivered / total_orders * 100) if total_orders > 0 else 0.0
     
+    # Calculate active month dispatch metrics for prompt display
+    current_month_dispatch = {}
+    for dtype, group in df_ranking_csv.groupby('Tipo_Despacho_Detalle'):
+        c_deliv = len(group[group['Estado_T'] == 'Entregado'])
+        c_anul = len(group[group['Estado_T'] == 'Anulado'])
+        c_canc = len(group[group['Estado_T'] == 'Cancelado'])
+        c_denom = c_deliv + c_anul + c_canc
+        c_eff = (c_deliv / c_denom * 100) if c_denom > 0 else 0.0
+        current_month_dispatch[str(dtype)] = {
+            "total": len(group),
+            "delivered": c_deliv,
+            "failed": c_anul + c_canc,
+            "effectiveness": round(c_eff, 1)
+        }
+
     summary_data = {
         "total_orders": total_orders,
         "delivered": delivered,
@@ -169,6 +184,7 @@ def process_data():
         "effectiveness": round(global_effectiveness, 2),
         "dispatch_types": df_csv['Tipo_Despacho_Detalle'].value_counts().to_dict(),
         "negocios": df_csv['Tipo_de_Negocio'].value_counts().to_dict(),
+        "current_month_dispatch": current_month_dispatch
     }
     
     # District / Department effectiveness (group by FRM_Distrito if present)

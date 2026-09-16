@@ -67,6 +67,23 @@ async function loadData() {
     renderAgentRanking();
     initRankingTab();
     
+    // Populate active month dispatch metrics card
+    if (summaryData && summaryData.current_month_dispatch) {
+      const cmd = summaryData.current_month_dispatch;
+      
+      const expInfo = cmd["EXPRESS"] || { effectiveness: 0 };
+      const progInfo = cmd["PROGRAMADO"] || { effectiveness: 0 };
+      const tiendaInfo = cmd["RETIRO EN TIENDA"] || { effectiveness: 0 };
+
+      const elExp = document.getElementById("month-eff-express");
+      const elProg = document.getElementById("month-eff-prog");
+      const elTienda = document.getElementById("month-eff-tienda");
+
+      if (elExp) elExp.textContent = `${expInfo.effectiveness}%`;
+      if (elProg) elProg.textContent = `${progInfo.effectiveness}%`;
+      if (elTienda) elTienda.textContent = `${tiendaInfo.effectiveness}%`;
+    }
+
     // Set update time in header
     document.getElementById("header-update-time").textContent = new Date().toLocaleDateString('es-PE', {
       day: 'numeric', month: 'short', year: 'numeric', hour: '2-digit', minute: '2-digit'
