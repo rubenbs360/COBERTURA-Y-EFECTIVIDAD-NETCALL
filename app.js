@@ -300,13 +300,11 @@ function updateMapMarkers() {
         return;
       }
       
-      // Skip stores with no orders generated (Effectiveness: N/A)
-      if (store.metricas.effectiveness === null) {
-        return;
-      }
-      
-      const markerColor = getEffectivenessColorClass(store.metricas.effectiveness);
-      const iconHtml = `<div class="store-map-marker bg-${markerColor}">${store.pickup === 'SI' ? '📦' : '🏪'}</div>`;
+      const markerColor = store.metricas && store.metricas.effectiveness !== null 
+        ? getEffectivenessColorClass(store.metricas.effectiveness) 
+        : 'neutral';
+      const isPickup = store.pickup && store.pickup.toString().toUpperCase().includes('S');
+      const iconHtml = `<div class="store-map-marker bg-${markerColor}">${isPickup ? '📦' : '🏪'}</div>`;
       
       const customIcon = L.divIcon({
         className: 'custom-div-icon',
@@ -455,10 +453,6 @@ function renderStoresList() {
       return false;
     }
     
-    // Skip stores with no orders generated (Effectiveness: N/A)
-    if (store.metricas.effectiveness === null) {
-      return false;
-    }
 
     // Search query filter (matches ID, name, department, provincia)
     if (searchQuery) {
