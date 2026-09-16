@@ -573,6 +573,26 @@ function selectStore(storeId) {
   else if (statusLvl === "Crítico") statusEl.classList.add("status-red");
   else statusEl.classList.add("status-gray");
 
+  // Supervisor Authorization Alert for Low Effectiveness (< 50%)
+  const alertContainer = document.getElementById("det-alert-container");
+  if (alertContainer) {
+    if (eff !== null && eff < 50.0) {
+      alertContainer.innerHTML = `
+        <div style="padding: 10px 14px; background: #fff1f2; border: 1.5px solid #fecdd3; border-radius: 8px; color: #be123c; font-size: 0.85rem; font-weight: 600; display: flex; align-items: center; gap: 10px; box-shadow: 0 2px 8px rgba(225, 29, 72, 0.1);">
+          <span style="font-size: 1.3rem;">⚠️</span>
+          <div>
+            <div style="font-size: 0.9rem; font-weight: 700; color: #9f1239;">ATENCIÓN: TIENDA EN NIVEL CRÍTICO (${eff}%)</div>
+            <div style="font-weight: 400; color: #be123c; margin-top: 2px;">
+              Esta tienda tiene menos del 50% de efectividad. Se requiere <strong>AUTORIZACIÓN DEL SUPERVISOR</strong> antes de tramitar o derivar un pedido.
+            </div>
+          </div>
+        </div>
+      `;
+    } else {
+      alertContainer.innerHTML = "";
+    }
+  }
+
   // Hours
   document.getElementById("det-hours-lv").textContent = store.horario_lv;
   document.getElementById("det-hours-s").textContent = store.horario_s;
