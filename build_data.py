@@ -313,6 +313,21 @@ def process_data():
             lng = float(lng) if pd.notna(lng) and str(lng).strip() not in ['', '-'] else None
         except ValueError:
             lng = None
+
+        # Auto-correct inverted or invalid coordinates for Peru
+        if lat is not None and lng is not None:
+            # 1. Swapped / Inverted coordinates (Lat was placed in Lng column and vice-versa)
+            if -85 <= lat <= -65 and -25 <= lng <= 5:
+                lat, lng = lng, lat
+
+            # 2. Positive latitude in Peru (Lat should be negative in Southern Hemisphere)
+            if lat > 0:
+                lat = -abs(lat)
+
+            # 3. Handle extreme invalid coordinates (e.g. -13655885.0 for VES 7154 -> invalid Mercator conversion)
+            if lat < -25 or lat > 0 or lng > -60 or lng < -85:
+                lat = None
+                lng = None
             
         # Timings
         h_entry_lv = clean_time(row.get('Horario Entrada (L-V)', ''))

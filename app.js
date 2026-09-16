@@ -313,6 +313,15 @@ function updateMapMarkers() {
         iconAnchor: [14, 14]
       });
 
+      const isLowEffectiveness = store.metricas.effectiveness !== null && store.metricas.effectiveness < 50.0;
+      
+      const warningBanner = isLowEffectiveness ? `
+        <div style="margin-top:0.5rem; padding:0.5rem; background:#fff1f2; border:1px solid #fecdd3; border-radius:6px; color:#be123C; font-size:0.75rem; font-weight:600; text-align:center; line-height:1.3;">
+          ⚠️ <strong>ATENCIÓN: EFECTIVIDAD ${store.metricas.effectiveness}%</strong><br>
+          <span style="font-weight:400; color:#9f1239;">Esta tienda tiene menos del 50% de efectividad. Se requiere <strong>AUTORIZACIÓN DEL SUPERVISOR</strong> antes de derivar el pedido.</span>
+        </div>
+      ` : '';
+
       const markerPopup = `
         <div class="map-popup-container">
           <div class="map-popup-header">🏪 ${store.nombre}</div>
@@ -332,7 +341,8 @@ function updateMapMarkers() {
             <span class="map-popup-lbl">Efectividad Tienda:</span>
             <span class="map-popup-val ${markerColor}">${store.metricas.effectiveness !== null ? store.metricas.effectiveness + '%' : 'N/A'}</span>
           </div>
-          <button class="map-popup-btn" style="background:var(--accent-purple); color:#fff;" onclick="viewStoreDetail(${store.id_pdv})">
+          ${warningBanner}
+          <button class="map-popup-btn" style="background:var(--accent-purple); color:#fff; margin-top:0.5rem;" onclick="viewStoreDetail(${store.id_pdv})">
             🔍 Ver Detalles y Nómina
           </button>
         </div>
