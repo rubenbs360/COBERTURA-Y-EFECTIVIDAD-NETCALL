@@ -48,6 +48,29 @@ def process_data():
         df_list.append(pd.read_csv(f, encoding='utf-8', encoding_errors='ignore'))
     df_csv = pd.concat(df_list, ignore_index=True)
     
+    # Load disabled stores list if present (tiendas_para_dar_de_baja.xlsx)
+    disabled_store_ids = set()
+    baja_pattern = r"REPORTERIA_PROYECTO_COBERTURERO\*baja*.xlsx"
+    baja_files = glob.glob(baja_pattern)
+    if baja_files:
+        baja_path = max(baja_files, key=os.path.getmtime)
+        print(f"Loading disabled stores list from: {baja_path}")
+        try:
+            df_baja = pd.read_excel(baja_path)
+            pdv_col = None
+            for c in df_baja.columns:
+                if 'PDV' in str(c).upper() or 'ID' in str(c).upper():
+                    pdv_col = c
+                    break
+            if pdv_col is None:
+                pdv_col = df_baja.columns[0]
+            
+            ids = pd.to_numeric(df_baja[pdv_col], errors='coerce').dropna().astype(int)
+            disabled_store_ids = set(ids.tolist())
+            print(f"Found {len(disabled_store_ids)} disabled stores to filter out: {disabled_store_ids}")
+        except Exception as e:
+            print(f"Error reading disabled stores file: {e}")
+
     print(f"Loading Excel Store Directory from: {XLSX_PATH}")
     xl = pd.ExcelFile(XLSX_PATH)
     
@@ -309,6 +332,10 @@ def process_data():
     consolidated_stores = []
     for _, row in df_sup.iterrows():
         sid = int(row['ID_PDV'])
+        
+        # Skip stores that are marked for deactivation / baja
+        if sid in disabled_store_ids:
+            continue
         
         # Look up effectiveness
         eff_info = store_eff_dict.get(sid, {
