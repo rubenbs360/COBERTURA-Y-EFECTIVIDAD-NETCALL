@@ -1,29 +1,29 @@
 {
-  "total_orders": 46264,
-  "delivered": 33955,
-  "anulado": 7342,
-  "cancelado": 3688,
-  "pendiente": 1049,
-  "no_bop": 230,
-  "effectiveness": 73.39,
+  "total_orders": 47230,
+  "delivered": 34700,
+  "anulado": 7528,
+  "cancelado": 3785,
+  "pendiente": 992,
+  "no_bop": 225,
+  "effectiveness": 73.47,
   "dispatch_types": {
-    "EXPRESS": 27179,
-    "PROGRAMADO": 10777,
-    "RETIRO EN TIENDA": 8092,
-    "No bop": 206,
+    "EXPRESS": 27723,
+    "PROGRAMADO": 10998,
+    "RETIRO EN TIENDA": 8280,
+    "No bop": 219,
     "EXPRESS PROGRAMADO": 10
   },
   "negocios": {
-    "Portabilidad Postpago": 39653,
-    "Venta Regular / Alta": 3734,
-    "Portabilidad Prepago": 2877
+    "Portabilidad Postpago": 40447,
+    "Venta Regular / Alta": 3814,
+    "Portabilidad Prepago": 2969
   },
   "current_month_dispatch": {
     "EXPRESS": {
-      "total": 11871,
-      "delivered": 9584,
-      "failed": 2060,
-      "effectiveness": 82.3
+      "total": 12415,
+      "delivered": 9980,
+      "failed": 2163,
+      "effectiveness": 82.2
     },
     "EXPRESS PROGRAMADO": {
       "total": 4,
@@ -32,22 +32,22 @@
       "effectiveness": 100.0
     },
     "No bop": {
-      "total": 54,
+      "total": 67,
       "delivered": 0,
       "failed": 0,
       "effectiveness": 0.0
     },
     "PROGRAMADO": {
-      "total": 4762,
-      "delivered": 3118,
-      "failed": 1058,
-      "effectiveness": 74.7
+      "total": 4983,
+      "delivered": 3345,
+      "failed": 1139,
+      "effectiveness": 74.6
     },
     "RETIRO EN TIENDA": {
-      "total": 3203,
-      "delivered": 1936,
-      "failed": 1035,
-      "effectiveness": 65.2
+      "total": 3391,
+      "delivered": 2058,
+      "failed": 1134,
+      "effectiveness": 64.5
     }
   }
 }

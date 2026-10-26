@@ -19,11 +19,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 26,
-    "delivered": 18,
-    "anulado": 4,
+    "total": 27,
+    "delivered": 20,
+    "anulado": 5,
     "cancelado": 2,
-    "effectiveness": 69.23
+    "effectiveness": 74.07
   },
   {
     "usuario": "NET_AAPOLAYACAC",
@@ -32,11 +32,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 87,
+    "total": 89,
     "delivered": 67,
     "anulado": 16,
     "cancelado": 3,
-    "effectiveness": 77.01
+    "effectiveness": 75.28
   },
   {
     "usuario": "NET_AARANAS",
@@ -45,11 +45,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 55,
-    "delivered": 45,
+    "total": 57,
+    "delivered": 47,
     "anulado": 6,
-    "cancelado": 2,
-    "effectiveness": 81.82
+    "cancelado": 4,
+    "effectiveness": 82.46
   },
   {
     "usuario": "NET_AARNAIZA",
@@ -71,11 +71,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q2",
     "cargo": "ASESOR",
-    "total": 40,
+    "total": 43,
     "delivered": 28,
     "anulado": 6,
     "cancelado": 5,
-    "effectiveness": 70.0
+    "effectiveness": 65.12
   },
   {
     "usuario": "NET_AAVENDANOR",
@@ -100,7 +100,7 @@
     "total": 79,
     "delivered": 44,
     "anulado": 11,
-    "cancelado": 21,
+    "cancelado": 24,
     "effectiveness": 55.7
   },
   {
@@ -123,11 +123,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 13,
-    "delivered": 10,
+    "total": 15,
+    "delivered": 13,
     "anulado": 0,
     "cancelado": 0,
-    "effectiveness": 76.92
+    "effectiveness": 86.67
   },
   {
     "usuario": "NET_ACASTROS",
@@ -136,11 +136,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q2",
     "cargo": "ASESOR",
-    "total": 141,
-    "delivered": 114,
-    "anulado": 18,
+    "total": 147,
+    "delivered": 119,
+    "anulado": 21,
     "cancelado": 3,
-    "effectiveness": 80.85
+    "effectiveness": 80.95
   },
   {
     "usuario": "NET_ACHOQUEB",
@@ -149,11 +149,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 10,
+    "total": 11,
     "delivered": 3,
     "anulado": 4,
     "cancelado": 1,
-    "effectiveness": 30.0
+    "effectiveness": 27.27
   },
   {
     "usuario": "NET_ACONTRERASG",
@@ -162,11 +162,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 17,
-    "delivered": 13,
+    "total": 18,
+    "delivered": 15,
     "anulado": 2,
     "cancelado": 1,
-    "effectiveness": 76.47
+    "effectiveness": 83.33
   },
   {
     "usuario": "NET_ACORDOVAS",
@@ -175,11 +175,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 28,
-    "delivered": 23,
+    "total": 30,
+    "delivered": 24,
     "anulado": 3,
     "cancelado": 2,
-    "effectiveness": 82.14
+    "effectiveness": 80.0
   },
   {
     "usuario": "NET_ACQUISPE",
@@ -188,11 +188,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 48,
-    "delivered": 43,
+    "total": 49,
+    "delivered": 44,
     "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 89.58
+    "effectiveness": 89.8
   },
   {
     "usuario": "NET_ACUEVAC",
@@ -201,11 +201,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 86,
-    "delivered": 65,
+    "total": 89,
+    "delivered": 68,
     "anulado": 5,
-    "cancelado": 12,
-    "effectiveness": 75.58
+    "cancelado": 14,
+    "effectiveness": 76.4
   },
   {
     "usuario": "NET_ACULQUITANM",
@@ -214,11 +214,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 23,
+    "total": 26,
     "delivered": 15,
     "anulado": 5,
-    "cancelado": 2,
-    "effectiveness": 65.22
+    "cancelado": 3,
+    "effectiveness": 57.69
   },
   {
     "usuario": "NET_ADIAZCAJO",
@@ -227,11 +227,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 27,
-    "delivered": 20,
+    "total": 29,
+    "delivered": 21,
     "anulado": 5,
     "cancelado": 1,
-    "effectiveness": 74.07
+    "effectiveness": 72.41
   },
   {
     "usuario": "NET_ADOMINGUEZF",
@@ -240,11 +240,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 31,
+    "total": 33,
     "delivered": 26,
     "anulado": 3,
     "cancelado": 2,
-    "effectiveness": 83.87
+    "effectiveness": 78.79
   },
   {
     "usuario": "NET_ADOROTEOSAL",
@@ -253,11 +253,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 102,
-    "delivered": 73,
-    "anulado": 12,
+    "total": 108,
+    "delivered": 79,
+    "anulado": 15,
     "cancelado": 6,
-    "effectiveness": 71.57
+    "effectiveness": 73.15
   },
   {
     "usuario": "NET_ADRIVERAM",
@@ -292,11 +292,11 @@
     "coordinador": "KARLA LAMA",
     "cuartil": "N/C",
     "cargo": "FORMADOR",
-    "total": 18,
-    "delivered": 4,
+    "total": 23,
+    "delivered": 6,
     "anulado": 9,
     "cancelado": 0,
-    "effectiveness": 22.22
+    "effectiveness": 26.09
   },
   {
     "usuario": "NET_AJULCAL",
@@ -319,10 +319,10 @@
     "cuartil": "Q2",
     "cargo": "ASESOR",
     "total": 37,
-    "delivered": 28,
+    "delivered": 30,
     "anulado": 2,
     "cancelado": 5,
-    "effectiveness": 75.68
+    "effectiveness": 81.08
   },
   {
     "usuario": "NET_AMCORDOVAC",
@@ -357,11 +357,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 41,
-    "delivered": 25,
+    "total": 43,
+    "delivered": 28,
     "anulado": 9,
     "cancelado": 4,
-    "effectiveness": 60.98
+    "effectiveness": 65.12
   },
   {
     "usuario": "NET_AMORALEST",
@@ -370,8 +370,8 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 28,
-    "delivered": 20,
+    "total": 35,
+    "delivered": 25,
     "anulado": 6,
     "cancelado": 0,
     "effectiveness": 71.43
@@ -396,11 +396,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 46,
-    "delivered": 37,
+    "total": 49,
+    "delivered": 40,
     "anulado": 5,
     "cancelado": 2,
-    "effectiveness": 80.43
+    "effectiveness": 81.63
   },
   {
     "usuario": "NET_APANIHUARAA",
@@ -435,8 +435,8 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 9,
-    "delivered": 6,
+    "total": 12,
+    "delivered": 8,
     "anulado": 1,
     "cancelado": 0,
     "effectiveness": 66.67
@@ -474,11 +474,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 35,
+    "total": 38,
     "delivered": 27,
     "anulado": 7,
     "cancelado": 1,
-    "effectiveness": 77.14
+    "effectiveness": 71.05
   },
   {
     "usuario": "NET_ARIOST",
@@ -487,11 +487,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 56,
+    "total": 59,
     "delivered": 39,
     "anulado": 16,
     "cancelado": 0,
-    "effectiveness": 69.64
+    "effectiveness": 66.1
   },
   {
     "usuario": "NET_ARIVERA",
@@ -500,24 +500,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 99,
-    "delivered": 72,
-    "anulado": 8,
-    "cancelado": 17,
-    "effectiveness": 72.73
-  },
-  {
-    "usuario": "NET_ARIVERAQ",
-    "nombre": "NET_ARIVERAQ",
-    "supervisor": "No registrado",
-    "coordinador": "No registrado",
-    "cuartil": "N/A",
-    "cargo": "N/A",
-    "total": 1,
-    "delivered": 0,
-    "anulado": 0,
-    "cancelado": 0,
-    "effectiveness": 0.0
+    "total": 104,
+    "delivered": 75,
+    "anulado": 10,
+    "cancelado": 19,
+    "effectiveness": 72.12
   },
   {
     "usuario": "NET_ARODRIGUEZF",
@@ -526,11 +513,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 16,
-    "delivered": 10,
+    "total": 17,
+    "delivered": 13,
     "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 62.5
+    "effectiveness": 76.47
   },
   {
     "usuario": "NET_AROJASF",
@@ -539,11 +526,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 31,
-    "delivered": 18,
+    "total": 33,
+    "delivered": 19,
     "anulado": 10,
     "cancelado": 3,
-    "effectiveness": 58.06
+    "effectiveness": 57.58
   },
   {
     "usuario": "NET_ASALASF",
@@ -552,11 +539,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 20,
-    "delivered": 16,
+    "total": 21,
+    "delivered": 18,
     "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 80.0
+    "effectiveness": 85.71
   },
   {
     "usuario": "NET_ASANTIAGOT",
@@ -591,11 +578,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 22,
+    "total": 31,
     "delivered": 11,
-    "anulado": 5,
-    "cancelado": 1,
-    "effectiveness": 50.0
+    "anulado": 12,
+    "cancelado": 3,
+    "effectiveness": 35.48
   },
   {
     "usuario": "NET_ATISNADOA",
@@ -604,8 +591,8 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 36,
-    "delivered": 24,
+    "total": 42,
+    "delivered": 28,
     "anulado": 6,
     "cancelado": 5,
     "effectiveness": 66.67
@@ -617,11 +604,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 70,
-    "delivered": 44,
-    "anulado": 16,
+    "total": 76,
+    "delivered": 45,
+    "anulado": 17,
     "cancelado": 6,
-    "effectiveness": 62.86
+    "effectiveness": 59.21
   },
   {
     "usuario": "NET_ATRIVINOS",
@@ -630,11 +617,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 64,
-    "delivered": 44,
+    "total": 67,
+    "delivered": 51,
     "anulado": 10,
-    "cancelado": 5,
-    "effectiveness": 68.75
+    "cancelado": 6,
+    "effectiveness": 76.12
   },
   {
     "usuario": "NET_ATUMEH",
@@ -643,11 +630,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 31,
-    "delivered": 18,
+    "total": 33,
+    "delivered": 19,
     "anulado": 9,
     "cancelado": 1,
-    "effectiveness": 58.06
+    "effectiveness": 57.58
   },
   {
     "usuario": "NET_AUCEDAENEQU",
@@ -669,11 +656,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 5,
-    "delivered": 4,
-    "anulado": 0,
-    "cancelado": 1,
-    "effectiveness": 80.0
+    "total": 8,
+    "delivered": 7,
+    "anulado": 1,
+    "cancelado": 0,
+    "effectiveness": 87.5
   },
   {
     "usuario": "NET_AVIVANCOE",
@@ -682,11 +669,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR",
-    "total": 20,
+    "total": 21,
     "delivered": 17,
     "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 85.0
+    "effectiveness": 80.95
   },
   {
     "usuario": "NET_AYMENDIGUEN",
@@ -695,11 +682,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 6,
-    "delivered": 3,
+    "total": 7,
+    "delivered": 4,
     "anulado": 1,
     "cancelado": 2,
-    "effectiveness": 50.0
+    "effectiveness": 57.14
   },
   {
     "usuario": "NET_AYMESTAN",
@@ -708,11 +695,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 26,
+    "total": 27,
     "delivered": 17,
     "anulado": 3,
     "cancelado": 5,
-    "effectiveness": 65.38
+    "effectiveness": 62.96
   },
   {
     "usuario": "NET_AYROJASS",
@@ -721,11 +708,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 50,
-    "delivered": 39,
+    "total": 51,
+    "delivered": 40,
     "anulado": 10,
     "cancelado": 0,
-    "effectiveness": 78.0
+    "effectiveness": 78.43
   },
   {
     "usuario": "NET_AYZAGUIRREH",
@@ -737,7 +724,7 @@
     "total": 25,
     "delivered": 19,
     "anulado": 3,
-    "cancelado": 2,
+    "cancelado": 3,
     "effectiveness": 76.0
   },
   {
@@ -760,11 +747,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 95,
-    "delivered": 70,
+    "total": 98,
+    "delivered": 74,
     "anulado": 12,
     "cancelado": 9,
-    "effectiveness": 73.68
+    "effectiveness": 75.51
   },
   {
     "usuario": "NET_BAYALAR",
@@ -786,11 +773,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 46,
-    "delivered": 30,
+    "total": 48,
+    "delivered": 32,
     "anulado": 12,
     "cancelado": 2,
-    "effectiveness": 65.22
+    "effectiveness": 66.67
   },
   {
     "usuario": "NET_BCUSQUISIVA",
@@ -799,11 +786,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR",
-    "total": 53,
+    "total": 54,
     "delivered": 41,
     "anulado": 11,
     "cancelado": 0,
-    "effectiveness": 77.36
+    "effectiveness": 75.93
   },
   {
     "usuario": "NET_BDELGADOC",
@@ -813,10 +800,10 @@
     "cuartil": "Q4",
     "cargo": "ASESOR",
     "total": 24,
-    "delivered": 11,
+    "delivered": 13,
     "anulado": 8,
-    "cancelado": 0,
-    "effectiveness": 45.83
+    "cancelado": 1,
+    "effectiveness": 54.17
   },
   {
     "usuario": "NET_BHUACHUHUIB",
@@ -839,10 +826,10 @@
     "cuartil": "N/A",
     "cargo": "N/A",
     "total": 15,
-    "delivered": 9,
-    "anulado": 3,
+    "delivered": 11,
+    "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 60.0
+    "effectiveness": 73.33
   },
   {
     "usuario": "NET_BLEONP",
@@ -878,10 +865,10 @@
     "cuartil": "Q2",
     "cargo": "ASESOR",
     "total": 54,
-    "delivered": 42,
+    "delivered": 45,
     "anulado": 9,
     "cancelado": 0,
-    "effectiveness": 77.78
+    "effectiveness": 83.33
   },
   {
     "usuario": "NET_BTRUJILLOT",
@@ -890,11 +877,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 71,
-    "delivered": 62,
+    "total": 75,
+    "delivered": 64,
     "anulado": 2,
     "cancelado": 5,
-    "effectiveness": 87.32
+    "effectiveness": 85.33
   },
   {
     "usuario": "NET_BYAUYOD",
@@ -904,10 +891,10 @@
     "cuartil": "Q1",
     "cargo": "ASESOR",
     "total": 31,
-    "delivered": 23,
+    "delivered": 25,
     "anulado": 5,
-    "cancelado": 0,
-    "effectiveness": 74.19
+    "cancelado": 1,
+    "effectiveness": 80.65
   },
   {
     "usuario": "NET_BZUASNABARF",
@@ -916,11 +903,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR",
-    "total": 29,
+    "total": 31,
     "delivered": 25,
     "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 86.21
+    "effectiveness": 80.65
   },
   {
     "usuario": "NET_CALCAB",
@@ -929,11 +916,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q2",
     "cargo": "ASESOR",
-    "total": 33,
-    "delivered": 24,
+    "total": 37,
+    "delivered": 25,
     "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 72.73
+    "effectiveness": 67.57
   },
   {
     "usuario": "NET_CALVANC",
@@ -943,10 +930,10 @@
     "cuartil": "Q4",
     "cargo": "ASESOR",
     "total": 44,
-    "delivered": 36,
+    "delivered": 37,
     "anulado": 5,
     "cancelado": 1,
-    "effectiveness": 81.82
+    "effectiveness": 84.09
   },
   {
     "usuario": "NET_CASCONAT",
@@ -968,11 +955,11 @@
     "coordinador": "WALTER VILLARREAL",
     "cuartil": "N/C",
     "cargo": "SUPENACIONES",
-    "total": 158,
-    "delivered": 118,
-    "anulado": 16,
+    "total": 168,
+    "delivered": 129,
+    "anulado": 19,
     "cancelado": 10,
-    "effectiveness": 74.68
+    "effectiveness": 76.79
   },
   {
     "usuario": "NET_CCANOP",
@@ -1007,11 +994,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 45,
-    "delivered": 42,
+    "total": 47,
+    "delivered": 43,
     "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 93.33
+    "effectiveness": 91.49
   },
   {
     "usuario": "NET_CCURAYG",
@@ -1033,11 +1020,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 20,
-    "delivered": 13,
+    "total": 21,
+    "delivered": 14,
     "anulado": 3,
     "cancelado": 3,
-    "effectiveness": 65.0
+    "effectiveness": 66.67
   },
   {
     "usuario": "NET_CDIAZG",
@@ -1059,11 +1046,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 38,
+    "total": 39,
     "delivered": 24,
     "anulado": 8,
-    "cancelado": 5,
-    "effectiveness": 63.16
+    "cancelado": 6,
+    "effectiveness": 61.54
   },
   {
     "usuario": "NET_CGRANADOSC",
@@ -1072,11 +1059,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q2",
     "cargo": "ASESOR",
-    "total": 31,
+    "total": 33,
     "delivered": 25,
     "anulado": 6,
     "cancelado": 0,
-    "effectiveness": 80.65
+    "effectiveness": 75.76
   },
   {
     "usuario": "NET_CIOLAYAR",
@@ -1085,11 +1072,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 111,
-    "delivered": 86,
+    "total": 121,
+    "delivered": 88,
     "anulado": 16,
-    "cancelado": 6,
-    "effectiveness": 77.48
+    "cancelado": 8,
+    "effectiveness": 72.73
   },
   {
     "usuario": "NET_CLARIOSJ",
@@ -1098,11 +1085,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 18,
+    "total": 20,
     "delivered": 11,
     "anulado": 3,
     "cancelado": 2,
-    "effectiveness": 61.11
+    "effectiveness": 55.0
   },
   {
     "usuario": "NET_CLOPEZA",
@@ -1112,10 +1099,10 @@
     "cuartil": "Q4",
     "cargo": "ASESOR",
     "total": 41,
-    "delivered": 30,
+    "delivered": 31,
     "anulado": 7,
     "cancelado": 2,
-    "effectiveness": 73.17
+    "effectiveness": 75.61
   },
   {
     "usuario": "NET_CMDELACRUZV",
@@ -1124,11 +1111,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR",
-    "total": 49,
-    "delivered": 26,
+    "total": 51,
+    "delivered": 28,
     "anulado": 7,
     "cancelado": 10,
-    "effectiveness": 53.06
+    "effectiveness": 54.9
   },
   {
     "usuario": "NET_CMENESESV",
@@ -1138,10 +1125,10 @@
     "cuartil": "Q1",
     "cargo": "ASESOR",
     "total": 36,
-    "delivered": 20,
+    "delivered": 23,
     "anulado": 8,
     "cancelado": 5,
-    "effectiveness": 55.56
+    "effectiveness": 63.89
   },
   {
     "usuario": "NET_CNYANGUAL",
@@ -1176,11 +1163,11 @@
     "coordinador": "JONATHAN CONTRERAS",
     "cuartil": "N/C",
     "cargo": "BACKOFFICE",
-    "total": 19,
-    "delivered": 12,
+    "total": 23,
+    "delivered": 13,
     "anulado": 6,
     "cancelado": 0,
-    "effectiveness": 63.16
+    "effectiveness": 56.52
   },
   {
     "usuario": "NET_CQUISPITONO",
@@ -1204,7 +1191,7 @@
     "cargo": "ASESOR",
     "total": 29,
     "delivered": 21,
-    "anulado": 5,
+    "anulado": 6,
     "cancelado": 0,
     "effectiveness": 72.41
   },
@@ -1215,11 +1202,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 84,
-    "delivered": 71,
+    "total": 89,
+    "delivered": 79,
     "anulado": 8,
     "cancelado": 2,
-    "effectiveness": 84.52
+    "effectiveness": 88.76
   },
   {
     "usuario": "NET_CSALAZARP",
@@ -1228,11 +1215,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 45,
-    "delivered": 28,
+    "total": 49,
+    "delivered": 30,
     "anulado": 7,
     "cancelado": 6,
-    "effectiveness": 62.22
+    "effectiveness": 61.22
   },
   {
     "usuario": "NET_CSANTIAGOQ",
@@ -1241,11 +1228,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 37,
-    "delivered": 34,
+    "total": 38,
+    "delivered": 35,
     "anulado": 2,
     "cancelado": 1,
-    "effectiveness": 91.89
+    "effectiveness": 92.11
   },
   {
     "usuario": "NET_CTRAVIM",
@@ -1255,10 +1242,10 @@
     "cuartil": "Q3",
     "cargo": "ASESOR",
     "total": 36,
-    "delivered": 27,
+    "delivered": 29,
     "anulado": 6,
     "cancelado": 0,
-    "effectiveness": 75.0
+    "effectiveness": 80.56
   },
   {
     "usuario": "NET_CULLOAC",
@@ -1267,11 +1254,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 48,
+    "total": 53,
     "delivered": 36,
     "anulado": 5,
     "cancelado": 7,
-    "effectiveness": 75.0
+    "effectiveness": 67.92
   },
   {
     "usuario": "NET_CURBANOM",
@@ -1280,11 +1267,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 20,
-    "delivered": 14,
+    "total": 24,
+    "delivered": 16,
     "anulado": 1,
-    "cancelado": 2,
-    "effectiveness": 70.0
+    "cancelado": 3,
+    "effectiveness": 66.67
   },
   {
     "usuario": "NET_DAYLASF",
@@ -1306,11 +1293,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR",
-    "total": 44,
-    "delivered": 28,
+    "total": 47,
+    "delivered": 29,
     "anulado": 13,
     "cancelado": 3,
-    "effectiveness": 63.64
+    "effectiveness": 61.7
   },
   {
     "usuario": "NET_DEGALLARDOA",
@@ -1321,7 +1308,7 @@
     "cargo": "ASESOR",
     "total": 50,
     "delivered": 37,
-    "anulado": 11,
+    "anulado": 12,
     "cancelado": 1,
     "effectiveness": 74.0
   },
@@ -1345,9 +1332,9 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 5,
+    "total": 7,
     "delivered": 0,
-    "anulado": 0,
+    "anulado": 5,
     "cancelado": 0,
     "effectiveness": 0.0
   },
@@ -1358,11 +1345,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 30,
-    "delivered": 25,
+    "total": 31,
+    "delivered": 26,
     "anulado": 2,
     "cancelado": 2,
-    "effectiveness": 83.33
+    "effectiveness": 83.87
   },
   {
     "usuario": "NET_DGHERRERA",
@@ -1371,11 +1358,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 24,
+    "total": 25,
     "delivered": 23,
     "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 95.83
+    "effectiveness": 92.0
   },
   {
     "usuario": "NET_DHERNANDEZH",
@@ -1384,11 +1371,11 @@
     "coordinador": "OJT",
     "cuartil": "OJT",
     "cargo": "ASESOR",
-    "total": 26,
-    "delivered": 9,
+    "total": 28,
+    "delivered": 10,
     "anulado": 14,
     "cancelado": 1,
-    "effectiveness": 34.62
+    "effectiveness": 35.71
   },
   {
     "usuario": "NET_DHUAYACGONZ",
@@ -1397,11 +1384,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 39,
-    "delivered": 24,
-    "anulado": 9,
+    "total": 40,
+    "delivered": 25,
+    "anulado": 10,
     "cancelado": 3,
-    "effectiveness": 61.54
+    "effectiveness": 62.5
   },
   {
     "usuario": "NET_DLIMAYMANTC",
@@ -1425,8 +1412,8 @@
     "cargo": "N/A",
     "total": 3,
     "delivered": 0,
-    "anulado": 0,
-    "cancelado": 2,
+    "anulado": 2,
+    "cancelado": 0,
     "effectiveness": 0.0
   },
   {
@@ -1462,11 +1449,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 63,
-    "delivered": 38,
-    "anulado": 14,
-    "cancelado": 5,
-    "effectiveness": 60.32
+    "total": 69,
+    "delivered": 41,
+    "anulado": 18,
+    "cancelado": 7,
+    "effectiveness": 59.42
   },
   {
     "usuario": "NET_DREVILLAN",
@@ -1475,11 +1462,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 28,
+    "total": 30,
     "delivered": 19,
-    "anulado": 8,
-    "cancelado": 0,
-    "effectiveness": 67.86
+    "anulado": 9,
+    "cancelado": 1,
+    "effectiveness": 63.33
   },
   {
     "usuario": "NET_DRUIZR",
@@ -1488,11 +1475,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 21,
-    "delivered": 14,
-    "anulado": 3,
-    "cancelado": 1,
-    "effectiveness": 66.67
+    "total": 22,
+    "delivered": 15,
+    "anulado": 4,
+    "cancelado": 2,
+    "effectiveness": 68.18
   },
   {
     "usuario": "NET_DVALVERDEM",
@@ -1501,11 +1488,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 46,
-    "delivered": 35,
+    "total": 50,
+    "delivered": 37,
     "anulado": 4,
-    "cancelado": 3,
-    "effectiveness": 76.09
+    "cancelado": 4,
+    "effectiveness": 74.0
   },
   {
     "usuario": "NET_DVILLALOBOS",
@@ -1516,7 +1503,7 @@
     "cargo": "ASESOR",
     "total": 37,
     "delivered": 32,
-    "anulado": 2,
+    "anulado": 3,
     "cancelado": 1,
     "effectiveness": 86.49
   },
@@ -1529,7 +1516,7 @@
     "cargo": "N/A",
     "total": 6,
     "delivered": 0,
-    "anulado": 4,
+    "anulado": 5,
     "cancelado": 1,
     "effectiveness": 0.0
   },
@@ -1567,10 +1554,10 @@
     "cuartil": "Q4",
     "cargo": "ASESOR",
     "total": 78,
-    "delivered": 55,
-    "anulado": 9,
-    "cancelado": 5,
-    "effectiveness": 70.51
+    "delivered": 57,
+    "anulado": 11,
+    "cancelado": 6,
+    "effectiveness": 73.08
   },
   {
     "usuario": "NET_EBOZA",
@@ -1579,11 +1566,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 58,
-    "delivered": 40,
-    "anulado": 10,
+    "total": 65,
+    "delivered": 45,
+    "anulado": 12,
     "cancelado": 5,
-    "effectiveness": 68.97
+    "effectiveness": 69.23
   },
   {
     "usuario": "NET_ECARRETEROH",
@@ -1592,11 +1579,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR",
-    "total": 72,
+    "total": 73,
     "delivered": 60,
     "anulado": 4,
     "cancelado": 6,
-    "effectiveness": 83.33
+    "effectiveness": 82.19
   },
   {
     "usuario": "NET_ECASTILLOH",
@@ -1618,11 +1605,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 37,
-    "delivered": 33,
-    "anulado": 3,
+    "total": 38,
+    "delivered": 34,
+    "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 89.19
+    "effectiveness": 89.47
   },
   {
     "usuario": "NET_EDMATOSM",
@@ -1646,7 +1633,7 @@
     "cargo": "ASESOR",
     "total": 44,
     "delivered": 24,
-    "anulado": 14,
+    "anulado": 15,
     "cancelado": 1,
     "effectiveness": 54.55
   },
@@ -1658,10 +1645,10 @@
     "cuartil": "Q4",
     "cargo": "ASESOR",
     "total": 32,
-    "delivered": 24,
-    "anulado": 6,
+    "delivered": 26,
+    "anulado": 5,
     "cancelado": 1,
-    "effectiveness": 75.0
+    "effectiveness": 81.25
   },
   {
     "usuario": "NET_EJARANAA",
@@ -1670,11 +1657,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 20,
-    "delivered": 17,
-    "anulado": 1,
-    "cancelado": 0,
-    "effectiveness": 85.0
+    "total": 22,
+    "delivered": 18,
+    "anulado": 3,
+    "cancelado": 1,
+    "effectiveness": 81.82
   },
   {
     "usuario": "NET_ELAURAQ",
@@ -1683,11 +1670,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 60,
+    "total": 62,
     "delivered": 42,
-    "anulado": 13,
+    "anulado": 14,
     "cancelado": 3,
-    "effectiveness": 70.0
+    "effectiveness": 67.74
   },
   {
     "usuario": "NET_EMACHEROT",
@@ -1696,11 +1683,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 27,
+    "total": 29,
     "delivered": 19,
     "anulado": 6,
     "cancelado": 2,
-    "effectiveness": 70.37
+    "effectiveness": 65.52
   },
   {
     "usuario": "NET_EMEDINAU",
@@ -1709,11 +1696,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR",
-    "total": 56,
-    "delivered": 45,
+    "total": 57,
+    "delivered": 46,
     "anulado": 7,
     "cancelado": 1,
-    "effectiveness": 80.36
+    "effectiveness": 80.7
   },
   {
     "usuario": "NET_EMMENDIZF",
@@ -1722,11 +1709,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 52,
-    "delivered": 39,
+    "total": 54,
+    "delivered": 40,
     "anulado": 8,
     "cancelado": 4,
-    "effectiveness": 75.0
+    "effectiveness": 74.07
   },
   {
     "usuario": "NET_EMONZONP",
@@ -1737,7 +1724,7 @@
     "cargo": "ASESOR",
     "total": 32,
     "delivered": 23,
-    "anulado": 3,
+    "anulado": 4,
     "cancelado": 5,
     "effectiveness": 71.88
   },
@@ -1748,11 +1735,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q2",
     "cargo": "ASESOR",
-    "total": 42,
-    "delivered": 33,
+    "total": 43,
+    "delivered": 36,
     "anulado": 3,
-    "cancelado": 2,
-    "effectiveness": 78.57
+    "cancelado": 3,
+    "effectiveness": 83.72
   },
   {
     "usuario": "NET_ERAMIREZV",
@@ -1764,7 +1751,7 @@
     "total": 4,
     "delivered": 1,
     "anulado": 0,
-    "cancelado": 2,
+    "cancelado": 3,
     "effectiveness": 25.0
   },
   {
@@ -1774,11 +1761,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 14,
-    "delivered": 4,
-    "anulado": 6,
-    "cancelado": 3,
-    "effectiveness": 28.57
+    "total": 20,
+    "delivered": 8,
+    "anulado": 9,
+    "cancelado": 1,
+    "effectiveness": 40.0
   },
   {
     "usuario": "NET_ETORRE",
@@ -1788,10 +1775,10 @@
     "cuartil": "Q3",
     "cargo": "ASESOR",
     "total": 37,
-    "delivered": 27,
+    "delivered": 31,
     "anulado": 0,
     "cancelado": 6,
-    "effectiveness": 72.97
+    "effectiveness": 83.78
   },
   {
     "usuario": "NET_EVALDIVIEZO",
@@ -1800,11 +1787,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 62,
+    "total": 64,
     "delivered": 58,
     "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 93.55
+    "effectiveness": 90.62
   },
   {
     "usuario": "NET_EVELASQUEZB",
@@ -1839,11 +1826,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 64,
-    "delivered": 45,
+    "total": 69,
+    "delivered": 50,
     "anulado": 7,
-    "cancelado": 6,
-    "effectiveness": 70.31
+    "cancelado": 10,
+    "effectiveness": 72.46
   },
   {
     "usuario": "NET_EZENAM",
@@ -1852,11 +1839,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "OJT",
     "cargo": "ASESOR",
-    "total": 10,
-    "delivered": 3,
+    "total": 11,
+    "delivered": 4,
     "anulado": 6,
     "cancelado": 0,
-    "effectiveness": 30.0
+    "effectiveness": 36.36
   },
   {
     "usuario": "NET_EZEVALLOSA",
@@ -1878,11 +1865,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 32,
-    "delivered": 26,
+    "total": 33,
+    "delivered": 29,
     "anulado": 2,
     "cancelado": 1,
-    "effectiveness": 81.25
+    "effectiveness": 87.88
   },
   {
     "usuario": "NET_FBARTET",
@@ -1892,10 +1879,10 @@
     "cuartil": "OJT",
     "cargo": "ASESOR",
     "total": 40,
-    "delivered": 28,
-    "anulado": 5,
+    "delivered": 29,
+    "anulado": 4,
     "cancelado": 7,
-    "effectiveness": 70.0
+    "effectiveness": 72.5
   },
   {
     "usuario": "NET_FCARRIONM",
@@ -1904,11 +1891,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 25,
-    "delivered": 18,
+    "total": 26,
+    "delivered": 19,
     "anulado": 4,
     "cancelado": 2,
-    "effectiveness": 72.0
+    "effectiveness": 73.08
   },
   {
     "usuario": "NET_FCASTILLOG",
@@ -1917,11 +1904,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 68,
-    "delivered": 52,
+    "total": 71,
+    "delivered": 55,
     "anulado": 6,
     "cancelado": 6,
-    "effectiveness": 76.47
+    "effectiveness": 77.46
   },
   {
     "usuario": "NET_FGUEVARAA",
@@ -1943,11 +1930,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 16,
-    "delivered": 8,
-    "anulado": 5,
+    "total": 18,
+    "delivered": 10,
+    "anulado": 6,
     "cancelado": 0,
-    "effectiveness": 50.0
+    "effectiveness": 55.56
   },
   {
     "usuario": "NET_FRIVERAO",
@@ -1957,10 +1944,10 @@
     "cuartil": "Q4",
     "cargo": "ASESOR",
     "total": 47,
-    "delivered": 39,
+    "delivered": 40,
     "anulado": 5,
     "cancelado": 2,
-    "effectiveness": 82.98
+    "effectiveness": 85.11
   },
   {
     "usuario": "NET_GARELLANOC",
@@ -1969,11 +1956,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 4,
-    "delivered": 1,
+    "total": 6,
+    "delivered": 2,
     "anulado": 2,
     "cancelado": 1,
-    "effectiveness": 25.0
+    "effectiveness": 33.33
   },
   {
     "usuario": "NET_GARROYOR",
@@ -1982,11 +1969,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 16,
+    "total": 17,
     "delivered": 12,
     "anulado": 2,
     "cancelado": 1,
-    "effectiveness": 75.0
+    "effectiveness": 70.59
   },
   {
     "usuario": "NET_GAVILCHEZC",
@@ -1996,10 +1983,10 @@
     "cuartil": "Q4",
     "cargo": "ASESOR",
     "total": 26,
-    "delivered": 13,
+    "delivered": 14,
     "anulado": 12,
     "cancelado": 0,
-    "effectiveness": 50.0
+    "effectiveness": 53.85
   },
   {
     "usuario": "NET_GBUITRONL",
@@ -2008,11 +1995,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 32,
+    "total": 34,
     "delivered": 28,
     "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 87.5
+    "effectiveness": 82.35
   },
   {
     "usuario": "NET_GCABALLEROB",
@@ -2021,11 +2008,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 60,
+    "total": 63,
     "delivered": 49,
     "anulado": 10,
     "cancelado": 1,
-    "effectiveness": 81.67
+    "effectiveness": 77.78
   },
   {
     "usuario": "NET_GCABALLEROC",
@@ -2034,11 +2021,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 28,
+    "total": 31,
     "delivered": 23,
     "anulado": 1,
     "cancelado": 3,
-    "effectiveness": 82.14
+    "effectiveness": 74.19
   },
   {
     "usuario": "NET_GDELGADO",
@@ -2047,11 +2034,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR",
-    "total": 30,
+    "total": 33,
     "delivered": 22,
-    "anulado": 6,
+    "anulado": 7,
     "cancelado": 0,
-    "effectiveness": 73.33
+    "effectiveness": 66.67
   },
   {
     "usuario": "NET_GDIAZS",
@@ -2060,11 +2047,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 16,
+    "total": 17,
     "delivered": 9,
     "anulado": 4,
     "cancelado": 1,
-    "effectiveness": 56.25
+    "effectiveness": 52.94
   },
   {
     "usuario": "NET_GFLORESS",
@@ -2086,11 +2073,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 93,
-    "delivered": 57,
+    "total": 96,
+    "delivered": 59,
     "anulado": 26,
     "cancelado": 3,
-    "effectiveness": 61.29
+    "effectiveness": 61.46
   },
   {
     "usuario": "NET_GHERRERAG",
@@ -2099,11 +2086,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 100,
-    "delivered": 66,
+    "total": 105,
+    "delivered": 74,
     "anulado": 23,
     "cancelado": 2,
-    "effectiveness": 66.0
+    "effectiveness": 70.48
   },
   {
     "usuario": "NET_GHUAMANT",
@@ -2112,11 +2099,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 23,
-    "delivered": 17,
+    "total": 29,
+    "delivered": 21,
     "anulado": 4,
     "cancelado": 2,
-    "effectiveness": 73.91
+    "effectiveness": 72.41
   },
   {
     "usuario": "NET_GHUANCASS",
@@ -2125,11 +2112,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 28,
-    "delivered": 16,
+    "total": 29,
+    "delivered": 19,
     "anulado": 6,
     "cancelado": 3,
-    "effectiveness": 57.14
+    "effectiveness": 65.52
   },
   {
     "usuario": "NET_GKALARCONC",
@@ -2138,11 +2125,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 4,
+    "total": 6,
     "delivered": 1,
     "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 25.0
+    "effectiveness": 16.67
   },
   {
     "usuario": "NET_GLOPEZF",
@@ -2164,11 +2151,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 178,
-    "delivered": 132,
-    "anulado": 20,
-    "cancelado": 20,
-    "effectiveness": 74.16
+    "total": 185,
+    "delivered": 139,
+    "anulado": 22,
+    "cancelado": 22,
+    "effectiveness": 75.14
   },
   {
     "usuario": "NET_GSANCHEZO",
@@ -2177,11 +2164,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR",
-    "total": 29,
-    "delivered": 24,
+    "total": 31,
+    "delivered": 27,
     "anulado": 1,
     "cancelado": 2,
-    "effectiveness": 82.76
+    "effectiveness": 87.1
   },
   {
     "usuario": "NET_GSANDOVALS",
@@ -2193,7 +2180,7 @@
     "total": 5,
     "delivered": 4,
     "anulado": 0,
-    "cancelado": 0,
+    "cancelado": 1,
     "effectiveness": 80.0
   },
   {
@@ -2204,10 +2191,10 @@
     "cuartil": "Q3",
     "cargo": "ASESOR",
     "total": 54,
-    "delivered": 42,
+    "delivered": 43,
     "anulado": 5,
     "cancelado": 5,
-    "effectiveness": 77.78
+    "effectiveness": 79.63
   },
   {
     "usuario": "NET_GSILVAF",
@@ -2216,11 +2203,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 16,
-    "delivered": 10,
+    "total": 17,
+    "delivered": 11,
     "anulado": 3,
-    "cancelado": 2,
-    "effectiveness": 62.5
+    "cancelado": 3,
+    "effectiveness": 64.71
   },
   {
     "usuario": "NET_GVELASQUEZA",
@@ -2229,11 +2216,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 68,
-    "delivered": 51,
+    "total": 70,
+    "delivered": 54,
     "anulado": 7,
-    "cancelado": 5,
-    "effectiveness": 75.0
+    "cancelado": 6,
+    "effectiveness": 77.14
   },
   {
     "usuario": "NET_GVILELAR",
@@ -2242,11 +2229,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 71,
-    "delivered": 49,
+    "total": 72,
+    "delivered": 56,
     "anulado": 13,
     "cancelado": 1,
-    "effectiveness": 69.01
+    "effectiveness": 77.78
   },
   {
     "usuario": "NET_GZAVALAR",
@@ -2255,11 +2242,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "OJT",
     "cargo": "ASESOR",
-    "total": 42,
-    "delivered": 19,
-    "anulado": 15,
-    "cancelado": 2,
-    "effectiveness": 45.24
+    "total": 48,
+    "delivered": 29,
+    "anulado": 14,
+    "cancelado": 3,
+    "effectiveness": 60.42
   },
   {
     "usuario": "NET_GZUNIGAO",
@@ -2268,11 +2255,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 22,
-    "delivered": 10,
+    "total": 26,
+    "delivered": 14,
     "anulado": 2,
     "cancelado": 6,
-    "effectiveness": 45.45
+    "effectiveness": 53.85
   },
   {
     "usuario": "NET_HDOMINGUEZC",
@@ -2294,11 +2281,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR",
-    "total": 116,
-    "delivered": 90,
+    "total": 126,
+    "delivered": 100,
     "anulado": 10,
-    "cancelado": 9,
-    "effectiveness": 77.59
+    "cancelado": 10,
+    "effectiveness": 79.37
   },
   {
     "usuario": "NET_HJUNCOT",
@@ -2309,7 +2296,7 @@
     "cargo": "ASESOR",
     "total": 27,
     "delivered": 21,
-    "anulado": 4,
+    "anulado": 5,
     "cancelado": 0,
     "effectiveness": 77.78
   },
@@ -2346,11 +2333,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 27,
-    "delivered": 20,
+    "total": 28,
+    "delivered": 21,
     "anulado": 5,
     "cancelado": 2,
-    "effectiveness": 74.07
+    "effectiveness": 75.0
   },
   {
     "usuario": "NET_INAVARROI",
@@ -2359,11 +2346,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 27,
-    "delivered": 17,
+    "total": 28,
+    "delivered": 18,
     "anulado": 6,
     "cancelado": 0,
-    "effectiveness": 62.96
+    "effectiveness": 64.29
   },
   {
     "usuario": "NET_IQUEREVALUL",
@@ -2372,11 +2359,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 14,
+    "total": 15,
     "delivered": 11,
     "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 78.57
+    "effectiveness": 73.33
   },
   {
     "usuario": "NET_IRODRIGUEZS",
@@ -2385,11 +2372,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 14,
+    "total": 15,
     "delivered": 13,
     "anulado": 0,
-    "cancelado": 0,
-    "effectiveness": 92.86
+    "cancelado": 1,
+    "effectiveness": 86.67
   },
   {
     "usuario": "NET_IROSALESA",
@@ -2398,11 +2385,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 44,
-    "delivered": 26,
+    "total": 47,
+    "delivered": 30,
     "anulado": 13,
     "cancelado": 2,
-    "effectiveness": 59.09
+    "effectiveness": 63.83
   },
   {
     "usuario": "NET_IVARGASI",
@@ -2411,11 +2398,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 33,
-    "delivered": 22,
+    "total": 37,
+    "delivered": 26,
     "anulado": 4,
     "cancelado": 6,
-    "effectiveness": 66.67
+    "effectiveness": 70.27
   },
   {
     "usuario": "NET_JAMASIFUENT",
@@ -2424,11 +2411,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 67,
+    "total": 68,
     "delivered": 45,
     "anulado": 14,
     "cancelado": 5,
-    "effectiveness": 67.16
+    "effectiveness": 66.18
   },
   {
     "usuario": "NET_JAREVALOC",
@@ -2440,7 +2427,7 @@
     "total": 36,
     "delivered": 24,
     "anulado": 8,
-    "cancelado": 3,
+    "cancelado": 4,
     "effectiveness": 66.67
   },
   {
@@ -2464,10 +2451,10 @@
     "cuartil": "Q4",
     "cargo": "ASESOR",
     "total": 46,
-    "delivered": 30,
+    "delivered": 31,
     "anulado": 9,
     "cancelado": 3,
-    "effectiveness": 65.22
+    "effectiveness": 67.39
   },
   {
     "usuario": "NET_JBAYONAC",
@@ -2476,11 +2463,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 41,
-    "delivered": 33,
+    "total": 43,
+    "delivered": 34,
     "anulado": 4,
     "cancelado": 3,
-    "effectiveness": 80.49
+    "effectiveness": 79.07
   },
   {
     "usuario": "NET_JBOZAC",
@@ -2490,10 +2477,10 @@
     "cuartil": "Q4",
     "cargo": "ASESOR",
     "total": 56,
-    "delivered": 30,
+    "delivered": 32,
     "anulado": 19,
     "cancelado": 3,
-    "effectiveness": 53.57
+    "effectiveness": 57.14
   },
   {
     "usuario": "NET_JCABANILLAR",
@@ -2516,10 +2503,10 @@
     "cuartil": "Q2",
     "cargo": "ASESOR",
     "total": 34,
-    "delivered": 21,
-    "anulado": 7,
+    "delivered": 25,
+    "anulado": 8,
     "cancelado": 1,
-    "effectiveness": 61.76
+    "effectiveness": 73.53
   },
   {
     "usuario": "NET_JCAMPOSR",
@@ -2529,10 +2516,10 @@
     "cuartil": "OJT",
     "cargo": "ASESOR",
     "total": 23,
-    "delivered": 9,
+    "delivered": 10,
     "anulado": 9,
-    "cancelado": 3,
-    "effectiveness": 39.13
+    "cancelado": 4,
+    "effectiveness": 43.48
   },
   {
     "usuario": "NET_JCAURINOR",
@@ -2541,11 +2528,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "OJT",
     "cargo": "ASESOR",
-    "total": 46,
+    "total": 50,
     "delivered": 29,
-    "anulado": 12,
+    "anulado": 13,
     "cancelado": 3,
-    "effectiveness": 63.04
+    "effectiveness": 58.0
   },
   {
     "usuario": "NET_JCAVEROC",
@@ -2554,11 +2541,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 25,
-    "delivered": 18,
-    "anulado": 5,
+    "total": 28,
+    "delivered": 20,
+    "anulado": 6,
     "cancelado": 1,
-    "effectiveness": 72.0
+    "effectiveness": 71.43
   },
   {
     "usuario": "NET_JCHAVEZC",
@@ -2568,10 +2555,10 @@
     "cuartil": "Q1",
     "cargo": "ASESOR",
     "total": 64,
-    "delivered": 48,
+    "delivered": 52,
     "anulado": 8,
     "cancelado": 4,
-    "effectiveness": 75.0
+    "effectiveness": 81.25
   },
   {
     "usuario": "NET_JCHAVEZPINT",
@@ -2581,10 +2568,10 @@
     "cuartil": "Q1",
     "cargo": "ASESOR",
     "total": 21,
-    "delivered": 13,
-    "anulado": 4,
+    "delivered": 15,
+    "anulado": 5,
     "cancelado": 1,
-    "effectiveness": 61.9
+    "effectiveness": 71.43
   },
   {
     "usuario": "NET_JCHEROO",
@@ -2593,11 +2580,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 42,
-    "delivered": 35,
-    "anulado": 4,
+    "total": 45,
+    "delivered": 36,
+    "anulado": 5,
     "cancelado": 2,
-    "effectiveness": 83.33
+    "effectiveness": 80.0
   },
   {
     "usuario": "NET_JCHINGAA",
@@ -2658,11 +2645,11 @@
     "coordinador": "WALTER VILLARREAL",
     "cuartil": "N/C",
     "cargo": "SUPENACIONES",
-    "total": 30,
+    "total": 31,
     "delivered": 25,
     "anulado": 0,
     "cancelado": 5,
-    "effectiveness": 83.33
+    "effectiveness": 80.65
   },
   {
     "usuario": "NET_JGUIOP",
@@ -2671,11 +2658,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR",
-    "total": 26,
-    "delivered": 16,
-    "anulado": 6,
+    "total": 28,
+    "delivered": 17,
+    "anulado": 8,
     "cancelado": 1,
-    "effectiveness": 61.54
+    "effectiveness": 60.71
   },
   {
     "usuario": "NET_JIYASHAMAR",
@@ -2697,11 +2684,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 9,
-    "delivered": 4,
+    "total": 11,
+    "delivered": 6,
     "anulado": 4,
-    "cancelado": 0,
-    "effectiveness": 44.44
+    "cancelado": 1,
+    "effectiveness": 54.55
   },
   {
     "usuario": "NET_JLCASTILLOU",
@@ -2723,11 +2710,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 24,
+    "total": 25,
     "delivered": 21,
     "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 87.5
+    "effectiveness": 84.0
   },
   {
     "usuario": "NET_JLUCIANOT",
@@ -2736,11 +2723,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 60,
-    "delivered": 38,
-    "anulado": 15,
-    "cancelado": 0,
-    "effectiveness": 63.33
+    "total": 64,
+    "delivered": 40,
+    "anulado": 17,
+    "cancelado": 1,
+    "effectiveness": 62.5
   },
   {
     "usuario": "NET_JMAYTAHUARM",
@@ -2775,11 +2762,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 47,
-    "delivered": 20,
+    "total": 51,
+    "delivered": 24,
     "anulado": 12,
     "cancelado": 7,
-    "effectiveness": 42.55
+    "effectiveness": 47.06
   },
   {
     "usuario": "NET_JMINIANOR",
@@ -2803,7 +2790,7 @@
     "cargo": "ASESOR",
     "total": 15,
     "delivered": 11,
-    "anulado": 2,
+    "anulado": 3,
     "cancelado": 1,
     "effectiveness": 73.33
   },
@@ -2814,11 +2801,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 24,
-    "delivered": 12,
+    "total": 27,
+    "delivered": 14,
     "anulado": 9,
     "cancelado": 3,
-    "effectiveness": 50.0
+    "effectiveness": 51.85
   },
   {
     "usuario": "NET_JORTIZV",
@@ -2827,11 +2814,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 65,
-    "delivered": 53,
+    "total": 70,
+    "delivered": 56,
     "anulado": 9,
     "cancelado": 1,
-    "effectiveness": 81.54
+    "effectiveness": 80.0
   },
   {
     "usuario": "NET_JPALOMINOA",
@@ -2841,10 +2828,10 @@
     "cuartil": "Q2",
     "cargo": "ASESOR",
     "total": 17,
-    "delivered": 11,
-    "anulado": 4,
+    "delivered": 12,
+    "anulado": 5,
     "cancelado": 0,
-    "effectiveness": 64.71
+    "effectiveness": 70.59
   },
   {
     "usuario": "NET_JPRADOP",
@@ -2868,7 +2855,7 @@
     "cargo": "ASESOR",
     "total": 18,
     "delivered": 8,
-    "anulado": 6,
+    "anulado": 7,
     "cancelado": 0,
     "effectiveness": 44.44
   },
@@ -2879,11 +2866,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 66,
-    "delivered": 38,
-    "anulado": 12,
+    "total": 69,
+    "delivered": 41,
+    "anulado": 14,
     "cancelado": 9,
-    "effectiveness": 57.58
+    "effectiveness": 59.42
   },
   {
     "usuario": "NET_JRAMIREZQ",
@@ -2905,11 +2892,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 54,
-    "delivered": 29,
+    "total": 57,
+    "delivered": 31,
     "anulado": 17,
     "cancelado": 4,
-    "effectiveness": 53.7
+    "effectiveness": 54.39
   },
   {
     "usuario": "NET_JSANCHEZC",
@@ -2931,11 +2918,24 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 103,
-    "delivered": 72,
-    "anulado": 22,
+    "total": 107,
+    "delivered": 76,
+    "anulado": 23,
     "cancelado": 1,
-    "effectiveness": 69.9
+    "effectiveness": 71.03
+  },
+  {
+    "usuario": "NET_JSANGAMAT",
+    "nombre": "NET_JSANGAMAT",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 1,
+    "delivered": 0,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 0.0
   },
   {
     "usuario": "NET_JSIADEN",
@@ -2946,7 +2946,7 @@
     "cargo": "ASESOR",
     "total": 68,
     "delivered": 52,
-    "anulado": 9,
+    "anulado": 10,
     "cancelado": 6,
     "effectiveness": 76.47
   },
@@ -2957,11 +2957,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 24,
-    "delivered": 20,
-    "anulado": 3,
+    "total": 31,
+    "delivered": 21,
+    "anulado": 6,
     "cancelado": 0,
-    "effectiveness": 83.33
+    "effectiveness": 67.74
   },
   {
     "usuario": "NET_JSREQUENA",
@@ -2970,11 +2970,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 29,
+    "total": 31,
     "delivered": 22,
     "anulado": 6,
     "cancelado": 1,
-    "effectiveness": 75.86
+    "effectiveness": 70.97
   },
   {
     "usuario": "NET_JTITOM",
@@ -2983,11 +2983,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 31,
+    "total": 33,
     "delivered": 23,
     "anulado": 6,
     "cancelado": 2,
-    "effectiveness": 74.19
+    "effectiveness": 69.7
   },
   {
     "usuario": "NET_JTORRESQ",
@@ -3012,7 +3012,7 @@
     "total": 7,
     "delivered": 5,
     "anulado": 1,
-    "cancelado": 0,
+    "cancelado": 1,
     "effectiveness": 71.43
   },
   {
@@ -3022,11 +3022,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 29,
-    "delivered": 23,
+    "total": 30,
+    "delivered": 24,
     "anulado": 1,
     "cancelado": 4,
-    "effectiveness": 79.31
+    "effectiveness": 80.0
   },
   {
     "usuario": "NET_JVELASQUEZS",
@@ -3035,11 +3035,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 30,
+    "total": 31,
     "delivered": 24,
     "anulado": 4,
     "cancelado": 1,
-    "effectiveness": 80.0
+    "effectiveness": 77.42
   },
   {
     "usuario": "NET_JVMORENO",
@@ -3048,11 +3048,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 24,
+    "total": 25,
     "delivered": 17,
-    "anulado": 4,
+    "anulado": 5,
     "cancelado": 3,
-    "effectiveness": 70.83
+    "effectiveness": 68.0
   },
   {
     "usuario": "NET_JYPEREZV",
@@ -3062,10 +3062,10 @@
     "cuartil": "Q4",
     "cargo": "ASESOR",
     "total": 32,
-    "delivered": 19,
-    "anulado": 5,
+    "delivered": 22,
+    "anulado": 7,
     "cancelado": 0,
-    "effectiveness": 59.38
+    "effectiveness": 68.75
   },
   {
     "usuario": "NET_JZAVALETAC",
@@ -3075,10 +3075,10 @@
     "cuartil": "Q4",
     "cargo": "ASESOR",
     "total": 25,
-    "delivered": 19,
-    "anulado": 3,
+    "delivered": 20,
+    "anulado": 4,
     "cancelado": 1,
-    "effectiveness": 76.0
+    "effectiveness": 80.0
   },
   {
     "usuario": "NET_KAGRAMONTEM",
@@ -3087,11 +3087,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 66,
-    "delivered": 58,
+    "total": 67,
+    "delivered": 61,
     "anulado": 3,
     "cancelado": 3,
-    "effectiveness": 87.88
+    "effectiveness": 91.04
   },
   {
     "usuario": "NET_KAGRAMONTET",
@@ -3101,10 +3101,10 @@
     "cuartil": "Q4",
     "cargo": "ASESOR",
     "total": 14,
-    "delivered": 7,
-    "anulado": 2,
-    "cancelado": 4,
-    "effectiveness": 50.0
+    "delivered": 8,
+    "anulado": 3,
+    "cancelado": 3,
+    "effectiveness": 57.14
   },
   {
     "usuario": "NET_KALMEYDAS",
@@ -3113,11 +3113,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 22,
-    "delivered": 18,
+    "total": 25,
+    "delivered": 19,
     "anulado": 2,
     "cancelado": 2,
-    "effectiveness": 81.82
+    "effectiveness": 76.0
   },
   {
     "usuario": "NET_KANGELESS",
@@ -3126,11 +3126,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 93,
+    "total": 97,
     "delivered": 78,
     "anulado": 13,
     "cancelado": 1,
-    "effectiveness": 83.87
+    "effectiveness": 80.41
   },
   {
     "usuario": "NET_KARAUJOC",
@@ -3139,11 +3139,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q2",
     "cargo": "ASESOR",
-    "total": 32,
+    "total": 35,
     "delivered": 25,
     "anulado": 3,
     "cancelado": 4,
-    "effectiveness": 78.12
+    "effectiveness": 71.43
   },
   {
     "usuario": "NET_KBRACOV",
@@ -3154,7 +3154,7 @@
     "cargo": "ASESOR",
     "total": 20,
     "delivered": 15,
-    "anulado": 4,
+    "anulado": 5,
     "cancelado": 0,
     "effectiveness": 75.0
   },
@@ -3165,11 +3165,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 39,
-    "delivered": 30,
-    "anulado": 4,
+    "total": 41,
+    "delivered": 32,
+    "anulado": 5,
     "cancelado": 3,
-    "effectiveness": 76.92
+    "effectiveness": 78.05
   },
   {
     "usuario": "NET_KCHAVEZF",
@@ -3178,11 +3178,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 205,
-    "delivered": 141,
-    "anulado": 41,
-    "cancelado": 18,
-    "effectiveness": 68.78
+    "total": 245,
+    "delivered": 157,
+    "anulado": 43,
+    "cancelado": 21,
+    "effectiveness": 64.08
   },
   {
     "usuario": "NET_KCHUNAP",
@@ -3191,11 +3191,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 30,
-    "delivered": 19,
+    "total": 31,
+    "delivered": 20,
     "anulado": 7,
-    "cancelado": 3,
-    "effectiveness": 63.33
+    "cancelado": 4,
+    "effectiveness": 64.52
   },
   {
     "usuario": "NET_KDIAZPISCOY",
@@ -3204,11 +3204,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 104,
-    "delivered": 79,
+    "total": 109,
+    "delivered": 84,
     "anulado": 14,
     "cancelado": 8,
-    "effectiveness": 75.96
+    "effectiveness": 77.06
   },
   {
     "usuario": "NET_KEMENDOZAJ",
@@ -3230,11 +3230,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 47,
-    "delivered": 31,
-    "anulado": 8,
-    "cancelado": 2,
-    "effectiveness": 65.96
+    "total": 48,
+    "delivered": 35,
+    "anulado": 10,
+    "cancelado": 1,
+    "effectiveness": 72.92
   },
   {
     "usuario": "NET_KGCORTEZP",
@@ -3257,10 +3257,10 @@
     "cuartil": "Q2",
     "cargo": "ASESOR",
     "total": 33,
-    "delivered": 25,
+    "delivered": 28,
     "anulado": 3,
     "cancelado": 1,
-    "effectiveness": 75.76
+    "effectiveness": 84.85
   },
   {
     "usuario": "NET_KLGARCIAA",
@@ -3269,11 +3269,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 59,
-    "delivered": 49,
+    "total": 60,
+    "delivered": 50,
     "anulado": 3,
     "cancelado": 4,
-    "effectiveness": 83.05
+    "effectiveness": 83.33
   },
   {
     "usuario": "NET_KORTIZD",
@@ -3282,11 +3282,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR",
-    "total": 67,
-    "delivered": 57,
+    "total": 72,
+    "delivered": 61,
     "anulado": 6,
     "cancelado": 0,
-    "effectiveness": 85.07
+    "effectiveness": 84.72
   },
   {
     "usuario": "NET_KPARRAGUEZG",
@@ -3310,8 +3310,8 @@
     "cargo": "SUPENACIONES",
     "total": 11,
     "delivered": 4,
-    "anulado": 2,
-    "cancelado": 3,
+    "anulado": 3,
+    "cancelado": 4,
     "effectiveness": 36.36
   },
   {
@@ -3321,11 +3321,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 69,
-    "delivered": 59,
+    "total": 75,
+    "delivered": 62,
     "anulado": 7,
     "cancelado": 2,
-    "effectiveness": 85.51
+    "effectiveness": 82.67
   },
   {
     "usuario": "NET_KSOLORZANOV",
@@ -3334,11 +3334,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 43,
-    "delivered": 32,
-    "anulado": 7,
+    "total": 45,
+    "delivered": 34,
+    "anulado": 8,
     "cancelado": 2,
-    "effectiveness": 74.42
+    "effectiveness": 75.56
   },
   {
     "usuario": "NET_KTAYAB",
@@ -3360,11 +3360,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 50,
-    "delivered": 30,
+    "total": 52,
+    "delivered": 31,
     "anulado": 16,
     "cancelado": 4,
-    "effectiveness": 60.0
+    "effectiveness": 59.62
   },
   {
     "usuario": "NET_KYUPANQUIC",
@@ -3373,11 +3373,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 48,
-    "delivered": 38,
+    "total": 51,
+    "delivered": 40,
     "anulado": 9,
     "cancelado": 0,
-    "effectiveness": 79.17
+    "effectiveness": 78.43
   },
   {
     "usuario": "NET_LALARCONP",
@@ -3386,11 +3386,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 28,
+    "total": 30,
     "delivered": 19,
     "anulado": 2,
     "cancelado": 1,
-    "effectiveness": 67.86
+    "effectiveness": 63.33
   },
   {
     "usuario": "NET_LALVAREZD",
@@ -3412,11 +3412,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 48,
+    "total": 49,
     "delivered": 39,
     "anulado": 0,
     "cancelado": 9,
-    "effectiveness": 81.25
+    "effectiveness": 79.59
   },
   {
     "usuario": "NET_LCALDERONC",
@@ -3425,24 +3425,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 48,
-    "delivered": 31,
+    "total": 55,
+    "delivered": 37,
     "anulado": 9,
     "cancelado": 7,
-    "effectiveness": 64.58
-  },
-  {
-    "usuario": "NET_LCALDERONCA",
-    "nombre": "NET_LCALDERONCA",
-    "supervisor": "No registrado",
-    "coordinador": "No registrado",
-    "cuartil": "N/A",
-    "cargo": "N/A",
-    "total": 1,
-    "delivered": 0,
-    "anulado": 0,
-    "cancelado": 0,
-    "effectiveness": 0.0
+    "effectiveness": 67.27
   },
   {
     "usuario": "NET_LCAMPOSCABR",
@@ -3451,11 +3438,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 102,
-    "delivered": 71,
-    "anulado": 17,
+    "total": 106,
+    "delivered": 73,
+    "anulado": 20,
     "cancelado": 7,
-    "effectiveness": 69.61
+    "effectiveness": 68.87
   },
   {
     "usuario": "NET_LCASTILLORI",
@@ -3464,11 +3451,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 35,
-    "delivered": 29,
-    "anulado": 4,
+    "total": 38,
+    "delivered": 32,
+    "anulado": 6,
     "cancelado": 0,
-    "effectiveness": 82.86
+    "effectiveness": 84.21
   },
   {
     "usuario": "NET_LCCASTILLO",
@@ -3477,11 +3464,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q2",
     "cargo": "ASESOR",
-    "total": 42,
-    "delivered": 37,
+    "total": 51,
+    "delivered": 40,
     "anulado": 3,
     "cancelado": 1,
-    "effectiveness": 88.1
+    "effectiveness": 78.43
   },
   {
     "usuario": "NET_LCHAFLOQUEA",
@@ -3490,11 +3477,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 25,
+    "total": 26,
     "delivered": 17,
     "anulado": 5,
     "cancelado": 3,
-    "effectiveness": 68.0
+    "effectiveness": 65.38
   },
   {
     "usuario": "NET_LCHUZONC",
@@ -3503,11 +3490,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "OJT",
     "cargo": "ASESOR",
-    "total": 32,
-    "delivered": 17,
+    "total": 33,
+    "delivered": 18,
     "anulado": 7,
-    "cancelado": 7,
-    "effectiveness": 53.12
+    "cancelado": 8,
+    "effectiveness": 54.55
   },
   {
     "usuario": "NET_LCONDORIG",
@@ -3530,10 +3517,10 @@
     "cuartil": "Q4",
     "cargo": "ASESOR",
     "total": 40,
-    "delivered": 18,
-    "anulado": 10,
+    "delivered": 19,
+    "anulado": 11,
     "cancelado": 10,
-    "effectiveness": 45.0
+    "effectiveness": 47.5
   },
   {
     "usuario": "NET_LDELAROSAJ",
@@ -3555,11 +3542,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 44,
-    "delivered": 36,
+    "total": 46,
+    "delivered": 39,
     "anulado": 5,
     "cancelado": 1,
-    "effectiveness": 81.82
+    "effectiveness": 84.78
   },
   {
     "usuario": "NET_LDIAZM",
@@ -3568,11 +3555,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 36,
-    "delivered": 23,
-    "anulado": 4,
+    "total": 37,
+    "delivered": 24,
+    "anulado": 5,
     "cancelado": 6,
-    "effectiveness": 63.89
+    "effectiveness": 64.86
   },
   {
     "usuario": "NET_LEFFIOG",
@@ -3581,11 +3568,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 11,
+    "total": 12,
     "delivered": 4,
     "anulado": 5,
-    "cancelado": 1,
-    "effectiveness": 36.36
+    "cancelado": 3,
+    "effectiveness": 33.33
   },
   {
     "usuario": "NET_LFIESTASG",
@@ -3620,11 +3607,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q2",
     "cargo": "ASESOR",
-    "total": 71,
-    "delivered": 57,
+    "total": 74,
+    "delivered": 61,
     "anulado": 9,
     "cancelado": 4,
-    "effectiveness": 80.28
+    "effectiveness": 82.43
   },
   {
     "usuario": "NET_LGOMEZA",
@@ -3633,11 +3620,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 73,
-    "delivered": 57,
-    "anulado": 9,
+    "total": 78,
+    "delivered": 60,
+    "anulado": 11,
     "cancelado": 2,
-    "effectiveness": 78.08
+    "effectiveness": 76.92
   },
   {
     "usuario": "NET_LHUAPAYAO",
@@ -3659,11 +3646,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 52,
+    "total": 56,
     "delivered": 44,
     "anulado": 6,
     "cancelado": 0,
-    "effectiveness": 84.62
+    "effectiveness": 78.57
   },
   {
     "usuario": "NET_LLOBATONV",
@@ -3672,11 +3659,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 42,
-    "delivered": 29,
+    "total": 43,
+    "delivered": 30,
     "anulado": 11,
-    "cancelado": 0,
-    "effectiveness": 69.05
+    "cancelado": 1,
+    "effectiveness": 69.77
   },
   {
     "usuario": "NET_LLOOR",
@@ -3685,11 +3672,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 18,
-    "delivered": 1,
-    "anulado": 6,
-    "cancelado": 5,
-    "effectiveness": 5.56
+    "total": 19,
+    "delivered": 2,
+    "anulado": 7,
+    "cancelado": 8,
+    "effectiveness": 10.53
   },
   {
     "usuario": "NET_LLOPEZM",
@@ -3698,11 +3685,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 39,
+    "total": 41,
     "delivered": 34,
     "anulado": 3,
-    "cancelado": 1,
-    "effectiveness": 87.18
+    "cancelado": 2,
+    "effectiveness": 82.93
   },
   {
     "usuario": "NET_LMALCAM",
@@ -3712,10 +3699,10 @@
     "cuartil": "Q4",
     "cargo": "ASESOR",
     "total": 38,
-    "delivered": 22,
-    "anulado": 8,
+    "delivered": 23,
+    "anulado": 9,
     "cancelado": 5,
-    "effectiveness": 57.89
+    "effectiveness": 60.53
   },
   {
     "usuario": "NET_LMALDONADOC",
@@ -3724,11 +3711,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 99,
-    "delivered": 80,
-    "anulado": 5,
+    "total": 108,
+    "delivered": 82,
+    "anulado": 8,
     "cancelado": 12,
-    "effectiveness": 80.81
+    "effectiveness": 75.93
   },
   {
     "usuario": "NET_LMANRIQUED",
@@ -3739,7 +3726,7 @@
     "cargo": "ASESOR",
     "total": 22,
     "delivered": 18,
-    "anulado": 2,
+    "anulado": 3,
     "cancelado": 1,
     "effectiveness": 81.82
   },
@@ -3776,11 +3763,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 51,
-    "delivered": 39,
-    "anulado": 7,
+    "total": 56,
+    "delivered": 40,
+    "anulado": 8,
     "cancelado": 3,
-    "effectiveness": 76.47
+    "effectiveness": 71.43
   },
   {
     "usuario": "NET_LNECIOSUPC",
@@ -3789,11 +3776,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 52,
+    "total": 53,
     "delivered": 41,
-    "anulado": 5,
-    "cancelado": 3,
-    "effectiveness": 78.85
+    "anulado": 6,
+    "cancelado": 4,
+    "effectiveness": 77.36
   },
   {
     "usuario": "NET_LNUNEZH",
@@ -3802,11 +3789,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "OJT",
     "cargo": "ASESOR",
-    "total": 16,
+    "total": 17,
     "delivered": 11,
     "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 68.75
+    "effectiveness": 64.71
   },
   {
     "usuario": "NET_LOROPEZAS",
@@ -3815,11 +3802,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "OJT",
     "cargo": "ASESOR",
-    "total": 18,
-    "delivered": 10,
-    "anulado": 3,
-    "cancelado": 0,
-    "effectiveness": 55.56
+    "total": 23,
+    "delivered": 15,
+    "anulado": 5,
+    "cancelado": 1,
+    "effectiveness": 65.22
   },
   {
     "usuario": "NET_LPASCUALH",
@@ -3841,11 +3828,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 24,
-    "delivered": 14,
+    "total": 25,
+    "delivered": 15,
     "anulado": 1,
     "cancelado": 5,
-    "effectiveness": 58.33
+    "effectiveness": 60.0
   },
   {
     "usuario": "NET_LREBOTTAROA",
@@ -3867,11 +3854,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 30,
-    "delivered": 23,
+    "total": 36,
+    "delivered": 27,
     "anulado": 2,
     "cancelado": 5,
-    "effectiveness": 76.67
+    "effectiveness": 75.0
   },
   {
     "usuario": "NET_LROSALESA",
@@ -3893,11 +3880,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR",
-    "total": 39,
-    "delivered": 36,
+    "total": 42,
+    "delivered": 38,
     "anulado": 0,
     "cancelado": 2,
-    "effectiveness": 92.31
+    "effectiveness": 90.48
   },
   {
     "usuario": "NET_LRUJELC",
@@ -3906,11 +3893,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "OJT",
     "cargo": "ASESOR",
-    "total": 13,
-    "delivered": 4,
+    "total": 14,
+    "delivered": 5,
     "anulado": 7,
     "cancelado": 1,
-    "effectiveness": 30.77
+    "effectiveness": 35.71
   },
   {
     "usuario": "NET_LTAMAYOD",
@@ -3919,11 +3906,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 45,
-    "delivered": 32,
+    "total": 46,
+    "delivered": 34,
     "anulado": 7,
     "cancelado": 4,
-    "effectiveness": 71.11
+    "effectiveness": 73.91
   },
   {
     "usuario": "NET_LTORRESP",
@@ -3932,11 +3919,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 97,
-    "delivered": 78,
+    "total": 102,
+    "delivered": 80,
     "anulado": 8,
     "cancelado": 8,
-    "effectiveness": 80.41
+    "effectiveness": 78.43
   },
   {
     "usuario": "NET_LTVENTURAG",
@@ -3946,10 +3933,10 @@
     "cuartil": "Q4",
     "cargo": "ASESOR",
     "total": 19,
-    "delivered": 17,
+    "delivered": 18,
     "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 89.47
+    "effectiveness": 94.74
   },
   {
     "usuario": "NET_LVASQUEZT",
@@ -3958,11 +3945,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 52,
-    "delivered": 36,
+    "total": 53,
+    "delivered": 39,
     "anulado": 9,
-    "cancelado": 1,
-    "effectiveness": 69.23
+    "cancelado": 3,
+    "effectiveness": 73.58
   },
   {
     "usuario": "NET_LVIZCARRARO",
@@ -3971,11 +3958,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR",
-    "total": 51,
-    "delivered": 33,
+    "total": 52,
+    "delivered": 34,
     "anulado": 13,
     "cancelado": 2,
-    "effectiveness": 64.71
+    "effectiveness": 65.38
   },
   {
     "usuario": "NET_LYAIPENARRO",
@@ -3984,11 +3971,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 16,
+    "total": 20,
     "delivered": 15,
     "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 93.75
+    "effectiveness": 75.0
   },
   {
     "usuario": "NET_LYARLEQUEA",
@@ -4010,11 +3997,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 19,
-    "delivered": 11,
+    "total": 23,
+    "delivered": 14,
     "anulado": 4,
     "cancelado": 2,
-    "effectiveness": 57.89
+    "effectiveness": 60.87
   },
   {
     "usuario": "NET_MAFERNANDEL",
@@ -4023,11 +4010,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 41,
-    "delivered": 18,
+    "total": 49,
+    "delivered": 20,
     "anulado": 14,
-    "cancelado": 2,
-    "effectiveness": 43.9
+    "cancelado": 8,
+    "effectiveness": 40.82
   },
   {
     "usuario": "NET_MARAMOST",
@@ -4036,7 +4023,7 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 3,
+    "total": 6,
     "delivered": 0,
     "anulado": 3,
     "cancelado": 0,
@@ -4052,7 +4039,7 @@
     "total": 16,
     "delivered": 12,
     "anulado": 2,
-    "cancelado": 1,
+    "cancelado": 2,
     "effectiveness": 75.0
   },
   {
@@ -4062,11 +4049,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 74,
-    "delivered": 58,
+    "total": 80,
+    "delivered": 62,
     "anulado": 9,
-    "cancelado": 4,
-    "effectiveness": 78.38
+    "cancelado": 6,
+    "effectiveness": 77.5
   },
   {
     "usuario": "NET_MCASTILLOC",
@@ -4075,11 +4062,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 37,
+    "total": 38,
     "delivered": 24,
-    "anulado": 7,
+    "anulado": 9,
     "cancelado": 4,
-    "effectiveness": 64.86
+    "effectiveness": 63.16
   },
   {
     "usuario": "NET_MCELISG",
@@ -4088,11 +4075,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q2",
     "cargo": "ASESOR",
-    "total": 28,
+    "total": 29,
     "delivered": 24,
     "anulado": 4,
-    "cancelado": 0,
-    "effectiveness": 85.71
+    "cancelado": 1,
+    "effectiveness": 82.76
   },
   {
     "usuario": "NET_MCGARCIAG",
@@ -4114,11 +4101,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "OJT",
     "cargo": "ASESOR",
-    "total": 11,
-    "delivered": 10,
+    "total": 12,
+    "delivered": 11,
     "anulado": 0,
     "cancelado": 0,
-    "effectiveness": 90.91
+    "effectiveness": 91.67
   },
   {
     "usuario": "NET_MCORDOVACRU",
@@ -4129,7 +4116,7 @@
     "cargo": "ASESOR",
     "total": 45,
     "delivered": 29,
-    "anulado": 12,
+    "anulado": 14,
     "cancelado": 2,
     "effectiveness": 64.44
   },
@@ -4140,11 +4127,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 17,
-    "delivered": 11,
+    "total": 20,
+    "delivered": 13,
     "anulado": 1,
     "cancelado": 1,
-    "effectiveness": 64.71
+    "effectiveness": 65.0
   },
   {
     "usuario": "NET_MCSANCHEZ",
@@ -4166,11 +4153,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 43,
-    "delivered": 40,
+    "total": 47,
+    "delivered": 41,
     "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 93.02
+    "effectiveness": 87.23
   },
   {
     "usuario": "NET_MDIAZJ",
@@ -4192,11 +4179,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 80,
+    "total": 86,
     "delivered": 62,
     "anulado": 5,
-    "cancelado": 9,
-    "effectiveness": 77.5
+    "cancelado": 10,
+    "effectiveness": 72.09
   },
   {
     "usuario": "NET_MDONAYRE",
@@ -4206,10 +4193,10 @@
     "cuartil": "Q2",
     "cargo": "ASESOR",
     "total": 84,
-    "delivered": 65,
+    "delivered": 66,
     "anulado": 13,
     "cancelado": 5,
-    "effectiveness": 77.38
+    "effectiveness": 78.57
   },
   {
     "usuario": "NET_MFERRER",
@@ -4218,11 +4205,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 132,
-    "delivered": 73,
-    "anulado": 27,
-    "cancelado": 10,
-    "effectiveness": 55.3
+    "total": 141,
+    "delivered": 74,
+    "anulado": 30,
+    "cancelado": 11,
+    "effectiveness": 52.48
   },
   {
     "usuario": "NET_MFLORESD",
@@ -4231,11 +4218,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 20,
+    "total": 21,
     "delivered": 13,
     "anulado": 7,
     "cancelado": 0,
-    "effectiveness": 65.0
+    "effectiveness": 61.9
   },
   {
     "usuario": "NET_MFLORESG",
@@ -4245,10 +4232,10 @@
     "cuartil": "N/A",
     "cargo": "N/A",
     "total": 8,
-    "delivered": 2,
+    "delivered": 4,
     "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 25.0
+    "effectiveness": 50.0
   },
   {
     "usuario": "NET_MGARMAR",
@@ -4270,11 +4257,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q2",
     "cargo": "ASESOR",
-    "total": 59,
-    "delivered": 53,
+    "total": 61,
+    "delivered": 55,
     "anulado": 2,
     "cancelado": 3,
-    "effectiveness": 89.83
+    "effectiveness": 90.16
   },
   {
     "usuario": "NET_MGONZALESR",
@@ -4296,11 +4283,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 36,
-    "delivered": 26,
+    "total": 37,
+    "delivered": 28,
     "anulado": 1,
     "cancelado": 8,
-    "effectiveness": 72.22
+    "effectiveness": 75.68
   },
   {
     "usuario": "NET_MGUZMANP",
@@ -4322,11 +4309,11 @@
     "coordinador": "JONATHAN CONTRERAS",
     "cuartil": "N/C",
     "cargo": "BACKOFFICE",
-    "total": 13,
+    "total": 14,
     "delivered": 9,
     "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 69.23
+    "effectiveness": 64.29
   },
   {
     "usuario": "NET_MHUARCAYAA",
@@ -4348,11 +4335,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 39,
-    "delivered": 24,
+    "total": 40,
+    "delivered": 28,
     "anulado": 6,
     "cancelado": 4,
-    "effectiveness": 61.54
+    "effectiveness": 70.0
   },
   {
     "usuario": "NET_MLFERNANDEV",
@@ -4374,11 +4361,11 @@
     "coordinador": "JONATHAN CONTRERAS",
     "cuartil": "N/C",
     "cargo": "BACKOFFICE",
-    "total": 11,
-    "delivered": 5,
+    "total": 15,
+    "delivered": 6,
     "anulado": 4,
     "cancelado": 1,
-    "effectiveness": 45.45
+    "effectiveness": 40.0
   },
   {
     "usuario": "NET_MMACHACAM",
@@ -4387,11 +4374,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 47,
+    "total": 50,
     "delivered": 29,
     "anulado": 6,
-    "cancelado": 10,
-    "effectiveness": 61.7
+    "cancelado": 12,
+    "effectiveness": 58.0
   },
   {
     "usuario": "NET_MMATORELAS",
@@ -4402,7 +4389,7 @@
     "cargo": "ASESOR",
     "total": 26,
     "delivered": 20,
-    "anulado": 3,
+    "anulado": 4,
     "cancelado": 2,
     "effectiveness": 76.92
   },
@@ -4413,11 +4400,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 30,
+    "total": 31,
     "delivered": 13,
-    "anulado": 11,
+    "anulado": 12,
     "cancelado": 2,
-    "effectiveness": 43.33
+    "effectiveness": 41.94
   },
   {
     "usuario": "NET_MMIRANDAM",
@@ -4426,11 +4413,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 21,
+    "total": 22,
     "delivered": 15,
     "anulado": 6,
     "cancelado": 0,
-    "effectiveness": 71.43
+    "effectiveness": 68.18
   },
   {
     "usuario": "NET_MMONTESP",
@@ -4439,11 +4426,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 7,
+    "total": 8,
     "delivered": 1,
-    "anulado": 4,
+    "anulado": 6,
     "cancelado": 0,
-    "effectiveness": 14.29
+    "effectiveness": 12.5
   },
   {
     "usuario": "NET_MMORANM",
@@ -4465,11 +4452,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 99,
-    "delivered": 67,
+    "total": 103,
+    "delivered": 68,
     "anulado": 19,
-    "cancelado": 9,
-    "effectiveness": 67.68
+    "cancelado": 13,
+    "effectiveness": 66.02
   },
   {
     "usuario": "NET_MOQUISPITON",
@@ -4478,11 +4465,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 68,
-    "delivered": 48,
-    "anulado": 11,
+    "total": 71,
+    "delivered": 55,
+    "anulado": 12,
     "cancelado": 2,
-    "effectiveness": 70.59
+    "effectiveness": 77.46
   },
   {
     "usuario": "NET_MORIHUELAQ",
@@ -4491,11 +4478,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 165,
-    "delivered": 151,
+    "total": 176,
+    "delivered": 158,
     "anulado": 9,
     "cancelado": 1,
-    "effectiveness": 91.52
+    "effectiveness": 89.77
   },
   {
     "usuario": "NET_MPANTAA",
@@ -4517,11 +4504,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "OJT",
     "cargo": "ASESOR",
-    "total": 92,
-    "delivered": 55,
-    "anulado": 15,
+    "total": 96,
+    "delivered": 58,
+    "anulado": 17,
     "cancelado": 7,
-    "effectiveness": 59.78
+    "effectiveness": 60.42
   },
   {
     "usuario": "NET_MPHERNANDEH",
@@ -4543,11 +4530,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 31,
-    "delivered": 22,
+    "total": 35,
+    "delivered": 23,
     "anulado": 3,
     "cancelado": 6,
-    "effectiveness": 70.97
+    "effectiveness": 65.71
   },
   {
     "usuario": "NET_MRAMOSL",
@@ -4585,7 +4572,7 @@
     "total": 25,
     "delivered": 9,
     "anulado": 8,
-    "cancelado": 7,
+    "cancelado": 8,
     "effectiveness": 36.0
   },
   {
@@ -4595,11 +4582,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 30,
-    "delivered": 17,
-    "anulado": 4,
+    "total": 36,
+    "delivered": 25,
+    "anulado": 6,
     "cancelado": 3,
-    "effectiveness": 56.67
+    "effectiveness": 69.44
   },
   {
     "usuario": "NET_MROLDANM",
@@ -4608,11 +4595,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR",
-    "total": 29,
-    "delivered": 23,
+    "total": 30,
+    "delivered": 24,
     "anulado": 2,
     "cancelado": 1,
-    "effectiveness": 79.31
+    "effectiveness": 80.0
   },
   {
     "usuario": "NET_MRUIZSANCHC",
@@ -4622,10 +4609,10 @@
     "cuartil": "Q4",
     "cargo": "ASESOR",
     "total": 35,
-    "delivered": 28,
+    "delivered": 29,
     "anulado": 4,
     "cancelado": 2,
-    "effectiveness": 80.0
+    "effectiveness": 82.86
   },
   {
     "usuario": "NET_MSILVAP",
@@ -4635,10 +4622,10 @@
     "cuartil": "Q4",
     "cargo": "ASESOR",
     "total": 22,
-    "delivered": 12,
+    "delivered": 13,
     "anulado": 8,
     "cancelado": 1,
-    "effectiveness": 54.55
+    "effectiveness": 59.09
   },
   {
     "usuario": "NET_MSOLORZANO",
@@ -4660,11 +4647,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 26,
-    "delivered": 13,
-    "anulado": 3,
+    "total": 29,
+    "delivered": 17,
+    "anulado": 5,
     "cancelado": 5,
-    "effectiveness": 50.0
+    "effectiveness": 58.62
   },
   {
     "usuario": "NET_MVALIENTES",
@@ -4673,11 +4660,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 27,
+    "total": 28,
     "delivered": 17,
-    "anulado": 5,
+    "anulado": 6,
     "cancelado": 3,
-    "effectiveness": 62.96
+    "effectiveness": 60.71
   },
   {
     "usuario": "NET_MVASQUEZV",
@@ -4686,11 +4673,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 24,
-    "delivered": 17,
-    "anulado": 3,
+    "total": 25,
+    "delivered": 19,
+    "anulado": 4,
     "cancelado": 1,
-    "effectiveness": 70.83
+    "effectiveness": 76.0
   },
   {
     "usuario": "NET_MZEVALLOSMA",
@@ -4715,7 +4702,7 @@
     "total": 23,
     "delivered": 21,
     "anulado": 1,
-    "cancelado": 0,
+    "cancelado": 1,
     "effectiveness": 91.3
   },
   {
@@ -4725,11 +4712,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 42,
-    "delivered": 36,
-    "anulado": 5,
+    "total": 46,
+    "delivered": 37,
+    "anulado": 4,
     "cancelado": 1,
-    "effectiveness": 85.71
+    "effectiveness": 80.43
   },
   {
     "usuario": "NET_NCASTILLOF",
@@ -4738,11 +4725,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 24,
-    "delivered": 17,
+    "total": 25,
+    "delivered": 19,
     "anulado": 3,
-    "cancelado": 1,
-    "effectiveness": 70.83
+    "cancelado": 2,
+    "effectiveness": 76.0
   },
   {
     "usuario": "NET_NPEREZA",
@@ -4751,8 +4738,8 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 1,
-    "delivered": 1,
+    "total": 2,
+    "delivered": 2,
     "anulado": 0,
     "cancelado": 0,
     "effectiveness": 100.0
@@ -4779,7 +4766,7 @@
     "cargo": "ASESOR",
     "total": 35,
     "delivered": 28,
-    "anulado": 2,
+    "anulado": 3,
     "cancelado": 2,
     "effectiveness": 80.0
   },
@@ -4816,11 +4803,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 25,
+    "total": 26,
     "delivered": 18,
     "anulado": 3,
     "cancelado": 4,
-    "effectiveness": 72.0
+    "effectiveness": 69.23
   },
   {
     "usuario": "NET_PBCGOMEZ",
@@ -4829,11 +4816,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 74,
-    "delivered": 46,
+    "total": 78,
+    "delivered": 50,
     "anulado": 13,
     "cancelado": 12,
-    "effectiveness": 62.16
+    "effectiveness": 64.1
   },
   {
     "usuario": "NET_PCHAVESTAY",
@@ -4842,11 +4829,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 71,
-    "delivered": 54,
-    "anulado": 7,
-    "cancelado": 5,
-    "effectiveness": 76.06
+    "total": 76,
+    "delivered": 59,
+    "anulado": 9,
+    "cancelado": 3,
+    "effectiveness": 77.63
   },
   {
     "usuario": "NET_PHUAMANM",
@@ -4855,11 +4842,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 64,
-    "delivered": 55,
+    "total": 69,
+    "delivered": 59,
     "anulado": 6,
     "cancelado": 3,
-    "effectiveness": 85.94
+    "effectiveness": 85.51
   },
   {
     "usuario": "NET_PQUIROZS",
@@ -4868,7 +4855,7 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 6,
+    "total": 7,
     "delivered": 0,
     "anulado": 6,
     "cancelado": 0,
@@ -4881,8 +4868,8 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 6,
-    "delivered": 6,
+    "total": 7,
+    "delivered": 7,
     "anulado": 0,
     "cancelado": 0,
     "effectiveness": 100.0
@@ -4894,11 +4881,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 20,
-    "delivered": 9,
-    "anulado": 5,
+    "total": 21,
+    "delivered": 10,
+    "anulado": 8,
     "cancelado": 0,
-    "effectiveness": 45.0
+    "effectiveness": 47.62
   },
   {
     "usuario": "NET_PSANCHEZE",
@@ -4907,11 +4894,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR",
-    "total": 48,
+    "total": 51,
     "delivered": 44,
     "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 91.67
+    "effectiveness": 86.27
   },
   {
     "usuario": "NET_PTORRESR",
@@ -4933,11 +4920,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR",
-    "total": 46,
-    "delivered": 32,
-    "anulado": 11,
-    "cancelado": 1,
-    "effectiveness": 69.57
+    "total": 50,
+    "delivered": 35,
+    "anulado": 12,
+    "cancelado": 2,
+    "effectiveness": 70.0
   },
   {
     "usuario": "NET_RABURTOQ",
@@ -4959,11 +4946,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 29,
+    "total": 30,
     "delivered": 25,
-    "anulado": 3,
+    "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 86.21
+    "effectiveness": 83.33
   },
   {
     "usuario": "NET_RCANDIOTTIA",
@@ -4972,11 +4959,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 76,
-    "delivered": 68,
+    "total": 77,
+    "delivered": 70,
     "anulado": 3,
     "cancelado": 3,
-    "effectiveness": 89.47
+    "effectiveness": 90.91
   },
   {
     "usuario": "NET_RCARDENASH",
@@ -4985,11 +4972,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 44,
+    "total": 48,
     "delivered": 33,
     "anulado": 5,
     "cancelado": 5,
-    "effectiveness": 75.0
+    "effectiveness": 68.75
   },
   {
     "usuario": "NET_RCASTANEDAR",
@@ -4998,11 +4985,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 81,
-    "delivered": 51,
-    "anulado": 21,
+    "total": 88,
+    "delivered": 57,
+    "anulado": 22,
     "cancelado": 3,
-    "effectiveness": 62.96
+    "effectiveness": 64.77
   },
   {
     "usuario": "NET_RCEVERINOL",
@@ -5011,11 +4998,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 102,
-    "delivered": 88,
-    "anulado": 7,
-    "cancelado": 2,
-    "effectiveness": 86.27
+    "total": 108,
+    "delivered": 92,
+    "anulado": 9,
+    "cancelado": 3,
+    "effectiveness": 85.19
   },
   {
     "usuario": "NET_RCORDOVAC",
@@ -5024,11 +5011,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 26,
-    "delivered": 18,
-    "anulado": 4,
+    "total": 27,
+    "delivered": 20,
+    "anulado": 5,
     "cancelado": 1,
-    "effectiveness": 69.23
+    "effectiveness": 74.07
   },
   {
     "usuario": "NET_RDULANTORO",
@@ -5037,11 +5024,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 75,
-    "delivered": 58,
+    "total": 78,
+    "delivered": 61,
     "anulado": 9,
     "cancelado": 2,
-    "effectiveness": 77.33
+    "effectiveness": 78.21
   },
   {
     "usuario": "NET_RFIGUEROAR",
@@ -5063,11 +5050,24 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q2",
     "cargo": "ASESOR",
-    "total": 52,
-    "delivered": 37,
+    "total": 53,
+    "delivered": 42,
     "anulado": 9,
     "cancelado": 1,
-    "effectiveness": 71.15
+    "effectiveness": 79.25
+  },
+  {
+    "usuario": "NET_RMACALUPUT",
+    "nombre": "NET_RMACALUPUT",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 3,
+    "delivered": 0,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 0.0
   },
   {
     "usuario": "NET_RMPEREZC",
@@ -5089,11 +5089,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 36,
-    "delivered": 30,
+    "total": 39,
+    "delivered": 31,
     "anulado": 3,
     "cancelado": 0,
-    "effectiveness": 83.33
+    "effectiveness": 79.49
   },
   {
     "usuario": "NET_RNUNEZH",
@@ -5102,11 +5102,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 38,
-    "delivered": 27,
+    "total": 40,
+    "delivered": 28,
     "anulado": 8,
     "cancelado": 2,
-    "effectiveness": 71.05
+    "effectiveness": 70.0
   },
   {
     "usuario": "NET_RPINZONN",
@@ -5118,7 +5118,7 @@
     "total": 14,
     "delivered": 8,
     "anulado": 2,
-    "cancelado": 1,
+    "cancelado": 2,
     "effectiveness": 57.14
   },
   {
@@ -5128,11 +5128,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 43,
+    "total": 45,
     "delivered": 33,
-    "anulado": 7,
+    "anulado": 8,
     "cancelado": 2,
-    "effectiveness": 76.74
+    "effectiveness": 73.33
   },
   {
     "usuario": "NET_RURBINAG",
@@ -5141,11 +5141,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q2",
     "cargo": "ASESOR",
-    "total": 59,
-    "delivered": 48,
+    "total": 61,
+    "delivered": 51,
     "anulado": 6,
     "cancelado": 2,
-    "effectiveness": 81.36
+    "effectiveness": 83.61
   },
   {
     "usuario": "NET_SAVILAC",
@@ -5154,11 +5154,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 24,
-    "delivered": 22,
+    "total": 27,
+    "delivered": 24,
     "anulado": 1,
-    "cancelado": 1,
-    "effectiveness": 91.67
+    "cancelado": 2,
+    "effectiveness": 88.89
   },
   {
     "usuario": "NET_SBACAD",
@@ -5168,10 +5168,10 @@
     "cuartil": "Q1",
     "cargo": "ASESOR",
     "total": 39,
-    "delivered": 25,
+    "delivered": 26,
     "anulado": 6,
     "cancelado": 6,
-    "effectiveness": 64.1
+    "effectiveness": 66.67
   },
   {
     "usuario": "NET_SBENITESL",
@@ -5181,10 +5181,10 @@
     "cuartil": "Q1",
     "cargo": "ASESOR",
     "total": 59,
-    "delivered": 43,
+    "delivered": 44,
     "anulado": 15,
     "cancelado": 0,
-    "effectiveness": 72.88
+    "effectiveness": 74.58
   },
   {
     "usuario": "NET_SBENITOV",
@@ -5206,11 +5206,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q2",
     "cargo": "ASESOR",
-    "total": 20,
-    "delivered": 13,
+    "total": 21,
+    "delivered": 15,
     "anulado": 4,
     "cancelado": 2,
-    "effectiveness": 65.0
+    "effectiveness": 71.43
   },
   {
     "usuario": "NET_SCAVEROC",
@@ -5219,11 +5219,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR",
-    "total": 39,
-    "delivered": 31,
+    "total": 40,
+    "delivered": 35,
     "anulado": 5,
     "cancelado": 0,
-    "effectiveness": 79.49
+    "effectiveness": 87.5
   },
   {
     "usuario": "NET_SCHUMIOQUEP",
@@ -5232,11 +5232,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 73,
+    "total": 80,
     "delivered": 64,
-    "anulado": 8,
+    "anulado": 10,
     "cancelado": 0,
-    "effectiveness": 87.67
+    "effectiveness": 80.0
   },
   {
     "usuario": "NET_SCOVENASC",
@@ -5246,10 +5246,10 @@
     "cuartil": "Q4",
     "cargo": "ASESOR",
     "total": 35,
-    "delivered": 18,
-    "anulado": 4,
+    "delivered": 24,
+    "anulado": 5,
     "cancelado": 5,
-    "effectiveness": 51.43
+    "effectiveness": 68.57
   },
   {
     "usuario": "NET_SDEDIOSO",
@@ -5271,11 +5271,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 94,
-    "delivered": 68,
+    "total": 97,
+    "delivered": 72,
     "anulado": 20,
     "cancelado": 3,
-    "effectiveness": 72.34
+    "effectiveness": 74.23
   },
   {
     "usuario": "NET_SFARIASR",
@@ -5297,11 +5297,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 38,
-    "delivered": 27,
+    "total": 39,
+    "delivered": 28,
     "anulado": 8,
     "cancelado": 3,
-    "effectiveness": 71.05
+    "effectiveness": 71.79
   },
   {
     "usuario": "NET_SGONZALESP",
@@ -5310,11 +5310,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 29,
-    "delivered": 25,
+    "total": 30,
+    "delivered": 27,
     "anulado": 2,
     "cancelado": 1,
-    "effectiveness": 86.21
+    "effectiveness": 90.0
   },
   {
     "usuario": "NET_SINGAC",
@@ -5323,11 +5323,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 68,
-    "delivered": 53,
-    "anulado": 8,
+    "total": 73,
+    "delivered": 54,
+    "anulado": 9,
     "cancelado": 4,
-    "effectiveness": 77.94
+    "effectiveness": 73.97
   },
   {
     "usuario": "NET_SLAZOB",
@@ -5336,11 +5336,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 182,
-    "delivered": 137,
-    "anulado": 24,
-    "cancelado": 11,
-    "effectiveness": 75.27
+    "total": 203,
+    "delivered": 152,
+    "anulado": 25,
+    "cancelado": 14,
+    "effectiveness": 74.88
   },
   {
     "usuario": "NET_SLAZOBE",
@@ -5349,7 +5349,7 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 4,
+    "total": 2,
     "delivered": 0,
     "anulado": 0,
     "cancelado": 0,
@@ -5362,11 +5362,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 83,
-    "delivered": 72,
+    "total": 86,
+    "delivered": 75,
     "anulado": 8,
     "cancelado": 0,
-    "effectiveness": 86.75
+    "effectiveness": 87.21
   },
   {
     "usuario": "NET_SLOPEZF",
@@ -5375,11 +5375,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 10,
-    "delivered": 2,
+    "total": 11,
+    "delivered": 5,
     "anulado": 5,
     "cancelado": 0,
-    "effectiveness": 20.0
+    "effectiveness": 45.45
   },
   {
     "usuario": "NET_SMENDOZAV",
@@ -5388,11 +5388,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q2",
     "cargo": "ASESOR",
-    "total": 46,
-    "delivered": 29,
+    "total": 50,
+    "delivered": 36,
     "anulado": 10,
     "cancelado": 2,
-    "effectiveness": 63.04
+    "effectiveness": 72.0
   },
   {
     "usuario": "NET_SNIMAG",
@@ -5401,11 +5401,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 22,
-    "delivered": 16,
+    "total": 23,
+    "delivered": 18,
     "anulado": 3,
     "cancelado": 2,
-    "effectiveness": 72.73
+    "effectiveness": 78.26
   },
   {
     "usuario": "NET_SPALACIOSA",
@@ -5428,10 +5428,10 @@
     "cuartil": "OJT",
     "cargo": "ASESOR",
     "total": 25,
-    "delivered": 18,
+    "delivered": 20,
     "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 72.0
+    "effectiveness": 80.0
   },
   {
     "usuario": "NET_SPEREZM",
@@ -5453,11 +5453,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 87,
-    "delivered": 74,
+    "total": 92,
+    "delivered": 78,
     "anulado": 7,
     "cancelado": 6,
-    "effectiveness": 85.06
+    "effectiveness": 84.78
   },
   {
     "usuario": "NET_SRAMOSC",
@@ -5466,11 +5466,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 85,
-    "delivered": 59,
+    "total": 89,
+    "delivered": 62,
     "anulado": 8,
-    "cancelado": 9,
-    "effectiveness": 69.41
+    "cancelado": 10,
+    "effectiveness": 69.66
   },
   {
     "usuario": "NET_SRUIZS",
@@ -5479,11 +5479,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 20,
+    "total": 21,
     "delivered": 17,
     "anulado": 0,
-    "cancelado": 2,
-    "effectiveness": 85.0
+    "cancelado": 3,
+    "effectiveness": 80.95
   },
   {
     "usuario": "NET_SSALAZARV",
@@ -5492,11 +5492,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 104,
-    "delivered": 77,
-    "anulado": 9,
+    "total": 111,
+    "delivered": 88,
+    "anulado": 15,
     "cancelado": 2,
-    "effectiveness": 74.04
+    "effectiveness": 79.28
   },
   {
     "usuario": "NET_SSUAREZG",
@@ -5505,11 +5505,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 60,
-    "delivered": 36,
+    "total": 63,
+    "delivered": 38,
     "anulado": 21,
     "cancelado": 0,
-    "effectiveness": 60.0
+    "effectiveness": 60.32
   },
   {
     "usuario": "NET_STANANTAM",
@@ -5518,11 +5518,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 48,
+    "total": 49,
     "delivered": 40,
-    "anulado": 5,
+    "anulado": 6,
     "cancelado": 0,
-    "effectiveness": 83.33
+    "effectiveness": 81.63
   },
   {
     "usuario": "NET_STAVARALIVI",
@@ -5531,11 +5531,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 34,
-    "delivered": 30,
+    "total": 36,
+    "delivered": 31,
     "anulado": 0,
     "cancelado": 3,
-    "effectiveness": 88.24
+    "effectiveness": 86.11
   },
   {
     "usuario": "NET_STITOP",
@@ -5544,11 +5544,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 6,
+    "total": 10,
     "delivered": 4,
     "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 66.67
+    "effectiveness": 40.0
   },
   {
     "usuario": "NET_SVELASQUEZL",
@@ -5557,11 +5557,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 21,
+    "total": 22,
     "delivered": 16,
-    "anulado": 2,
+    "anulado": 3,
     "cancelado": 3,
-    "effectiveness": 76.19
+    "effectiveness": 72.73
   },
   {
     "usuario": "NET_SVILLENAS",
@@ -5571,10 +5571,10 @@
     "cuartil": "N/A",
     "cargo": "N/A",
     "total": 7,
-    "delivered": 2,
+    "delivered": 3,
     "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 28.57
+    "effectiveness": 42.86
   },
   {
     "usuario": "NET_SZAVALAB",
@@ -5583,11 +5583,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "OJT",
     "cargo": "ASESOR",
-    "total": 16,
-    "delivered": 9,
+    "total": 17,
+    "delivered": 10,
     "anulado": 3,
     "cancelado": 1,
-    "effectiveness": 56.25
+    "effectiveness": 58.82
   },
   {
     "usuario": "NET_TANCHANTEG",
@@ -5597,10 +5597,10 @@
     "cuartil": "Q4",
     "cargo": "ASESOR",
     "total": 39,
-    "delivered": 34,
+    "delivered": 35,
     "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 87.18
+    "effectiveness": 89.74
   },
   {
     "usuario": "NET_TBECERRAC",
@@ -5609,11 +5609,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 56,
-    "delivered": 43,
-    "anulado": 7,
+    "total": 58,
+    "delivered": 45,
+    "anulado": 8,
     "cancelado": 2,
-    "effectiveness": 76.79
+    "effectiveness": 77.59
   },
   {
     "usuario": "NET_TCRISANTOV",
@@ -5624,7 +5624,7 @@
     "cargo": "ASESOR",
     "total": 19,
     "delivered": 12,
-    "anulado": 4,
+    "anulado": 5,
     "cancelado": 1,
     "effectiveness": 63.16
   },
@@ -5635,11 +5635,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 45,
-    "delivered": 34,
+    "total": 52,
+    "delivered": 36,
     "anulado": 9,
     "cancelado": 1,
-    "effectiveness": 75.56
+    "effectiveness": 69.23
   },
   {
     "usuario": "NET_TGTORRESM",
@@ -5648,11 +5648,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "OJT",
     "cargo": "ASESOR",
-    "total": 21,
-    "delivered": 8,
+    "total": 22,
+    "delivered": 10,
     "anulado": 10,
     "cancelado": 1,
-    "effectiveness": 38.1
+    "effectiveness": 45.45
   },
   {
     "usuario": "NET_THUAMANIP",
@@ -5661,11 +5661,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 40,
-    "delivered": 27,
+    "total": 41,
+    "delivered": 28,
     "anulado": 7,
-    "cancelado": 3,
-    "effectiveness": 67.5
+    "cancelado": 4,
+    "effectiveness": 68.29
   },
   {
     "usuario": "NET_TMUNOZCALDE",
@@ -5675,10 +5675,10 @@
     "cuartil": "Q2",
     "cargo": "ASESOR",
     "total": 50,
-    "delivered": 37,
-    "anulado": 6,
-    "cancelado": 3,
-    "effectiveness": 74.0
+    "delivered": 40,
+    "anulado": 7,
+    "cancelado": 2,
+    "effectiveness": 80.0
   },
   {
     "usuario": "NET_TREATEGUIV",
@@ -5687,11 +5687,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 21,
+    "total": 22,
     "delivered": 11,
-    "anulado": 7,
-    "cancelado": 3,
-    "effectiveness": 52.38
+    "anulado": 8,
+    "cancelado": 2,
+    "effectiveness": 50.0
   },
   {
     "usuario": "NET_TVASQUEZANG",
@@ -5700,11 +5700,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR",
-    "total": 57,
+    "total": 60,
     "delivered": 46,
-    "anulado": 4,
-    "cancelado": 6,
-    "effectiveness": 80.7
+    "anulado": 5,
+    "cancelado": 7,
+    "effectiveness": 76.67
   },
   {
     "usuario": "NET_VALEMANR",
@@ -5726,11 +5726,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 54,
-    "delivered": 42,
-    "anulado": 9,
+    "total": 55,
+    "delivered": 44,
+    "anulado": 8,
     "cancelado": 1,
-    "effectiveness": 77.78
+    "effectiveness": 80.0
   },
   {
     "usuario": "NET_VAYALAS",
@@ -5752,11 +5752,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 40,
+    "total": 43,
     "delivered": 34,
     "anulado": 5,
     "cancelado": 1,
-    "effectiveness": 85.0
+    "effectiveness": 79.07
   },
   {
     "usuario": "NET_VCHIRIA",
@@ -5778,11 +5778,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 90,
-    "delivered": 72,
-    "anulado": 6,
+    "total": 96,
+    "delivered": 77,
+    "anulado": 7,
     "cancelado": 7,
-    "effectiveness": 80.0
+    "effectiveness": 80.21
   },
   {
     "usuario": "NET_VMEJIAC",
@@ -5792,10 +5792,10 @@
     "cuartil": "Q4",
     "cargo": "ASESOR",
     "total": 51,
-    "delivered": 48,
+    "delivered": 49,
     "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 94.12
+    "effectiveness": 96.08
   },
   {
     "usuario": "NET_VOBESOS",
@@ -5804,11 +5804,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR",
-    "total": 21,
-    "delivered": 13,
+    "total": 23,
+    "delivered": 16,
     "anulado": 5,
     "cancelado": 1,
-    "effectiveness": 61.9
+    "effectiveness": 69.57
   },
   {
     "usuario": "NET_VRUIZG",
@@ -5820,7 +5820,7 @@
     "total": 7,
     "delivered": 6,
     "anulado": 0,
-    "cancelado": 0,
+    "cancelado": 1,
     "effectiveness": 85.71
   },
   {
@@ -5843,11 +5843,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 52,
+    "total": 55,
     "delivered": 46,
     "anulado": 3,
     "cancelado": 1,
-    "effectiveness": 88.46
+    "effectiveness": 83.64
   },
   {
     "usuario": "NET_VTURKOWSKYG",
@@ -5869,11 +5869,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR",
-    "total": 51,
-    "delivered": 41,
+    "total": 54,
+    "delivered": 43,
     "anulado": 7,
     "cancelado": 1,
-    "effectiveness": 80.39
+    "effectiveness": 79.63
   },
   {
     "usuario": "NET_WBENITESA",
@@ -5882,11 +5882,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 57,
-    "delivered": 51,
-    "anulado": 5,
+    "total": 58,
+    "delivered": 52,
+    "anulado": 6,
     "cancelado": 0,
-    "effectiveness": 89.47
+    "effectiveness": 89.66
   },
   {
     "usuario": "NET_WMAYLLEM",
@@ -5910,7 +5910,7 @@
     "cargo": "N/A",
     "total": 3,
     "delivered": 1,
-    "anulado": 0,
+    "anulado": 2,
     "cancelado": 0,
     "effectiveness": 33.33
   },
@@ -5922,10 +5922,10 @@
     "cuartil": "Q1",
     "cargo": "ASESOR",
     "total": 21,
-    "delivered": 16,
+    "delivered": 18,
     "anulado": 2,
     "cancelado": 1,
-    "effectiveness": 76.19
+    "effectiveness": 85.71
   },
   {
     "usuario": "NET_YCASTILLOO",
@@ -5947,11 +5947,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 49,
-    "delivered": 41,
+    "total": 50,
+    "delivered": 43,
     "anulado": 6,
     "cancelado": 0,
-    "effectiveness": 83.67
+    "effectiveness": 86.0
   },
   {
     "usuario": "NET_YENCARNACIH",
@@ -5960,11 +5960,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 26,
-    "delivered": 21,
-    "anulado": 3,
+    "total": 27,
+    "delivered": 22,
+    "anulado": 4,
     "cancelado": 1,
-    "effectiveness": 80.77
+    "effectiveness": 81.48
   },
   {
     "usuario": "NET_YFLORESR",
@@ -5986,11 +5986,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 19,
-    "delivered": 15,
+    "total": 20,
+    "delivered": 16,
     "anulado": 4,
     "cancelado": 0,
-    "effectiveness": 78.95
+    "effectiveness": 80.0
   },
   {
     "usuario": "NET_YHUAMAN",
@@ -5999,11 +5999,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 88,
-    "delivered": 79,
-    "anulado": 3,
+    "total": 90,
+    "delivered": 81,
+    "anulado": 4,
     "cancelado": 2,
-    "effectiveness": 89.77
+    "effectiveness": 90.0
   },
   {
     "usuario": "NET_YMILLA",
@@ -6012,11 +6012,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 141,
-    "delivered": 123,
+    "total": 143,
+    "delivered": 126,
     "anulado": 6,
     "cancelado": 5,
-    "effectiveness": 87.23
+    "effectiveness": 88.11
   },
   {
     "usuario": "NET_YMORONR",
@@ -6025,7 +6025,7 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 14,
+    "total": 16,
     "delivered": 0,
     "anulado": 10,
     "cancelado": 0,
@@ -6065,10 +6065,10 @@
     "cuartil": "Q3",
     "cargo": "ASESOR",
     "total": 46,
-    "delivered": 38,
+    "delivered": 40,
     "anulado": 4,
     "cancelado": 2,
-    "effectiveness": 82.61
+    "effectiveness": 86.96
   },
   {
     "usuario": "NET_YRUEDAMONDR",
@@ -6077,11 +6077,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 37,
-    "delivered": 33,
+    "total": 38,
+    "delivered": 34,
     "anulado": 2,
     "cancelado": 0,
-    "effectiveness": 89.19
+    "effectiveness": 89.47
   },
   {
     "usuario": "NET_YSANTOSP",
@@ -6090,11 +6090,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 41,
+    "total": 42,
     "delivered": 37,
     "anulado": 1,
     "cancelado": 2,
-    "effectiveness": 90.24
+    "effectiveness": 88.1
   },
   {
     "usuario": "NET_YSOTOF",
@@ -6116,11 +6116,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q2",
     "cargo": "ASESOR",
-    "total": 83,
-    "delivered": 61,
-    "anulado": 13,
-    "cancelado": 2,
-    "effectiveness": 73.49
+    "total": 84,
+    "delivered": 64,
+    "anulado": 14,
+    "cancelado": 3,
+    "effectiveness": 76.19
   },
   {
     "usuario": "NET_YVASQUEZB",
@@ -6129,11 +6129,11 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 18,
-    "delivered": 3,
-    "anulado": 9,
-    "cancelado": 0,
-    "effectiveness": 16.67
+    "total": 23,
+    "delivered": 5,
+    "anulado": 13,
+    "cancelado": 1,
+    "effectiveness": 21.74
   },
   {
     "usuario": "NET_YVEGASA",
@@ -6143,10 +6143,10 @@
     "cuartil": "Q4",
     "cargo": "ASESOR",
     "total": 37,
-    "delivered": 26,
+    "delivered": 27,
     "anulado": 4,
     "cancelado": 3,
-    "effectiveness": 70.27
+    "effectiveness": 72.97
   },
   {
     "usuario": "NET_ZRAMIREZG",
@@ -6181,10 +6181,10 @@
     "coordinador": "No registrado",
     "cuartil": "N/A",
     "cargo": "N/A",
-    "total": 3,
+    "total": 4,
     "delivered": 0,
     "anulado": 0,
-    "cancelado": 3,
+    "cancelado": 4,
     "effectiveness": 0.0
   },
   {
@@ -6220,11 +6220,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR",
-    "total": 42,
-    "delivered": 34,
+    "total": 45,
+    "delivered": 35,
     "anulado": 4,
     "cancelado": 2,
-    "effectiveness": 80.95
+    "effectiveness": 77.78
   },
   {
     "usuario": "TLV_NET_ALANDAS",
@@ -6233,11 +6233,11 @@
     "coordinador": "JONATHAN CONTRERAS",
     "cuartil": "N/C",
     "cargo": "BACKOFFICE",
-    "total": 6,
-    "delivered": 3,
+    "total": 7,
+    "delivered": 4,
     "anulado": 2,
-    "cancelado": 0,
-    "effectiveness": 50.0
+    "cancelado": 1,
+    "effectiveness": 57.14
   },
   {
     "usuario": "TLV_NET_APINTAD",
@@ -6246,11 +6246,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 67,
-    "delivered": 59,
+    "total": 69,
+    "delivered": 60,
     "anulado": 3,
     "cancelado": 5,
-    "effectiveness": 88.06
+    "effectiveness": 86.96
   },
   {
     "usuario": "TLV_NET_ARICRAD",
@@ -6259,11 +6259,11 @@
     "coordinador": "JONATHAN CONTRERAS",
     "cuartil": "N/C",
     "cargo": "BACKOFFICE",
-    "total": 5,
+    "total": 6,
     "delivered": 1,
     "anulado": 0,
     "cancelado": 4,
-    "effectiveness": 20.0
+    "effectiveness": 16.67
   },
   {
     "usuario": "TLV_NET_BCHAVEZ",
@@ -6272,11 +6272,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 167,
-    "delivered": 146,
+    "total": 178,
+    "delivered": 152,
     "anulado": 3,
-    "cancelado": 15,
-    "effectiveness": 87.43
+    "cancelado": 16,
+    "effectiveness": 85.39
   },
   {
     "usuario": "TLV_NET_BRAMIRE",
@@ -6285,11 +6285,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 52,
-    "delivered": 26,
+    "total": 54,
+    "delivered": 29,
     "anulado": 22,
     "cancelado": 0,
-    "effectiveness": 50.0
+    "effectiveness": 53.7
   },
   {
     "usuario": "TLV_NET_BREYESR",
@@ -6298,11 +6298,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 49,
-    "delivered": 34,
-    "anulado": 11,
+    "total": 52,
+    "delivered": 35,
+    "anulado": 12,
     "cancelado": 2,
-    "effectiveness": 69.39
+    "effectiveness": 67.31
   },
   {
     "usuario": "TLV_NET_CACEVED",
@@ -6311,11 +6311,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 64,
-    "delivered": 53,
+    "total": 68,
+    "delivered": 55,
     "anulado": 6,
     "cancelado": 0,
-    "effectiveness": 82.81
+    "effectiveness": 80.88
   },
   {
     "usuario": "TLV_NET_CSILVAP",
@@ -6327,7 +6327,7 @@
     "total": 83,
     "delivered": 61,
     "anulado": 12,
-    "cancelado": 8,
+    "cancelado": 10,
     "effectiveness": 73.49
   },
   {
@@ -6337,11 +6337,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 42,
+    "total": 43,
     "delivered": 28,
     "anulado": 12,
     "cancelado": 2,
-    "effectiveness": 66.67
+    "effectiveness": 65.12
   },
   {
     "usuario": "TLV_NET_CZEGARR",
@@ -6350,11 +6350,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 67,
-    "delivered": 53,
-    "anulado": 11,
+    "total": 69,
+    "delivered": 55,
+    "anulado": 13,
     "cancelado": 1,
-    "effectiveness": 79.1
+    "effectiveness": 79.71
   },
   {
     "usuario": "TLV_NET_DBARTET",
@@ -6363,11 +6363,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 73,
+    "total": 75,
     "delivered": 58,
     "anulado": 10,
     "cancelado": 4,
-    "effectiveness": 79.45
+    "effectiveness": 77.33
   },
   {
     "usuario": "TLV_NET_DCABEZU",
@@ -6376,11 +6376,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 51,
-    "delivered": 36,
-    "anulado": 10,
+    "total": 54,
+    "delivered": 37,
+    "anulado": 12,
     "cancelado": 2,
-    "effectiveness": 70.59
+    "effectiveness": 68.52
   },
   {
     "usuario": "TLV_NET_DCASTIA",
@@ -6402,11 +6402,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 53,
-    "delivered": 45,
-    "anulado": 5,
+    "total": 57,
+    "delivered": 48,
+    "anulado": 6,
     "cancelado": 0,
-    "effectiveness": 84.91
+    "effectiveness": 84.21
   },
   {
     "usuario": "TLV_NET_DSANC",
@@ -6415,11 +6415,24 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 70,
-    "delivered": 54,
-    "anulado": 13,
+    "total": 74,
+    "delivered": 57,
+    "anulado": 15,
     "cancelado": 1,
-    "effectiveness": 77.14
+    "effectiveness": 77.03
+  },
+  {
+    "usuario": "TLV_NET_DSANCHG",
+    "nombre": "TLV_NET_DSANCHG",
+    "supervisor": "No registrado",
+    "coordinador": "No registrado",
+    "cuartil": "N/A",
+    "cargo": "N/A",
+    "total": 1,
+    "delivered": 0,
+    "anulado": 0,
+    "cancelado": 0,
+    "effectiveness": 0.0
   },
   {
     "usuario": "TLV_NET_DVALOI",
@@ -6428,11 +6441,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 173,
-    "delivered": 109,
-    "anulado": 33,
-    "cancelado": 20,
-    "effectiveness": 63.01
+    "total": 189,
+    "delivered": 116,
+    "anulado": 34,
+    "cancelado": 22,
+    "effectiveness": 61.38
   },
   {
     "usuario": "TLV_NET_EBULNES",
@@ -6441,11 +6454,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 74,
-    "delivered": 60,
+    "total": 75,
+    "delivered": 62,
     "anulado": 11,
     "cancelado": 2,
-    "effectiveness": 81.08
+    "effectiveness": 82.67
   },
   {
     "usuario": "TLV_NET_ECODARL",
@@ -6467,11 +6480,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 64,
-    "delivered": 47,
+    "total": 68,
+    "delivered": 51,
     "anulado": 6,
     "cancelado": 4,
-    "effectiveness": 73.44
+    "effectiveness": 75.0
   },
   {
     "usuario": "TLV_NET_FVALQUI",
@@ -6506,11 +6519,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 60,
-    "delivered": 43,
-    "anulado": 8,
+    "total": 65,
+    "delivered": 49,
+    "anulado": 9,
     "cancelado": 3,
-    "effectiveness": 71.67
+    "effectiveness": 75.38
   },
   {
     "usuario": "TLV_NET_GJQUISP",
@@ -6519,11 +6532,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 83,
-    "delivered": 56,
-    "anulado": 14,
+    "total": 85,
+    "delivered": 61,
+    "anulado": 16,
     "cancelado": 4,
-    "effectiveness": 67.47
+    "effectiveness": 71.76
   },
   {
     "usuario": "TLV_NET_JMORO",
@@ -6533,10 +6546,10 @@
     "cuartil": "Q4",
     "cargo": "ASESOR",
     "total": 20,
-    "delivered": 18,
+    "delivered": 19,
     "anulado": 1,
     "cancelado": 0,
-    "effectiveness": 90.0
+    "effectiveness": 95.0
   },
   {
     "usuario": "TLV_NET_JPENAM",
@@ -6558,11 +6571,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 55,
-    "delivered": 42,
-    "anulado": 6,
-    "cancelado": 3,
-    "effectiveness": 76.36
+    "total": 58,
+    "delivered": 43,
+    "anulado": 7,
+    "cancelado": 2,
+    "effectiveness": 74.14
   },
   {
     "usuario": "TLV_NET_JSOTOZ",
@@ -6571,11 +6584,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 54,
-    "delivered": 41,
+    "total": 56,
+    "delivered": 42,
     "anulado": 4,
-    "cancelado": 5,
-    "effectiveness": 75.93
+    "cancelado": 6,
+    "effectiveness": 75.0
   },
   {
     "usuario": "TLV_NET_KARANDA",
@@ -6584,11 +6597,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 99,
-    "delivered": 88,
+    "total": 100,
+    "delivered": 90,
     "anulado": 6,
     "cancelado": 2,
-    "effectiveness": 88.89
+    "effectiveness": 90.0
   },
   {
     "usuario": "TLV_NET_KCHAVEZ",
@@ -6623,11 +6636,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 21,
+    "total": 23,
     "delivered": 16,
-    "anulado": 1,
+    "anulado": 2,
     "cancelado": 2,
-    "effectiveness": 76.19
+    "effectiveness": 69.57
   },
   {
     "usuario": "TLV_NET_LSANCHA",
@@ -6636,11 +6649,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q2",
     "cargo": "ASESOR",
-    "total": 44,
-    "delivered": 35,
+    "total": 45,
+    "delivered": 39,
     "anulado": 5,
     "cancelado": 0,
-    "effectiveness": 79.55
+    "effectiveness": 86.67
   },
   {
     "usuario": "TLV_NET_LVILLLA",
@@ -6649,11 +6662,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 63,
+    "total": 66,
     "delivered": 52,
     "anulado": 8,
-    "cancelado": 1,
-    "effectiveness": 82.54
+    "cancelado": 2,
+    "effectiveness": 78.79
   },
   {
     "usuario": "TLV_NET_MAYALAM",
@@ -6675,11 +6688,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 37,
-    "delivered": 29,
+    "total": 38,
+    "delivered": 30,
     "anulado": 6,
     "cancelado": 2,
-    "effectiveness": 78.38
+    "effectiveness": 78.95
   },
   {
     "usuario": "TLV_NET_MFARFAN",
@@ -6688,11 +6701,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 139,
-    "delivered": 107,
-    "anulado": 20,
+    "total": 145,
+    "delivered": 111,
+    "anulado": 21,
     "cancelado": 7,
-    "effectiveness": 76.98
+    "effectiveness": 76.55
   },
   {
     "usuario": "TLV_NET_MLANDAR",
@@ -6701,11 +6714,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 200,
-    "delivered": 160,
-    "anulado": 16,
+    "total": 212,
+    "delivered": 174,
+    "anulado": 17,
     "cancelado": 14,
-    "effectiveness": 80.0
+    "effectiveness": 82.08
   },
   {
     "usuario": "TLV_NET_MMURGAF",
@@ -6714,11 +6727,11 @@
     "coordinador": "PIERO MEDINA",
     "cuartil": "Q2",
     "cargo": "ASESOR",
-    "total": 53,
+    "total": 54,
     "delivered": 32,
     "anulado": 14,
-    "cancelado": 6,
-    "effectiveness": 60.38
+    "cancelado": 7,
+    "effectiveness": 59.26
   },
   {
     "usuario": "TLV_NET_MRONCAL",
@@ -6729,7 +6742,7 @@
     "cargo": "ASESOR",
     "total": 55,
     "delivered": 47,
-    "anulado": 2,
+    "anulado": 4,
     "cancelado": 1,
     "effectiveness": 85.45
   },
@@ -6753,11 +6766,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 49,
-    "delivered": 41,
+    "total": 50,
+    "delivered": 44,
     "anulado": 4,
     "cancelado": 2,
-    "effectiveness": 83.67
+    "effectiveness": 88.0
   },
   {
     "usuario": "TLV_NET_RBARRAZ",
@@ -6766,11 +6779,11 @@
     "coordinador": "WALTER VILLARREAL",
     "cuartil": "N/C",
     "cargo": "SUPENACIONES",
-    "total": 2,
+    "total": 3,
     "delivered": 1,
     "anulado": 0,
-    "cancelado": 1,
-    "effectiveness": 50.0
+    "cancelado": 2,
+    "effectiveness": 33.33
   },
   {
     "usuario": "TLV_NET_RSORIAH",
@@ -6779,11 +6792,11 @@
     "coordinador": "JACOBO DONAYRE",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 95,
-    "delivered": 75,
-    "anulado": 15,
+    "total": 100,
+    "delivered": 82,
+    "anulado": 16,
     "cancelado": 0,
-    "effectiveness": 78.95
+    "effectiveness": 82.0
   },
   {
     "usuario": "TLV_NET_SFERNAN",
@@ -6792,11 +6805,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 54,
-    "delivered": 43,
+    "total": 57,
+    "delivered": 48,
     "anulado": 6,
-    "cancelado": 2,
-    "effectiveness": 79.63
+    "cancelado": 3,
+    "effectiveness": 84.21
   },
   {
     "usuario": "TLV_NET_SVALDEZ",
@@ -6805,11 +6818,11 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q3",
     "cargo": "ASESOR",
-    "total": 53,
-    "delivered": 44,
+    "total": 57,
+    "delivered": 47,
     "anulado": 2,
     "cancelado": 1,
-    "effectiveness": 83.02
+    "effectiveness": 82.46
   },
   {
     "usuario": "TLV_NET_VNAPAH",
@@ -6831,11 +6844,11 @@
     "coordinador": "JOSE SOLORZANO",
     "cuartil": "Q1",
     "cargo": "ASESOR",
-    "total": 48,
-    "delivered": 39,
-    "anulado": 2,
-    "cancelado": 2,
-    "effectiveness": 81.25
+    "total": 52,
+    "delivered": 44,
+    "anulado": 3,
+    "cancelado": 1,
+    "effectiveness": 84.62
   },
   {
     "usuario": "TLV_NET_YQUITOV",
@@ -6844,10 +6857,10 @@
     "coordinador": "EVER MALCA",
     "cuartil": "Q4",
     "cargo": "ASESOR",
-    "total": 43,
-    "delivered": 30,
+    "total": 47,
+    "delivered": 37,
     "anulado": 4,
     "cancelado": 1,
-    "effectiveness": 69.77
+    "effectiveness": 78.72
   }
 ]
